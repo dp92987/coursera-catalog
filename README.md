@@ -1,8 +1,8 @@
-# Coursera Courses and Specializations Catalog
+# Coursera Catalog
 
 Full list of Coursera curses and specializations. Updated daily.
 
-# ToC
+# TOC
 
 ## Languages
 
