@@ -1,6 +1,6 @@
 # Coursera Catalog
 
-Full list of Coursera curses and specializations. Updated daily.
+Complete list of `4899` courses. Updated daily.
 
 # TOC
 
