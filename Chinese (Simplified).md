@@ -108,9 +108,9 @@
  - [系统平台与计算环境](https://www.coursera.org/learn/jisuanji-wangluo)
 #### [.Net平台下的软件开发技术 Specialization](https://www.coursera.org/specializations/netpingtai-ruanjian-kaifa)
  - [.Net平台下的软件开发技术毕业项目](https://www.coursera.org/learn/net-ruanjian-kaifa-biye)
+ - [c#高级编程](https://www.coursera.org/learn/csharp-gaoji-biancheng)
  - [SQL Server数据库技术](https://www.coursera.org/learn/sql-server-shujuku-jishu)
  - [Windows可视化程序设计](https://www.coursera.org/learn/windows-keshihua-chengxu-sheji)
- - [c#高级编程](https://www.coursera.org/learn/csharp-gaoji-biancheng)
  - [基于.Net的Web开发技术](https://www.coursera.org/learn/dot-net-kaifa-jishu)
  - [系统平台与C#程序基础](https://www.coursera.org/learn/xitong-pingtai-csharp-chengxu-jichu)
 # Data Science

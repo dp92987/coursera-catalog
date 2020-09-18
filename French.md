@@ -25,6 +25,8 @@
  - [Business Transformation with Google Cloud en Français](https://www.coursera.org/learn/business-transformation-google-cloud-fr)
  - [Google Cloud Product Fundamentals en Français](https://www.coursera.org/learn/google-cloud-product-fundamentals-fr)
 ## Entrepreneurship
+### emlyon business school
+ - [Effectuation : l'entrepreneuriat pour tous](https://www.coursera.org/learn/effectuation)
 ### ESSEC Business School
  - [L'entrepreneuriat social : de l'envie au projet](https://www.coursera.org/learn/entrepreneuriatquichangelemonde)
  - [Les partenariats qui changent le monde : alliances innovantes entre entreprises et associations](https://www.coursera.org/learn/partenariats-qui-changent-le-monde)
@@ -39,8 +41,6 @@
 ### Sciences Po
  - [Be entrepreneurial in Cultural Industries in the digital age](https://www.coursera.org/learn/entrepreneurial-culture-digital-age)
  - [Entreprendre dans les Industries Culturelles à l'ère du numérique](https://www.coursera.org/learn/entreprendre-culture)
-### emlyon business school
- - [Effectuation : l'entrepreneuriat pour tous](https://www.coursera.org/learn/effectuation)
 ### École Polytechnique, HEC Paris
  - [Créer et développer une startup technologique](https://www.coursera.org/learn/startup-technologique)
 ## Leadership and Management
@@ -125,6 +125,8 @@
  - [Étudier en France: French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france)
 # Math and Logic
 ## Math and Logic
+### École normale supérieure
+ - [Introduction à la théorie de Galois](https://www.coursera.org/learn/theorie-de-galois)
 ### École Polytechnique
  - [Aléatoire : une introduction aux probabilités - Partie 1](https://www.coursera.org/learn/probabilites-1)
  - [Aléatoire : une introduction aux probabilités - Partie 2](https://www.coursera.org/learn/probabilites-2)
@@ -132,8 +134,6 @@
 ### École Polytechnique Fédérale de Lausanne
  - [Analyse numérique pour ingénieurs](https://www.coursera.org/learn/analyse-numerique)
  - [Éléments de Géomatique](https://www.coursera.org/learn/geomatique)
-### École normale supérieure
- - [Introduction à la théorie de Galois](https://www.coursera.org/learn/theorie-de-galois)
 # Personal Development
 ## Personal Development
 ### McMaster University, University of California San Diego
@@ -150,17 +150,17 @@
 ## Environmental Science and Sustainability
 ### ESCP Business School
  - [Comprendre l'écologie, pour une économie innovante](https://www.coursera.org/learn/ecologie)
+### École des Ponts ParisTech
+ - [Electric Vehicles and Mobility](https://www.coursera.org/learn/electric-vehicles-mobility)
+ - [Mobilités et véhicules électriques](https://www.coursera.org/learn/mobilites-vehicules-electriques)
 ### École Polytechnique Fédérale de Lausanne
  - [Planification et Design de Systèmes et Technologies d’Assainissement](https://www.coursera.org/learn/sanitation-fr)
  - [Systèmes d’Information Géographique - Partie 1](https://www.coursera.org/learn/sig-1)
  - [Systèmes d’Information Géographique - Partie 2](https://www.coursera.org/learn/sig-2)
-### École des Ponts ParisTech
- - [Electric Vehicles and Mobility](https://www.coursera.org/learn/electric-vehicles-mobility)
- - [Mobilités et véhicules électriques](https://www.coursera.org/learn/mobilites-vehicules-electriques)
 ## Mechanical Engineering
 ### École Polytechnique Fédérale de Lausanne
- - [L'Art des Structures 2 : treillis, poutres, dalles et cadres](https://www.coursera.org/learn/structures2)
  - [L'art des structures 1 : Câbles et arcs](https://www.coursera.org/learn/structures)
+ - [L'Art des Structures 2 : treillis, poutres, dalles et cadres](https://www.coursera.org/learn/structures2)
  - [Mécanique Lagrangienne](https://www.coursera.org/learn/mecanique-lagrangienne)
 ## Physics and Astronomy
 ### University of Geneva
@@ -181,11 +181,11 @@
 ## Economics
 ### ESSEC Business School
  - [Les alliances qui changent les territoires : partenariats entre acteurs publics, acteurs privés et structures d'intérêt général pour le bien commun](https://www.coursera.org/learn/les-alliances-qui-changent-les-territoires)
+### École normale supérieure
+ - [Les transitions énergétique & écologique dans les pays du Sud](https://www.coursera.org/learn/transitions-energetiques-pays-du-sud)
 ### École Polytechnique Fédérale de Lausanne
  - [Economie du sol et de l'immobilier I](https://www.coursera.org/learn/economie-sol-immobilier-1)
  - [Economie du sol et de l'immobilier II](https://www.coursera.org/learn/economie-sol-immobilier-2)
-### École normale supérieure
- - [Les transitions énergétique & écologique dans les pays du Sud](https://www.coursera.org/learn/transitions-energetiques-pays-du-sud)
 ## Education
 ### University of Geneva
  - [Frontières en tous genres](https://www.coursera.org/learn/geographie-politique-culturelle-frontieres)
@@ -205,6 +205,8 @@
  - [Les Partenariats Public-Privé (PPP): Comment offrir de meilleures infrastructures pour les services publics](https://www.coursera.org/learn/partenariats-public-prive)
 ### University of Geneva
  - [Genre : quels enjeux ? Violences, globalisation, biomédecine, sexualités.](https://www.coursera.org/learn/genre)
+### École normale supérieure
+ - [Cartographie thématique](https://www.coursera.org/learn/cartographie)
 ### École Polytechnique Fédérale de Lausanne
  - [Mobilité et urbanisme](https://www.coursera.org/learn/mobiurba)
  - [Planification des mobilités](https://www.coursera.org/learn/planification-mobilites)
@@ -212,8 +214,6 @@
  - [Villes africaines I: Introduction à la planification urbaine](https://www.coursera.org/learn/villes-africaines-1)
  - [Villes africaines: Environnement et enjeux de développement durable](https://www.coursera.org/learn/environnement-urbain-afrique)
  - [Villes africaines: Mobilités et transports urbains](https://www.coursera.org/learn/mobilite-afrique)
-### École normale supérieure
- - [Cartographie thématique](https://www.coursera.org/learn/cartographie)
 ## Law
 ### University of Geneva
  - [Droit International de l'Eau Douce](https://www.coursera.org/learn/droit-international-eau-douce)

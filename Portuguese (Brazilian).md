@@ -48,19 +48,17 @@
  - [Fundamentos de Operações com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-7)
  - [Fundamentos de Planejamento Financeiro com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-5)
  - [Fundamentos de Vendas e Marketing com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-6)
-### Universidade Estadual de Campinas
- - [O Empreendedorismo e as Competências do Empreendedor](https://www.coursera.org/learn/empreendedorismo)
 ### Universidade de São Paulo
  - [Consolidando empresas: Estrutura jurídica e financeira](https://www.coursera.org/learn/consolidando-empresas)
  - [Criação de Startups: Como desenvolver negócios inovadores](https://www.coursera.org/learn/criacao-startups)
+### Universidade Estadual de Campinas
+ - [O Empreendedorismo e as Competências do Empreendedor](https://www.coursera.org/learn/empreendedorismo)
 ## Finance
 ### Insper
  - [Administração Financeira](https://www.coursera.org/learn/administracao-financeira)
 ## Leadership and Management
 ### Fundação Instituto de Administração
  - [A prática da gestão de clubes e federações esportivas](https://www.coursera.org/learn/fia-gestao-clubes-federacoes-esportivas)
-### Universidade Estadual de Campinas
- - [Conceitos Básicos de Logística e Supply Chain](https://www.coursera.org/learn/conceitos-basicos-logistica)
 ### Universidade de São Paulo
  - [Inove na gestão de equipes e negócios: O crescimento da empresa](https://www.coursera.org/learn/gestao-equipes-negocios)
 ### Universidade de São Paulo, University of California, Irvine
@@ -69,6 +67,8 @@
  - [Iniciação e Planejamento de Projetos](https://www.coursera.org/learn/projeto-aplicado)
  - [Orçamento e Cronograma de Projetos](https://www.coursera.org/learn/orcamento-cronograma-de-projetos)
  - [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
+### Universidade Estadual de Campinas
+ - [Conceitos Básicos de Logística e Supply Chain](https://www.coursera.org/learn/conceitos-basicos-logistica)
 ## Marketing
 ### Fundação Instituto de Administração
  - [Gestão de Marca & Crise de Imagem](https://www.coursera.org/learn/gestao-de-marca-crise-imagem)
@@ -81,10 +81,10 @@
 ### Fundação Lemann, Fundação Telefônica
  - [Aprenda a ensinar programação com o Programaê!](https://www.coursera.org/learn/programae)
 ## Design and Product
-### Universidade Estadual de Campinas
- - [Processamento Digital de Sinais - Amostragem](https://www.coursera.org/learn/pds)
 ### Universidade de São Paulo
  - [UX / UI: Fundamentos para o design de interface](https://www.coursera.org/learn/ux-ui-design-de-interface)
+### Universidade Estadual de Campinas
+ - [Processamento Digital de Sinais - Amostragem](https://www.coursera.org/learn/pds)
 ## Mobile and Web Development
 ### Universidade Estadual de Campinas
  - [Introdução ao Desenvolvimento de Aplicativos Android](https://www.coursera.org/learn/introducao-aplicativos-android)
@@ -183,21 +183,21 @@
 # Physical Science and Engineering
 ## Electrical Engineering
 ### Instituto Tecnológico de Aeronáutica
- - [Controle Usando a Resposta em Frequência](https://www.coursera.org/learn/resposta-frequencia)
  - [Controle a Tempo Discreto](https://www.coursera.org/learn/controle-tempo-discreto)
  - [Controle de Sistemas no Plano-s](https://www.coursera.org/learn/controle-s)
- - [Introdução ao Controle Moderno](https://www.coursera.org/learn/controle-moderno)
+ - [Controle Usando a Resposta em Frequência](https://www.coursera.org/learn/resposta-frequencia)
  - [Introdução ao Controle de Sistemas](https://www.coursera.org/learn/controle)
+ - [Introdução ao Controle Moderno](https://www.coursera.org/learn/controle-moderno)
 ## Physics and Astronomy
 ### Universidade de São Paulo
  - [Origens da Vida no Contexto Cósmico](https://www.coursera.org/learn/origensdavida)
 # Social Sciences
 ## Economics
-### Universidade Estadual de Campinas
- - [Introdução à Economia do Trabalho: Teorias e Políticas](https://www.coursera.org/learn/economia-do-trabalho)
 ### Universidade de São Paulo
  - [Econometria Básica Aplicada](https://www.coursera.org/learn/econometria-basica-aplicada)
  - [Introdução à Análise Macroeconômica](https://www.coursera.org/learn/introducao-analise-macroeconomica)
+### Universidade Estadual de Campinas
+ - [Introdução à Economia do Trabalho: Teorias e Políticas](https://www.coursera.org/learn/economia-do-trabalho)
 ### University of California, Irvine
  - [O Poder da Macroeconomia: princípios da economia no mundo real (em Português)](https://www.coursera.org/learn/macroeconomia-pt)
 ## Education

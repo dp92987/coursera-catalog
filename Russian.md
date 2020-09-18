@@ -201,13 +201,6 @@
  - [Технология аэрофотосъемки с использованием БЛА](https://www.coursera.org/learn/bla)
  - [Фотограмметрическая обработка материалов аэрофотосъемки с БПЛА](https://www.coursera.org/learn/fotogrammetricheskaya-obrabotka-bpla)
 ## Mobile and Web Development
-### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
-#### [Разработка интерфейсов: вёрстка и JavaScript Specialization](https://www.coursera.org/specializations/razrabotka-interfeysov)
- - [JavaScript, часть 1: основы и функции](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
- - [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy)
- - [Основы HTML и CSS](https://www.coursera.org/learn/snovy-html-i-css)
- - [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt)
- - [Тонкости верстки](https://www.coursera.org/learn/tonkosti-verstki)
 ### Moscow Institute of Physics and Technology, e-legion, ФРОО
 #### [Android-разработка: основы, многопоточность, архитектура Specialization](https://www.coursera.org/specializations/android-developer)
  - [Архитектура Android-приложений](https://www.coursera.org/learn/android-app-architecture)
@@ -217,6 +210,13 @@
  - [Введение в iOS-разработку](https://www.coursera.org/learn/ios-razrabotka-na-swift)
  - [Многопоточность](https://www.coursera.org/learn/ios-multithreading)
  - [Пользовательский интерфейс](https://www.coursera.org/learn/user-interface)
+### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
+#### [Разработка интерфейсов: вёрстка и JavaScript Specialization](https://www.coursera.org/specializations/razrabotka-interfeysov)
+ - [JavaScript, часть 1: основы и функции](https://www.coursera.org/learn/javascript-osnovy-i-funktsii)
+ - [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy)
+ - [Основы HTML и CSS](https://www.coursera.org/learn/snovy-html-i-css)
+ - [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt)
+ - [Тонкости верстки](https://www.coursera.org/learn/tonkosti-verstki)
 ## Software Development
 ### Moscow Institute of Physics and Technology
  - [Основы проектирования приложений интернета вещей](https://www.coursera.org/learn/proektirovaniya-prilozhenij-interneta-veshchej)
@@ -312,8 +312,8 @@
  - [Расстройства аутистического спектра](https://www.coursera.org/learn/rasstrojstva-autisticheskogo-spektra)
 ## Health Informatics
 ### Saint Petersburg State University
- - [Введение в Биоинформатику: Метагеномика (Introduction to Bioinformatics: Metagenomics)](https://www.coursera.org/learn/bioinformatics-metagenomics)
  - [Введение в биоинформатику (Introduction to Bioinformatics)](https://www.coursera.org/learn/bioinformatika)
+ - [Введение в Биоинформатику: Метагеномика (Introduction to Bioinformatics: Metagenomics)](https://www.coursera.org/learn/bioinformatics-metagenomics)
 ## Nutrition
 ### National Research Tomsk State University, Sechenov University
  - [Молекулярная диетология: гены, еда и здоровье](https://www.coursera.org/learn/molekulyarnaya-dietologiya)

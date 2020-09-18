@@ -3,11 +3,11 @@
 ### University of California, Irvine
  - [業務効率や生産性向上につながる時間管理](https://www.coursera.org/learn/work-smarter-not-harder-ja)
 ## Business Strategy
+### deeplearning.ai
+ - [すべての人のためのAI【日本語版】](https://www.coursera.org/learn/ai-for-everyone-ja)
 ### Google Cloud
  - [Business Transformation with Google Cloud 日本語版](https://www.coursera.org/learn/business-transformation-google-cloud-jp)
  - [Google Cloud Product Fundamentals 日本語版](https://www.coursera.org/learn/google-cloud-product-fundamentals-jp)
-### deeplearning.ai
- - [すべての人のためのAI【日本語版】](https://www.coursera.org/learn/ai-for-everyone-ja)
 # Computer Science
 ## Computer Security and Networks
 ### Google Cloud
@@ -17,6 +17,8 @@
  - [Introduction to G Suite 日本語版](https://www.coursera.org/learn/introduction-g-suite-jp)
  - [Managing G Suite 日本語版](https://www.coursera.org/learn/managing-g-suite-jp)
 ## Software Development
+### deeplearning.ai
+ - [AI、機械学習、ディープラーニングのための TensorFlow 入門](https://www.coursera.org/learn/introduction-tensorflow-ja)
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine 日本語版 Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-jp)
  - [Architecting with Google Kubernetes Engine: Foundations 日本語版](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-jp)
@@ -26,10 +28,10 @@
  - [Application Deployment, Debug, Performance 日本語版](https://www.coursera.org/learn/app-deployment-debugging-performance-jp)
  - [Getting Started with Application Development 日本語版](https://www.coursera.org/learn/getting-started-app-development-jp)
  - [Securing and Integrating Components of your Application 日本語版](https://www.coursera.org/learn/securing-integrating-components-app-jp)
-### deeplearning.ai
- - [AI、機械学習、ディープラーニングのための TensorFlow 入門](https://www.coursera.org/learn/introduction-tensorflow-ja)
 # Data Science
 ## Machine Learning
+### deeplearning.ai
+ - [TensorFlow を使った畳み込みニューラルネットワーク](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow-ja)
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-jp)
 #### [Machine Learning with TensorFlow  Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-jp)
@@ -38,8 +40,6 @@
  - [How Google does Machine Learning 日本語版](https://www.coursera.org/learn/google-machine-learning-jp)
  - [Intro to TensorFlow 日本語版](https://www.coursera.org/learn/intro-tensorflow-jp)
  - [Launching into Machine Learning 日本語版](https://www.coursera.org/learn/launching-machine-learning-jp)
-### deeplearning.ai
- - [TensorFlow を使った畳み込みニューラルネットワーク](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow-ja)
 # Information Technology
 ## Cloud Computing
 ### Google Cloud

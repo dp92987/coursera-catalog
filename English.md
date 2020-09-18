@@ -101,8 +101,8 @@
 ### University of London, Royal Holloway, University of London
  - [Film, Images & Historical Interpretation in the 20th Century: The Camera Never Lies](https://www.coursera.org/learn/film-images)
 ### University of New Mexico
- - [Curanderismo: Traditional Healing Using Plants](https://www.coursera.org/learn/curanderismo-plants)
  - [Curanderismo: Traditional Healing of the Body](https://www.coursera.org/learn/curanderismo-traditional-healing-body)
+ - [Curanderismo: Traditional Healing Using Plants](https://www.coursera.org/learn/curanderismo-plants)
 ### University of Pennsylvania
  - [American Education Reform: History, Policy, Practice](https://www.coursera.org/learn/edref)
  - [Introduction to Ancient Egypt and Its Civilization](https://www.coursera.org/learn/introancientegypt)
@@ -253,8 +253,6 @@
  - [The Place of Music in 21st Century Education](https://www.coursera.org/learn/music-education)
 ### The University of Tokyo
  - [Words Spun Out of Images: Visual and Literary Culture in Nineteenth Century Japan](https://www.coursera.org/learn/visual-literary-culture-in-japan)
-### UNSW Sydney (The University of New South Wales)
- - [Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences](https://www.coursera.org/learn/transmedia-storytelling)
 ### Universitat Autònoma de Barcelona
  - [Accessibility to the Scenic Arts](https://www.coursera.org/learn/accessibility-scenic-arts)
 ### Universiteit Leiden, University of the Arts The Hague
@@ -281,6 +279,8 @@
  - [The Music of the Rolling Stones, 1962-1974](https://www.coursera.org/learn/rolling-stones)
 ### University of Zurich
  - [Asian Environmental Humanities: Landscapes in Transition](https://www.coursera.org/learn/asian-environmental-humanities)
+### UNSW Sydney (The University of New South Wales)
+ - [Transmedia Storytelling: Narrative worlds, emerging technologies, and global audiences](https://www.coursera.org/learn/transmedia-storytelling)
 ### Vanderbilt University
  - [Online Games: Literature, New Media, and Narrative](https://www.coursera.org/learn/interactive-media-gaming)
  - [Understanding the Music Business: What is Music Worth?](https://www.coursera.org/learn/musicbiz)
@@ -293,9 +293,9 @@
  - [Creative Writing: The Craft of Style](https://www.coursera.org/learn/craft-of-style)
 #### [Memoir and Personal Essay: Write About Yourself Specialization](https://www.coursera.org/specializations/memoir-personal-essay)
  - [Memoir and Personal Essay: Managing Your Relationship with the Reader](https://www.coursera.org/learn/memoir-reader-relationship)
- - [Writing Stories About Ourselves](https://www.coursera.org/learn/writing-about-ourselves)
  - [Writing a Personal Essay](https://www.coursera.org/learn/personal-essay)
  - [Writing in First Person Point of View](https://www.coursera.org/learn/first-person-pov)
+ - [Writing Stories About Ourselves](https://www.coursera.org/learn/writing-about-ourselves)
 ### Yale University
  - [Introduction to Classical Music](https://www.coursera.org/learn/introclassicalmusic)
  - [Music and Social Action](https://www.coursera.org/learn/music-and-social-action)
@@ -364,9 +364,9 @@
 ### CentraleSupélec
  - [Two Speed IT: How Companies Can Surf the Digital Wave, a BCG Perspective](https://www.coursera.org/learn/2-speed-it)
 ### Coursera Project Network
- - [Create Charts and Dashboard using Google Sheets](https://www.coursera.org/learn/charts-dashboard-google-sheets)
  - [Create a Resume and Cover Letter with Google Docs](https://www.coursera.org/learn/create-resume-cover-letter-google-docs)
  - [Create and Format a Basic Document with LibreOffice Writer](https://www.coursera.org/learn/create-format-document-with-libreoffice-writer)
+ - [Create Charts and Dashboard using Google Sheets](https://www.coursera.org/learn/charts-dashboard-google-sheets)
  - [Enhance Organizational Communications with Slack](https://www.coursera.org/learn/enhance-organizational-communications-with-slack)
  - [Getting Started with Power BI Desktop](https://www.coursera.org/learn/power-bi-desktop)
  - [Improve Business Performance with Google Forms](https://www.coursera.org/learn/improve-business-performance-with-google-forms)
@@ -376,14 +376,14 @@
  - [Use WordPress to Create a Blog for your Business](https://www.coursera.org/learn/wordpress-create-blog-business)
  - [User Experience Design – Creating User Profiles](https://www.coursera.org/learn/uxdesign-userprofiles)
  - [Visualizing Citibike Trips with Tableau](https://www.coursera.org/learn/visualizing-citibike-trips-tableau)
-### ESSEC Business School
-#### [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
- - [Foundations of strategic business analytics](https://www.coursera.org/learn/strategic-business-analytics)
 ### Emory University
  - [Conflict Transformation](https://www.coursera.org/learn/conflict-transformation)
 ### Erasmus University Rotterdam
  - [A Business Approach to Sustainable Landscape Restoration](https://www.coursera.org/learn/landscape-restoration-sustainable-development)
  - [Driving business towards the Sustainable Development Goals](https://www.coursera.org/learn/sdgbusiness)
+### ESSEC Business School
+#### [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
+ - [Foundations of strategic business analytics](https://www.coursera.org/learn/strategic-business-analytics)
 ### Georgia Institute of Technology
  - [Supply Chain Principles](https://www.coursera.org/learn/supply-chain-principles)
 ### Google Cloud
@@ -463,13 +463,6 @@
  - [Protecting Business Innovations via Copyright](https://www.coursera.org/learn/protect-business-innovations-copyright)
 #### [FinTech: Finance Industry Transformation and Regulation Specialization](https://www.coursera.org/specializations/fintech)
  - [FinTech Risk Management](https://www.coursera.org/learn/fintech-risk-management)
-### University System of Georgia
- - [Writing Professional Email and Memos (Project-Centered Course)](https://www.coursera.org/learn/professional-emails)
-#### [Six Sigma Yellow Belt Specialization](https://www.coursera.org/specializations/six-sigma-fundamentals)
- - [Six Sigma Principles](https://www.coursera.org/learn/six-sigma-principles)
- - [Six Sigma Tools for Analyze](https://www.coursera.org/learn/six-sigma-analyze)
- - [Six Sigma Tools for Define and Measure](https://www.coursera.org/learn/six-sigma-tools-define-measure)
- - [Six Sigma Tools for Improve and Control](https://www.coursera.org/learn/six-sigma-improve-control)
 ### University of California, Irvine
  - [Effective Problem-Solving and Decision-Making](https://www.coursera.org/learn/problem-solving)
  - [High-Impact Business Writing](https://www.coursera.org/learn/business-writing)
@@ -557,13 +550,13 @@
  - [Financial Acumen for Non-Financial Managers](https://www.coursera.org/learn/finance-healthcare-managers)
  - [Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/wharton-quantitative-modeling)
  - [Introduction to Spreadsheets and Models](https://www.coursera.org/learn/wharton-introduction-spreadsheets-models)
-#### [Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations)
- - [Introduction to Financial Accounting](https://www.coursera.org/learn/wharton-accounting)
- - [Wharton Business Foundations Capstone](https://www.coursera.org/learn/wharton-capstone)
 #### [Business and Financial Modeling Specialization](https://www.coursera.org/specializations/wharton-business-financial-modeling)
  - [Decision-Making and Scenarios](https://www.coursera.org/learn/wharton-decision-making-scenarios)
  - [Modeling Risk and Realities](https://www.coursera.org/learn/wharton-risk-models)
  - [Wharton Business and Financial Modeling Capstone](https://www.coursera.org/learn/wharton-business-financial-modeling-capstone)
+#### [Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations)
+ - [Introduction to Financial Accounting](https://www.coursera.org/learn/wharton-accounting)
+ - [Wharton Business Foundations Capstone](https://www.coursera.org/learn/wharton-capstone)
 #### [Fintech: Foundations & Applications of Financial Technology Specialization](https://www.coursera.org/specializations/wharton-fintech)
  - [FinTech: Foundations, Payments, and Regulations](https://www.coursera.org/learn/wharton-fintech-overview-payments-regulations)
  - [Lending, Crowdfunding, and Modern Investing](https://www.coursera.org/learn/wharton-crowdfunding-marketplace-lending-modern-investing)
@@ -588,6 +581,13 @@
 ### University of Washington
 #### [Dynamic Public Speaking Specialization](https://www.coursera.org/specializations/public-speaking)
  - [Introduction to Public Speaking](https://www.coursera.org/learn/public-speaking)
+### University System of Georgia
+ - [Writing Professional Email and Memos (Project-Centered Course)](https://www.coursera.org/learn/professional-emails)
+#### [Six Sigma Yellow Belt Specialization](https://www.coursera.org/specializations/six-sigma-fundamentals)
+ - [Six Sigma Principles](https://www.coursera.org/learn/six-sigma-principles)
+ - [Six Sigma Tools for Analyze](https://www.coursera.org/learn/six-sigma-analyze)
+ - [Six Sigma Tools for Define and Measure](https://www.coursera.org/learn/six-sigma-tools-define-measure)
+ - [Six Sigma Tools for Improve and Control](https://www.coursera.org/learn/six-sigma-improve-control)
 ### Yale University
  - [Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator](https://www.coursera.org/learn/negotiation)
 ### École des Ponts ParisTech, BCG
@@ -636,24 +636,26 @@
  - [Strategically Build and Engage Your Network on LinkedIn](https://www.coursera.org/learn/strategically-build-and-engage-your-network-on-linkedin)
  - [Using Covid-19 Data to Make Supply Chain Logistics Decisions in Spreadsheets](https://www.coursera.org/learn/analyzing-data-to-make-supply-chain-decisions)
  - [Using Google Forms to Analyze User Research Data](https://www.coursera.org/learn/analyzing-user-data-in-google-forms)
+### deeplearning.ai
+ - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 ### EIT Digital 
  - [Blockchain for the decision maker](https://www.coursera.org/learn/blockchain-decision-maker)
  - [Impact from digital transformation: A Nano course](https://www.coursera.org/learn/digital-transformation-impact-nano-course)
 #### [Privacy and Standardisation Specialization](https://www.coursera.org/specializations/privacy)
  - [Standardisation & Technology](https://www.coursera.org/learn/standardisation)
+### Erasmus University Rotterdam
+ - [Business Model Innovation for Sustainable Landscape Restoration](https://www.coursera.org/learn/bmi-sustainable-landscape-restoration)
+ - [Innovation Management](https://www.coursera.org/learn/innovation-management)
 ### ESCP Business School
  - [Doing Business in Europe](https://www.coursera.org/learn/doing-business-in-europe)
 ### ESSEC Business School
 #### [Hotel Management: Distribution, Revenue and Demand Management Specialization](https://www.coursera.org/specializations/hotel-management)
  - [Demand management: Breaking down today’s commercial silos](https://www.coursera.org/learn/demandmanagement)
  - [Hôtel “De l'étoile” - a hotel in crisis?](https://www.coursera.org/learn/hotel-management-project)
- - [The Fundamentals of Revenue Management: The Cornerstone of Revenue Strategy](https://www.coursera.org/learn/fundamentals-of-revenue-management)
  - [The fundamentals of hotel distribution](https://www.coursera.org/learn/hotel-distribution)
+ - [The Fundamentals of Revenue Management: The Cornerstone of Revenue Strategy](https://www.coursera.org/learn/fundamentals-of-revenue-management)
 #### [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
  - [Capstone:  Create Value from Open Data](https://www.coursera.org/learn/strategic-business-analytics-capstone)
-### Erasmus University Rotterdam
- - [Business Model Innovation for Sustainable Landscape Restoration](https://www.coursera.org/learn/bmi-sustainable-landscape-restoration)
- - [Innovation Management](https://www.coursera.org/learn/innovation-management)
 ### Fundação Instituto de Administração
  - [Budgeting essentials and development](https://www.coursera.org/learn/budgeting-essentials-development)
 #### [Strategic Sales Management Specialization](https://www.coursera.org/specializations/sales-management-bridging-gap-strategy-sales)
@@ -675,15 +677,15 @@
  - [Strategy and Sustainability](https://www.coursera.org/learn/strategy-sustainability)
 #### [Foundations of Management Specialization](https://www.coursera.org/specializations/foundations-management)
  - [Marketing: Customer Needs and Wants](https://www.coursera.org/learn/marketing-customers)
-### INSEAD
-#### [Blockchain Revolution Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise)
- - [Blockchain Opportunity Analysis](https://www.coursera.org/learn/blockchain-opportunity-analysis)
- - [Transacting on the Blockchain](https://www.coursera.org/learn/transacting-blockchain)
 ### Indian School of Business
 #### [Business Technology Management Specialization](https://www.coursera.org/specializations/business-technology-managment)
  - [Capstone Project: Business Technology Management](https://www.coursera.org/learn/business-tech-project)
  - [Digital Transformations](https://www.coursera.org/learn/digital-transformations)
  - [IT Project Management](https://www.coursera.org/learn/it-project-management)
+### INSEAD
+#### [Blockchain Revolution Specialization](https://www.coursera.org/specializations/blockchain-revolution-enterprise)
+ - [Blockchain Opportunity Analysis](https://www.coursera.org/learn/blockchain-opportunity-analysis)
+ - [Transacting on the Blockchain](https://www.coursera.org/learn/transacting-blockchain)
 ### Korea Advanced Institute of Science and Technology(KAIST)
  - [Design Thinking and Global Startup](https://www.coursera.org/learn/startup101)
  - [Global Public Procurement](https://www.coursera.org/learn/global-public-procurement)
@@ -753,10 +755,6 @@
  - [What’s Your Big Idea?](https://www.coursera.org/learn/big-ideas)
 ### The University of Sydney
  - [Design-Led Strategy: Design thinking for business strategy and entrepreneurship](https://www.coursera.org/learn/design-strategy)
-### UNSW Sydney (The University of New South Wales)
- - [Designing the Future of Work](https://www.coursera.org/learn/designing-future-of-work)
-### University System of Georgia
- - [Business Model Canvas: A Tool for Entrepreneurs and Innovators (Project-Centered Course)](https://www.coursera.org/learn/business-model-canvas)
 ### University of California, Davis
 #### [Fundraising and Development Specialization](https://www.coursera.org/specializations/fundraising-development)
  - [Annual Campaigns: Building a Case for Support](https://www.coursera.org/learn/annual-campaigns)
@@ -801,15 +799,17 @@
  - [Strategic Planning and Execution](https://www.coursera.org/learn/uva-darden-strategic-planning-execution)
 #### [Leading the Modern Day Business Specialization](https://www.coursera.org/specializations/leading-modern-day-business)
  - [Design Thinking for Innovation](https://www.coursera.org/learn/uva-darden-design-thinking-innovation)
+### University System of Georgia
+ - [Business Model Canvas: A Tool for Entrepreneurs and Innovators (Project-Centered Course)](https://www.coursera.org/learn/business-model-canvas)
 ### Università Bocconi
  - [A Scientific Approach to Innovation Management](https://www.coursera.org/learn/scientific-approach-innovation-management)
  - [Corporate Sustainability. Understanding and Seizing the Strategic Opportunity](https://www.coursera.org/learn/corp-sustainability)
+### UNSW Sydney (The University of New South Wales)
+ - [Designing the Future of Work](https://www.coursera.org/learn/designing-future-of-work)
 ### West Virginia University
  - [Today’s Music Industry](https://www.coursera.org/learn/music-industry)
 ### Yonsei University
  - [Deep Learning for Business](https://www.coursera.org/learn/deep-learning-business)
-### deeplearning.ai
- - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
 ## Entrepreneurship
 ### Case Western Reserve University
  - [Beyond Silicon Valley: Growing Entrepreneurship in Transitioning Economies](https://www.coursera.org/learn/entrepreneurship-development)
@@ -863,8 +863,6 @@
  - [Innovation Career Lessons from a Master](https://www.coursera.org/learn/startup-entrepreneurship-innovation-career-lessons)
 ### The University of Sydney
  - [Innovation Through Design: Think, Make, Break, Repeat](https://www.coursera.org/learn/innovation-through-design)
-### UNSW Sydney (The University of New South Wales)
- - [How to Validate your Startup Idea](https://www.coursera.org/learn/startup-idea)
 ### Universitat de Barcelona
  - [The entrepreneur's guide for beginners](https://www.coursera.org/learn/entrepreneur-guide-beginners)
 ### Universiteit Leiden, Leiden University Medical Center, Luris
@@ -928,6 +926,8 @@
  - [Coding for Designers, Managers, & Entrepreneurs III](https://www.coursera.org/learn/uva-coding-for-design-managers-3)
 ### Università Bocconi
  - [Challenges of Agribusiness Management](https://www.coursera.org/learn/agribusiness-management-challenges)
+### UNSW Sydney (The University of New South Wales)
+ - [How to Validate your Startup Idea](https://www.coursera.org/learn/startup-idea)
 ### Vanderbilt University, National Arts Strategies
  - [Leading Innovation in Arts and Culture](https://www.coursera.org/learn/arts-culture-innovation)
 ### École Polytechnique
@@ -1012,11 +1012,11 @@
  - [Corporate finance: Know your numbers 2](https://www.coursera.org/learn/corporate-finance-know-your-numbers-2)
 ### McMaster University
 #### [Finance for Everyone Specialization](https://www.coursera.org/specializations/finance-for-everyone)
- - [Finance For Everyone: Value](https://www.coursera.org/learn/finance-value)
  - [Finance for Everyone Capstone Project](https://www.coursera.org/learn/finance-capstone)
  - [Finance for Everyone: Debt](https://www.coursera.org/learn/finance-debt)
  - [Finance for Everyone: Decisions](https://www.coursera.org/learn/finance-decisions)
  - [Finance for Everyone: Markets](https://www.coursera.org/learn/finance-markets)
+ - [Finance For Everyone: Value](https://www.coursera.org/learn/finance-value)
 ### Moscow Institute of Physics and Technology, American Institute of Business and Economics
 #### [Understanding Modern Finance Specialization](https://www.coursera.org/specializations/understanding-modern-finance)
  - [Capital Markets and Financial Institutions – How to Survive Them](https://www.coursera.org/learn/capital-markets-and-financial-institutions)
@@ -1173,12 +1173,12 @@
  - [Business Operations Support in Google Sheets](https://www.coursera.org/learn/business-operations-support-in-google-sheets)
  - [Client Booking & Scheduling with Picktime](https://www.coursera.org/learn/client-booking-scheduling-with-picktime)
  - [Collect and Share Employee Feedback with Officevibe](https://www.coursera.org/learn/collect-and-share-employee-feedback-officevibe)
+ - [Create a Project Charter with Google Docs](https://www.coursera.org/learn/create-a-project-charter-with-google-docs)
  - [Create Customer Support Data with Google Sheets](https://www.coursera.org/learn/create-customer-support-data-with-google-sheets)
  - [Create Employee Management System with When I Work](https://www.coursera.org/learn/employee-management-with-when-i-work)
  - [Create Informative Presentations with Google Slides](https://www.coursera.org/learn/create-informative-presentations-google-slides)
  - [Create Online Employee Onboarding Course with Eduflow](https://www.coursera.org/learn/online-employee-onboarding-eduflow)
  - [Create Training Videos with Powtoon](https://www.coursera.org/learn/create-training-videos-powtoon)
- - [Create a Project Charter with Google Docs](https://www.coursera.org/learn/create-a-project-charter-with-google-docs)
  - [Gmail: The Foundation To Accessing Google Apps](https://www.coursera.org/learn/gmail-foundation-to-google-apps)
  - [Hiring and Onboarding Employees with ClickUp](https://www.coursera.org/learn/hiring-onboarding-employees-with-clickup)
  - [Intro to Scheduling with When I Work](https://www.coursera.org/learn/intro-to-scheduling-with-when-i-work)
@@ -1298,12 +1298,6 @@
  - [Organizational Analysis](https://www.coursera.org/learn/organizational-analysis)
 ### Universiteit Leiden
  - [Population Health: Governance](https://www.coursera.org/learn/population-health-governance)
-### University System of Georgia
-#### [Six Sigma Green Belt Specialization](https://www.coursera.org/specializations/six-sigma-green-belt)
- - [Six Sigma Advanced Analyze Phase](https://www.coursera.org/learn/six-sigma-analyze-advanced)
- - [Six Sigma Advanced Define and Measure Phases](https://www.coursera.org/learn/six-sigma-define-measure-advanced)
- - [Six Sigma Advanced Improve and Control Phases](https://www.coursera.org/learn/six-sigma-improve-control-advanced)
- - [Six Sigma and the Organization (Advanced)](https://www.coursera.org/learn/six-sigma-organization-advanced)
 ### University at Buffalo, The State University of New York
 #### [Improving Leadership & Governance in Nonprofit Organizations Specialization](https://www.coursera.org/specializations/nonprofit)
  - [Capstone - Managing Board Change for Higher Levels of Leadership and Governance Effectiveness](https://www.coursera.org/learn/nonprofit-gov-capstone)
@@ -1422,6 +1416,12 @@
  - [Ethical Leadership Through Giving Voice to Values](https://www.coursera.org/learn/uva-darden-giving-voice-to-values)
  - [Innovating with the Business Model Canvas](https://www.coursera.org/learn/uva-darden-innovation-business-model-canvas)
  - [New Models of Business in Society](https://www.coursera.org/learn/uva-darden-business-society)
+### University System of Georgia
+#### [Six Sigma Green Belt Specialization](https://www.coursera.org/specializations/six-sigma-green-belt)
+ - [Six Sigma Advanced Analyze Phase](https://www.coursera.org/learn/six-sigma-analyze-advanced)
+ - [Six Sigma Advanced Define and Measure Phases](https://www.coursera.org/learn/six-sigma-define-measure-advanced)
+ - [Six Sigma Advanced Improve and Control Phases](https://www.coursera.org/learn/six-sigma-improve-control-advanced)
+ - [Six Sigma and the Organization (Advanced)](https://www.coursera.org/learn/six-sigma-organization-advanced)
 ### Università Bocconi
  - [Food & Beverage Management](https://www.coursera.org/learn/food-beverage-management)
  - [International Leadership and Organizational Behavior](https://www.coursera.org/learn/organizational-behavior)
@@ -1441,29 +1441,26 @@
 ### Coursera Project Network
  - [A Start Guide: Product Marketing Using G Suite](https://www.coursera.org/learn/product-marketing-using-gsuite)
  - [Brand Marketing and SEO Tools using Wix](https://www.coursera.org/learn/brand-marketing-seo-tools-using-wix)
- - [Building Custom Regional Reports with Google Analytics](https://www.coursera.org/learn/building-custom-regional-reports-with-google-analytics)
  - [Building a Business Presence With Facebook Marketing](https://www.coursera.org/learn/facebook-marketing)
- - [Create Infographics using Piktochart](https://www.coursera.org/learn/create-outstanding-infographics-using-piktochart)
+ - [Building Custom Regional Reports with Google Analytics](https://www.coursera.org/learn/building-custom-regional-reports-with-google-analytics)
  - [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/learn/create-business-marketing-brand-kit-using-canva)
  - [Create a Google Ads Search Campaign](https://www.coursera.org/learn/create-a-google-ads-search-campaign)
  - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva)
- - [Design Online Course Printables using Canva](https://www.coursera.org/learn/design-online-course-printables-using-canva)
+ - [Create Infographics using Piktochart](https://www.coursera.org/learn/create-outstanding-infographics-using-piktochart)
  - [Design a Client Welcome Kit using Canva](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva)
+ - [Design Online Course Printables using Canva](https://www.coursera.org/learn/design-online-course-printables-using-canva)
  - [Develop a Company Website with Wix](https://www.coursera.org/learn/develop-a-company-website-with-wix)
  - [Google Ads for Beginners](https://www.coursera.org/learn/google-ads-beginner)
  - [Set up Google Analytics for a single page website](https://www.coursera.org/learn/set-up-google-analytics-on-single-page-applications)
  - [The Product Lifecycle: A Guide from start to finish](https://www.coursera.org/learn/the-product-life-cycle)
- - [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/learn/using-canva-create-social-media-marketing-design)
  - [Use Canva to Create an Interactive Mind Map](https://www.coursera.org/learn/canva-create-an-interactive-mind-map)
+ - [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/learn/using-canva-create-social-media-marketing-design)
  - [Use Canva to Design Digital Course Collateral](https://www.coursera.org/learn/canva-design-digital-course-collateral)
  - [Use Mailchimp to Build an E-mail Marketing Campaign](https://www.coursera.org/learn/mailchimp-build-email-marketing-campaign)
  - [Use SurveyMonkey to Create a Survey and Analyze Results](https://www.coursera.org/learn/create-survey-analyze-results-with-surveymonkey)
 ### EIT Digital 
 #### [Value Creation Through Innovation Specialization](https://www.coursera.org/specializations/value-creation-innovation)
  - [Marketing Strategy for Entrepreneurs](https://www.coursera.org/learn/marketing-strategy-entrepreneurs)
-### ESSEC Business School
-#### [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
- - [Foundations of marketing analytics](https://www.coursera.org/learn/foundations-marketing-analytics)
 ### Emory University
 #### [Foundations of Marketing Analytics Specialization](https://www.coursera.org/specializations/marketing-analytics)
  - [Forecasting Models for Marketing Decisions](https://www.coursera.org/learn/forecasting-models-marketing-decisions)
@@ -1472,6 +1469,9 @@
  - [Marketing Analytics Capstone Project](https://www.coursera.org/learn/marketing-analytics-project)
  - [Meaningful Marketing Insights](https://www.coursera.org/learn/meaningful-marketing-insights)
  - [Survey analysis to Gain Marketing Insights](https://www.coursera.org/learn/survey-analysis-marketing-insights)
+### ESSEC Business School
+#### [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
+ - [Foundations of marketing analytics](https://www.coursera.org/learn/foundations-marketing-analytics)
 ### Facebook
 #### [Facebook Social Media Marketing Professional Certificate](https://www.coursera.org/specializations/facebook-social-media-marketing)
  - [Advertising with Facebook](https://www.coursera.org/learn/advertising-with-facebook)
@@ -1669,12 +1669,12 @@
  - [Problem Solving Using Computational Thinking](https://www.coursera.org/learn/compthinking)
 ### University of Pennsylvania
  - [Computational Thinking for Problem Solving](https://www.coursera.org/learn/computational-thinking-problem-solving)
-### École Polytechnique Fédérale de Lausanne
-#### [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
- - [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
 ### École normale supérieure
  - [Approximation Algorithms Part I](https://www.coursera.org/learn/approximation-algorithms-part-1)
  - [Approximation Algorithms Part II](https://www.coursera.org/learn/approximation-algorithms-part-2)
+### École Polytechnique Fédérale de Lausanne
+#### [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
+ - [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/scala-spark-big-data)
 ## Computer Security and Networks
 ### ConsenSys Academy
  - [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases)
@@ -1698,8 +1698,8 @@
  - [Planning for your G Suite Deployment](https://www.coursera.org/learn/deploying-g-suite)
 ### INSEAD
 #### [Blockchain Revolution in Financial Services Specialization](https://www.coursera.org/specializations/blockchain-financial-services)
- - [Blockchain Transformations of Financial Services](https://www.coursera.org/learn/blockchain-transformations-financial-services)
  - [Blockchain in Financial Services: Strategic Action Plan](https://www.coursera.org/learn/blockchain-strategic-action-plan)
+ - [Blockchain Transformations of Financial Services](https://www.coursera.org/learn/blockchain-transformations-financial-services)
  - [Blockchain, Cryptoassets, and Decentralized Finance](https://www.coursera.org/learn/blockchain-crypto-decentralized-finance)
  - [Introduction to Blockchain for Financial Services](https://www.coursera.org/learn/intro-blockchain-financial-services)
 ### LearnQuest
@@ -1720,13 +1720,6 @@
  - [International Cyber Conflicts](https://www.coursera.org/learn/cyber-conflicts)
 ### The University of Chicago
  - [Software Defined Networking](https://www.coursera.org/learn/sdn)
-### University System of Georgia
- - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
-#### [Cybersecurity: Developing a Program for Your Business Specialization](https://www.coursera.org/specializations/cybersecurity-developing-program-for-business)
- - [Cybersecurity and Mobility](https://www.coursera.org/learn/cybersecurity-mobility)
- - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security)
- - [Cybersecurity and the X-Factor](https://www.coursera.org/learn/cybersecurity-and-x-factor)
- - [The Business of Cybersecurity Capstone](https://www.coursera.org/learn/business-of-cybersecurity-capstone)
 ### University of California San Diego
  - [Internet of Things: Communication Technologies](https://www.coursera.org/learn/internet-of-things-communication)
 ### University of California, Davis
@@ -1783,6 +1776,13 @@
 ### University of Michigan
  - [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history)
  - [Securing Digital Democracy](https://www.coursera.org/learn/digital-democracy)
+### University System of Georgia
+ - [Cybersecurity and Its Ten Domains](https://www.coursera.org/learn/cyber-security-domain)
+#### [Cybersecurity: Developing a Program for Your Business Specialization](https://www.coursera.org/specializations/cybersecurity-developing-program-for-business)
+ - [Cybersecurity and Mobility](https://www.coursera.org/learn/cybersecurity-mobility)
+ - [Cybersecurity and the Internet of Things](https://www.coursera.org/learn/iot-cyber-security)
+ - [Cybersecurity and the X-Factor](https://www.coursera.org/learn/cybersecurity-and-x-factor)
+ - [The Business of Cybersecurity Capstone](https://www.coursera.org/learn/business-of-cybersecurity-capstone)
 ### Yonsei University
  - [Introduction to TCP/IP](https://www.coursera.org/learn/tcpip)
 ## Design and Product
@@ -1803,10 +1803,10 @@
  - [How to Create Text Effects in GIMP](https://www.coursera.org/learn/how-to-create-text-effects-in-gimp)
  - [How to Design a Space-Saving Table Using SketchUp](https://www.coursera.org/learn/introduction-to-product-design)
  - [How to Make Image Editing Selections in GIMP](https://www.coursera.org/learn/how-to-make-image-editing-selections-in-gimp)
+ - [iPad Music Player in XD](https://www.coursera.org/learn/ipad-music-player-in-xd)
  - [Product Design: Designing a modern table lamp using SketchUp](https://www.coursera.org/learn/product-design-designing-a-modern-table-lamp-using-sketchup)
  - [Scrum Team Building Using Games and Interactive Tools](https://www.coursera.org/learn/scrum-team-building-using-games-interactive-tools)
  - [User Experience Responsive Hero in XD for Beginners](https://www.coursera.org/learn/xd-responsive-hero-beginners)
- - [iPad Music Player in XD](https://www.coursera.org/learn/ipad-music-player-in-xd)
 ### EIT Digital 
  - [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation)
 ### Georgia Institute of Technology
@@ -1876,10 +1876,10 @@
 #### [User Experience Research and Design Specialization](https://www.coursera.org/specializations/michiganux)
  - [Evaluating Designs with Users](https://www.coursera.org/learn/evaluating-designs-with-users)
  - [Introduction to User Experience Principles and Processes](https://www.coursera.org/learn/introtoux-principles-and-processes)
+ - [Understanding User Needs](https://www.coursera.org/learn/understanding-user-needs)
  - [UX (User Experience) Capstone](https://www.coursera.org/learn/user-experience-capstone)
  - [UX Design: From Concept to Prototype](https://www.coursera.org/learn/ux-design-concept-wireframe)
  - [UX Research at Scale: Surveys, Analytics, Online Testing](https://www.coursera.org/learn/ux-research-at-scale)
- - [Understanding User Needs](https://www.coursera.org/learn/understanding-user-needs)
 ### University of Minnesota
 #### [User Interface Design Specialization](https://www.coursera.org/specializations/user-interface-design)
  - [Evaluating User Interfaces](https://www.coursera.org/learn/ui-testing)
@@ -1899,11 +1899,8 @@
  - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 ### Coursera Project Network
  - [Become a JavaScript Pro with these 7 Skills](https://www.coursera.org/learn/become-a-js-pro-7-skills)
- - [Build A Google Firebase Web App (Part II)](https://www.coursera.org/learn/build-firebase-webapp-2)
- - [Build Your First React Website](https://www.coursera.org/learn/build-first-react-website)
- - [Build Your First React Website (Part II)](https://www.coursera.org/learn/build-first-react-website-2)
- - [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/learn/build-portfolio-website-html-css)
  - [Build a Full Website using WordPress](https://www.coursera.org/learn/build-a-full-website-using-wordpress)
+ - [Build A Google Firebase Web App (Part II)](https://www.coursera.org/learn/build-firebase-webapp-2)
  - [Build a Google Firebase Web Application](https://www.coursera.org/learn/build-a-google-firebase-webapp)
  - [Build a Linear Layout App in Android Studio](https://www.coursera.org/learn/build-linear-layout-app-android-studio)
  - [Build a Persistent Storage App in Android Studio](https://www.coursera.org/learn/build-persistent-storage-app-android-studio)
@@ -1912,10 +1909,13 @@
  - [Build a Table Layout App in Android Studio](https://www.coursera.org/learn/build-table-layout-app-android-studio)
  - [Build a Twitter Clone Backend](https://www.coursera.org/learn/twitter-clone-backend)
  - [Build an App in Android Studio using Activities](https://www.coursera.org/learn/build-an-app-in-android-studio-using-activities)
+ - [Build an App in Android Studio using onTouch](https://www.coursera.org/learn/build-an-app-in-android-studio-using-ontouch)
  - [Build an App in Android Studio using Read-Write](https://www.coursera.org/learn/build-an-app-in-android-studio-using-read-write)
  - [Build an App in Android Studio using Resources](https://www.coursera.org/learn/build-an-app-in-android-studio-using-resources)
  - [Build an App in Android Studio using Static Files](https://www.coursera.org/learn/build-an-app-in-android-studio-using-static-files)
- - [Build an App in Android Studio using onTouch](https://www.coursera.org/learn/build-an-app-in-android-studio-using-ontouch)
+ - [Build Your First React Website](https://www.coursera.org/learn/build-first-react-website)
+ - [Build Your First React Website (Part II)](https://www.coursera.org/learn/build-first-react-website-2)
+ - [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/learn/build-portfolio-website-html-css)
  - [Building a Dynamic Web App using PHP & MySQL](https://www.coursera.org/learn/dynamic-web-app-php-mysql)
  - [Compare Inline, Internal, and External CSS](https://www.coursera.org/learn/compare-inline-internal-external-css)
  - [Creating a Dynamic Web Application using RShiny](https://www.coursera.org/learn/dynamic-web-application-rshiny)
@@ -1962,8 +1962,8 @@
 ### LearnQuest
  - [Fundamentals of Kubernetes Deployment](https://www.coursera.org/learn/kubernetes-deployment)
 #### [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
- - [Tables, Data & Networking in iOS](https://www.coursera.org/learn/swift-ios-tables-networking)
  - [iOS App Store & In-App Purchases](https://www.coursera.org/learn/ios-swift-app-store-in-app-purchase)
+ - [Tables, Data & Networking in iOS](https://www.coursera.org/learn/swift-ios-tables-networking)
 ### The Hong Kong University of Science and Technology
  - [Developing Android Apps with App Inventor](https://www.coursera.org/learn/app-inventor-android)
  - [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/learn/bootstrap-4)
@@ -1987,8 +1987,8 @@
 #### [iOS Development for Creative Entrepreneurs Specialization](https://www.coursera.org/specializations/ios-development)
  - [Best Practices for iOS User Interface Design](https://www.coursera.org/learn/ui)
  - [Foundations of Objective-C App Development](https://www.coursera.org/learn/objective-c)
- - [Toward the Future of iOS Development with Swift](https://www.coursera.org/learn/iosswift)
  - [iOS Project: Transreality Game](https://www.coursera.org/learn/transreality-gaming)
+ - [Toward the Future of iOS Development with Swift](https://www.coursera.org/learn/iosswift)
 ### University of London, Goldsmiths, University of London
 #### [Responsive Website Development and Design Specialization](https://www.coursera.org/specializations/website-development)
  - [Introduction to Meteor.js Development](https://www.coursera.org/learn/meteor-development)
@@ -2057,18 +2057,28 @@
  - [Automate an e-commerce web application using Selenium & Java](https://www.coursera.org/learn/automate-e-commerce-web-application-using-selenium-java)
  - [Automation Scripts Using Bash](https://www.coursera.org/learn/auto-scripts-bash)
  - [Behavior Driven Development with Selenium and Cucumber](https://www.coursera.org/learn/behavior-driven-development-with-selenium-cucumber)
- - [Build a Guessing Game Application using Java](https://www.coursera.org/learn/build-game-application-using-java)
- - [Build a Python GUI with Tkinter](https://www.coursera.org/learn/build-a-python-gui-with-tkinter)
  - [Build a film club web app on Google AppEngine](https://www.coursera.org/learn/build-a-film-club-web-app-with-google-appengine)
+ - [Build a Guessing Game Application using Java](https://www.coursera.org/learn/build-game-application-using-java)
  - [Build a mobile app with Google Sheets on Glide and no coding](https://www.coursera.org/learn/build-a-mobile-app-with-google-sheets-on-glide-and-no-coding)
- - [Building Basic Relational Databases in SQL Server Management Studio](https://www.coursera.org/learn/basic-relational-databases-sql)
+ - [Build a Python GUI with Tkinter](https://www.coursera.org/learn/build-a-python-gui-with-tkinter)
  - [Building a Calculator using C# in Visual Studio](https://www.coursera.org/learn/buildingacalculatorinvisualstudio)
  - [Building a Text-Based Bank in Java](https://www.coursera.org/learn/building-a-java-application-banking)
- - [CSS Animated Components with ReactJS](https://www.coursera.org/learn/reactjs-css-animation)
+ - [Building Basic Relational Databases in SQL Server Management Studio](https://www.coursera.org/learn/basic-relational-databases-sql)
  - [Class Creation in Object Oriented Python](https://www.coursera.org/learn/class-creation-in-object-oriented-python)
  - [Containerize a full-stack NodeJS application in Docker](https://www.coursera.org/learn/containerize-full-stack-nodejs-application-in-docker)
  - [Control physics with C# in Unity](https://www.coursera.org/learn/controlling-physics-c-sharp-unity)
+ - [Create a Boggle Word Solver using recursion in Python](https://www.coursera.org/learn/boggle-python-recursion)
+ - [Create a First-Person Camera (VM-Compatible!) in Unity](https://www.coursera.org/learn/create-first-person-camera-c-sharp-unity)
+ - [Create a Memory Puzzle Game in Python Using Pygame](https://www.coursera.org/learn/create-memory-puzzle-game-in-python-using-pygame)
+ - [Create a Python Application using MySQL](https://www.coursera.org/learn/create-python-application-mysql)
+ - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database)
+ - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java)
+ - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio)
+ - [Create a text adventure game with Ink](https://www.coursera.org/learn/create-a-text-adventure-game-with-ink)
+ - [Create a User Interface in Unity Part 2 - World-Space Canvas](https://www.coursera.org/learn/create-ui-unity-world-space-canvas)
+ - [Create an interactive fiction adventure game with Python](https://www.coursera.org/learn/create-an-interactive-fiction-text-adventure-game-with-python)
  - [Create Animation Transitions in Unity (Intro to Animation 2)](https://www.coursera.org/learn/create-animation-transitions-unity)
+ - [Create basic behavior with C# in Unity](https://www.coursera.org/learn/create-basic-behavior-csharp-unity)
  - [Create Keyboard Movement Mechanics with C# in Unity](https://www.coursera.org/learn/create-keyboard-movement-mechanics-c-sharp-unity)
  - [Create Power-Ups and Obstacles with C# in Unity](https://www.coursera.org/learn/create-power-ups-obstacles-c-sharp-unity)
  - [Create Python Linux Script to Generate a Disk Usage Report](https://www.coursera.org/learn/python-linux-script-disk-usage-report)
@@ -2077,22 +2087,12 @@
  - [Create Your First Automation Script Using Selenium and Java](https://www.coursera.org/learn/create-automation-script-using-selenium-java)
  - [Create Your First Chatbot with Rasa and Python](https://www.coursera.org/learn/chatbot-rasa-python)
  - [Create Your First Game with Python](https://www.coursera.org/learn/python-game)
+ - [Create your first Java project using jGRASP](https://www.coursera.org/learn/create-your-first-java-project-using-jgrasp)
  - [Create Your First Multithreaded Application in Java](https://www.coursera.org/learn/create-your-first-multithreaded-application)
  - [Create Your First Python Program](https://www.coursera.org/learn/first-python-program)
  - [Create Your First Web App with Python and Flask](https://www.coursera.org/learn/python-flask)
- - [Create a Boggle Word Solver using recursion in Python](https://www.coursera.org/learn/boggle-python-recursion)
- - [Create a First-Person Camera (VM-Compatible!) in Unity](https://www.coursera.org/learn/create-first-person-camera-c-sharp-unity)
- - [Create a Memory Puzzle Game in Python Using Pygame](https://www.coursera.org/learn/create-memory-puzzle-game-in-python-using-pygame)
- - [Create a Python Application using MySQL](https://www.coursera.org/learn/create-python-application-mysql)
- - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database)
- - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java)
- - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio)
- - [Create a User Interface in Unity Part 2 - World-Space Canvas](https://www.coursera.org/learn/create-ui-unity-world-space-canvas)
- - [Create a text adventure game with Ink](https://www.coursera.org/learn/create-a-text-adventure-game-with-ink)
- - [Create an interactive fiction adventure game with Python](https://www.coursera.org/learn/create-an-interactive-fiction-text-adventure-game-with-python)
- - [Create basic behavior with C# in Unity](https://www.coursera.org/learn/create-basic-behavior-csharp-unity)
- - [Create your first Java project using jGRASP](https://www.coursera.org/learn/create-your-first-java-project-using-jgrasp)
  - [Create your own Sudoku Solver using AI and Python](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python)
+ - [CSS Animated Components with ReactJS](https://www.coursera.org/learn/reactjs-css-animation)
  - [Data Visualization with Python](https://www.coursera.org/learn/data-visualization-with-python)
  - [Database Design with SQL Server Management Studio (SSMS)](https://www.coursera.org/learn/database-design-with-sql-server-management-studio)
  - [Exception Handling in Python](https://www.coursera.org/learn/exception-handling-in-python)
@@ -2102,8 +2102,8 @@
  - [Implementing Hangman Game Using Basics of Python 3](https://www.coursera.org/learn/implementing-hangman-game-using-basics-of-python-3)
  - [Intermediate Object-Oriented Programming with Java](https://www.coursera.org/learn/intermediate-oop-java)
  - [Intermediate Relational Database and SQL](https://www.coursera.org/learn/intermediate-rdb-sql)
- - [Introduction to API Testing using JMeter Tool](https://www.coursera.org/learn/introduction-to-api-testing-using-jmeter-tool)
  - [Introduction to Accessible Web Development](https://www.coursera.org/learn/introduction-to-accessible-web-development)
+ - [Introduction to API Testing using JMeter Tool](https://www.coursera.org/learn/introduction-to-api-testing-using-jmeter-tool)
  - [Introduction to Bash Shell Scripting](https://www.coursera.org/learn/introduction-to-bash-shell-scripting)
  - [Introduction to Docker : The Basics](https://www.coursera.org/learn/docker-fundamentals)
  - [Introduction to Pointers and Memory Management in C/C++](https://www.coursera.org/learn/introduction-to-pointers-and-memory-in-c-and-cpp)
@@ -2134,6 +2134,14 @@
  - [Using Efficient Sorting Algorithms in Java to Arrange Tax Data](https://www.coursera.org/learn/sorting-tax-data-using-efficient-sorting-algorithms-in-java)
  - [Version Control of a Python Project using Git](https://www.coursera.org/learn/version-control-of-a-python-project-using-git)
  - [Web Scraping with Python + BeautifulSoup](https://www.coursera.org/learn/web-scraping)
+### deeplearning.ai
+#### [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)
+ - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+#### [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+ - [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow)
+ - [Browser-based Models with TensorFlow.js](https://www.coursera.org/learn/browser-based-models-tensorflow)
+ - [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/learn/data-pipelines-tensorflow)
+ - [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow)
 ### Duke University
  - [Introduction to Programming and Animation with Alice](https://www.coursera.org/learn/introtoalice)
  - [Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data)
@@ -2195,8 +2203,8 @@
  - [Rails with Active Record and Action Pack](https://www.coursera.org/learn/rails-with-active-record)
 ### LearnQuest
 #### [Swift 5 iOS Application Developer Specialization](https://www.coursera.org/specializations/swift-5-ios-app-developer)
- - [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction)
  - [Introduction to iOS App Development with Swift 5](https://www.coursera.org/learn/ios-app-development-swift-5)
+ - [Introduction to Programming in Swift 5](https://www.coursera.org/learn/swift-5-programming-introduction)
 ### Michigan State University
  - [Avatar Psychology for Designers](https://www.coursera.org/learn/avatar-psychology-for-designers)
 #### [Game Design and Development Specialization](https://www.coursera.org/specializations/game-development)
@@ -2225,17 +2233,17 @@
  - [Concurrent Programming in Java](https://www.coursera.org/learn/concurrent-programming-in-java)
  - [Distributed Programming in Java](https://www.coursera.org/learn/distributed-programming-in-java)
  - [Parallel Programming in Java](https://www.coursera.org/learn/parallel-programming-in-java)
+### Saint Petersburg State University
+ - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu)
 ### SAS
 #### [SAS Advanced Programmer Professional Certificate](https://www.coursera.org/specializations/sas-advanced-programmer)
  - [SAS Macro Language](https://www.coursera.org/learn/sas-macro-language)
-### Saint Petersburg State University
- - [Quantum Computing. Less Formulas - More Understanding](https://www.coursera.org/learn/quantum-computing-lfmu)
 ### The Hong Kong University of Science and Technology
  - [Programming with Scratch](https://www.coursera.org/learn/programming-with-scratch)
 ### The Linux Foundation
 #### [Open Source Software Development, Linux and Git Specialization](https://www.coursera.org/specializations/oss-development-linux-git)
- - [Linux Tools for Developers](https://www.coursera.org/learn/linux-tools-for-developers)
  - [Linux for Developers](https://www.coursera.org/learn/linux-for-developers)
+ - [Linux Tools for Developers](https://www.coursera.org/learn/linux-tools-for-developers)
  - [Open Source Software Development Methods](https://www.coursera.org/learn/open-source-software-development-methods)
  - [Using Git for Distributed Development](https://www.coursera.org/learn/git-distributed-development)
 ### The University of Edinburgh, Universidad ORT Uruguay
@@ -2283,12 +2291,12 @@
  - [Introduction to the Internet of Things and Embedded Systems](https://www.coursera.org/learn/iot)
  - [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
  - [The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-platform)
+#### [iOS Development for Creative Entrepreneurs Specialization](https://www.coursera.org/specializations/ios-development)
+ - [Games, Sensors and Media](https://www.coursera.org/learn/games)
 #### [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
  - [Concurrency in Go](https://www.coursera.org/learn/golang-concurrency)
  - [Functions, Methods, and Interfaces in Go](https://www.coursera.org/learn/golang-functions-methods)
  - [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started)
-#### [iOS Development for Creative Entrepreneurs Specialization](https://www.coursera.org/specializations/ios-development)
- - [Games, Sensors and Media](https://www.coursera.org/learn/games)
 ### University of California, Santa Cruz
 #### [Coding for Everyone: C and C++ Specialization](https://www.coursera.org/specializations/coding-for-everyone)
  - [C for Everyone: Programming Fundamentals](https://www.coursera.org/learn/c-for-everyone)
@@ -2312,13 +2320,13 @@
  - [Requirements Elicitation: Artifact and Stakeholder Analysis](https://www.coursera.org/learn/requirements-elicitation)
  - [Requirements Gathering for Secure Software Development](https://www.coursera.org/learn/requirements-gathering-secure)
  - [Requirements Specifications: Goals and Conflict Analysis](https://www.coursera.org/learn/requirements-specification-goals)
- - [SRS Documents: Requirements and Diagrammatic Notations](https://www.coursera.org/learn/srs-documents-requirements)
  - [Software Requirements Prioritization: Risk Analysis](https://www.coursera.org/learn/software-requirements-prioritization)
+ - [SRS Documents: Requirements and Diagrammatic Notations](https://www.coursera.org/learn/srs-documents-requirements)
 #### [Secure Software Design Specialization](https://www.coursera.org/specializations/secure-software-design)
- - [Software Design Methods and Tools](https://www.coursera.org/learn/software-design-methods-tools)
- - [Software Design Threats and Mitigations](https://www.coursera.org/learn/software-design-threats-mitigations)
  - [Software Design as an Abstraction](https://www.coursera.org/learn/software-design-abstraction)
  - [Software Design as an Element of the Software Development Lifecycle](https://www.coursera.org/learn/software-design-development-life-cycle)
+ - [Software Design Methods and Tools](https://www.coursera.org/learn/software-design-methods-tools)
+ - [Software Design Threats and Mitigations](https://www.coursera.org/learn/software-design-threats-mitigations)
 ### University of Illinois at Urbana-Champaign
 #### [Accelerated Computer Science Fundamentals Specialization](https://www.coursera.org/specializations/cs-fundamentals)
  - [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1)
@@ -2378,14 +2386,6 @@
  - [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction)
 ### Yandex
  - [Big Data Essentials: HDFS, MapReduce and Spark RDD](https://www.coursera.org/learn/big-data-essentials)
-### deeplearning.ai
-#### [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)
- - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
-#### [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
- - [Advanced Deployment Scenarios with TensorFlow](https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow)
- - [Browser-based Models with TensorFlow.js](https://www.coursera.org/learn/browser-based-models-tensorflow)
- - [Data Pipelines with TensorFlow Data Services](https://www.coursera.org/learn/data-pipelines-tensorflow)
- - [Device-based Models with TensorFlow Lite](https://www.coursera.org/learn/device-based-models-tensorflow)
 ### École Polytechnique Fédérale de Lausanne
 #### [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
  - [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
@@ -2405,13 +2405,13 @@
  - [Analyze Website Visitors with Google Analytics Segments](https://www.coursera.org/learn/analyze-visitors-google-analytics-segments)
  - [Build Data Analysis and Transformation Skills in R using DPLYR](https://www.coursera.org/learn/dplyr)
  - [Build Data Analysis tools using R and DPLYR](https://www.coursera.org/learn/introduction-to-dplyr)
- - [COVID19 Data Analysis Using Python](https://www.coursera.org/learn/covid19-data-analysis-using-python)
- - [COVID19 Data Visualization Using Python](https://www.coursera.org/learn/covid19-data-visualization-using-python)
  - [Calculating Descriptive Statistics in R](https://www.coursera.org/learn/calculating-descriptive-statistics-in-r)
  - [Classification Trees in Python, From Start To Finish](https://www.coursera.org/learn/classification-trees-in-python)
+ - [COVID19 Data Analysis Using Python](https://www.coursera.org/learn/covid19-data-analysis-using-python)
+ - [COVID19 Data Visualization Using Python](https://www.coursera.org/learn/covid19-data-visualization-using-python)
+ - [Create a Buy Signal using RSI in R with the Quantmod Package](https://www.coursera.org/learn/create-rsi-buy-signal-using-r)
  - [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/learn/interactive-dashboards-streamlit-python)
  - [Create Technical Stock Charts Using R and Quantmod](https://www.coursera.org/learn/create-technical-stock-charts-r-quantmod)
- - [Create a Buy Signal using RSI in R with the Quantmod Package](https://www.coursera.org/learn/create-rsi-buy-signal-using-r)
  - [Custom Attribution Modeling with Google Analytics](https://www.coursera.org/learn/custom-attribution-modeling-with-google-analytics)
  - [Custom Reports in Google Analytics](https://www.coursera.org/learn/custom-reports-in-google-analytics)
  - [Data Analysis Using Pyspark](https://www.coursera.org/learn/data-analysis-using-pyspark)
@@ -2459,6 +2459,9 @@
  - [Support Vector Machines in Python, From Start to Finish](https://www.coursera.org/learn/support-vector-machines-in-python)
  - [Using Descriptive Statistics to Analyze Data in R](https://www.coursera.org/learn/descriptive-statistics-analyze-data-r)
  - [Using Shiny to Plot Differential Gene Expression](https://www.coursera.org/learn/shiny-to-plot-differential-gene-expression)
+### deeplearning.ai
+#### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+ - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 ### Duke University
 #### [Excel to MySQL: Analytic Techniques for Business Specialization](https://www.coursera.org/specializations/excel-mysql)
  - [Business Metrics for Data-Driven Companies](https://www.coursera.org/learn/analytics-business-metrics)
@@ -2470,18 +2473,18 @@
  - [Bayesian Statistics](https://www.coursera.org/learn/bayesian)
  - [Introduction to Probability and Data with R](https://www.coursera.org/learn/probability-intro)
  - [Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model)
+### Eindhoven University of Technology
+ - [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
 ### EIT Digital 
  - [Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data)
  - [Web of Data](https://www.coursera.org/learn/web-data)
 ### EIT Digital , Politecnico di Milano
  - [Data Science for Business Innovation](https://www.coursera.org/learn/data-science-for-business-innovation)
+### Emory University
+ - [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis)
 ### ESSEC Business School
 #### [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
  - [Case studies in business analytics with ACCENTURE](https://www.coursera.org/learn/case-studies-business-analytics-accenture)
-### Eindhoven University of Technology
- - [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
-### Emory University
- - [Reproducible Templates for Analysis and Dissemination](https://www.coursera.org/learn/reproducible-templates-analysis)
 ### Google Cloud
 #### [Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
  - [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp)
@@ -2719,17 +2722,14 @@
  - [Introduction to Data, Signal, and Image Analysis with MATLAB](https://www.coursera.org/learn/matlab-image-processing)
 ### Wesleyan University
 #### [Data Analysis and Interpretation Specialization](https://www.coursera.org/specializations/data-analysis)
- - [Data Analysis Tools](https://www.coursera.org/learn/data-analysis-tools)
  - [Data Analysis and Interpretation Capstone](https://www.coursera.org/learn/data-analysis-capstone)
+ - [Data Analysis Tools](https://www.coursera.org/learn/data-analysis-tools)
  - [Data Management and Visualization](https://www.coursera.org/learn/data-visualization)
 ### Yandex
  - [Big Data Analysis: Hive, Spark SQL, DataFrames and GraphFrames](https://www.coursera.org/learn/big-data-analysis)
 ### Yonsei University
  - [Hands-on Text Mining and Analytics](https://www.coursera.org/learn/text-mining-analytics)
  - [Spatial Data Science and Applications](https://www.coursera.org/learn/spatial-data-science)
-### deeplearning.ai
-#### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
- - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 ### École Polytechnique Fédérale de Lausanne
 #### [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
  - [Functional Programming in Scala Capstone](https://www.coursera.org/learn/scala-capstone)
@@ -2753,19 +2753,19 @@
  - [Analyze Box Office Data with Seaborn and Python](https://www.coursera.org/learn/analyze-data-seaborn-python)
  - [Analyze Text Data with Yellowbrick](https://www.coursera.org/learn/analyze-text-data-yellowbrick)
  - [Anomaly Detection in Time Series Data with Keras](https://www.coursera.org/learn/anomaly-detection-time-series-keras)
- - [AutoML for Computer Vision with Microsoft Custom Vision](https://www.coursera.org/learn/automl-computer-vision-microsoft-custom-vision)
  - [Automatic Machine Learning with H2O AutoML and Python](https://www.coursera.org/learn/automatic-machine-learning-h2o-automl-python)
+ - [AutoML for Computer Vision with Microsoft Custom Vision](https://www.coursera.org/learn/automl-computer-vision-microsoft-custom-vision)
  - [Avoid Overfitting Using Regularization in TensorFlow](https://www.coursera.org/learn/tensorflow-regularization-avoid-overfitting)
  - [Basic Artificial Neural Networks in Python](https://www.coursera.org/learn/basic-artificial-neural-networks-in-python)
  - [Basic Image Classification with TensorFlow](https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification)
  - [Basic Sentiment Analysis with TensorFlow](https://www.coursera.org/learn/basic-sentiment-analysis-tensorflow)
- - [Build Multilayer Perceptron Models with Keras](https://www.coursera.org/learn/multilayer-perceptron-model-keras)
- - [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/learn/azure-machine-learning-studio-random-forests)
  - [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/learn/data-science-streamlit-python)
  - [Build a Deep Learning Based Image Classifier with R](https://www.coursera.org/learn/deep-learning-image-classifier-r)
  - [Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/learn/machine-learning-streamlit-python)
- - [Building Machine Learning Pipelines in PySpark MLlib](https://www.coursera.org/learn/spark-machine-learning-pipeline-python)
+ - [Build Multilayer Perceptron Models with Keras](https://www.coursera.org/learn/multilayer-perceptron-model-keras)
+ - [Build Random Forests in R with Azure ML Studio](https://www.coursera.org/learn/azure-machine-learning-studio-random-forests)
  - [Building and analyzing linear regression model in R](https://www.coursera.org/learn/build-analyze-linear-regression-model-r)
+ - [Building Machine Learning Pipelines in PySpark MLlib](https://www.coursera.org/learn/spark-machine-learning-pipeline-python)
  - [Classification with Transfer Learning in Keras](https://www.coursera.org/learn/image-classification-transfer-learning-keras)
  - [Classify Radio Signals from Space using Keras](https://www.coursera.org/learn/classify-radio-signals-space-keras-cnn)
  - [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/learn/clustering-geolocation-data-intelligently-python)
@@ -2821,11 +2821,11 @@
  - [Mining Quality Prediction Using Machine & Deep Learning](https://www.coursera.org/learn/mining-quality-prediction)
  - [Movie Recommendation System using Collaborative Filtering](https://www.coursera.org/learn/movie-recommendation-system-using-collaborative-filtering)
  - [Multiple Linear Regression with scikit-learn](https://www.coursera.org/learn/scikit-learn-multiple-linear-regression)
- - [NLP: Twitter Sentiment Analysis](https://www.coursera.org/learn/twitter-sentiment-analysis)
  - [Named Entity Recognition using LSTMs with Keras](https://www.coursera.org/learn/named-entity-recognition-lstm-keras-tensorflow)
- - [Neural Network Visualizer Web App with Python](https://www.coursera.org/learn/neural-network-visualizer)
  - [Neural Network from Scratch in TensorFlow](https://www.coursera.org/learn/neural-network-tensorflow)
+ - [Neural Network Visualizer Web App with Python](https://www.coursera.org/learn/neural-network-visualizer)
  - [Neural Style Transfer with TensorFlow](https://www.coursera.org/learn/neural-style-transfer)
+ - [NLP: Twitter Sentiment Analysis](https://www.coursera.org/learn/twitter-sentiment-analysis)
  - [Object Detection with Amazon Sagemaker](https://www.coursera.org/learn/object-detection-sagemaker)
  - [Optimization of Topic Models using Grid Search Method](https://www.coursera.org/learn/optimization-of-topic-models-using-grid-search-method)
  - [Optimize TensorFlow Models For Deployment with TensorRT](https://www.coursera.org/learn/tensorflow-tensorrt)
@@ -2861,6 +2861,25 @@
  - [Using TensorFlow with Amazon Sagemaker](https://www.coursera.org/learn/sagemaker-tensorflow)
  - [Video Basics with OpenCV and Python](https://www.coursera.org/learn/computer-vision-video-basics-opencv-python)
  - [Visual Machine Learning with Yellowbrick](https://www.coursera.org/learn/machine-learning-visualization)
+### deeplearning.ai
+#### [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)
+ - [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
+ - [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
+ - [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
+#### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+ - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+ - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+ - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+ - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+#### [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)
+ - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
+ - [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+ - [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
+#### [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+ - [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+ - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+ - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+ - [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
 ### Duke University
  - [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke)
 ### Google Cloud
@@ -2998,25 +3017,6 @@
 ### Yandex
  - [Big Data Applications: Machine Learning at Scale](https://www.coursera.org/learn/machine-learning-applications-big-data)
  - [Big Data Services: Capstone Project](https://www.coursera.org/learn/big-data-services)
-### deeplearning.ai
-#### [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)
- - [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
- - [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis)
- - [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
-#### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
- - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
- - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
- - [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
- - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
-#### [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/specializations/tensorflow-in-practice)
- - [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
- - [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
- - [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)
-#### [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
- - [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
- - [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
- - [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
- - [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
 ## Probability and Statistics
 ### Arizona State University
 #### [Design of Experiments Specialization](https://www.coursera.org/specializations/design-experiments)
@@ -3036,8 +3036,8 @@
  - [Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
  - [Statistics with R Capstone](https://www.coursera.org/learn/statistics-project)
 ### Eindhoven University of Technology
- - [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions)
  - [Improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences)
+ - [Improving Your Statistical Questions](https://www.coursera.org/learn/improving-statistical-questions)
 ### Erasmus University Rotterdam
  - [Econometrics: Methods and Applications](https://www.coursera.org/learn/erasmus-econometrics)
  - [Enjoyable Econometrics](https://www.coursera.org/learn/enjoyable-econometrics)
@@ -3423,8 +3423,8 @@
  - [Autism Spectrum Disorder](https://www.coursera.org/learn/autism-spectrum-disorder)
 ### University of Colorado System
 #### [Become an EMT Specialization](https://www.coursera.org/specializations/become-an-emt)
- - [EMT Foundations](https://www.coursera.org/learn/emt-foundations)
  - [Emergency Care: Pregnancy, Infants, and Children](https://www.coursera.org/learn/emergency-care-pregnancy-infants-children)
+ - [EMT Foundations](https://www.coursera.org/learn/emt-foundations)
  - [Medical Emergencies: Airway, Breathing, and Circulation](https://www.coursera.org/learn/medical-emergencies-airway-breathing-circulation)
  - [Medical Emergencies: CPR, Toxicology, and Wilderness](https://www.coursera.org/learn/medical-emergencies-cpr-toxicology-wilderness)
  - [Prepare for the EMT Certification Test](https://www.coursera.org/learn/prepare-emt-certification-test)
@@ -3585,9 +3585,9 @@
 ### Johns Hopkins University
  - [An Introduction to the U.S. Food System: Perspectives from Public Health](https://www.coursera.org/learn/food-system)
  - [Application of Health Equity Research Methods for Practice and Policy](https://www.coursera.org/learn/health-equity-research-methods)
- - [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
  - [Community Change in Public Health](https://www.coursera.org/learn/community-public-health)
  - [Confronting Gender Based Violence: Global Lessons for Healthcare Workers](https://www.coursera.org/learn/gender-based-violence)
+ - [COVID-19 Contact Tracing](https://www.coursera.org/learn/covid-19-contact-tracing)
  - [Diagnosing Health Behaviors for Global Health Programs](https://www.coursera.org/learn/health-behaviors-global)
  - [Disease Clusters](https://www.coursera.org/learn/disease-clusters)
  - [Engineering Life: Synbio, Bioethics & Public Policy](https://www.coursera.org/learn/synbioethics)
@@ -3664,8 +3664,8 @@
  - [Understanding Patient Perspectives on Medications](https://www.coursera.org/learn/patient-perspectives-on-medications)
 ### University of Geneva
  - [Drugs, drug use, drug policy and health](https://www.coursera.org/learn/drugs)
- - [Global Health Security, Solidarity and Sustainability through the International Health Regulations](https://www.coursera.org/learn/international-health-regulations)
  - [Global Health at the Human-Animal-Ecosystem Interface](https://www.coursera.org/learn/global-health-human-animal-ecosystem)
+ - [Global Health Security, Solidarity and Sustainability through the International Health Regulations](https://www.coursera.org/learn/international-health-regulations)
  - [Global Health: An Interdisciplinary Overview](https://www.coursera.org/learn/global-health-overview)
  - [In the footsteps of Zika… approaching the unknown](https://www.coursera.org/learn/zika)
 ### University of Geneva, University of Lausanne
@@ -3742,8 +3742,8 @@
 #### [Alibaba Cloud Computing Specialization](https://www.coursera.org/specializations/alibabacloud)
  - [Big Data Analytical Platform on Alibaba Cloud](https://www.coursera.org/learn/alibabacloudbigdata)
 ### Amazon Web Services
- - [AWS Computer Vision: Getting Started with GluonCV](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
  - [Amazon DynamoDB: Building NoSQL Database-Driven Applications](https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps)
+ - [AWS Computer Vision: Getting Started with GluonCV](https://www.coursera.org/learn/aws-computer-vision-gluoncv)
  - [Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
 #### [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)
  - [AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk)
@@ -3833,12 +3833,12 @@
  - [Advanced SQL Retrieval Queries in SQLiteStudio](https://www.coursera.org/learn/advanced-sql-retrieval-queries-in-sqlitestudio)
  - [Beginning SQL Server](https://www.coursera.org/learn/beginning-sql-server)
  - [Build a Database from a Relational Model](https://www.coursera.org/learn/build-a-database-from-a-relational-model)
- - [CRUD Operations using MongoDB NoSQL](https://www.coursera.org/learn/crud-operations-using-mongodb-nosql)
  - [Complex Retrieval Queries in MySQL Workbench](https://www.coursera.org/learn/complex-retrieval-queries-in-mysql-workbench)
+ - [Create a Database with the Modeling Tool in MySQL Workbench](https://www.coursera.org/learn/create-database-with-modeling-tool-mysql-workbench)
  - [Create Fault Tolerant MongoDB Cluster](https://www.coursera.org/learn/create-fault-tolerant-mongodb-cluster)
  - [Create Relational Database Tables Using SQLiteStudio](https://www.coursera.org/learn/create-relational-database-table-sqlitestudio)
- - [Create a Database with the Modeling Tool in MySQL Workbench](https://www.coursera.org/learn/create-database-with-modeling-tool-mysql-workbench)
  - [Creating Database Tables with SQL](https://www.coursera.org/learn/creating-database-tables-with-sql)
+ - [CRUD Operations using MongoDB NoSQL](https://www.coursera.org/learn/crud-operations-using-mongodb-nosql)
  - [Database Design and Diagramming in Dia](https://www.coursera.org/learn/database-design-and-diagramming-in-dia)
  - [Manipulating Data with SQL](https://www.coursera.org/learn/manipulating-data-with-sql)
  - [Relational Modeling in Dia](https://www.coursera.org/learn/relational-modeling-in-dia)
@@ -3942,13 +3942,6 @@
  - [Palo Alto Networks Cybersecurity Gateway II](https://www.coursera.org/learn/cybersecurity-gateway-2)
 ### The Hong Kong University of Science and Technology
  - [Information Systems Auditing, Controls and Assurance](https://www.coursera.org/learn/information-systems-audit)
-### University System of Georgia
-#### [Managing Cybersecurity Specialization](https://www.coursera.org/specializations/managing-cybersecurity)
- - [Managing Cybersecurity Incidents and Disasters](https://www.coursera.org/learn/managing-cybersecurity-incidents-and-disasters)
- - [Managing Network Security](https://www.coursera.org/learn/managing-network-cybersecurity)
- - [Road to the CISO – Culminating Project Course](https://www.coursera.org/learn/road-to-ciso)
- - [The Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-cybersecurity)
- - [The GRC Approach to Managing Cybersecurity](https://www.coursera.org/learn/grc-approach-to-managing-cybersecurity)
 ### University of Colorado System
 #### [Computer Security and Systems Management Specialization](https://www.coursera.org/specializations/computer-security-systems-management)
  - [Enterprise System Management and Security](https://www.coursera.org/learn/enterprise-system-management-security)
@@ -3963,6 +3956,13 @@
 ### University of Minnesota
 #### [Information​ ​Systems Specialization](https://www.coursera.org/specializations/information-systems)
  - [IT Infrastructure and Emerging Trends](https://www.coursera.org/learn/it-infrastructure-and-emerging-trends)
+### University System of Georgia
+#### [Managing Cybersecurity Specialization](https://www.coursera.org/specializations/managing-cybersecurity)
+ - [Managing Cybersecurity Incidents and Disasters](https://www.coursera.org/learn/managing-cybersecurity-incidents-and-disasters)
+ - [Managing Network Security](https://www.coursera.org/learn/managing-network-cybersecurity)
+ - [Road to the CISO – Culminating Project Course](https://www.coursera.org/learn/road-to-ciso)
+ - [The Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-cybersecurity)
+ - [The GRC Approach to Managing Cybersecurity](https://www.coursera.org/learn/grc-approach-to-managing-cybersecurity)
 ## Support and Operations
 ### Coursera Project Network
  - [Build local development environments using Docker containers](https://www.coursera.org/learn/build-local-development-environments-using-docker-containers)
@@ -4280,10 +4280,6 @@
  - [Studying at Japanese Universities](https://www.coursera.org/learn/study-in-japan)
 ### Universiteit Leiden
  - [De-Mystifying Mindfulness](https://www.coursera.org/learn/mindfulness)
-### University System of Georgia
- - [Career Options: Exploring a New Career](https://www.coursera.org/learn/career-exploration)
- - [Career Planning:  A Pathway to Employment](https://www.coursera.org/learn/career-planning)
- - [Successful Career Development](https://www.coursera.org/learn/career-advancement)
 ### University of California San Diego
  - [Achieving Your Optimal Performance](https://www.coursera.org/learn/achieving-your-optimal-performance)
  - [Converting Challenges into Opportunities](https://www.coursera.org/learn/converting-challenges-into-opportunities)
@@ -4328,11 +4324,15 @@
  - [Introduction to Personal Branding](https://www.coursera.org/learn/personal-branding)
 ### University of Washington
 #### [Dynamic Public Speaking Specialization](https://www.coursera.org/specializations/public-speaking)
- - [Speaking to Inspire: Ceremonial and Motivational Speeches](https://www.coursera.org/learn/speak-to-inspire-ceremonial-motivational-speeches)
  - [Speaking to inform:  Discussing complex ideas with clear explanations and dynamic slides](https://www.coursera.org/learn/inform-speech)
+ - [Speaking to Inspire: Ceremonial and Motivational Speeches](https://www.coursera.org/learn/speak-to-inspire-ceremonial-motivational-speeches)
  - [Speaking to persuade: Motivating audiences with solid arguments and moving language](https://www.coursera.org/learn/persuade-speech)
 ### University of Zurich
  - [Teaching Science at University](https://www.coursera.org/learn/teachingscience)
+### University System of Georgia
+ - [Career Options: Exploring a New Career](https://www.coursera.org/learn/career-exploration)
+ - [Career Planning:  A Pathway to Employment](https://www.coursera.org/learn/career-planning)
+ - [Successful Career Development](https://www.coursera.org/learn/career-advancement)
 ### Utrecht University
  - [Professionalism in an era of change](https://www.coursera.org/learn/professionalism-in-an-era-of-change)
 ### Wesleyan University
@@ -4397,9 +4397,6 @@
  - [Computer Architecture](https://www.coursera.org/learn/comparch)
 ### The State University of New York
  - [Solar Energy System Design](https://www.coursera.org/learn/solar-energy-system-design)
-### UNSW Sydney (The University of New South Wales)
- - [Introduction to Systems Engineering](https://www.coursera.org/learn/systems-engineering)
- - [Requirements Writing](https://www.coursera.org/learn/requirements-writing)
 ### Universitat Autònoma de Barcelona
  - [Digital Systems: From Logic Gates to Processors](https://www.coursera.org/learn/digital-systems)
 ### University at Buffalo, The State University of New York
@@ -4468,6 +4465,9 @@
  - [Introduction to battery-management systems](https://www.coursera.org/learn/battery-management-systems)
 ### University of Rochester
  - [Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics](https://www.coursera.org/learn/audio-engineering)
+### UNSW Sydney (The University of New South Wales)
+ - [Introduction to Systems Engineering](https://www.coursera.org/learn/systems-engineering)
+ - [Requirements Writing](https://www.coursera.org/learn/requirements-writing)
 ### Yonsei University
  - [Recent Advances in Freeform Electronics](https://www.coursera.org/learn/freeform-electronics)
  - [Wireless Communications for Everybody](https://www.coursera.org/learn/wireless-communications)
@@ -4526,9 +4526,9 @@
  - [A Circular Economy of Metals: Towards a Sustainable Societal Metabolism](https://www.coursera.org/learn/circular-economy-metals)
 ### University at Buffalo, The State University of New York
 #### [Solar Energy for Engineers, Architects and Code Inspectors Specialization](https://www.coursera.org/specializations/solar-energy)
+ - [Solar Energy and Electrical System Design](https://www.coursera.org/learn/solar-energy-and-electrical-system-design)
  - [Solar Energy Codes, Permitting and Zoning](https://www.coursera.org/learn/solar-energy-codes-permitting-zoning)
  - [Solar Energy Systems Overview](https://www.coursera.org/learn/solar-energy-systems)
- - [Solar Energy and Electrical System Design](https://www.coursera.org/learn/solar-energy-and-electrical-system-design)
 ### University of Alberta
  - [Introduction to the Arctic: Climate](https://www.coursera.org/learn/arctic-introduction-climate)
  - [Mountains 101](https://www.coursera.org/learn/mountains-101)
@@ -4539,8 +4539,8 @@
 ### University of California, Davis
 #### [Geographic Information Systems  (GIS) Specialization](https://www.coursera.org/specializations/gis)
  - [Fundamentals of GIS](https://www.coursera.org/learn/gis)
- - [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data)
  - [Geospatial and Environmental Analysis](https://www.coursera.org/learn/spatial-analysis)
+ - [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data)
  - [Imagery, Automation, and Applications](https://www.coursera.org/learn/gis-applications)
 ### University of Cape Town
  - [Climate Adaptation in Africa](https://www.coursera.org/learn/climate-adaptation)
@@ -4748,14 +4748,12 @@
 ### Technical University of Denmark (DTU)
  - [Introduction to advanced tomography](https://www.coursera.org/learn/cinemaxe)
 ### The University of Edinburgh
- - [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/learn/astronomy-technology)
  - [Astrobiology and the Search for Extraterrestrial Life](https://www.coursera.org/learn/astrobiology)
+ - [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/learn/astronomy-technology)
 ### The University of Sydney
  - [Data-driven Astronomy](https://www.coursera.org/learn/data-driven-astronomy)
 ### The University of Tokyo
  - [From the Big Bang to Dark Energy](https://www.coursera.org/learn/big-bang)
-### UNSW Sydney (The University of New South Wales)
- - [Mechanics: Motion, Forces, Energy and Gravity, from Particles to Planets](https://www.coursera.org/learn/mechanics-particles-planets)
 ### University of Alberta
  - [Astro 101: Black Holes](https://www.coursera.org/learn/black-holes-astro-101)
 ### University of Amsterdam
@@ -4784,14 +4782,16 @@
  - [Confronting The Big Questions: Highlights of Modern Astronomy](https://www.coursera.org/learn/astronomy)
 ### University of Virginia
  - [How Things Work: An Introduction to Physics](https://www.coursera.org/learn/how-things-work)
+### UNSW Sydney (The University of New South Wales)
+ - [Mechanics: Motion, Forces, Energy and Gravity, from Particles to Planets](https://www.coursera.org/learn/mechanics-particles-planets)
+### École normale supérieure
+ - [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics)
 ### École Polytechnique
  - [Physics of silicon solar cells](https://www.coursera.org/learn/physics-silicon-solar-cells)
  - [Quantum Optics 1 : Single Photons](https://www.coursera.org/learn/quantum-optics-single-photon)
  - [Quantum Optics 2 - Two photons and more](https://www.coursera.org/learn/quantum-optics-two-photons)
 ### École Polytechnique Fédérale de Lausanne
  - [Transmission electron microscopy for materials science](https://www.coursera.org/learn/microscopy)
-### École normale supérieure
- - [Statistical Mechanics: Algorithms and Computations](https://www.coursera.org/learn/statistical-mechanics)
 ## Research Methods
 ### Coursera Project Network
  - [Building an Ecosystem model with Insight Maker](https://www.coursera.org/learn/ecosystem-insight-maker)
@@ -4875,10 +4875,10 @@
  - [The Global Financial Crisis](https://www.coursera.org/learn/global-financial-crisis)
 ### Yonsei University
  - [The Korean Economic Development](https://www.coursera.org/learn/korean-economy)
-### École Polytechnique Fédérale de Lausanne
- - [Innovative Governance of Large Urban Systems](https://www.coursera.org/learn/iglus)
 ### École normale supérieure
  - [Ecological and Energy Transitions in Southern Countries](https://www.coursera.org/learn/ecological-and-energetical-transitions-in-southern-countries)
+### École Polytechnique Fédérale de Lausanne
+ - [Innovative Governance of Large Urban Systems](https://www.coursera.org/learn/iglus)
 ## Education
 ### Arizona State University
  - [Teach English Now! Capstone Project 1](https://www.coursera.org/learn/teaching-english-capstone)
@@ -4905,8 +4905,8 @@
 ### Coursera Project Network
  - [Building Classroom Community Using Flipgrid](https://www.coursera.org/learn/classroom-flipgrid)
  - [Create a Virtual Classroom using Google Slides](https://www.coursera.org/learn/virtual-classroom-google-slides)
- - [Creating Interactive Learning Videos with Edpuzzle](https://www.coursera.org/learn/creating-interactive-learning-videos-edpuzzle)
  - [Creating a Student Profile in Google Docs](https://www.coursera.org/learn/student-profile-google-docs)
+ - [Creating Interactive Learning Videos with Edpuzzle](https://www.coursera.org/learn/creating-interactive-learning-videos-edpuzzle)
  - [Encouraging Student Growth with Teach Your Monster to Read](https://www.coursera.org/learn/encouraging-student-growth)
  - [Engaging and Assessing  Students with Plickers](https://www.coursera.org/learn/engaging-assessing-students-plickers)
  - [Enhance Student Learning through Kahoot](https://www.coursera.org/learn/education-kahoot)
@@ -4969,12 +4969,8 @@
  - [Critical Thinking Skills for University Success](https://www.coursera.org/learn/critical-thinking-skills)
  - [Information & Digital Literacy for University Success](https://www.coursera.org/learn/digital-literacy)
  - [Problem-Solving Skills for University Success](https://www.coursera.org/learn/problem-solving-skills)
-### UNSW Sydney (The University of New South Wales)
- - [Learning to Teach Online](https://www.coursera.org/learn/teach-online)
 ### Universitat Autònoma de Barcelona
  - [Social Pedagogy across Europe](https://www.coursera.org/learn/social-pedagogy-europe)
-### University System of Georgia
- - [K-12 Blended & Online Learning](https://www.coursera.org/learn/k-12-online-education)
 ### University at Buffalo, The State University of New York
  - [ADHD: Everyday Strategies for Elementary Students](https://www.coursera.org/learn/adhd-treatment)
 ### University of California San Diego
@@ -5028,6 +5024,7 @@
 ### University of Illinois at Urbana-Champaign
  - [Assessment for Learning](https://www.coursera.org/learn/assessmentforlearning)
  - [Constructivism and Mathematics, Science, and Technology Education](https://www.coursera.org/learn/constructivism)
+ - [e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age](https://www.coursera.org/learn/elearning)
  - [Instructional Design Foundations and Applications](https://www.coursera.org/learn/instructional-design-foundations-applications)
  - [Learning Technologies Foundations and Applications](https://www.coursera.org/learn/learning-technologies-foundations-applications)
  - [Learning, Knowledge, and Human Development](https://www.coursera.org/learn/learning-knowledge-human-development)
@@ -5036,7 +5033,6 @@
  - [Negotiating Learner Differences: Towards Productive Diversity in Learning](https://www.coursera.org/learn/learnerdifferences)
  - [New Learning: Principles and Patterns of Pedagogy](https://www.coursera.org/learn/newlearning)
  - [Ubiquitous Learning and Instructional Technologies](https://www.coursera.org/learn/ubiquitouslearning)
- - [e-Learning Ecologies: Innovative Approaches to Teaching and Learning for the Digital Age](https://www.coursera.org/learn/elearning)
 ### University of London
  - [ICT in Primary Education: Transforming children's learning across the curriculum](https://www.coursera.org/learn/ict-primary-education)
 ### University of London, Bloomsbury Learning Exchange
@@ -5060,6 +5056,10 @@
  - [Design Thinking for the Greater Good: Innovation in the Social Sector](https://www.coursera.org/learn/uva-darden-design-thinking-social-sector)
 ### University of Washington
  - [U101: Understanding College and College Life](https://www.coursera.org/learn/college-life)
+### University System of Georgia
+ - [K-12 Blended & Online Learning](https://www.coursera.org/learn/k-12-online-education)
+### UNSW Sydney (The University of New South Wales)
+ - [Learning to Teach Online](https://www.coursera.org/learn/teach-online)
 ### Utrecht University
  - [Understanding child development: from synapse to society](https://www.coursera.org/learn/child-development)
 ### Vanderbilt University
@@ -5085,11 +5085,11 @@
 ### Erasmus University Rotterdam
  - [International Security Management](https://www.coursera.org/learn/international-security-management)
  - [Qualitative Comparative Analysis (QCA)](https://www.coursera.org/learn/qualitative-comparative-analysis)
+### Hebrew University of Jerusalem
+ - [Israel State and Society](https://www.coursera.org/learn/israel)
 ### HEC Paris
  - [Time to Reorganize! Understand Organizations, Act, and Build a Meaningful World.](https://www.coursera.org/learn/orgology)
  - [Understanding Europe: Why It Matters and What It Can Offer You](https://www.coursera.org/learn/europe)
-### Hebrew University of Jerusalem
- - [Israel State and Society](https://www.coursera.org/learn/israel)
 ### IE Business School
 #### [Globalization, Economic Growth and Stability Specialization](https://www.coursera.org/specializations/globalization-economic-growth-and-stability)
  - [Understanding economic policymaking](https://www.coursera.org/learn/economic-policy)
@@ -5250,8 +5250,8 @@
 ### The University of North Carolina at Chapel Hill
  - [Introduction to Environmental Law and Policy](https://www.coursera.org/learn/environmental-law)
 ### Universiteit Leiden
- - [International Law In Action: Investigating and Prosecuting International Crimes](https://www.coursera.org/learn/international-law-in-action-2)
  - [International Law in Action: A Guide to the International Courts and Tribunals in The Hague](https://www.coursera.org/learn/international-law-in-action)
+ - [International Law In Action: Investigating and Prosecuting International Crimes](https://www.coursera.org/learn/international-law-in-action-2)
  - [International Law in Action: the Arbitration of International Disputes](https://www.coursera.org/learn/arbitration-international-disputes)
  - [Rethinking International Tax Law](https://www.coursera.org/learn/international-taxation)
 ### Universiteit Leiden, Kalshoven-Gieskes Forum

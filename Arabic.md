@@ -14,11 +14,11 @@
 ### Yale University
  - [مقدمة عن التفاوض: دليل استراتيجي لتصبح مُفاوضًا ذا مبادئ ومُقنعًا](https://www.coursera.org/learn/negotiation-ar)
 ## Business Strategy
+### deeplearning.ai
+ - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar)
 ### University of Virginia
  - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar)
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar)
-### deeplearning.ai
- - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar)
 ## Leadership and Management
 ### BCG, University of Virginia
  - [التحوّل الرقمي](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-ar)

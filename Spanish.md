@@ -24,6 +24,11 @@
 ### Duke University, Creative Time 
  - [ART of the MOOC: Activismo y Movimientos Sociales](https://www.coursera.org/learn/activismo-movimientos-sociales)
  - [ART of the MOOC: Arte Público y Pedagogía](https://www.coursera.org/learn/arte-publico-pedagogia)
+### Universidad de los Andes
+ - [Leer a Macondo: la obra de Gabriel García Márquez](https://www.coursera.org/learn/macondo-gabriel-garcia-marquez)
+### Universidad de Palermo
+ - [Historia del Arte: Del Arte Prehistórico al Renacimiento](https://www.coursera.org/learn/historia-del-arte-inicio)
+ - [Historia del Arte: Del Barroco al Arte Moderno](https://www.coursera.org/learn/historia-del-arte-moderno)
 ### Universidad Nacional Autónoma de México
 #### [Tecnología musical con software libre Specialization](https://www.coursera.org/specializations/tecnologia-musical)
  - [Aplicaciones musicales con Arduino](https://www.coursera.org/learn/aplicaciones-musicales-arduino)
@@ -32,11 +37,6 @@
  - [Introducción a la producción musical](https://www.coursera.org/learn/intro-produccion-musical)
  - [Perspectivas de música colaborativa](https://www.coursera.org/learn/perspectivas-musica-colaborativa)
  - [Tecnología musical con software libre: Proyecto final](https://www.coursera.org/learn/tecnologia-musical-proyecto)
-### Universidad de Palermo
- - [Historia del Arte: Del Arte Prehistórico al Renacimiento](https://www.coursera.org/learn/historia-del-arte-inicio)
- - [Historia del Arte: Del Barroco al Arte Moderno](https://www.coursera.org/learn/historia-del-arte-moderno)
-### Universidad de los Andes
- - [Leer a Macondo: la obra de Gabriel García Márquez](https://www.coursera.org/learn/macondo-gabriel-garcia-marquez)
 ### Universitat de Barcelona
  - [Introducción al Arte Sonoro](https://www.coursera.org/learn/introduccion-arte-sonoro)
 ## Philosophy
@@ -57,6 +57,8 @@
 ### Pontificia Universidad Católica de Chile
 #### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
  - [Contexto de Negocios en LATAM: Factores Políticos, Sociales y Económicos](https://www.coursera.org/learn/contexto-negocios-latam)
+### Universidad de los Andes
+ - [Formulación y evaluación de proyectos complejos](https://www.coursera.org/learn/formulacion-evaluacion-proyectos-ingenieria)
 ### Universidad Nacional Autónoma de México
 #### [Estrategias de Negociación Specialization](https://www.coursera.org/specializations/negociacion)
  - [Habilidades humanas y de negocios para negociar](https://www.coursera.org/learn/habilidades-negociacion)
@@ -68,8 +70,6 @@
  - [Introducción a la Estrategia](https://www.coursera.org/learn/introduccionalaestrategia)
  - [Introducción a las Finanzas](https://www.coursera.org/learn/estrategia-financiera)
  - [Introducción al Mercado](https://www.coursera.org/learn/mercado-investigacion)
-### Universidad de los Andes
- - [Formulación y evaluación de proyectos complejos](https://www.coursera.org/learn/formulacion-evaluacion-proyectos-ingenieria)
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
  - [Proyecto Final de Éxito Profesional](https://www.coursera.org/learn/proyecto-profesional)
@@ -80,6 +80,8 @@
 #### [Fundamentos Empresariales  Specialization](https://www.coursera.org/specializations/wharton-fundamentos-empresariales)
  - [Proyecto de Fundamentos Empresariales de Wharton](https://www.coursera.org/learn/wharton-proyecto-final-empresariales)
 ## Business Strategy
+### deeplearning.ai
+ - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es)
 ### Google Cloud
  - [Business Transformation with Google Cloud en Español](https://www.coursera.org/learn/business-transformation-google-cloud-es)
  - [Google Cloud Product Fundamentals en Español](https://www.coursera.org/learn/google-cloud-product-fundamentals-es)
@@ -96,17 +98,17 @@
  - [Negociación 4.0](https://www.coursera.org/learn/negociacion-iae)
 #### [Marketing Digital Specialization](https://www.coursera.org/specializations/marketing-digital)
  - [Estrategias de  Redes Sociales](https://www.coursera.org/learn/redes-sociales-estrategias)
-### Universidad Nacional Autónoma de México
-#### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
- - [Estratégicos Empresariales Proyecto Final](https://www.coursera.org/learn/estrategicos-empresariales-proyecto)
- - [Introducción a la Calidad](https://www.coursera.org/learn/gestion-de-productividad)
-### Universidad de Palermo
- - [E-Business: Negocios Online](https://www.coursera.org/learn/e-business)
 ### Universidad de los Andes
  - [Los Objetivos de Desarrollo Sostenible para las empresas](https://www.coursera.org/learn/objetivos-desarrollo-sostenible-empresas)
  - [Proyectos complejos: éxitos o fracasos](https://www.coursera.org/learn/proyectos-complejos-exitosos-fracasados)
 #### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
  - [Hacer negocios con multinacionales y empresas en América Latina](https://www.coursera.org/learn/negocios-multinacionales-america-latina)
+### Universidad de Palermo
+ - [E-Business: Negocios Online](https://www.coursera.org/learn/e-business)
+### Universidad Nacional Autónoma de México
+#### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
+ - [Estratégicos Empresariales Proyecto Final](https://www.coursera.org/learn/estrategicos-empresariales-proyecto)
+ - [Introducción a la Calidad](https://www.coursera.org/learn/gestion-de-productividad)
 ### University of New Mexico
  - [Negocios Internacionales I](https://www.coursera.org/learn/negocios-internacionales)
  - [Negocios Internacionales II](https://www.coursera.org/learn/negocios-internacionales-2)
@@ -116,8 +118,6 @@
  - [Introducción a la Gestión de Operaciones](https://www.coursera.org/learn/wharton-gestion-operaciones)
  - [Introducción a las Finanzas Corporativas](https://www.coursera.org/learn/wharton-finanzas-corporativas)
  - [Introducción al Marketing](https://www.coursera.org/learn/wharton-introduccion-marketing)
-### deeplearning.ai
- - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es)
 ## Entrepreneurship
 ### Goldman Sachs
  - [Fundamentos de la Administración con Goldman Sachs 10,000 Women](https://www.coursera.org/learn/10k-women-esp-8)
@@ -158,6 +158,10 @@
 ### Universidad Austral
  - [Finanzas Corporativas](https://www.coursera.org/learn/finanzas-corporativas)
  - [La Disrupción del Blockchain](https://www.coursera.org/learn/blockchain-espanol)
+### Universidad de Chile
+ - [Marketing Gerencial](https://www.coursera.org/learn/marketing-gerencial)
+### Universidad de los Andes
+ - [Fundamentos de Finanzas Empresariales](https://www.coursera.org/learn/finanzas-empresariales)
 ### Universidad Nacional Autónoma de México
  - [Contabilidad para no contadores](https://www.coursera.org/learn/contabilidad)
  - [Finanzas personales](https://www.coursera.org/learn/finanzas-personales)
@@ -168,10 +172,6 @@
  - [Matemáticas financieras](https://www.coursera.org/learn/matematicas)
  - [Toma de Decisiones Financieras](https://www.coursera.org/learn/proyectofinanzascorporativas)
  - [Valuación de empresas](https://www.coursera.org/learn/valuacionempresas)
-### Universidad de Chile
- - [Marketing Gerencial](https://www.coursera.org/learn/marketing-gerencial)
-### Universidad de los Andes
- - [Fundamentos de Finanzas Empresariales](https://www.coursera.org/learn/finanzas-empresariales)
 ## Leadership and Management
 ### ESADE Business and Law School
 #### [Empresa familiar: gestión, dirección y sucesión Specialization](https://www.coursera.org/specializations/empresa-familiar-gestion)
@@ -197,6 +197,8 @@
  - [Diseño de Experiencia en Servicios](https://www.coursera.org/learn/diseno-experiencia-servicios)
  - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech)
  - [Estrategia Empresarial](https://www.coursera.org/learn/estrategia-empresarial)
+### Universidad de los Andes
+ - [Gestión del alcance: el qué de la triple restricción](https://www.coursera.org/learn/gestion-alcance-proyectos)
 ### Universidad Nacional Autónoma de México
 #### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
  - [Administración para obtener resultados](https://www.coursera.org/learn/resultados)
@@ -204,8 +206,6 @@
  - [Gestión del talento humano](https://www.coursera.org/learn/gestion-del-talento)
  - [Orden y manejo del tiempo](https://www.coursera.org/learn/orden)
  - [Solución de problemas y toma de decisiones](https://www.coursera.org/learn/soluciondeproblemas)
-### Universidad de los Andes
- - [Gestión del alcance: el qué de la triple restricción](https://www.coursera.org/learn/gestion-alcance-proyectos)
 ### Universitat Autònoma de Barcelona
  - [Tu consultorio de Coaching en las ondas](https://www.coursera.org/learn/coaching-en-las-ondas)
 ### University of California, Irvine
@@ -283,8 +283,6 @@
 ### IBM
 #### [Fundamentos de IA para Todos Specialization](https://www.coursera.org/specializations/fundamentos-de-ia-para-todos)
  - [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion)
-### Universidad Nacional Autónoma de México
- - [Arduino y algunas aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
 ### Universidad de Chile
  - [¿Cómo (nos) cambia la Tecnología?](https://www.coursera.org/learn/comonoscambialatecnologia)
 ### Universidad de los Andes
@@ -294,6 +292,8 @@
  - [Desarrollo y Diseño de Videojuegos: Proyecto final](https://www.coursera.org/learn/proyecto-desarrollo-videojuegos)
  - [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro)
  - [Emprendimiento y métodos ágiles de desarrollo en videojuegos](https://www.coursera.org/learn/videojuegos-emprendimiento)
+### Universidad Nacional Autónoma de México
+ - [Arduino y algunas aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
 ### Universitat Autònoma de Barcelona
 #### [Diseño y Creación de videojuegos Specialization](https://www.coursera.org/specializations/diseno-videojuegos)
  - [Arte 3D y animación en videojuegos](https://www.coursera.org/learn/videojuegos-animation)
@@ -340,16 +340,16 @@
  - [Introducción a la programación con Python](https://www.coursera.org/learn/introduccion-python)
  - [Manejo de bases de datos con Python](https://www.coursera.org/learn/python-base-de-datos)
  - [Programación Orientada a Objetos con Python](https://www.coursera.org/learn/programacion-python-objetos)
+### Universidad de los Andes
+ - [Creación de diagramas de clases UML en GenMyModel](https://www.coursera.org/learn/uml-genmymodel)
+ - [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java)
+ - [Introducción a UML](https://www.coursera.org/learn/uml)
 ### Universidad Nacional Autónoma de México
  - [Introducción a Java](https://www.coursera.org/learn/introduccion-java)
 #### [Tecnología musical con software libre Specialization](https://www.coursera.org/specializations/tecnologia-musical)
  - [Composición algorítmica en Supercollider](https://www.coursera.org/learn/composicion-algoritmica-supercollider)
 ### Universidad ORT Uruguay, The University of Edinburgh
  - [¡A Programar! Una introducción a la programación](https://www.coursera.org/learn/a-programar)
-### Universidad de los Andes
- - [Creación de diagramas de clases UML en GenMyModel](https://www.coursera.org/learn/uml-genmymodel)
- - [Introducción a UML](https://www.coursera.org/learn/uml)
- - [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java)
 # Data Science
 ## Data Analysis
 ### Coursera Project Network
@@ -419,6 +419,8 @@
  - [Spanish for Successful Communication in Healthcare Settings](https://www.coursera.org/learn/spanish-in-healthcare-settings)
 ### Tecnológico de Monterrey
  - [Evaluación del Aprendizaje en Escenarios Clínicos](https://www.coursera.org/learn/evaluacion-aprendizaje-escenarios-clinicos)
+### Universidad de los Andes
+ - [Diagnóstico y tratamiento del dolor neuropático en atención primaria](https://www.coursera.org/learn/dolor-neuropatico-anestesiologia)
 ### Universidad Nacional Autónoma de México
  - [Cuidado de heridas en el ámbito hospitalario](https://www.coursera.org/learn/cuidado-heridas)
  - [Cáncer de próstata](https://www.coursera.org/learn/cancer-prostata)
@@ -428,33 +430,31 @@
  - [Manejo moderno de la caries dental](https://www.coursera.org/learn/tratamiento-caries)
 ### Universidad Nacional de Colombia
  - [Cuidando a la persona en situación crítica de salud en UCI](https://www.coursera.org/learn/cuidando-en-uci)
-### Universidad de los Andes
- - [Diagnóstico y tratamiento del dolor neuropático en atención primaria](https://www.coursera.org/learn/dolor-neuropatico-anestesiologia)
 ### Universitat Autònoma de Barcelona
  - [Actúa ante el dolor crónico](https://www.coursera.org/learn/actua-dolor-cronico)
  - [Anticoncepción hormonal al alcance de todos](https://www.coursera.org/learn/anticonconcepcion-hormonal)
 ### Universitat de Barcelona
  - [Atención prehospitalaria del ictus agudo y selección de pacientes para tratamiento endovascular con la escala RACE](https://www.coursera.org/learn/ictus-agudo-escala-race)
 ## Psychology
-### Universidad de Palermo
- - [Introducción a la Neurociencia](https://www.coursera.org/learn/neurociencia)
- - [Psicología](https://www.coursera.org/learn/psicologia)
 ### Universidad de los Andes
  - [Bienestar, equidad y derechos humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos)
  - [Diseño de proyectos para promover el bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar)
  - [Sexualidad...mucho más que sexo](https://www.coursera.org/learn/sexualidad)
+### Universidad de Palermo
+ - [Introducción a la Neurociencia](https://www.coursera.org/learn/neurociencia)
+ - [Psicología](https://www.coursera.org/learn/psicologia)
 ### Universitat Autònoma de Barcelona
  - [Primeros Auxilios Psicológicos (PAP)](https://www.coursera.org/learn/pap)
  - [Primeros Auxilios Psicológicos (PAP). Edición especial COVID-19](https://www.coursera.org/learn/pap-covid19)
 ## Public Health
 ### Johns Hopkins University
  - [Rastreo de los contactos de la COVID-19](https://www.coursera.org/learn/rastreo-contactos-covid-19)
-### Universidad Nacional Autónoma de México
- - [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica)
 ### Universidad de Chile
  - [Cuidados y procedimientos generales en la atención del recién nacido](https://www.coursera.org/learn/cuidados-del-recien-nacido)
  - [Inclusión social de personas con discapacidad desde un enfoque de derechos.](https://www.coursera.org/learn/inclusion-social-personas-discapacidad)
  - [Seguimiento de casos y contactos COVID-19](https://www.coursera.org/learn/seguimiento-de-casos-y-contactos-covid-19)
+### Universidad Nacional Autónoma de México
+ - [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica)
 # Information Technology
 ## Cloud Computing
 ### Coursera Project Network
@@ -495,10 +495,10 @@
 ## Learning English
 ### Arizona State University
 #### [Inglés Empresarial Specialization](https://www.coursera.org/specializations/ingles-empresarial)
+ - [Inglés Empresarial: el márketing y ventas](https://www.coursera.org/learn/ingles-empresarial-marketing-ventas)
  - [Inglés Empresarial: Finanzas y Economía](https://www.coursera.org/learn/ingles-empresarial-finanzas-economia)
  - [Inglés Empresarial: Gestión y Liderazgo](https://www.coursera.org/learn/ingles-empresarial-gestion-liderazgo)
  - [Inglés Empresarial: Proyecto Final](https://www.coursera.org/learn/ingles-empresarial-proyecto)
- - [Inglés Empresarial: el márketing y ventas](https://www.coursera.org/learn/ingles-empresarial-marketing-ventas)
 ## Other Languages
 ### Arizona State University
 #### [Chino básico: Lenguaje y cultura empresarial Specialization](https://www.coursera.org/specializations/chino-basico)
@@ -520,14 +520,14 @@
  - [Introducción al análisis de Costos para la Dirección de Empresas](https://www.coursera.org/learn/analisis-costos-direccion-empresas)
 ### Universidad Autónoma Metropolitana
  - [Geometría Analítica Preuniversitaria](https://www.coursera.org/learn/geometra-analtica-preuniversitaria)
-### Universidad Nacional Autónoma de México
- - [Estadística y probabilidad](https://www.coursera.org/learn/estadistica-probabilidad)
- - [Funciones algebraicas y trascendentes](https://www.coursera.org/learn/funciones-algebraicas)
- - [Álgebra Básica](https://www.coursera.org/learn/algebra-basica)
 ### Universidad de los Andes
  - [Aprendizaje de las matemáticas de primaria](https://www.coursera.org/learn/aprendizaje-matematicas-primaria)
  - [Contenido de las matemáticas de primaria](https://www.coursera.org/learn/contenido-matematica-escolar)
  - [Enseñanza de las matemáticas de primaria](https://www.coursera.org/learn/ensenanza-matematicas-primaria)
+### Universidad Nacional Autónoma de México
+ - [Estadística y probabilidad](https://www.coursera.org/learn/estadistica-probabilidad)
+ - [Funciones algebraicas y trascendentes](https://www.coursera.org/learn/funciones-algebraicas)
+ - [Álgebra Básica](https://www.coursera.org/learn/algebra-basica)
 ### Universitat Autònoma de Barcelona
  - [Pre-Calculus](https://www.coursera.org/learn/introduccion-al-calculo)
 # Personal Development
@@ -543,12 +543,6 @@
  - [Liderazgo Instruccional: Perspectiva Global y Prácticas Locales](https://www.coursera.org/learn/liderazgo-educativo)
 ### Universidad Austral
  - [Trabajar para ser feliz](https://www.coursera.org/learn/familia-trabajo-sociedad)
-### Universidad Nacional Autónoma de México
- - [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
-#### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
- - [Ser más creativos](https://www.coursera.org/learn/creatividad)
-#### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
- - [Habilidades gerenciales: Proyecto final](https://www.coursera.org/learn/hgproyectofinal)
 ### Universidad de Chile
  - [Mi Primer Empleo (MPE)](https://www.coursera.org/learn/mi-primer-empleo)
 ### Universidad de los Andes
@@ -560,6 +554,12 @@
  - [Comunicación, experimentación y aprendizaje en liderazgo](https://www.coursera.org/learn/comunicacion-experimentacion-aprendizaje)
  - [Estilos de Liderazgo: opciones para avanzar en desafíos complejos](https://www.coursera.org/learn/estilos-liderazgo)
  - [Liderazgo para el Siglo XXI: proyecto final](https://www.coursera.org/learn/liderazgo)
+### Universidad Nacional Autónoma de México
+ - [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
+#### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
+ - [Ser más creativos](https://www.coursera.org/learn/creatividad)
+#### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
+ - [Habilidades gerenciales: Proyecto final](https://www.coursera.org/learn/hgproyectofinal)
 ### Universitat Autònoma de Barcelona
  - [Competencias digitales. Bases de datos: Access](https://www.coursera.org/learn/competencias-digitales-access)
  - [Competencias digitales. Conceptos y herramientas básicas](https://www.coursera.org/learn/competencias-digitales-herramientas-basicas)
@@ -629,12 +629,12 @@
  - [Analizando las Políticas Económicas](https://www.coursera.org/learn/analizando-politicas-economicas)
  - [Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado](https://www.coursera.org/learn/comercio-inmigracion-tipos-de-cambio)
  - [Riesgos y oportunidades empresariales en una economía globalizada](https://www.coursera.org/learn/riesgos-oportunidades-empresariales)
-### Universidad Nacional Autónoma de México
- - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios)
- - [¿Cómo llegamos aquí? Una historia del poder en México](https://www.coursera.org/learn/historia-de-mexico)
 ### Universidad de Chile
  - [Criterios para la Gestión y el Aseguramiento de la Calidad en la Educación Superior](https://www.coursera.org/learn/calidadeducacionsuperior)
  - [Sustentabilidad y Economías Sociales](https://www.coursera.org/learn/sustentabilidad-economias-sociales)
+### Universidad Nacional Autónoma de México
+ - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios)
+ - [¿Cómo llegamos aquí? Una historia del poder en México](https://www.coursera.org/learn/historia-de-mexico)
 ### Universitat Autònoma de Barcelona
  - [Kit básico (para evitar los errores más frecuentes) de finanzas](https://www.coursera.org/learn/finanzas-basicas)
 ### École normale supérieure
@@ -664,6 +664,13 @@
  - [Enseñar, aprender y evaluar en Escuelas Rurales](https://www.coursera.org/learn/ensenar-aprender-evaluar-escuelas-rurales)
  - [Gestión estratégica de Escuelas en Contextos Rurales](https://www.coursera.org/learn/gestion-estrategica-escuelas-rurales)
  - [La escuela y su comunidad: lecciones desde la ruralidad](https://www.coursera.org/learn/escuela-comunidad-lecciones-innovacion-educativa)
+### Universidad de Chile
+ - [Docencia para la capacitación laboral y el aprendizaje a lo largo de la vida.](https://www.coursera.org/learn/docencia-capacitacion-laboral)
+ - [El desafío de Innovar en la Educación Superior](https://www.coursera.org/learn/educacion-superior)
+ - [Potenciando mi aprendizaje en el primer año de Universidad](https://www.coursera.org/learn/potenciando-aprendizaje)
+### Universidad de los Andes
+ - [Formadores de Ciudadanía](https://www.coursera.org/learn/formadores-ciudadania)
+ - [Sexualidad y educación](https://www.coursera.org/learn/sexualidad-y-educacion)
 ### Universidad Nacional Autónoma de México
  - [Aprender](https://www.coursera.org/learn/aprendo)
  - [Atrévete a innovar tu enseñanza con pensamiento de diseño](https://www.coursera.org/learn/innovacioneducativa)
@@ -676,13 +683,6 @@
  - [Evaluación para el aprendizaje: Enfoque cualitativo](https://www.coursera.org/learn/evaluacion-cualitativa)
  - [Evaluación para el aprendizaje: Enfoque cuantitativo](https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo)
  - [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final)
-### Universidad de Chile
- - [Docencia para la capacitación laboral y el aprendizaje a lo largo de la vida.](https://www.coursera.org/learn/docencia-capacitacion-laboral)
- - [El desafío de Innovar en la Educación Superior](https://www.coursera.org/learn/educacion-superior)
- - [Potenciando mi aprendizaje en el primer año de Universidad](https://www.coursera.org/learn/potenciando-aprendizaje)
-### Universidad de los Andes
- - [Formadores de Ciudadanía](https://www.coursera.org/learn/formadores-ciudadania)
- - [Sexualidad y educación](https://www.coursera.org/learn/sexualidad-y-educacion)
 ### Universitat de Barcelona
  - [Claves para la innovación en la docencia universitaria](https://www.coursera.org/learn/innovacion-docencia-universitaria)
 ## Governance and Society
@@ -690,6 +690,11 @@
  - [Geopolítica y gobernanza global: riesgos y oportunidades](https://www.coursera.org/learn/geopoliticaygobernanzaglobal)
 ### The World Bank Group
  - [Bajemos la temperatura: De la ciencia climática a la acción](https://www.coursera.org/learn/cambios-temperatura)
+### Universidad de Chile
+ - [América Latina en los cambios internacionales: amenazas y oportunidades.](https://www.coursera.org/learn/america-latina)
+ - [Competencias Laborales: Perfiles, Evaluación y Capacitación.](https://www.coursera.org/learn/competencias-lab)
+### Universidad de los Andes
+ - [Objetivos de desarrollo sostenible para América Latina y el Caribe](https://www.coursera.org/learn/objetivos-desarrollo-sostenible)
 ### Universidad Nacional Autónoma de México
  - [Acuerdos globales para el desarrollo sostenible](https://www.coursera.org/learn/acuerdos-globales)
  - [Anticorrupción: Introducción a conceptos y perspectiva práctica](https://www.coursera.org/learn/anticorrupcion-introduccion)
@@ -699,11 +704,6 @@
  - [Los gobiernos locales como actores internacionales](https://www.coursera.org/learn/gobiernos-locales)
  - [Periodismo digital y combate a las fake news](https://www.coursera.org/learn/periodismo-digital)
  - [Seguridad hídrica](https://www.coursera.org/learn/seguridad-hidrica)
-### Universidad de Chile
- - [América Latina en los cambios internacionales: amenazas y oportunidades.](https://www.coursera.org/learn/america-latina)
- - [Competencias Laborales: Perfiles, Evaluación y Capacitación.](https://www.coursera.org/learn/competencias-lab)
-### Universidad de los Andes
- - [Objetivos de desarrollo sostenible para América Latina y el Caribe](https://www.coursera.org/learn/objetivos-desarrollo-sostenible)
 ### Universitat Autònoma de Barcelona
  - [Ciudades en crisis y nuevas políticas urbanas](https://www.coursera.org/learn/ciudades-politicas-urbanas)
  - [Democracia y decisiones públicas. Introducción al análisis de políticas públicas](https://www.coursera.org/learn/democracia)
