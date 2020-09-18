@@ -50,10 +50,10 @@
  - [Les partenariats qui changent le monde : alliances innovantes entre entreprises et associations](https://www.coursera.org/learn/partenariats-qui-changent-le-monde)
  - [Évaluation & Mesure d'Impact Social](https://www.coursera.org/learn/evaluation-mesure-impact-social) `beginner`
 #### [L'impact investing, la finance qui change le monde Specialization](https://www.coursera.org/specializations/impact-investing)
- - [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
- - [L'impact investing : comprendre les fondamentaux](https://www.coursera.org/learn/investing-fondamentaux)
- - [L'impact investing : innover](https://www.coursera.org/learn/impactinvestinginnover)
- - [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
+1. [L'impact investing : comprendre les fondamentaux](https://www.coursera.org/learn/investing-fondamentaux)
+2. [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
+3. [L'impact investing : innover](https://www.coursera.org/learn/impactinvestinginnover)
+4. [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
 ### HEC Paris, Ticket for Change
  - [Devenir entrepreneur du changement](https://www.coursera.org/learn/entrepreneur-changement)
 ### Sciences Po
@@ -83,9 +83,9 @@
  - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Français Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-fr)
- - [Architecting with Google Kubernetes Engine: Foundations en Français](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-fr) `intermediate`
- - [Architecting with Google Kubernetes Engine: Production en Français](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-fr) `intermediate`
- - [Architecting with Google Kubernetes Engine: Workloads en Français](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-fr) `intermediate`
+2. [Architecting with Google Kubernetes Engine: Foundations en Français](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-fr) `intermediate`
+3. [Architecting with Google Kubernetes Engine: Workloads en Français](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-fr) `intermediate`
+4. [Architecting with Google Kubernetes Engine: Production en Français](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-fr) `intermediate`
 ### École Polytechnique Fédérale de Lausanne
  - [Initiation à la programmation (en C++)](https://www.coursera.org/learn/initiation-programmation-cpp) `beginner`
  - [Initiation à la programmation (en Java)](https://www.coursera.org/learn/initiation-programmation-java) `beginner`
@@ -105,11 +105,11 @@
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Français Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-fr)
- - [Art and Science of Machine Learning en Français](https://www.coursera.org/learn/art-science-ml-fr) `intermediate`
- - [Feature Engineering en Français](https://www.coursera.org/learn/feature-engineering-fr) `intermediate`
- - [How Google does Machine Learning en Français](https://www.coursera.org/learn/google-machine-learning-fr) `intermediate`
- - [Intro to TensorFlow en Français](https://www.coursera.org/learn/intro-tensorflow-fr) `intermediate`
- - [Launching into Machine Learning en Français](https://www.coursera.org/learn/launching-machine-learning-fr) `intermediate`
+1. [How Google does Machine Learning en Français](https://www.coursera.org/learn/google-machine-learning-fr) `intermediate`
+2. [Launching into Machine Learning en Français](https://www.coursera.org/learn/launching-machine-learning-fr) `intermediate`
+3. [Intro to TensorFlow en Français](https://www.coursera.org/learn/intro-tensorflow-fr) `intermediate`
+4. [Feature Engineering en Français](https://www.coursera.org/learn/feature-engineering-fr) `intermediate`
+5. [Art and Science of Machine Learning en Français](https://www.coursera.org/learn/art-science-ml-fr) `intermediate`
 # Health
 > - [Healthcare Management](#healthcare-management)
 > - [Patient Care](#patient-care)
@@ -141,10 +141,10 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Français](https://www.coursera.org/learn/gcp-fundamentals-fr) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process en Français](https://www.coursera.org/learn/cloud-infrastructure-design-process-fr) `intermediate`
 #### [Data Engineer, Big Data and ML on Google Cloud en Français Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-fr)
- - [Building Batch Data Pipelines on GCP en Français](https://www.coursera.org/learn/batch-data-pipelines-gcp-fr) `intermediate`
- - [Building Resilient Streaming Analytics Systems on GCP en Français](https://www.coursera.org/learn/streaming-analytics-systems-gcp-fr) `intermediate`
- - [Modernizing Data Lakes and Data Warehouses with GCP en Français](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-fr) `intermediate`
- - [Smart Analytics, Machine Learning, and AI on GCP en Français](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-fr) `intermediate`
+2. [Modernizing Data Lakes and Data Warehouses with GCP en Français](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-fr) `intermediate`
+3. [Building Batch Data Pipelines on GCP en Français](https://www.coursera.org/learn/batch-data-pipelines-gcp-fr) `intermediate`
+4. [Building Resilient Streaming Analytics Systems on GCP en Français](https://www.coursera.org/learn/streaming-analytics-systems-gcp-fr) `intermediate`
+5. [Smart Analytics, Machine Learning, and AI on GCP en Français](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-fr) `intermediate`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages

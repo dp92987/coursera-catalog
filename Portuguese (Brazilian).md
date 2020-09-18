@@ -19,9 +19,9 @@
  - [Introdução à Guitarra](https://www.coursera.org/learn/intro-guitarra) `beginner`
  - [Teoria Musical](https://www.coursera.org/learn/teoria-musical) `beginner`
 #### [O Músico Contemporâneo Specialization](https://www.coursera.org/specializations/musico-contmporaneo)
- - [Composição: Escrevendo a letra](https://www.coursera.org/learn/composicao-escrevendo-letra) `beginner`
- - [Desenvolvendo sua musicalidade](https://www.coursera.org/learn/desenvolvendo-musicalidade) `beginner`
- - [Produção final do músico moderno](https://www.coursera.org/learn/producao-musico-moderno) `intermediate`
+1. [Desenvolvendo sua musicalidade](https://www.coursera.org/learn/desenvolvendo-musicalidade) `beginner`
+2. [Composição: Escrevendo a letra](https://www.coursera.org/learn/composicao-escrevendo-letra) `beginner`
+4. [Produção final do músico moderno](https://www.coursera.org/learn/producao-musico-moderno) `intermediate`
 ### Universidade Estadual de Campinas
  - [A complexidade sensível: Um paralelo entre videogames e arte](https://www.coursera.org/learn/videogames)
  - [PRINCÍPIOS GERAIS DA TÉCNICA DO VIOLINO E DA VIOLA DE ARCO](https://www.coursera.org/learn/tecnica-violino-viola) `intermediate`
@@ -40,8 +40,8 @@
  - [Teoria Geral da Administração para Executivos](https://www.coursera.org/learn/tga-executivos) `beginner`
 ### INSEAD
 #### [Blockchain Para a Empresa Specialization](https://www.coursera.org/specializations/blockchain-para-a-empresa)
- - [Blockchain e Negócios: Aplicativos e Implicações](https://www.coursera.org/learn/blockchain-negocios)
- - [Introdução às Tecnologias Blockchain](https://www.coursera.org/learn/introducao-tecnologias-blockchain) `beginner`
+1. [Introdução às Tecnologias Blockchain](https://www.coursera.org/learn/introducao-tecnologias-blockchain) `beginner`
+3. [Blockchain e Negócios: Aplicativos e Implicações](https://www.coursera.org/learn/blockchain-negocios)
 ### Universidade de São Paulo
  - [Marketing e vendas B2B: Fechando novos negócios](https://www.coursera.org/learn/marketing-vendas-b2b) `beginner`
 ### University of Michigan
@@ -51,8 +51,8 @@
  - [Business Transformation with Google Cloud em Português](https://www.coursera.org/learn/business-transformation-google-cloud-br) `beginner`
  - [Google Cloud Product Fundamentals em Português Brasileiro](https://www.coursera.org/learn/google-cloud-product-fundamentals-br) `beginner`
 ### INSEAD
- - [Análise de oportunidade de Blockchain](https://www.coursera.org/learn/analise-oportunidade-blockchain) `intermediate`
- - [Transacionando na Blockchain](https://www.coursera.org/learn/transacionando-na-blockchain) `intermediate`
+2. [Transacionando na Blockchain](https://www.coursera.org/learn/transacionando-na-blockchain) `intermediate`
+4. [Análise de oportunidade de Blockchain](https://www.coursera.org/learn/analise-oportunidade-blockchain) `intermediate`
 ### Insper
  - [Capitalismo Consciente](https://www.coursera.org/learn/capitalismo-consciente)
  - [Gestão de Operações](https://www.coursera.org/learn/gestao-de-operacoes) `beginner`
@@ -83,10 +83,10 @@
  - [Inove na gestão de equipes e negócios: O crescimento da empresa](https://www.coursera.org/learn/gestao-equipes-negocios) `beginner`
 ### Universidade de São Paulo, University of California, Irvine
 #### [Introdução aos Princípios e Práticas da Gestão De Projetos Specialization](https://www.coursera.org/specializations/gestao-de-projetos-introducao-usp)
- - [Gestão de Riscos e de Mudanças em Projetos](https://www.coursera.org/learn/riscos-mudancas-em-projetos)
- - [Iniciação e Planejamento de Projetos](https://www.coursera.org/learn/projeto-aplicado) `beginner`
- - [Orçamento e Cronograma de Projetos](https://www.coursera.org/learn/orcamento-cronograma-de-projetos) `beginner`
- - [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
+1. [Iniciação e Planejamento de Projetos](https://www.coursera.org/learn/projeto-aplicado) `beginner`
+2. [Orçamento e Cronograma de Projetos](https://www.coursera.org/learn/orcamento-cronograma-de-projetos) `beginner`
+3. [Gestão de Riscos e de Mudanças em Projetos](https://www.coursera.org/learn/riscos-mudancas-em-projetos)
+4. [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
 ### Universidade Estadual de Campinas
  - [Conceitos Básicos de Logística e Supply Chain](https://www.coursera.org/learn/conceitos-basicos-logistica) `beginner`
 ## Marketing
@@ -116,9 +116,9 @@
 ### Google Cloud
  - [Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro](https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-br) `intermediate`
 #### [Architecting with Google Kubernetes Engine en Portuguese  Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-br)
- - [Architecting with Google Kubernetes Engine: Foundations em Português Brasileiro](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-br) `intermediate`
- - [Architecting with Google Kubernetes Engine: Production em Português Brasileiro](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-br) `intermediate`
- - [Architecting with Google Kubernetes Engine: Workloads em Português Brasileiro](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-br) `intermediate`
+2. [Architecting with Google Kubernetes Engine: Foundations em Português Brasileiro](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-br) `intermediate`
+3. [Architecting with Google Kubernetes Engine: Workloads em Português Brasileiro](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-br) `intermediate`
+4. [Architecting with Google Kubernetes Engine: Production em Português Brasileiro](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-br) `intermediate`
 ### Instituto Tecnológico de Aeronáutica
  - [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) `intermediate`
  - [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) `intermediate`
@@ -144,11 +144,11 @@
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-br) `intermediate`
  - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform em Português Brasileiro Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-br)
- - [Art and Science of Machine Learning em Português Brasileiro](https://www.coursera.org/learn/art-science-ml-br) `intermediate`
- - [Feature Engineering em Português Brasileiro](https://www.coursera.org/learn/feature-engineering-br) `intermediate`
- - [How Google does Machine Learning em Português Brasileiro](https://www.coursera.org/learn/google-machine-learning-br) `intermediate`
- - [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
- - [Launching into Machine Learning em Português Brasileiro](https://www.coursera.org/learn/launching-machine-learning-br) `intermediate`
+1. [How Google does Machine Learning em Português Brasileiro](https://www.coursera.org/learn/google-machine-learning-br) `intermediate`
+2. [Launching into Machine Learning em Português Brasileiro](https://www.coursera.org/learn/launching-machine-learning-br) `intermediate`
+3. [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
+4. [Feature Engineering em Português Brasileiro](https://www.coursera.org/learn/feature-engineering-br) `intermediate`
+5. [Art and Science of Machine Learning em Português Brasileiro](https://www.coursera.org/learn/art-science-ml-br) `intermediate`
 ## Probability and Statistics
 ### Universidade de São Paulo
  - [Estatística não-paramétrica para a tomada de decisão](https://www.coursera.org/learn/estatistica-nao-parametrica) `intermediate`
@@ -182,22 +182,22 @@
  - [Preparing for the Google Cloud Professional Data Engineer Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-br) `advanced`
  - [Reliable Cloud Infrastructure: Design and Process em Português Brasileiro](https://www.coursera.org/learn/cloud-infrastructure-design-process-br) `intermediate`
 #### [Data Engineer, Big Data and ML on Google Cloud em Português Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-br)
- - [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br) `intermediate`
- - [Building Resilient Streaming Analytics Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/streaming-analytics-systems-gcp-br) `intermediate`
- - [Modernizing Data Lakes and Data Warehouses with GCP em Português Brasileiro](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-br) `intermediate`
- - [Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-br) `intermediate`
+2. [Modernizing Data Lakes and Data Warehouses with GCP em Português Brasileiro](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-br) `intermediate`
+3. [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br) `intermediate`
+4. [Building Resilient Streaming Analytics Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/streaming-analytics-systems-gcp-br) `intermediate`
+5. [Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-br) `intermediate`
 ## Networking
 ### Cresça com o Google
 #### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
- - [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
+2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
 ## Security
 ### Cresça com o Google
- - [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
+5. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
 ## Support and Operations
 ### Cresça com o Google
- - [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti) `beginner`
- - [Fundamentos do Suporte Técnico](https://www.coursera.org/learn/fundamentos-do-suporte-tecnico) `beginner`
- - [Sistemas Operacionais e Você: Tornando-se um Usuário Avançado](https://www.coursera.org/learn/sistemas-operacionais) `beginner`
+1. [Fundamentos do Suporte Técnico](https://www.coursera.org/learn/fundamentos-do-suporte-tecnico) `beginner`
+3. [Sistemas Operacionais e Você: Tornando-se um Usuário Avançado](https://www.coursera.org/learn/sistemas-operacionais) `beginner`
+4. [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti) `beginner`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages

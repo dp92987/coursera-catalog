@@ -20,9 +20,9 @@
 ## Software Development
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine auf Deutsch Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-de)
- - [Architecting with Google Kubernetes Engine: Foundations auf Deutsch](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-de) `intermediate`
- - [Architecting with Google Kubernetes Engine: Production auf Deutsch](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-de) `intermediate`
- - [Architecting with Google Kubernetes Engine: Workloads auf Deutsch](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-de) `intermediate`
+2. [Architecting with Google Kubernetes Engine: Foundations auf Deutsch](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-de) `intermediate`
+3. [Architecting with Google Kubernetes Engine: Workloads auf Deutsch](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-de) `intermediate`
+4. [Architecting with Google Kubernetes Engine: Production auf Deutsch](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-de) `intermediate`
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
@@ -48,10 +48,10 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure auf Deutsch](https://www.coursera.org/learn/gcp-fundamentals-de) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process auf Deutsch](https://www.coursera.org/learn/cloud-infrastructure-design-process-de) `intermediate`
 #### [Data Engineer, Big Data and ML on Google Cloud auf Deutsch Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-de)
- - [Building Batch Data Pipelines on GCP auf Deutsch](https://www.coursera.org/learn/batch-data-pipelines-gcp-de) `intermediate`
- - [Building Resilient Streaming Analytics Systems on GCP auf Deutsch](https://www.coursera.org/learn/streaming-analytics-systems-gcp-de) `intermediate`
- - [Modernizing Data Lakes and Data Warehouses with GCP auf Deutsch](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-de) `intermediate`
- - [Smart Analytics, Machine Learning, and AI on GCP auf Deutsch](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-de) `intermediate`
+2. [Modernizing Data Lakes and Data Warehouses with GCP auf Deutsch](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-de) `intermediate`
+3. [Building Batch Data Pipelines on GCP auf Deutsch](https://www.coursera.org/learn/batch-data-pipelines-gcp-de) `intermediate`
+4. [Building Resilient Streaming Analytics Systems on GCP auf Deutsch](https://www.coursera.org/learn/streaming-analytics-systems-gcp-de) `intermediate`
+5. [Smart Analytics, Machine Learning, and AI on GCP auf Deutsch](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-de) `intermediate`
 # Physical Science and Engineering
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
 ## Environmental Science and Sustainability

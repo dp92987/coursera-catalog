@@ -24,14 +24,14 @@
 ### Fudan University
  - [微影人的自我修养](https://www.coursera.org/learn/wei-dian-ying)
 #### [微电影创作：从观念、思维到制作 Specialization](https://www.coursera.org/specializations/wei-dian-ying)
- - [创作吧！微影人！](https://www.coursera.org/learn/wei-dian-ying-chuang-zuo)
- - [剪辑：像编剧一样剪辑](https://www.coursera.org/learn/jian-ji) `beginner`
- - [导演思维：微影人的自我修养](https://www.coursera.org/learn/daoyan-siwei-weiyingren)
- - [拍摄：像剪辑师一样拍摄](https://www.coursera.org/learn/pai-she)
- - [编剧：像导演一样编剧](https://www.coursera.org/learn/bian-ju)
+1. [导演思维：微影人的自我修养](https://www.coursera.org/learn/daoyan-siwei-weiyingren)
+2. [剪辑：像编剧一样剪辑](https://www.coursera.org/learn/jian-ji) `beginner`
+3. [编剧：像导演一样编剧](https://www.coursera.org/learn/bian-ju)
+4. [拍摄：像剪辑师一样拍摄](https://www.coursera.org/learn/pai-she)
+5. [创作吧！微影人！](https://www.coursera.org/learn/wei-dian-ying-chuang-zuo)
 ### Fudan University, 上海戏剧学院
 #### [网络游戏设计与开发 Specialization](https://www.coursera.org/specializations/wangluo-youxi-sheji-kaifa)
- - [游戏产业概论](https://www.coursera.org/learn/youxi-chanye-gailun) `beginner`
+1. [游戏产业概论](https://www.coursera.org/learn/youxi-chanye-gailun) `beginner`
 ### Peking University
  - [20世纪西方音乐 Western Music in the 20th Century](https://www.coursera.org/learn/20cnwm) `beginner`
 ### The Museum of Modern Art
@@ -54,16 +54,16 @@
 ## Business Essentials
 ### University of Pennsylvania
 #### [商务基础 (中文版) Specialization](https://www.coursera.org/specializations/wharton-shangwu-jichu)
- - [沃顿商务基础毕业项目 (中文版)](https://www.coursera.org/learn/wharton-shangwu-jichu-xiangmu) `beginner`
+5. [沃顿商务基础毕业项目 (中文版)](https://www.coursera.org/learn/wharton-shangwu-jichu-xiangmu) `beginner`
 ## Business Strategy
 ### Ludwig-Maximilians-Universität München (LMU)
  - [竞争策略（中文版）](https://www.coursera.org/learn/competitivestrategyzh)
  - [高阶竞争策略（中文版）](https://www.coursera.org/learn/advanced-competitive-strategy-zh)
 ### University of Pennsylvania
- - [企业金融概论（中文版）](https://www.coursera.org/learn/wharton-qiye-jinrong)
- - [市场营销概论 (中文版）](https://www.coursera.org/learn/wharton-shichang-ying-xiao) `beginner`
- - [财务会计概论（中文版）](https://www.coursera.org/learn/wharton-kuaiji)
- - [运营管理概论（中文版）](https://www.coursera.org/learn/wharton-yunying-guanli)
+1. [市场营销概论 (中文版）](https://www.coursera.org/learn/wharton-shichang-ying-xiao) `beginner`
+2. [财务会计概论（中文版）](https://www.coursera.org/learn/wharton-kuaiji)
+3. [运营管理概论（中文版）](https://www.coursera.org/learn/wharton-yunying-guanli)
+4. [企业金融概论（中文版）](https://www.coursera.org/learn/wharton-qiye-jinrong)
 ## Entrepreneurship
 ### Peking University, 真格基金
  - [真格—北大在线创业课堂](https://www.coursera.org/learn/zhenge-beida-zaixian-chuangye)
@@ -79,18 +79,18 @@
  - [算法设计与分析   Design and Analysis of Algorithms](https://www.coursera.org/learn/algorithms) `intermediate`
  - [面向对象技术高级课程（The Advanced Object-Oriented Technology）](https://www.coursera.org/learn/aoo) `beginner`
 #### [程序设计与算法 Specialization](https://www.coursera.org/specializations/biancheng-suanfa)
- - [数据结构基础](https://www.coursera.org/learn/shuju-jiegou-suanfa)
- - [程序开发项目实践](https://www.coursera.org/learn/biancheng-suanfa-biye-xiangmu) `intermediate`
- - [算法基础](https://www.coursera.org/learn/suanfa-jichu)
- - [高级数据结构与算法](https://www.coursera.org/learn/gaoji-shuju-jiegou)
+4. [算法基础](https://www.coursera.org/learn/suanfa-jichu)
+5. [数据结构基础](https://www.coursera.org/learn/shuju-jiegou-suanfa)
+6. [高级数据结构与算法](https://www.coursera.org/learn/gaoji-shuju-jiegou)
+7. [程序开发项目实践](https://www.coursera.org/learn/biancheng-suanfa-biye-xiangmu) `intermediate`
 ### Shanghai Jiao Tong University
  - [离散数学](https://www.coursera.org/learn/discrete-mathematics-ch) `beginner`
 ### Tsinghua University
 #### [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms-tsinghua)
- - [Data Structures and Algorithms (I)](https://www.coursera.org/learn/data-structures-algorithms-1) `intermediate`
- - [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) `intermediate`
- - [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) `intermediate`
- - [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) `intermediate`
+1. [Data Structures and Algorithms (I)](https://www.coursera.org/learn/data-structures-algorithms-1) `intermediate`
+2. [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) `intermediate`
+3. [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) `intermediate`
+4. [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) `intermediate`
 ## Computer Security and Networks
 ### Peking University
  - [操作系统与虚拟化安全](https://www.coursera.org/learn/os-virtsecurity) `intermediate`
@@ -98,15 +98,15 @@
 ## Design and Product
 ### Fudan University
 #### [网络游戏设计与开发 Specialization](https://www.coursera.org/specializations/wangluo-youxi-sheji-kaifa)
- - [网络游戏设计与开发毕业项目](https://www.coursera.org/learn/wangluo-youxi-biye) `intermediate`
+5. [网络游戏设计与开发毕业项目](https://www.coursera.org/learn/wangluo-youxi-biye) `intermediate`
 ### Fudan University, 上海戏剧学院
- - [游戏策划与设计](https://www.coursera.org/learn/youxi-cehua-sheji) `beginner`
+2. [游戏策划与设计](https://www.coursera.org/learn/youxi-cehua-sheji) `beginner`
 ## Mobile and Web Development
 ### Fudan University
- - [基于Unity引擎的游戏开发进阶](https://www.coursera.org/learn/unity-kaifa-jinjie) `intermediate`
+4. [基于Unity引擎的游戏开发进阶](https://www.coursera.org/learn/unity-kaifa-jinjie) `intermediate`
 ## Software Development
 ### Fudan University
- - [基于Unity引擎的游戏开发基础](https://www.coursera.org/learn/unity-yinqing-youxi-kaifa) `beginner`
+3. [基于Unity引擎的游戏开发基础](https://www.coursera.org/learn/unity-yinqing-youxi-kaifa) `beginner`
 ### Nanjing University
  - [用Python玩转数据 Data Processing Using Python](https://www.coursera.org/learn/hipython)
  - [计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong)
@@ -118,9 +118,9 @@
  - [操作系统原理（Operating Systems）](https://www.coursera.org/learn/os-pku) `intermediate`
  - [软件工程](https://www.coursera.org/learn/ruanjian-gongcheng) `intermediate`
 #### [程序设计与算法 Specialization](https://www.coursera.org/specializations/biancheng-suanfa)
- - [C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
- - [C程序设计进阶](https://www.coursera.org/learn/c-chengxu-sheji)
- - [计算导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
+1. [计算导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
+2. [C程序设计进阶](https://www.coursera.org/learn/c-chengxu-sheji)
+3. [C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
 ### The Chinese University of Hong Kong, The University of Melbourne
  - [离散优化建模基础篇 Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/lisan-youhua-jianmo-jichupian) `intermediate`
  - [离散优化建模高阶篇 Advanced Modeling for Discrete Optimization](https://www.coursera.org/learn/lisan-youhua-jianmo-gaojiepian) `intermediate`
@@ -128,12 +128,12 @@
 ### Xi'an Jiaotong University
  - [系统平台与计算环境](https://www.coursera.org/learn/jisuanji-wangluo)
 #### [.Net平台下的软件开发技术 Specialization](https://www.coursera.org/specializations/netpingtai-ruanjian-kaifa)
- - [.Net平台下的软件开发技术毕业项目](https://www.coursera.org/learn/net-ruanjian-kaifa-biye)
- - [c#高级编程](https://www.coursera.org/learn/csharp-gaoji-biancheng) `intermediate`
- - [SQL Server数据库技术](https://www.coursera.org/learn/sql-server-shujuku-jishu) `beginner`
- - [Windows可视化程序设计](https://www.coursera.org/learn/windows-keshihua-chengxu-sheji)
- - [基于.Net的Web开发技术](https://www.coursera.org/learn/dot-net-kaifa-jishu)
- - [系统平台与C#程序基础](https://www.coursera.org/learn/xitong-pingtai-csharp-chengxu-jichu)
+1. [系统平台与C#程序基础](https://www.coursera.org/learn/xitong-pingtai-csharp-chengxu-jichu)
+2. [c#高级编程](https://www.coursera.org/learn/csharp-gaoji-biancheng) `intermediate`
+3. [Windows可视化程序设计](https://www.coursera.org/learn/windows-keshihua-chengxu-sheji)
+4. [SQL Server数据库技术](https://www.coursera.org/learn/sql-server-shujuku-jishu) `beginner`
+5. [基于.Net的Web开发技术](https://www.coursera.org/learn/dot-net-kaifa-jishu)
+6. [.Net平台下的软件开发技术毕业项目](https://www.coursera.org/learn/net-ruanjian-kaifa-biye)
 # Data Science
 > - [Data Analysis](#data-analysis)
 ## Data Analysis
@@ -192,10 +192,10 @@
 ## Learning English
 ### Arizona State University
 #### [商务英语课程 Business English Specialization](https://www.coursera.org/specializations/shangwu-yingyu)
- - [商务英语课程:市场与营销英语 Marketing & Sales](https://www.coursera.org/learn/shichang-yingxiao-yingyu) `intermediate`
- - [商务英语课程:管理与领导力英语 Management & Leadership](https://www.coursera.org/learn/guanli-lingdao-yingyu) `intermediate`
- - [商务英语课程:财经英语 Finance & Economics](https://www.coursera.org/learn/caijing-yingyu) `intermediate`
- - [总计划案 Final Project](https://www.coursera.org/learn/shangwu-yingyu-zong-jihuaan) `intermediate`
+1. [商务英语课程:管理与领导力英语 Management & Leadership](https://www.coursera.org/learn/guanli-lingdao-yingyu) `intermediate`
+2. [商务英语课程:财经英语 Finance & Economics](https://www.coursera.org/learn/caijing-yingyu) `intermediate`
+3. [商务英语课程:市场与营销英语 Marketing & Sales](https://www.coursera.org/learn/shichang-yingxiao-yingyu) `intermediate`
+4. [总计划案 Final Project](https://www.coursera.org/learn/shangwu-yingyu-zong-jihuaan) `intermediate`
 ### Peking University
  - [计算机辅助翻译原理与实践 Principles and Practice of Computer-Aided Translation](https://www.coursera.org/learn/fanyi-ruanjian) `intermediate`
 ## Other Languages
@@ -211,9 +211,9 @@
 ### Shanghai Jiao Tong University
  - [Business Chinese 1 中级汉语 （上）](https://www.coursera.org/learn/intermediate-business-chinese-1) `intermediate`
 #### [Learn Mandarin Chinese: Intermediate  Specialization](https://www.coursera.org/specializations/learn-mandarin-chinese-intermediate)
- - [Mandarin Chinese for Intermediate Learners: Part 1](https://www.coursera.org/learn/mandarin-chinese-intermediate-learners-1) `intermediate`
- - [Mandarin Chinese for Intermediate Learners: Part 2](https://www.coursera.org/learn/mandarin-chinese-intermediate-learners-2) `intermediate`
- - [Mandarin Chinese for Intermediate Learners: Part 3](https://www.coursera.org/learn/mandarin-chinese-intermediate-learner-3) `intermediate`
+1. [Mandarin Chinese for Intermediate Learners: Part 1](https://www.coursera.org/learn/mandarin-chinese-intermediate-learners-1) `intermediate`
+2. [Mandarin Chinese for Intermediate Learners: Part 2](https://www.coursera.org/learn/mandarin-chinese-intermediate-learners-2) `intermediate`
+3. [Mandarin Chinese for Intermediate Learners: Part 3](https://www.coursera.org/learn/mandarin-chinese-intermediate-learner-3) `intermediate`
 # Personal Development
 > - [Personal Development](#personal-development)
 ## Personal Development
@@ -221,10 +221,10 @@
  - [学会如何学习：帮助你掌握复杂学科的强大智力工具（Learning How to Learn）](https://www.coursera.org/learn/ruhe-xuexi)
 ### University of Science and Technology of China
 #### [职场修炼：学习、创新、协作与自我实现 Specialization](https://www.coursera.org/specializations/zhichang)
- - [信息社会的机遇和挑战](https://www.coursera.org/learn/xinxi-shehui)
- - [创新思维](https://www.coursera.org/learn/chuangxin-siwei)
- - [快速学习](https://www.coursera.org/learn/kuaisu-xuexi)
- - [高效协作](https://www.coursera.org/learn/gaoxiao-xiezuo)
+1. [信息社会的机遇和挑战](https://www.coursera.org/learn/xinxi-shehui)
+2. [快速学习](https://www.coursera.org/learn/kuaisu-xuexi)
+3. [创新思维](https://www.coursera.org/learn/chuangxin-siwei)
+4. [高效协作](https://www.coursera.org/learn/gaoxiao-xiezuo)
 # Physical Science and Engineering
 > - [Chemistry](#chemistry)
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
