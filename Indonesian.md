@@ -1,6 +1,10 @@
-# Information Technology
-## Cloud Computing
-### Google Cloud
+# Indonesian Courses
+## TOC
+ - [Information Technology](#information-technology)
+## Information Technology
+> - [Cloud Computing](#cloud-computing)
+### Cloud Computing
+#### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation dalam bahasa Indonesia](https://www.coursera.org/learn/elastic-cloud-infrastructure-scaling-automation-id)
  - [Essential Cloud Infrastructure: Core Services dalam bahasa Indonesia](https://www.coursera.org/learn/essential-cloud-infrastructure-core-services-id)
  - [Essential Cloud Infrastructure: Foundation dalam bahasa Indonesia](https://www.coursera.org/learn/essential-cloud-infrastructure-foundation-id)
