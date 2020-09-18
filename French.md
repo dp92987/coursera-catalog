@@ -79,6 +79,7 @@
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python)
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport)
 ## Machine Learning
+### Coursera Project Network
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification)
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr)
@@ -98,6 +99,7 @@
 ### University of Geneva
  - [Troubles du spectre de l'autisme : diagnostic](https://www.coursera.org/learn/troubles-spectre-autisme-diagnostic)
 ## Psychology
+### University of Geneva
  - [Développement psychologique de l'enfant](https://www.coursera.org/learn/enfant-developpement)
 ### University of Lausanne
  - [Dopage : Sports, Organisations et Sciences](https://www.coursera.org/learn/dopage)
@@ -123,6 +125,7 @@
  - [Étudier en France: French Intermediate course B1-B2](https://www.coursera.org/learn/etudier-en-france)
 # Math and Logic
 ## Math and Logic
+### École Polytechnique
  - [Aléatoire : une introduction aux probabilités - Partie 1](https://www.coursera.org/learn/probabilites-1)
  - [Aléatoire : une introduction aux probabilités - Partie 2](https://www.coursera.org/learn/probabilites-2)
  - [Initiation à la théorie des distributions](https://www.coursera.org/learn/theorie-des-distributions)
@@ -139,6 +142,7 @@
  - [La recherche documentaire](https://www.coursera.org/learn/recherche-documentaire)
 # Physical Science and Engineering
 ## Electrical Engineering
+### École Polytechnique
  - [Optique non-linéaire](https://www.coursera.org/learn/physique-optique)
 ### École Polytechnique Fédérale de Lausanne
  - [Comprendre les Microcontroleurs](https://www.coursera.org/learn/microcontroleurs)

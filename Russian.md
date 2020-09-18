@@ -311,6 +311,7 @@
  - [Общие вопросы патологии и патологической анатомии (General Issues of Pathology and Pathologic Anatomy)](https://www.coursera.org/learn/voprosy-patologii)
  - [Расстройства аутистического спектра](https://www.coursera.org/learn/rasstrojstva-autisticheskogo-spektra)
 ## Health Informatics
+### Saint Petersburg State University
  - [Введение в Биоинформатику: Метагеномика (Introduction to Bioinformatics: Metagenomics)](https://www.coursera.org/learn/bioinformatics-metagenomics)
  - [Введение в биоинформатику (Introduction to Bioinformatics)](https://www.coursera.org/learn/bioinformatika)
 ## Nutrition
@@ -356,6 +357,7 @@
 ### Saint Petersburg State University
  - [Практики цифровой трансформации](https://www.coursera.org/learn/pracdig)
 ## Networking
+### Saint Petersburg State University
  - [Основы и практическое применение блокчейна](https://www.coursera.org/learn/blokcheyna)
 # Language Learning
 ## Other Languages

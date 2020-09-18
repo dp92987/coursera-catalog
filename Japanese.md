@@ -17,6 +17,7 @@
  - [Introduction to G Suite 日本語版](https://www.coursera.org/learn/introduction-g-suite-jp)
  - [Managing G Suite 日本語版](https://www.coursera.org/learn/managing-g-suite-jp)
 ## Software Development
+### Google Cloud
 #### [Architecting with Google Kubernetes Engine 日本語版 Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-jp)
  - [Architecting with Google Kubernetes Engine: Foundations 日本語版](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-jp)
  - [Architecting with Google Kubernetes Engine: Production 日本語版](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-jp)
@@ -56,6 +57,7 @@
  - [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp)
  - [Smart Analytics, Machine Learning, and AI on GCP 日本語版](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-jp)
 ## Data Management
+### Google Cloud
 #### [From Data to Insights with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform-jp)
  - [Achieving Advanced Insights with BigQuery 日本語版](https://www.coursera.org/learn/gcp-advanced-insights-bigquery-jp)
  - [Applying Machine Learning to your Data with GCP 日本語版](https://www.coursera.org/learn/data-insights-gcp-apply-ml-jp)

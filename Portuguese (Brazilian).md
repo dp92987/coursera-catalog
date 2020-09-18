@@ -12,6 +12,7 @@
  - [A complexidade sensível: Um paralelo entre videogames e arte](https://www.coursera.org/learn/videogames)
  - [PRINCÍPIOS GERAIS DA TÉCNICA DO VIOLINO E DA VIOLA DE ARCO](https://www.coursera.org/learn/tecnica-violino-viola)
 ## Philosophy
+### Universidade Estadual de Campinas
  - [Alfabetização Midiática, Informacional e Diálogo Intercultural - UNESCO e UNICAMP](https://www.coursera.org/learn/alfabetizacao-midiatica)
 # Business
 ## Business Essentials
@@ -112,6 +113,7 @@
  - [Building Resilient Streaming Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp-br)
  - [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br)
 ## Machine Learning
+### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-br)
  - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br)
 #### [Machine Learning with TensorFlow on Google Cloud Platform em Português Brasileiro Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-br)
@@ -155,8 +157,10 @@
 #### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
  - [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores)
 ## Security
+### Cresça com o Google
  - [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it)
 ## Support and Operations
+### Cresça com o Google
  - [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti)
  - [Fundamentos do Suporte Técnico](https://www.coursera.org/learn/fundamentos-do-suporte-tecnico)
  - [Sistemas Operacionais e Você: Tornando-se um Usuário Avançado](https://www.coursera.org/learn/sistemas-operacionais)
