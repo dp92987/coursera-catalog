@@ -541,6 +541,8 @@
 ### Pontificia Universidad Católica de Chile
  - [Introducción al Aprendizaje Universitario](https://www.coursera.org/learn/aprendizaje-universitario-introduccion)
  - [Liderazgo Instruccional: Perspectiva Global y Prácticas Locales](https://www.coursera.org/learn/liderazgo-educativo)
+### Universidad Austral
+ - [Trabajar para ser feliz](https://www.coursera.org/learn/familia-trabajo-sociedad)
 ### Universidad Nacional Autónoma de México
  - [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
 #### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)

@@ -85,11 +85,11 @@
  - [Системное мышление](https://www.coursera.org/learn/system-thinking)
  - [Структура презентации технологических и инвестиционных проектов](https://www.coursera.org/learn/struktura-prezentacii-tekhnologicheskih-i-investicionnyh-proektov)
  - [Технологическое предпринимательство](https://www.coursera.org/learn/tekhnologicheskoe-predprinimatelstvo)
+### Moscow Institute of Physics and Technology, Фонд развития интернет-инициатив (ФРИИ)
+ - [Интернет-предпринимательство](https://www.coursera.org/learn/internet-predprinimatelstvo)
 ### Saint Petersburg State University
  - [«Стартап: как вырасти в успешный бизнес»](https://www.coursera.org/learn/startup-spbu)
  - [Правовое регулирование налога на прибыль в Российской Федерации](https://www.coursera.org/learn/pravovoe-regulirovanie-naloga-na-pribyl)
-### ФРИИ)
- - [Интернет-предпринимательство (Moscow Institute of Physics and Technology, Фонд развития интернет-инициатив](https://www.coursera.org/learn/internet-predprinimatelstvo)
 ## Finance
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Государственное регулирование финансовых рынков на современном этапе](https://www.coursera.org/learn/gosudarstve-regulirovaniye-finansovykh-rynkov)

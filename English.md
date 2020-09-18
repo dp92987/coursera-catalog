@@ -357,6 +357,8 @@
 ### Wesleyan University
  - [How to Change the World](https://www.coursera.org/learn/world-change)
  - [The Modern and the Postmodern (Part 1)](https://www.coursera.org/learn/modern-postmodern-1)
+### Yonsei University
+ - [Re-imaging God in Korean Context](https://www.coursera.org/learn/god-korean-context)
 # Business
 ## Business Essentials
 ### CentraleSupélec
@@ -610,6 +612,7 @@
 #### [Strategic Management and Innovation Specialization](https://www.coursera.org/specializations/strategic-management)
  - [Strategic Management](https://www.coursera.org/learn/strategic-management)
  - [Strategic Management - Capstone Project](https://www.coursera.org/learn/businesscap)
+ - [Strategy Formulation](https://www.coursera.org/learn/strategy-formulation)
  - [Strategy Implementation](https://www.coursera.org/learn/strategy-implementation)
 ### Coursera Project Network
  - [Agile Projects:  Developing Tasks with Taiga](https://www.coursera.org/learn/developing-agile-tasks-taiga)
@@ -775,8 +778,6 @@
 #### [Value Chain Management Specialization](https://www.coursera.org/specializations/value-chain-management)
  - [Operations Management: Analysis and Improvement Methods](https://www.coursera.org/learn/operations-management)
  - [Operations Management: Strategy and Quality Management for the Digital Age](https://www.coursera.org/learn/process-improvement)
-### University of London, UCL School of Management
- - [Corporate Strategy](https://www.coursera.org/learn/corporatestrategy)
 ### University of Maryland, College Park
 #### [Interviewing and Resume Writing in English Specialization](https://www.coursera.org/specializations/english-interview-resume)
  - [How To Land the Job You Want (Capstone Project)](https://www.coursera.org/learn/job-interview-capstone)
@@ -2118,6 +2119,7 @@
  - [Practical Introduction to the Command Line](https://www.coursera.org/learn/practical-introduction-to-the-command-line)
  - [Process Personal Details using Methods in Java](https://www.coursera.org/learn/process-personal-details-using-methods-in-java)
  - [Processing Data with Python](https://www.coursera.org/learn/processing-data-with-python)
+ - [Programming a Quantum Computer with Qiskit - IBM SDK](https://www.coursera.org/learn/programming-quantum-computer-qiskit)
  - [Programming in C#: A comprehensive approach to C# Fundamentals](https://www.coursera.org/learn/programming-in-c)
  - [Project: Creating Your First C++ Application](https://www.coursera.org/learn/creating-a-cpp-calculator)
  - [Python Data Structures](https://www.coursera.org/learn/python-data-structures)
@@ -2704,6 +2706,7 @@
 #### [Business Analytics Specialization](https://www.coursera.org/specializations/business-analytics)
  - [Business Analytics Capstone](https://www.coursera.org/learn/wharton-capstone-analytics)
 ### University of Washington
+ - [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics)
 #### [Data Science at Scale Specialization](https://www.coursera.org/specializations/data-science)
  - [Communicating Data Science Results](https://www.coursera.org/learn/data-results)
  - [Data Manipulation at Scale: Systems and Algorithms](https://www.coursera.org/learn/data-manipulation)
@@ -3157,6 +3160,9 @@
  - [Protists: Evolution and Ecology of Microbial Eukaryotes](https://www.coursera.org/learn/protists-evolution-ecology-microbial-eukaryotes)
 ### Stanford University
  - [Writing in the Sciences](https://www.coursera.org/learn/sciwrite)
+### Technical University of Denmark (DTU)
+ - [Antimicrobial resistance - theory and methods](https://www.coursera.org/learn/antimicrobial-resistance)
+ - [Metagenomics applied to surveillance of pathogens and antimicrobial resistance](https://www.coursera.org/learn/metagenomics)
 ### Technical University of Denmark (DTU), Copenhagen Business School
  - [Patenting in Biotechnology](https://www.coursera.org/learn/patenting-bio-ipr)
 ### Tel Aviv University
@@ -3213,9 +3219,6 @@
  - [Gut Check: Exploring Your Microbiome](https://www.coursera.org/learn/microbiome)
 ### University of Copenhagen
  - [Sustainable Tourism – promoting environmental public health](https://www.coursera.org/learn/sustainable-tourism)
-### University of Copenhagen, Technical University of Denmark (DTU)
- - [Antimicrobial resistance - theory and methods (Technical University of Denmark](https://www.coursera.org/learn/antimicrobial-resistance)
- - [Metagenomics applied to surveillance of pathogens and antimicrobial resistance (Technical University of Denmark](https://www.coursera.org/learn/metagenomics)
 ### University of Geneva
  - [Classical papers in molecular genetics](https://www.coursera.org/learn/papers-molecular-genetics)
 ### University of Illinois at Urbana-Champaign
@@ -3306,6 +3309,8 @@
  - [Bioinformatic Methods I](https://www.coursera.org/learn/bioinformatics-methods-1)
  - [Bioinformatic Methods II](https://www.coursera.org/learn/bioinformatics-methods-2)
  - [Plant Bioinformatics](https://www.coursera.org/learn/plant-bioinformatics)
+### University of Virginia
+ - [Bacterial Bioinformatics using PATRIC](https://www.coursera.org/learn/informatics)
 ## Healthcare Management
 ### Arizona State University
  - [The Science of Health Care Delivery](https://www.coursera.org/learn/science-healthcare-delivery)
@@ -3396,8 +3401,6 @@
 #### [Patient Safety Specialization](https://www.coursera.org/specializations/patient-safety)
  - [Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV)](https://www.coursera.org/learn/patient-safety-sustainment)
  - [Taking Safety and Quality Improvement Work to the Next Level (Patient Safety VII)](https://www.coursera.org/learn/patient-safety-capstone)
-### Northwestern University
- - [Career 911: Your Future Job in Medicine and Healthcare](https://www.coursera.org/learn/healthcarejobs)
 ### Stanford University
  - [COVID-19 Training for Healthcare Workers](https://www.coursera.org/learn/covid-19-training-healthcare)
  - [Stanford's Short Course on Breastfeeding](https://www.coursera.org/learn/breastfeeding)
@@ -3711,6 +3714,8 @@
  - [MRI Fundamentals](https://www.coursera.org/learn/mri-fundamentals)
 ### Lund University
  - [Medical Applications of Particle Accelerators (NPAP MOOC)](https://www.coursera.org/learn/medical-applications-particle-accelerators)
+### Technical University of Denmark (DTU)
+ - [Whole genome sequencing of bacterial genomes - tools and applications](https://www.coursera.org/learn/wgs-bacteria)
 ### Universiteit Leiden
  - [Population Health: Study Design](https://www.coursera.org/learn/population-health-study-design)
 ### University of California San Diego
@@ -3719,8 +3724,6 @@
  - [Extracellular Vesicles in Health and Disease](https://www.coursera.org/learn/extracellular-vesicles-health-disease)
 ### University of Cape Town
  - [Understanding Clinical Research: Behind the Statistics](https://www.coursera.org/learn/clinical-research)
-### University of Copenhagen, Technical University of Denmark (DTU)
- - [Whole genome sequencing of bacterial genomes - tools and applications (Technical University of Denmark](https://www.coursera.org/learn/wgs-bacteria)
 ### University of Illinois at Urbana-Champaign
  - [Genomics: Decoding the Universal Language of Life](https://www.coursera.org/learn/genomics-research)
 ### University of Minnesota
@@ -3840,6 +3843,7 @@
  - [Manipulating Data with SQL](https://www.coursera.org/learn/manipulating-data-with-sql)
  - [Relational Modeling in Dia](https://www.coursera.org/learn/relational-modeling-in-dia)
  - [Retrieve Data using Single-Table SQL Queries](https://www.coursera.org/learn/single-table-sql-queries)
+ - [Retrieve Data with Multiple-Table SQL Queries](https://www.coursera.org/learn/multiple-table-sql-queries)
  - [Simple Retrieval Queries in MySQL Workbench](https://www.coursera.org/learn/simple-retrieval-queries-in-mysql-workbench)
 ### EIT Digital 
  - [Mastering Digital Twins](https://www.coursera.org/learn/mastering-digital-twins)
@@ -4224,6 +4228,8 @@
 ### Exploratorium
  - [Tinkering Fundamentals: Circuits](https://www.coursera.org/learn/tinkering-circuits)
  - [Tinkering Fundamentals: Motion and Mechanisms](https://www.coursera.org/learn/tinkering-motion-mechanisms)
+### HEC Paris
+ - [Social Entrepreneurship and Changemaking](https://www.coursera.org/learn/socialentrepreneurship)
 ### IBM
  - [IBM IT Assessment: Identifying the Right Career for You!](https://www.coursera.org/learn/ibm-it-assessment)
 ### Imperial College London
@@ -4343,13 +4349,13 @@
  - [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
 ### Rice University
  - [General Chemistry: Concept Development and Application](https://www.coursera.org/learn/general-chemistry)
+### Technical University of Denmark (DTU)
+ - [Organic Solar Cells - Theory and Practice](https://www.coursera.org/learn/solar-cell)
 ### Technion - Israel Institute of Technology
  - [Nanotechnology and Nanosensors, Part 2](https://www.coursera.org/learn/nanotechnology2)
  - [Nanotechnology and Nanosensors, Part1](https://www.coursera.org/learn/nanotechnology1)
 ### University of Amsterdam
  - [Teaching in University Science Laboratories (Developing Best Practice)](https://www.coursera.org/learn/developing-university-lab-education)
-### University of Copenhagen, Technical University of Denmark (DTU)
- - [Organic Solar Cells - Theory and Practice (Technical University of Denmark](https://www.coursera.org/learn/solar-cell)
 ### University of Kentucky
  - [Advanced Chemistry](https://www.coursera.org/learn/advanced-chemistry)
  - [Chemistry](https://www.coursera.org/learn/chemistry-1)
@@ -4497,6 +4503,11 @@
  - [Circular Economy - Sustainable Materials Management](https://www.coursera.org/learn/circular-economy)
 ### Rice University
  - [Natural Attenuation of Groundwater Contaminants: New Paradigms, Technologies, and Applications](https://www.coursera.org/learn/natural-attenuation-of-groundwater-contaminants)
+### Technical University of Denmark (DTU)
+ - [Ash-Related Operational Challenges in Energy Utilization of Sustainable Fuels](https://www.coursera.org/learn/sustainability-fuels-ash-chemistry-deposits-corrosion-additives)
+ - [Environmental Management & Ethics](https://www.coursera.org/learn/environmental-management-ethics)
+ - [Global Environmental Management](https://www.coursera.org/learn/global-environmental-management)
+ - [Introduction to solar cells](https://www.coursera.org/learn/solar-cells)
 ### The Pennsylvania State University
  - [Creativity, Innovation and Transformation](https://www.coursera.org/learn/creativity-innovation)
  - [Geodesign: Change Your World](https://www.coursera.org/learn/geodesign)
@@ -4541,11 +4552,6 @@
  - [Fundamentals of Global Energy Business](https://www.coursera.org/learn/energy-business)
 ### University of Copenhagen
  - [Transformation of the Global Food System](https://www.coursera.org/learn/transformation-global-food-system)
-### University of Copenhagen, Technical University of Denmark (DTU)
- - [Ash-Related Operational Challenges in Energy Utilization of Sustainable Fuels (Technical University of Denmark](https://www.coursera.org/learn/sustainability-fuels-ash-chemistry-deposits-corrosion-additives)
- - [Environmental Management & Ethics (Technical University of Denmark](https://www.coursera.org/learn/environmental-management-ethics)
- - [Global Environmental Management (Technical University of Denmark](https://www.coursera.org/learn/global-environmental-management)
- - [Introduction to solar cells (Technical University of Denmark](https://www.coursera.org/learn/solar-cells)
 ### University of Florida
  - [Sustainable Agricultural Land Management](https://www.coursera.org/learn/sustainable-agriculture)
  - [The Meat We Eat](https://www.coursera.org/learn/meat-we-eat)
@@ -4658,6 +4664,8 @@
 ### Rice University
 #### [Introduction to Mechanics Specialization](https://www.coursera.org/specializations/introduction-to-mechanics)
  - [Physics 101 - Rotational Motion and Gravitation](https://www.coursera.org/learn/physics-101-rotational-motion-gravitation)
+### Technical University of Denmark (DTU)
+ - [Wind Energy](https://www.coursera.org/learn/wind-energy)
 ### Technische Universität München (TUM)
 #### [Digitalisation in Aeronautics and Space Specialization](https://www.coursera.org/specializations/aerospace)
  - [Digitalisation in Aeronautics](https://www.coursera.org/learn/aeronautics)
@@ -4688,8 +4696,6 @@
  - [Ideal Gases](https://www.coursera.org/learn/ideal-gases)
  - [Non-Equilibrium Applications of Statistical Thermodynamics](https://www.coursera.org/learn/stats-thermo-non-equilibrium-applications)
  - [Quantum Mechanics](https://www.coursera.org/learn/quantum-mechanics)
-### University of Copenhagen, Technical University of Denmark (DTU)
- - [Wind Energy (Technical University of Denmark](https://www.coursera.org/learn/wind-energy)
 ### University of Leeds
 #### [Managing Major Engineering Projects Specialization](https://www.coursera.org/specializations/managing-major-engineering-projects)
  - [Financing and Initiating Major Engineering Projects](https://www.coursera.org/learn/financing-major-engineering-projects)
@@ -4739,6 +4745,8 @@
  - [Physical Basics of Quantum Computing](https://www.coursera.org/learn/physical-basis-quantum-computing)
 ### Stanford University
  - [Understanding Einstein: The Special Theory of Relativity](https://www.coursera.org/learn/einstein-relativity)
+### Technical University of Denmark (DTU)
+ - [Introduction to advanced tomography](https://www.coursera.org/learn/cinemaxe)
 ### The University of Edinburgh
  - [AstroTech: The Science and Technology behind Astronomical Discovery](https://www.coursera.org/learn/astronomy-technology)
  - [Astrobiology and the Search for Extraterrestrial Life](https://www.coursera.org/learn/astrobiology)
@@ -4766,8 +4774,6 @@
  - [Spacecraft Dynamics Capstone: Mars Mission](https://www.coursera.org/learn/capstone-mars-mission)
 ### University of Copenhagen
  - [Origins - Formation of the Universe, Solar System, Earth and Life](https://www.coursera.org/learn/origins-universe-solarsystem)
-### University of Copenhagen, Technical University of Denmark (DTU)
- - [Introduction to advanced tomography (Technical University of Denmark](https://www.coursera.org/learn/cinemaxe)
 ### University of Geneva
  - [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics)
 ### University of Houston
