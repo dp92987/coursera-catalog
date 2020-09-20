@@ -476,9 +476,9 @@
  - [Legal aspects of conducting business in Russia](https://www.coursera.org/learn/legal-business-russia) `beginner`
 ### Salesforce, SV Academy
 #### [Salesforce Sales Development Representative Professional Certificate](https://www.coursera.org/specializations/sales-development-representative)
-1. [Conversational Selling Playbook for SDRs](https://www.coursera.org/learn/conversational-sales) `beginner`
 1. [Groundwork for Success in Sales Development](https://www.coursera.org/learn/sales-success) `beginner`
 2. [Foundations for Interviewing with Confidence](https://www.coursera.org/learn/sales-interview) `beginner`
+3. [Conversational Selling Playbook for SDRs](https://www.coursera.org/learn/conversational-sales) `beginner`
 4. [Boosting Productivity through the Tech Stack](https://www.coursera.org/learn/sales-enablement-tools-productivity) `beginner`
 5. [Practical Guide to Navigating Professional Relationships](https://www.coursera.org/learn/professional-communication-skills-sales) `beginner`
 ### The Hong Kong University of Science and Technology
@@ -970,7 +970,6 @@
  - [Building Candlestick Charts with Google Sheets](https://www.coursera.org/learn/building-candlestick-charts-google-sheets) `beginner`
  - [Building Candlestick Charts with Tableau](https://www.coursera.org/learn/building-candlestick-charts-tableau) `beginner`
  - [Building Stock Returns Heatmap with Tableau](https://www.coursera.org/learn/building-stock-returns-heatmap-tableau) `intermediate`
- - [Compare Stock Returns with Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets) `beginner`
  - [Construct Stock Market Indices](https://www.coursera.org/learn/construct-stock-market-indices) `advanced`
  - [Create a Budget with Google Sheets](https://www.coursera.org/learn/create-a-budget-with-google-sheets) `beginner`
  - [Create a Financial Statement using Google Sheets](https://www.coursera.org/learn/create-financial-statement-google-sheets) `beginner`
@@ -1618,7 +1617,6 @@
 ### Coursera Project Network
  - [Basic Game Development with Levels using Scratch](https://www.coursera.org/learn/basic-game-development-with-levels-using-scratch) `beginner`
  - [Big-O Time Complexity in Python Code](https://www.coursera.org/learn/big-o-time-complexity-in-python-code) `intermediate`
- - [Compose and Program Music in Python using Earsketch](https://www.coursera.org/learn/compose-program-music-in-python-using-earsketch) `beginner`
  - [Introduction to Basic Game Development using Scratch](https://www.coursera.org/learn/introduction-to-basic-game-development-using-scratch) `beginner`
  - [Python Basics: Create a Guessing Number Game from Scratch](https://www.coursera.org/learn/python-basics-guess-the-number) `beginner`
 ### Duke University
@@ -1950,7 +1948,6 @@
  - [Build Your First React Website (Part II)](https://www.coursera.org/learn/build-first-react-website-2) `intermediate`
  - [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/learn/build-portfolio-website-html-css) `beginner`
  - [Building a Dynamic Web App using PHP & MySQL](https://www.coursera.org/learn/dynamic-web-app-php-mysql) `beginner`
- - [Compare Inline, Internal, and External CSS](https://www.coursera.org/learn/compare-inline-internal-external-css) `intermediate`
  - [Creating a Dynamic Web Application using RShiny](https://www.coursera.org/learn/dynamic-web-application-rshiny) `beginner`
  - [Creating a Personal Site with Gatsby](https://www.coursera.org/learn/creating-personal-site-gatsby) `intermediate`
  - [Creating an Interactive Story with Flutter](https://www.coursera.org/learn/story-creating-flutter) `beginner`
@@ -2215,8 +2212,8 @@
 2. [API Security on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-security-apigee-gcp) `intermediate`
 3. [API Development on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-development-apigee-gcp) `intermediate`
 #### [Developing Applications with Google Cloud Platform Specialization](https://www.coursera.org/specializations/developing-apps-gcp)
-1. [Securing and Integrating Components of your Application](https://www.coursera.org/learn/securing-integrating-components-app) `intermediate`
 2. [Getting Started With Application Development](https://www.coursera.org/learn/getting-started-app-development) `intermediate`
+3. [Securing and Integrating Components of your Application](https://www.coursera.org/learn/securing-integrating-components-app) `intermediate`
 4. [App Deployment, Debugging, and Performance](https://www.coursera.org/learn/app-deployment-debugging-performance) `intermediate`
 #### [Install and Manage Google Cloud's Apigee API Platform Specialization](https://www.coursera.org/specializations/apigee-api-gcp-onprem)
 1. [On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform](https://www.coursera.org/learn/onprem-fundamentals-apigee-gcp) `intermediate`
@@ -2810,10 +2807,6 @@
  - [Classification with Transfer Learning in Keras](https://www.coursera.org/learn/image-classification-transfer-learning-keras) `intermediate`
  - [Classify Radio Signals from Space using Keras](https://www.coursera.org/learn/classify-radio-signals-space-keras-cnn) `intermediate`
  - [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/learn/clustering-geolocation-data-intelligently-python) `intermediate`
- - [Computer Vision - Image Basics with OpenCV and Python](https://www.coursera.org/learn/computer-vision-opencv-for-images) `beginner`
- - [Computer Vision - Object Detection with OpenCV and Python](https://www.coursera.org/learn/computer-vision-object-detection) `intermediate`
- - [Computer Vision - Object Tracking with OpenCV and Python](https://www.coursera.org/learn/computer-vision-object-tracking-opencv-python) `intermediate`
- - [Computer Vision: Neural Transfer Style & Green Screen Effect](https://www.coursera.org/learn/computer-vision-neural-transfer-style-green-screen-effect) `intermediate`
  - [Conduct Sales Projections with Seasonality in Google Sheets](https://www.coursera.org/learn/conduct-sales-projections-with-seasonality-google-sheets) `intermediate`
  - [Convolutions for Text Classification with Keras](https://www.coursera.org/learn/convolution-text-classification-keras) `intermediate`
  - [Create Custom Layers in Keras](https://www.coursera.org/learn/custom-layers-keras) `intermediate`
@@ -3844,6 +3837,7 @@
  - [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization) `intermediate`
  - [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) `advanced`
+ - [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) `advanced`
  - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) `intermediate`
  - [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos) `advanced`
  - [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) `intermediate`
@@ -3852,8 +3846,6 @@
 1. [Hybrid Cloud Infrastructure Foundations with Anthos](https://www.coursera.org/learn/hybrid-cloud-infrastructure-foundations-anthos) `intermediate`
 2. [Hybrid Cloud Service Mesh with Anthos](https://www.coursera.org/learn/hybrid-cloud-service-mesh-anthos) `intermediate`
 3. [Hybrid Cloud Multi-Cluster with Anthos](https://www.coursera.org/learn/hybrid-cloud-multi-cluster-anthos) `advanced`
-#### [Data Engineering with Google Cloud Professional Certificate](https://www.coursera.org/specializations/gcp-data-engineering)
-6. [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) `advanced`
 #### [Security in Google Cloud Platform Specialization](https://www.coursera.org/specializations/security-google-cloud-platform)
 2. [Managing Security in Google Cloud Platform](https://www.coursera.org/learn/managing-security-in-google-cloud-platform) `intermediate`
 3. [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud) `intermediate`
@@ -3896,7 +3888,6 @@
  - [Advanced SQL Retrieval Queries in SQLiteStudio](https://www.coursera.org/learn/advanced-sql-retrieval-queries-in-sqlitestudio) `intermediate`
  - [Beginning SQL Server](https://www.coursera.org/learn/beginning-sql-server) `beginner`
  - [Build a Database from a Relational Model](https://www.coursera.org/learn/build-a-database-from-a-relational-model) `intermediate`
- - [Complex Retrieval Queries in MySQL Workbench](https://www.coursera.org/learn/complex-retrieval-queries-in-mysql-workbench) `intermediate`
  - [Create a Database with the Modeling Tool in MySQL Workbench](https://www.coursera.org/learn/create-database-with-modeling-tool-mysql-workbench) `beginner`
  - [Create Fault Tolerant MongoDB Cluster](https://www.coursera.org/learn/create-fault-tolerant-mongodb-cluster) `intermediate`
  - [Create Relational Database Tables Using SQLiteStudio](https://www.coursera.org/learn/create-relational-database-table-sqlitestudio) `beginner`
@@ -4036,12 +4027,11 @@
  - [Practical Vim Editor Commands On Linux](https://www.coursera.org/learn/practical-vim-editor-commands-on-linux) `beginner`
 ### Google
  - [Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user) `beginner`
+ - [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services) `beginner`
  - [Technical Support Fundamentals](https://www.coursera.org/learn/technical-support-fundamentals) `beginner`
 #### [Google IT Automation with Python Professional Certificate](https://www.coursera.org/specializations/google-it-automation)
 1. [Crash Course on Python](https://www.coursera.org/learn/python-crash-course) `beginner`
 2. [Using Python to Interact with the Operating System](https://www.coursera.org/learn/python-operating-system) `beginner`
-#### [Google IT Support Professional Certificate](https://www.coursera.org/specializations/google-it-support)
-1. [System Administration and IT Infrastructure Services](https://www.coursera.org/learn/system-administration-it-infrastructure-services) `beginner`
 ### Google Cloud
 #### [SRE and DevOps Engineer with Google Cloud Professional Certificate](https://www.coursera.org/specializations/sre-devops-engineer-google-cloud)
 4. [Logging, Monitoring and Observability in Google Cloud](https://www.coursera.org/learn/logging-monitoring-observability-google-cloud) `beginner`
@@ -4503,6 +4493,7 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
+ - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Techniques of Design-Oriented Analysis](https://www.coursera.org/learn/techniques-of-design-oriented-analysis) `intermediate`
@@ -4525,7 +4516,6 @@
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
-1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
@@ -4750,16 +4740,17 @@
  - [Introduction to Indoor Air Quality](https://www.coursera.org/learn/intro-indoor-air-quality) `beginner`
  - [Mastering Statics](https://www.coursera.org/learn/mastering-statics) `intermediate`
 ### University at Buffalo, The State University of New York
- - [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
- - [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
  - [Collaborative Robot Safety: Design & Deployment](https://www.coursera.org/learn/collaborative-robot-safety) `beginner`
- - [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
- - [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
- - [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
- - [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
- - [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
- - [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
- - [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
+#### [Digital Manufacturing & Design Technology  Specialization](https://www.coursera.org/specializations/digital-manufacturing-design-technology)
+1. [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
+2. [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
+3. [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
+4. [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
+5. [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
+6. [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
+7. [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
+8. [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
+9. [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
 ### University of California, Davis
  - [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
 ### University of California, Santa Cruz

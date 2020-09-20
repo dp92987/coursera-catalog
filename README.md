@@ -1,6 +1,6 @@
 # Coursera Catalog
 
-Complete list of `4918` courses. Updated daily.
+Complete list of `4917` courses. Updated daily.
 
 # TOC
 
