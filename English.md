@@ -970,6 +970,7 @@
  - [Building Candlestick Charts with Google Sheets](https://www.coursera.org/learn/building-candlestick-charts-google-sheets) `beginner`
  - [Building Candlestick Charts with Tableau](https://www.coursera.org/learn/building-candlestick-charts-tableau) `beginner`
  - [Building Stock Returns Heatmap with Tableau](https://www.coursera.org/learn/building-stock-returns-heatmap-tableau) `intermediate`
+ - [Compare Stock Returns with Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets) `beginner`
  - [Construct Stock Market Indices](https://www.coursera.org/learn/construct-stock-market-indices) `advanced`
  - [Create a Budget with Google Sheets](https://www.coursera.org/learn/create-a-budget-with-google-sheets) `beginner`
  - [Create a Financial Statement using Google Sheets](https://www.coursera.org/learn/create-financial-statement-google-sheets) `beginner`
@@ -1617,6 +1618,7 @@
 ### Coursera Project Network
  - [Basic Game Development with Levels using Scratch](https://www.coursera.org/learn/basic-game-development-with-levels-using-scratch) `beginner`
  - [Big-O Time Complexity in Python Code](https://www.coursera.org/learn/big-o-time-complexity-in-python-code) `intermediate`
+ - [Compose and Program Music in Python using Earsketch](https://www.coursera.org/learn/compose-program-music-in-python-using-earsketch) `beginner`
  - [Introduction to Basic Game Development using Scratch](https://www.coursera.org/learn/introduction-to-basic-game-development-using-scratch) `beginner`
  - [Python Basics: Create a Guessing Number Game from Scratch](https://www.coursera.org/learn/python-basics-guess-the-number) `beginner`
 ### Duke University
@@ -1942,12 +1944,12 @@
  - [Build an App in Android Studio using Activities](https://www.coursera.org/learn/build-an-app-in-android-studio-using-activities) `intermediate`
  - [Build an App in Android Studio using onTouch](https://www.coursera.org/learn/build-an-app-in-android-studio-using-ontouch) `intermediate`
  - [Build an App in Android Studio using Read-Write](https://www.coursera.org/learn/build-an-app-in-android-studio-using-read-write) `intermediate`
- - [Build an App in Android Studio using Resources](https://www.coursera.org/learn/build-an-app-in-android-studio-using-resources) `intermediate`
  - [Build an App in Android Studio using Static Files](https://www.coursera.org/learn/build-an-app-in-android-studio-using-static-files) `intermediate`
  - [Build Your First React Website](https://www.coursera.org/learn/build-first-react-website) `intermediate`
  - [Build Your First React Website (Part II)](https://www.coursera.org/learn/build-first-react-website-2) `intermediate`
  - [Build Your Portfolio Website with HTML and CSS](https://www.coursera.org/learn/build-portfolio-website-html-css) `beginner`
  - [Building a Dynamic Web App using PHP & MySQL](https://www.coursera.org/learn/dynamic-web-app-php-mysql) `beginner`
+ - [Compare Inline, Internal, and External CSS](https://www.coursera.org/learn/compare-inline-internal-external-css) `intermediate`
  - [Creating a Dynamic Web Application using RShiny](https://www.coursera.org/learn/dynamic-web-application-rshiny) `beginner`
  - [Creating a Personal Site with Gatsby](https://www.coursera.org/learn/creating-personal-site-gatsby) `intermediate`
  - [Creating an Interactive Story with Flutter](https://www.coursera.org/learn/story-creating-flutter) `beginner`
@@ -2807,6 +2809,10 @@
  - [Classification with Transfer Learning in Keras](https://www.coursera.org/learn/image-classification-transfer-learning-keras) `intermediate`
  - [Classify Radio Signals from Space using Keras](https://www.coursera.org/learn/classify-radio-signals-space-keras-cnn) `intermediate`
  - [Clustering Geolocation Data Intelligently in Python](https://www.coursera.org/learn/clustering-geolocation-data-intelligently-python) `intermediate`
+ - [Computer Vision - Image Basics with OpenCV and Python](https://www.coursera.org/learn/computer-vision-opencv-for-images) `beginner`
+ - [Computer Vision - Object Detection with OpenCV and Python](https://www.coursera.org/learn/computer-vision-object-detection) `intermediate`
+ - [Computer Vision - Object Tracking with OpenCV and Python](https://www.coursera.org/learn/computer-vision-object-tracking-opencv-python) `intermediate`
+ - [Computer Vision: Neural Transfer Style & Green Screen Effect](https://www.coursera.org/learn/computer-vision-neural-transfer-style-green-screen-effect) `intermediate`
  - [Conduct Sales Projections with Seasonality in Google Sheets](https://www.coursera.org/learn/conduct-sales-projections-with-seasonality-google-sheets) `intermediate`
  - [Convolutions for Text Classification with Keras](https://www.coursera.org/learn/convolution-text-classification-keras) `intermediate`
  - [Create Custom Layers in Keras](https://www.coursera.org/learn/custom-layers-keras) `intermediate`
@@ -3888,6 +3894,7 @@
  - [Advanced SQL Retrieval Queries in SQLiteStudio](https://www.coursera.org/learn/advanced-sql-retrieval-queries-in-sqlitestudio) `intermediate`
  - [Beginning SQL Server](https://www.coursera.org/learn/beginning-sql-server) `beginner`
  - [Build a Database from a Relational Model](https://www.coursera.org/learn/build-a-database-from-a-relational-model) `intermediate`
+ - [Complex Retrieval Queries in MySQL Workbench](https://www.coursera.org/learn/complex-retrieval-queries-in-mysql-workbench) `intermediate`
  - [Create a Database with the Modeling Tool in MySQL Workbench](https://www.coursera.org/learn/create-database-with-modeling-tool-mysql-workbench) `beginner`
  - [Create Fault Tolerant MongoDB Cluster](https://www.coursera.org/learn/create-fault-tolerant-mongodb-cluster) `intermediate`
  - [Create Relational Database Tables Using SQLiteStudio](https://www.coursera.org/learn/create-relational-database-table-sqlitestudio) `beginner`
@@ -4740,17 +4747,16 @@
  - [Introduction to Indoor Air Quality](https://www.coursera.org/learn/intro-indoor-air-quality) `beginner`
  - [Mastering Statics](https://www.coursera.org/learn/mastering-statics) `intermediate`
 ### University at Buffalo, The State University of New York
+ - [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
+ - [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
  - [Collaborative Robot Safety: Design & Deployment](https://www.coursera.org/learn/collaborative-robot-safety) `beginner`
-#### [Digital Manufacturing & Design Technology  Specialization](https://www.coursera.org/specializations/digital-manufacturing-design-technology)
-1. [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
-2. [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
-3. [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
-4. [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
-5. [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
-6. [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
-7. [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
-8. [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
-9. [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
+ - [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
+ - [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
+ - [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
+ - [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
+ - [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
+ - [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
+ - [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
 ### University of California, Davis
  - [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
 ### University of California, Santa Cruz
