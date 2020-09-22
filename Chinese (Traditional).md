@@ -117,7 +117,7 @@
  - [材料力學一 (Mechanics of Materials (1))](https://www.coursera.org/learn/mechanics-of-materials-1) `beginner`
  - [機器人學一 (Robotics (1))](https://www.coursera.org/learn/robotics1) `beginner`
 1. [工程圖學 2D CAD](https://www.coursera.org/learn/2d-cad)
-1. [工程圖學 2D CAD 專題](https://www.coursera.org/learn/cad)
+2. [工程圖學 2D CAD 專題](https://www.coursera.org/learn/cad)
 3. [工程圖學 3D CAD](https://www.coursera.org/learn/3d-cad)
 4. [工程圖學 3D CAD 專題](https://www.coursera.org/learn/cad3d)
 5. [工程資訊管理 BIM 基礎](https://www.coursera.org/learn/jianzhu-zixun-jianmo)

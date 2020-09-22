@@ -252,11 +252,12 @@
 ### The Museum of Modern Art
  - [Art & Activity: Interactive Strategies for Engaging with Art](https://www.coursera.org/learn/art-activity)
  - [Art & Ideas: Teaching with Themes](https://www.coursera.org/learn/ideas)
- - [Fashion as Design](https://www.coursera.org/learn/fashion-design) `beginner`
  - [In the Studio: Postwar Abstract Painting](https://www.coursera.org/learn/painting) `beginner`
- - [Modern Art & Ideas](https://www.coursera.org/learn/modern-art-ideas) `beginner`
- - [Seeing Through Photographs](https://www.coursera.org/learn/photography) `beginner`
- - [What Is Contemporary Art?](https://www.coursera.org/learn/contemporary-art) `beginner`
+#### [Modern and Contemporary Art and Design Specialization](https://www.coursera.org/specializations/modern-contemporary-art-design)
+1. [Modern Art & Ideas](https://www.coursera.org/learn/modern-art-ideas) `beginner`
+1. [Seeing Through Photographs](https://www.coursera.org/learn/photography) `beginner`
+3. [What Is Contemporary Art?](https://www.coursera.org/learn/contemporary-art) `beginner`
+4. [Fashion as Design](https://www.coursera.org/learn/fashion-design) `beginner`
 ### The University of Edinburgh
  - [Fundamentals of Music Theory](https://www.coursera.org/learn/edinburgh-music-theory) `beginner`
 ### The University of Melbourne
@@ -434,8 +435,8 @@
 ### Macquarie University
  - [Excel Fundamentals for Data Analysis](https://www.coursera.org/learn/excel-data-analysis-fundamentals) `intermediate`
 #### [Analysing: Numeric and digital literacies Specialization](https://www.coursera.org/specializations/analysing-numeric-digital-literacies)
+1. [Business intelligence and data analytics: Generate insights](https://www.coursera.org/learn/business-intelligence-data-analytics)
 1. [Management and financial accounting: Know your numbers 1](https://www.coursera.org/learn/management-accounting) `beginner`
-3. [Business intelligence and data analytics: Generate insights](https://www.coursera.org/learn/business-intelligence-data-analytics)
 #### [Excel Skills for Business Specialization](https://www.coursera.org/specializations/excel)
 1. [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials) `beginner`
 2. [Excel Skills for Business: Intermediate I](https://www.coursera.org/learn/excel-intermediate-1) `intermediate`
@@ -1176,6 +1177,9 @@
 ### BCG, University of Virginia
 #### [Leading the Modern Day Business Specialization](https://www.coursera.org/specializations/leading-modern-day-business)
 1. [Digital Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation) `beginner`
+### Berklee College of Music
+#### [Music Business  Specialization](https://www.coursera.org/specializations/music-business)
+4. [Creativity And Entrepreneurship](https://www.coursera.org/learn/creativity-entrepreneurship) `beginner`
 ### Case Western Reserve University
 #### [Inspired Leadership Specialization](https://www.coursera.org/specializations/inspired-leadership)
 1. [Inspiring Leadership through Emotional Intelligence](https://www.coursera.org/learn/emotional-intelligence-leadership) `beginner`
@@ -1498,9 +1502,9 @@
 2. [Foundations of marketing analytics](https://www.coursera.org/learn/foundations-marketing-analytics)
 ### Facebook
 #### [Facebook Social Media Marketing Professional Certificate](https://www.coursera.org/specializations/facebook-social-media-marketing)
-1. [Fundamentals of Social Media Advertising](https://www.coursera.org/learn/social-media-advertising-fundamentals) `beginner`
 1. [Introduction to Social Media Marketing](https://www.coursera.org/learn/social-media-marketing-introduction) `beginner`
 1. [Social Media Management](https://www.coursera.org/learn/social-media-management) `beginner`
+3. [Fundamentals of Social Media Advertising](https://www.coursera.org/learn/social-media-advertising-fundamentals) `beginner`
 4. [Advertising with Facebook](https://www.coursera.org/learn/advertising-with-facebook) `beginner`
 5. [Measure and Optimize Social Media Marketing Campaigns](https://www.coursera.org/learn/measure-and-optimize-social-media-marketing-campaigns) `beginner`
 ### IE Business School
@@ -1661,7 +1665,7 @@
 ### University of California San Diego, National Research University Higher School of Economics
 #### [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 1. [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) `intermediate`
-2. [Data Structures](https://www.coursera.org/learn/data-structures) `intermediate`
+1. [Data Structures](https://www.coursera.org/learn/data-structures) `intermediate`
 3. [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) `intermediate`
 4. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) `intermediate`
 5. [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) `advanced`
@@ -1856,6 +1860,7 @@
  - [Developing FPGA-accelerated cloud applications with SDAccel: Theory](https://www.coursera.org/learn/fpga-sdaccel-theory) `intermediate`
  - [FPGA computing systems: Background knowledge and introductory materials](https://www.coursera.org/learn/fpga-intro) `beginner`
 ### Saint Petersburg State University
+ - [Aerial Photography with UAV](https://www.coursera.org/learn/aerial-photography-with-uav)
  - [The Development of Mobile Health Monitoring Systems](https://www.coursera.org/learn/mobile-health-monitoring-systems) `intermediate`
 ### The Hong Kong University of Science and Technology
  - [Introduction to Computers and Office Productivity Software](https://www.coursera.org/learn/introduction-to-computers-and-office-productivity-software)
@@ -2033,10 +2038,10 @@
  - [Programming Mobile Applications for Android Handheld Systems: Part 2](https://www.coursera.org/learn/android-programming-2)
 ### University of Michigan
 #### [Django for Everybody Specialization](https://www.coursera.org/specializations/django)
+1. [Using JavaScript, JQuery, and JSON in Django](https://www.coursera.org/learn/django-javascript-jquery-json) `intermediate`
 1. [Web Application Technologies and Django](https://www.coursera.org/learn/django-database-web-apps) `intermediate`
 2. [Building Web Applications in Django](https://www.coursera.org/learn/django-build-web-apps) `intermediate`
 3. [Django Features and Libraries](https://www.coursera.org/learn/django-features-libraries) `intermediate`
-4. [Using JavaScript, JQuery, and JSON in Django](https://www.coursera.org/learn/django-javascript-jquery-json) `intermediate`
 #### [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 1. [Building Web Applications in PHP](https://www.coursera.org/learn/web-applications-php) `intermediate`
 2. [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql) `intermediate`
@@ -2212,8 +2217,8 @@
 2. [API Security on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-security-apigee-gcp) `intermediate`
 3. [API Development on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-development-apigee-gcp) `intermediate`
 #### [Developing Applications with Google Cloud Platform Specialization](https://www.coursera.org/specializations/developing-apps-gcp)
+1. [Securing and Integrating Components of your Application](https://www.coursera.org/learn/securing-integrating-components-app) `intermediate`
 2. [Getting Started With Application Development](https://www.coursera.org/learn/getting-started-app-development) `intermediate`
-3. [Securing and Integrating Components of your Application](https://www.coursera.org/learn/securing-integrating-components-app) `intermediate`
 4. [App Deployment, Debugging, and Performance](https://www.coursera.org/learn/app-deployment-debugging-performance) `intermediate`
 #### [Install and Manage Google Cloud's Apigee API Platform Specialization](https://www.coursera.org/specializations/apigee-api-gcp-onprem)
 1. [On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform](https://www.coursera.org/learn/onprem-fundamentals-apigee-gcp) `intermediate`
@@ -2537,8 +2542,8 @@
 #### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
 1. [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds) `beginner`
 #### [IBM Data Analyst Professional Certificate](https://www.coursera.org/specializations/ibm-data-analyst)
+1. [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) `beginner`
 1. [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) `beginner`
-2. [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) `beginner`
 3. [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos) `beginner`
 8. [IBM Data Analyst Captsone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project) `intermediate`
 ### Indian School of Business
@@ -2893,6 +2898,8 @@
  - [Statistical Data Visualization with Seaborn](https://www.coursera.org/learn/statistical-data-visualization-seaborn) `intermediate`
  - [Support Vector Machine Classification in Python](https://www.coursera.org/learn/support-vector-machine-classification-python) `intermediate`
  - [Support Vector Machines with scikit-learn](https://www.coursera.org/learn/support-vector-machines-scikit-learn) `beginner`
+ - [TensorFlow for AI: Computer Vision Basics](https://www.coursera.org/learn/tensorflow-for-ai-computer-vision-basics) `intermediate`
+ - [TensorFlow for AI: Get to Know Tensorflow](https://www.coursera.org/learn/tensorflow-for-ai-get-to-know-tensorflow) `intermediate`
  - [TensorFlow Serving with Docker for Model Deployment](https://www.coursera.org/learn/tensorflow-serving-docker-model-deployment) `intermediate`
  - [Traffic Sign Classification Using Deep Learning in Python/Keras](https://www.coursera.org/learn/traffic-sign-classification-deep-learning) `intermediate`
  - [Transfer Learning for Food Classification](https://www.coursera.org/learn/transfer-learning-food-classification) `beginner`
@@ -2932,10 +2939,10 @@
 4. [Sequence Models for Time Series and Natural Language Processing](https://www.coursera.org/learn/sequence-models-tensorflow-gcp) `advanced`
 5. [Recommendation Systems with TensorFlow on GCP](https://www.coursera.org/learn/recommendation-models-gcp) `advanced`
 #### [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+1. [Feature Engineering](https://www.coursera.org/learn/feature-engineering) `intermediate`
 1. [How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning) `intermediate`
 2. [Launching into Machine Learning](https://www.coursera.org/learn/launching-machine-learning) `intermediate`
 3. [Introduction to TensorFlow](https://www.coursera.org/learn/intro-tensorflow) `intermediate`
-4. [Feature Engineering](https://www.coursera.org/learn/feature-engineering) `intermediate`
 5. [Art and Science of Machine Learning](https://www.coursera.org/learn/art-science-ml) `intermediate`
 ### Google Cloud, New York Institute of Finance
 #### [Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)
@@ -2943,10 +2950,14 @@
 ### H2O
  - [Practical Machine Learning on H2O](https://www.coursera.org/learn/machine-learning-h2o) `intermediate`
 ### IBM
+ - [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) `intermediate`
  - [Getting Started with AI using IBM Watson](https://www.coursera.org/learn/ai-with-ibm-watson) `beginner`
  - [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/learn/introduction-to-ai) `beginner`
  - [Machine Learning Rapid Prototyping with IBM Watson Studio](https://www.coursera.org/learn/ibm-rapid-prototyping-watson-studio-autoai) `intermediate`
  - [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) `intermediate`
+ - [Supervised Learning: Classification](https://www.coursera.org/learn/supervised-learning-classification) `intermediate`
+ - [Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression) `intermediate`
+ - [Unsupervised Learning](https://www.coursera.org/learn/ibm-unsupervised-learning) `intermediate`
 #### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
 2. [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing) `advanced`
 3. [Applied AI with DeepLearning](https://www.coursera.org/learn/ai) `advanced`
@@ -2958,28 +2969,26 @@
 5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow) `intermediate`
 6. [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone) `advanced`
 #### [IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow)
+1. [AI Workflow: AI in Production](https://www.coursera.org/learn/ibm-ai-workflow-ai-production) `advanced`
 1. [AI Workflow: Business Priorities and Data Ingestion](https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion) `intermediate`
 2. [AI Workflow: Data Analysis and Hypothesis Testing](https://www.coursera.org/learn/ibm-ai-workflow-data-analysis-hypothesis-testing) `advanced`
 3. [AI Workflow: Feature Engineering and Bias Detection](https://www.coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection) `advanced`
 4. [AI Workflow: Machine Learning, Visual Recognition and NLP](https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-vr-nlp) `advanced`
 5. [AI Workflow: Enterprise Model Deployment](https://www.coursera.org/learn/ibm-ai-workflow-machine-learning-model-deployment) `advanced`
-6. [AI Workflow: AI in Production](https://www.coursera.org/learn/ibm-ai-workflow-ai-production) `advanced`
 #### [IBM Applied AI Professional Certificate](https://www.coursera.org/specializations/applied-artifical-intelligence-ibm-watson-ai)
-1. [Introduction to Computer Vision with Watson and OpenCV](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv) `beginner`
 5. [Building AI Applications with Watson APIs](https://www.coursera.org/learn/building-ai-applications) `intermediate`
-#### [IBM Introduction to Machine Learning Specialization](https://www.coursera.org/specializations/ibm-intro-machine-learning)
-1. [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) `intermediate`
-2. [Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression) `intermediate`
-3. [Supervised Learning: Classification](https://www.coursera.org/learn/supervised-learning-classification) `intermediate`
-4. [Unsupervised Learning](https://www.coursera.org/learn/ibm-unsupervised-learning) `intermediate`
+6. [Introduction to Computer Vision with Watson and OpenCV](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv) `beginner`
+#### [IBM Machine Learning Professional Certificate](https://www.coursera.org/specializations/ibm-machine-learning)
+5. [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning) `intermediate`
+6. [Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/learn/time-series-survival-analysis) `intermediate`
 ### Imperial College London
 #### [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) `beginner`
 3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) `intermediate`
 #### [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/specializations/tensorflow2-deeplearning)
 1. [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2) `intermediate`
+1. [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2) `advanced`
 2. [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2) `intermediate`
-3. [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2) `advanced`
 ### Johns Hopkins University
  - [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
  - [The Unix Workbench](https://www.coursera.org/learn/unix) `beginner`
@@ -3676,6 +3685,8 @@
  - [COVID-19: What You Need to Know (CME Eligible)](https://www.coursera.org/learn/covid-19-what-you-need-to-know) `beginner`
 ### Princeton University
  - [Bats, Ducks, and Pandemics: An Introduction to One Health Policy](https://www.coursera.org/learn/onehealth) `beginner`
+### Rice University
+ - [Fundamentals of Immunology: Dueling with the Dark Side](https://www.coursera.org/learn/fundamentals-of-immunology-four-dueling-with-the-dark-side)
 ### Stanford University
  - [Antibiotic Stewardship](https://www.coursera.org/learn/antibiotic-stewardship) `advanced`
  - [Health Across the Gender Spectrum](https://www.coursera.org/learn/health-gender-spectrum) `beginner`
@@ -4522,7 +4533,7 @@
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
 1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
-4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
+1. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
 2. [Diode - pn Junction and Metal Semiconductor Contact](https://www.coursera.org/learn/diode-pn-junction-metal-semiconductor-contact) `advanced`
@@ -5010,8 +5021,6 @@
  - [Learning Mindsets & Skills](https://www.coursera.org/learn/learning-skills)
 ### Johns Hopkins University
  - [Inclusive Online Teaching Teach-Out](https://www.coursera.org/learn/inclusive-online-teaching)
-### Macquarie University
- - [Artificial Intelligence (AI) Education for Teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers) `beginner`
 ### Nanyang Technological University, Singapore
  - [Motivating Gen Z Learners: What Parents and Teachers Need to Know](https://www.coursera.org/learn/motivate-genz-learners) `beginner`
 ### New Teacher Center, Silicon Schools Fund, Clayton Christensen Institute, Relay Graduate School of Education
