@@ -30,7 +30,7 @@
  - [AI、機械学習、ディープラーニングのための TensorFlow 入門](https://www.coursera.org/learn/introduction-tensorflow-ja) `intermediate`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine 日本語版 Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-jp)
-1. [Architecting with Google Kubernetes Engine: Foundations 日本語版](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-jp) `intermediate`
+2. [Architecting with Google Kubernetes Engine: Foundations 日本語版](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-jp) `intermediate`
 3. [Architecting with Google Kubernetes Engine: Workloads 日本語版](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-jp) `intermediate`
 4. [Architecting with Google Kubernetes Engine: Production 日本語版](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-jp) `intermediate`
 #### [Developing Applications with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/developing-apps-gcp-jp)
