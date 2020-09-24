@@ -289,8 +289,8 @@
 ## Algorithms
 ### Universidad Nacional Autónoma de México
 #### [Introducción a la inteligencia artificial Specialization](https://www.coursera.org/specializations/inteligencia-artificial)
-1. [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial) `intermediate`
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
+2. [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial) `intermediate`
 3. [Resolución de problemas por búsqueda](https://www.coursera.org/learn/resolucion-busqueda) `beginner`
 4. [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas)
 5. [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo) `intermediate`
@@ -313,7 +313,7 @@
 ### Universidad de los Andes
 #### [Desarrollo y Diseño de Videojuegos Specialization](https://www.coursera.org/specializations/desarrollo-videojuegos)
 1. [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity) `beginner`
-2. [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro) `beginner`
+1. [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro) `beginner`
 3. [Emprendimiento y métodos ágiles de desarrollo en videojuegos](https://www.coursera.org/learn/videojuegos-emprendimiento) `beginner`
 4. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
 5. [Desarrollo y Diseño de Videojuegos: Proyecto final](https://www.coursera.org/learn/proyecto-desarrollo-videojuegos) `intermediate`
@@ -383,6 +383,7 @@
 ## Data Analysis
 ### Coursera Project Network
  - [Análisis de documentos con servicios cognitivos de Azure](https://www.coursera.org/learn/analisis-documentos-servicios-cognitivos-azure) `beginner`
+ - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
  - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
@@ -715,9 +716,9 @@
  - [La enseñanza de las Ciencias Naturales en la escuela primaria](https://www.coursera.org/learn/ensenar-ciencias-naturales) `beginner`
 #### [Educación Básica en Contextos Rurales Specialization](https://www.coursera.org/specializations/educacion-basica-rural)
 1. [Educación en Contextos Rurales: Perspectivas en América Latina](https://www.coursera.org/learn/educacion-contextos-rurales-america-latina) `beginner`
-1. [Gestión estratégica de Escuelas en Contextos Rurales](https://www.coursera.org/learn/gestion-estrategica-escuelas-rurales) `beginner`
-2. [La escuela y su comunidad: lecciones desde la ruralidad](https://www.coursera.org/learn/escuela-comunidad-lecciones-innovacion-educativa) `beginner`
+2. [Gestión estratégica de Escuelas en Contextos Rurales](https://www.coursera.org/learn/gestion-estrategica-escuelas-rurales) `beginner`
 3. [Enseñar, aprender y evaluar en Escuelas Rurales](https://www.coursera.org/learn/ensenar-aprender-evaluar-escuelas-rurales) `beginner`
+4. [La escuela y su comunidad: lecciones desde la ruralidad](https://www.coursera.org/learn/escuela-comunidad-lecciones-innovacion-educativa) `beginner`
 ### Universidad de Chile
  - [Docencia para la capacitación laboral y el aprendizaje a lo largo de la vida.](https://www.coursera.org/learn/docencia-capacitacion-laboral) `intermediate`
  - [El desafío de Innovar en la Educación Superior](https://www.coursera.org/learn/educacion-superior)
