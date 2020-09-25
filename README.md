@@ -1,3 +1,5 @@
+![Hits](https://twentythree.ru/hit-counter/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdp92987%2FCourseraCatalog)
+
 # Coursera Catalog
 
 Complete list of `4945` courses. Updated daily.
