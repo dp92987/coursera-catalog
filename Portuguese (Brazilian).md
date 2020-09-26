@@ -83,10 +83,10 @@
  - [Inove na gestão de equipes e negócios: O crescimento da empresa](https://www.coursera.org/learn/gestao-equipes-negocios) `beginner`
 ### Universidade de São Paulo, University of California, Irvine
 #### [Introdução aos Princípios e Práticas da Gestão De Projetos Specialization](https://www.coursera.org/specializations/gestao-de-projetos-introducao-usp)
-1. [Gestão de Riscos e de Mudanças em Projetos](https://www.coursera.org/learn/riscos-mudancas-em-projetos)
 1. [Iniciação e Planejamento de Projetos](https://www.coursera.org/learn/projeto-aplicado) `beginner`
-1. [Orçamento e Cronograma de Projetos](https://www.coursera.org/learn/orcamento-cronograma-de-projetos) `beginner`
-2. [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
+2. [Orçamento e Cronograma de Projetos](https://www.coursera.org/learn/orcamento-cronograma-de-projetos) `beginner`
+3. [Gestão de Riscos e de Mudanças em Projetos](https://www.coursera.org/learn/riscos-mudancas-em-projetos)
+4. [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
 ### Universidade Estadual de Campinas
  - [Conceitos Básicos de Logística e Supply Chain](https://www.coursera.org/learn/conceitos-basicos-logistica) `beginner`
 ## Marketing

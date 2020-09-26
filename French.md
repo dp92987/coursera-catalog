@@ -99,6 +99,7 @@
 ### Coursera Project Network
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
+ - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
 ## Machine Learning
 ### Coursera Project Network
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
