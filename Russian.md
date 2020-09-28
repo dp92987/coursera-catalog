@@ -291,6 +291,8 @@
 ### Moscow Institute of Physics and Technology, ФРОО, Mail.Ru Group
 #### [Программирование на Python Specialization](https://www.coursera.org/specializations/programming-in-python)
 4. [Python для анализа данных](https://www.coursera.org/learn/python-for-data-science) `intermediate`
+### National Research University Higher School of Economics
+ - [Инструментальная фонетика: компьютерные методы сбора и анализа данных](https://www.coursera.org/learn/instrumental-phonetics)
 ### Novosibirsk State University 
 #### [Анализ данных Specialization](https://www.coursera.org/specializations/analiz-dannykh)
 1. [Введение в данные](https://www.coursera.org/learn/vvedeniye-dannyye) `intermediate`

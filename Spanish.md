@@ -343,8 +343,6 @@
 3. [Desarrollo de aplicaciones con Android](https://www.coursera.org/learn/desarrollo-de-aplicaciones) `intermediate`
 4. [Desarrollo de aplicaciones avanzadas con Android](https://www.coursera.org/learn/aplicaciones-android)
 5. [Proyecto final - Construyendo una aplicación profesional con Android](https://www.coursera.org/learn/construyendo-android-proyecto)
-### University of New Mexico
- - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
 ### Coursera Project Network
  - [Análisis de texto en archivos con Azure cognitive search](https://www.coursera.org/learn/analisis-textos-archivos-servicios-cognitivos-azure) `beginner`
@@ -353,6 +351,7 @@
  - [Aprendiendo Python con textos, números y ecuaciones](https://www.coursera.org/learn/aprendiendo-python-con-textos-numeros-ecuaciones) `beginner`
  - [Aprendiendo Python con álgebra lineal](https://www.coursera.org/learn/aprendiendo-python-con-algebra-lineal) `beginner`
  - [Implementando un motor con Alibaba Cloud y ElasticSearch](https://www.coursera.org/learn/alibabacloud-elastic) `beginner`
+ - [Programando un blockchain básico con Javascript](https://www.coursera.org/learn/blockchain-javascript) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Español Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-es)
 2. [Architecting with Google Kubernetes Engine: Foundations en Español](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-es) `intermediate`

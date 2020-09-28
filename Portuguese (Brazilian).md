@@ -65,7 +65,6 @@
  - [Fundamentos de Gerenciamento com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-8)
  - [Fundamentos de Liderança com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-3)
  - [Fundamentos de Negociação com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-10)
- - [Fundamentos de Operações com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-7)
  - [Fundamentos de Planejamento Financeiro com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-5)
  - [Fundamentos de Vendas e Marketing com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-6)
 ### Universidade de São Paulo
@@ -180,8 +179,7 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure em Português Brasileiro](https://www.coursera.org/learn/gcp-fundamentals-br) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-br) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-br) `advanced`
-#### [Architecting with Google Compute Engine em Português Specialization](https://www.coursera.org/specializations/gcp-architecture-br)
-1. [Reliable Cloud Infrastructure: Design and Process em Português Brasileiro](https://www.coursera.org/learn/cloud-infrastructure-design-process-br) `intermediate`
+ - [Reliable Cloud Infrastructure: Design and Process em Português Brasileiro](https://www.coursera.org/learn/cloud-infrastructure-design-process-br) `intermediate`
 #### [Data Engineer, Big Data and ML on Google Cloud em Português Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-br)
 2. [Modernizing Data Lakes and Data Warehouses with GCP em Português Brasileiro](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-br) `intermediate`
 3. [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br) `intermediate`

@@ -663,7 +663,6 @@
 ### deeplearning.ai
  - [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) `beginner`
 ### EIT Digital 
- - [Blockchain for the decision maker](https://www.coursera.org/learn/blockchain-decision-maker) `beginner`
  - [Impact from digital transformation: A Nano course](https://www.coursera.org/learn/digital-transformation-impact-nano-course) `beginner`
 #### [Privacy and Standardisation Specialization](https://www.coursera.org/specializations/privacy)
 4. [Standardisation & Technology](https://www.coursera.org/learn/standardisation) `beginner`
@@ -900,7 +899,6 @@
  - [Becoming a changemaker: Introduction to Social Innovation](https://www.coursera.org/learn/social-innovation) `beginner`
 #### [Fintech Startups in Emerging Markets Specialization](https://www.coursera.org/specializations/fintech-startups-emerging-markets)
 3. [Building Fintech Startups in Emerging Markets](https://www.coursera.org/learn/building-fintech-startups) `beginner`
-4. [Capstone Course: Start Up Your Fintech Future](https://www.coursera.org/learn/startup-fintech-capstone) `beginner`
 ### University of Copenhagen, Copenhagen Business School
  - [Business Models for Innovative Care for Older People](https://www.coursera.org/learn/business-models-innovative-care) `intermediate`
 ### University of Illinois at Urbana-Champaign
@@ -2422,7 +2420,7 @@
  - [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) `beginner`
 #### [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)
 1. [Introduction to Self-Driving Cars](https://www.coursera.org/learn/intro-self-driving-cars) `advanced`
-2. [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) `advanced`
+1. [State Estimation and Localization for Self-Driving Cars](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) `advanced`
 3. [Visual Perception for Self-Driving Cars](https://www.coursera.org/learn/visual-perception-self-driving-cars) `advanced`
 4. [Motion Planning for Self-Driving Cars](https://www.coursera.org/learn/motion-planning-self-driving-cars) `advanced`
 ### University of Virginia
@@ -3182,7 +3180,6 @@
  - [Sustainable Food Production Through Livestock Health Management](https://www.coursera.org/learn/livestock-farming) `beginner`
 ## Basic Science
 ### American Museum of Natural History
- - [Evolution: A Course for Educators](https://www.coursera.org/learn/teaching-evolution)
  - [Genetics and Society: A Course for Educators](https://www.coursera.org/learn/genetics-society)
  - [The Science of Stem Cells](https://www.coursera.org/learn/stem-cells) `intermediate`
 ### American Museum of Natural History, Howard Hughes Medical Institute 
@@ -4246,7 +4243,7 @@
 3. [Mandarin Chinese 3: Chinese for Beginners](https://www.coursera.org/learn/mandarin-chinese-3) `beginner`
 4. [Learn Mandarin Chinese: Capstone Project](https://www.coursera.org/learn/learn-mandarin-project) `beginner`
 #### [Learn Mandarin Chinese: Intermediate  Specialization](https://www.coursera.org/specializations/learn-mandarin-chinese-intermediate)
-1. [Mandarin Chinese for Intermediate Learners: Capstone Project](https://www.coursera.org/learn/mandarin-chinese-intermediate-learner-capstone) `intermediate`
+4. [Mandarin Chinese for Intermediate Learners: Capstone Project](https://www.coursera.org/learn/mandarin-chinese-intermediate-learner-capstone) `intermediate`
 ### Universiteit Leiden, Meertens instituut (KNAW)
  - [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) `beginner`
 ### University of California, Davis
@@ -4385,7 +4382,6 @@
 ### The State University of New York, University at Buffalo / Binghamton University
  - [Exploring Emerging Technologies for Lifelong Learning and Success](https://www.coursera.org/learn/emerging-technologies-lifelong-learning) `beginner`
 ### The University of Edinburgh
- - [Digital Footprint](https://www.coursera.org/learn/digital-footprint) `beginner`
  - [Sit Less, Get Active](https://www.coursera.org/learn/get-active) `beginner`
 ### The University of Tokyo
  - [Studying at Japanese Universities](https://www.coursera.org/learn/study-in-japan) `beginner`
@@ -4545,7 +4541,6 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
- - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Techniques of Design-Oriented Analysis](https://www.coursera.org/learn/techniques-of-design-oriented-analysis) `intermediate`
@@ -4568,6 +4563,7 @@
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
+1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
@@ -4627,7 +4623,6 @@
  - [Introduction to solar cells](https://www.coursera.org/learn/solar-cells) `beginner`
 ### The Pennsylvania State University
  - [Creativity, Innovation and Transformation](https://www.coursera.org/learn/creativity-innovation)
- - [Geodesign: Change Your World](https://www.coursera.org/learn/geodesign) `beginner`
 ### The State University of New York
  - [Solar Energy Basics](https://www.coursera.org/learn/solar-energy-basics) `beginner`
 ### The University of Chicago
@@ -5364,7 +5359,6 @@
 ### Princeton University
  - [REAL BONES:  Adventures in Forensic Anthropology](https://www.coursera.org/learn/real-bones-forensic-anthropology) `intermediate`
 ### Saint Petersburg State University
- - [Constitutional Reforms in Russia](https://www.coursera.org/learn/constitutional-reforms-in-russia) `intermediate`
  - [International Labour Law](https://www.coursera.org/learn/international-labour-law) `beginner`
 ### Tel Aviv University
  - [Economic Growth and Distributive Justice Part I -The Role of the State](https://www.coursera.org/learn/economic-growth-part-1)
