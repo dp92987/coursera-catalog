@@ -65,6 +65,7 @@
  - [Fundamentos de Gerenciamento com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-8)
  - [Fundamentos de Liderança com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-3)
  - [Fundamentos de Negociação com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-10)
+ - [Fundamentos de Operações com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-7)
  - [Fundamentos de Planejamento Financeiro com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-5)
  - [Fundamentos de Vendas e Marketing com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-6)
 ### Universidade de São Paulo
