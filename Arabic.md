@@ -26,7 +26,7 @@
 ### Yale University
  - [مقدمة عن التفاوض: دليل استراتيجي لتصبح مُفاوضًا ذا مبادئ ومُقنعًا](https://www.coursera.org/learn/negotiation-ar)
 ## Business Strategy
-### deeplearning.ai
+### DeepLearning.AI
  - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar) `beginner`
 ### University of Virginia
  - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar) `beginner`
@@ -74,7 +74,7 @@
 ### University of California San Diego
  - [مقدمة عن البيانات الضخمة](https://www.coursera.org/learn/big-data-introduction-ar)
 ## Machine Learning
-### deeplearning.ai
+### DeepLearning.AI
  - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar) `intermediate`
 # Language Learning
 > - [Learning English](#learning-english)

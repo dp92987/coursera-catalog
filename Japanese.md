@@ -6,15 +6,19 @@
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
+> - [Entrepreneurship](#entrepreneurship)
 ## Business Essentials
 ### University of California, Irvine
  - [業務効率や生産性向上につながる時間管理](https://www.coursera.org/learn/work-smarter-not-harder-ja)
 ## Business Strategy
-### deeplearning.ai
+### DeepLearning.AI
  - [すべての人のためのAI【日本語版】](https://www.coursera.org/learn/ai-for-everyone-ja) `beginner`
 ### Google Cloud
  - [Business Transformation with Google Cloud 日本語版](https://www.coursera.org/learn/business-transformation-google-cloud-jp) `beginner`
  - [Google Cloud Product Fundamentals 日本語版](https://www.coursera.org/learn/google-cloud-product-fundamentals-jp) `beginner`
+## Entrepreneurship
+### The University of Tokyo
+ - [FoundX Startup School Beta Course](https://www.coursera.org/learn/foundx-beta-course) `beginner`
 # Computer Science
 > - [Computer Security and Networks](#computer-security-and-networks)
 > - [Software Development](#software-development)
@@ -26,7 +30,7 @@
 3. [G Suite Security 日本語版](https://www.coursera.org/learn/g-suite-security-jp) `beginner`
 4. [G Suite Mail Management 日本語版](https://www.coursera.org/learn/g-suite-mail-management-jp) `beginner`
 ## Software Development
-### deeplearning.ai
+### DeepLearning.AI
  - [AI、機械学習、ディープラーニングのための TensorFlow 入門](https://www.coursera.org/learn/introduction-tensorflow-ja) `intermediate`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine 日本語版 Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-jp)
@@ -40,7 +44,7 @@
 # Data Science
 > - [Machine Learning](#machine-learning)
 ## Machine Learning
-### deeplearning.ai
+### DeepLearning.AI
  - [TensorFlow を使った畳み込みニューラルネットワーク](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow-ja) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-jp) `intermediate`
@@ -62,7 +66,8 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure 日本語版](https://www.coursera.org/learn/gcp-fundamentals-jp) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-jp) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-jp) `advanced`
- - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
+#### [Architecting with Google Compute Engine 日本語版 Specialization](https://www.coursera.org/specializations/gcp-architecture-jp)
+5. [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
 #### [Data Engineering, Big Data and ML on Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-jp)
 2. [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
 3. [Building Batch Data Pipelines on GCP 日本語版](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp) `intermediate`

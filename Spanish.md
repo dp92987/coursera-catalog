@@ -42,12 +42,12 @@
 ### Universidad de los Andes
  - [Leer a Macondo: la obra de Gabriel García Márquez](https://www.coursera.org/learn/macondo-gabriel-garcia-marquez)
 ### Universidad de Palermo
- - [Historia del Arte: Del Arte Prehistórico al Renacimiento](https://www.coursera.org/learn/historia-del-arte-inicio) `beginner`
- - [Historia del Arte: Del Barroco al Arte Posmoderno](https://www.coursera.org/learn/historia-del-arte-posmoderno) `beginner`
+ - [Historia del Arte: Del Arte Prehistórico al Renacimiento](https://www.coursera.org/learn/historia-arte-prehistorico-renacimiento) `beginner`
+ - [Historia del Arte: Del Barroco al Arte Posmoderno](https://www.coursera.org/learn/historia-arte-barroco-posmoderno) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Tecnología musical con software libre Specialization](https://www.coursera.org/specializations/tecnologia-musical)
-1. [Grabación y postproducción musical dentro y fuera del estudio](https://www.coursera.org/learn/grabacion-musical) `intermediate`
 1. [Introducción a la producción musical](https://www.coursera.org/learn/intro-produccion-musical) `intermediate`
+2. [Grabación y postproducción musical dentro y fuera del estudio](https://www.coursera.org/learn/grabacion-musical) `intermediate`
 3. [Audio digital con Pure Data](https://www.coursera.org/learn/audio-digital-pure-data) `intermediate`
 5. [Aplicaciones musicales con Arduino](https://www.coursera.org/learn/aplicaciones-musicales-arduino)
 6. [Perspectivas de música colaborativa](https://www.coursera.org/learn/perspectivas-musica-colaborativa) `intermediate`
@@ -83,14 +83,14 @@
 ### Universidad Nacional Autónoma de México
 #### [Estrategias de Negociación Specialization](https://www.coursera.org/specializations/negociacion)
 1. [Introducción al mundo de las negociaciones](https://www.coursera.org/learn/estrategias-de-negociacion)
-1. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
-1. [Proyecto final sobre negociación para un mejor clima laboral](https://www.coursera.org/learn/proyecto-negociacion)
 2. [Habilidades humanas y de negocios para negociar](https://www.coursera.org/learn/habilidades-negociacion)
 3. [Los obstáculos y la conducción en las negociaciones](https://www.coursera.org/learn/negociacion-proceso)
+4. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
+5. [Proyecto final sobre negociación para un mejor clima laboral](https://www.coursera.org/learn/proyecto-negociacion)
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
 1. [Introducción a la Estrategia](https://www.coursera.org/learn/introduccionalaestrategia)
-1. [Introducción a las Finanzas](https://www.coursera.org/learn/estrategia-financiera)
-2. [Introducción al Mercado](https://www.coursera.org/learn/mercado-investigacion)
+2. [Introducción a las Finanzas](https://www.coursera.org/learn/estrategia-financiera)
+3. [Introducción al Mercado](https://www.coursera.org/learn/mercado-investigacion)
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
 5. [Redacción de documentos empresariales de gran impacto](https://www.coursera.org/learn/escritura-en-negocios)
@@ -101,7 +101,7 @@
 #### [Fundamentos Empresariales  Specialization](https://www.coursera.org/specializations/wharton-fundamentos-empresariales)
 5. [Proyecto de Fundamentos Empresariales de Wharton](https://www.coursera.org/learn/wharton-proyecto-final-empresariales)
 ## Business Strategy
-### deeplearning.ai
+### DeepLearning.AI
  - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es) `beginner`
 ### Google Cloud
  - [Business Transformation with Google Cloud en Español](https://www.coursera.org/learn/business-transformation-google-cloud-es) `beginner`
@@ -125,11 +125,11 @@
 #### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
 1. [Hacer negocios con multinacionales y empresas en América Latina](https://www.coursera.org/learn/negocios-multinacionales-america-latina) `beginner`
 ### Universidad de Palermo
- - [E-Business: Negocios Online](https://www.coursera.org/learn/e-business) `beginner`
+ - [E-Business: Negocios Online](https://www.coursera.org/learn/e-business-negocios-online) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
-1. [Estratégicos Empresariales Proyecto Final](https://www.coursera.org/learn/estrategicos-empresariales-proyecto)
 4. [Introducción a la Calidad](https://www.coursera.org/learn/gestion-de-productividad)
+5. [Estratégicos Empresariales Proyecto Final](https://www.coursera.org/learn/estrategicos-empresariales-proyecto)
 ### University of New Mexico
  - [Negocios Internacionales I](https://www.coursera.org/learn/negocios-internacionales)
  - [Negocios Internacionales II](https://www.coursera.org/learn/negocios-internacionales-2)
@@ -188,11 +188,11 @@
  - [Finanzas personales](https://www.coursera.org/learn/finanzas-personales)
 #### [Finanzas corporativas Specialization](https://www.coursera.org/specializations/finanzascorporativas)
 1. [Administración financiera y su función en la empresa](https://www.coursera.org/learn/admonfinanciera) `intermediate`
-1. [Matemáticas financieras](https://www.coursera.org/learn/matematicas) `intermediate`
-1. [Valuación de empresas](https://www.coursera.org/learn/valuacionempresas) `intermediate`
-2. [Toma de Decisiones Financieras](https://www.coursera.org/learn/proyectofinanzascorporativas) `intermediate`
+2. [Matemáticas financieras](https://www.coursera.org/learn/matematicas) `intermediate`
 3. [Evaluación de inversiones en Bienes de Capital](https://www.coursera.org/learn/evaluaciondeinversiones) `intermediate`
 4. [Estructura de capital y política de dividendos](https://www.coursera.org/learn/estructura) `intermediate`
+5. [Valuación de empresas](https://www.coursera.org/learn/valuacionempresas) `intermediate`
+6. [Toma de Decisiones Financieras](https://www.coursera.org/learn/proyectofinanzascorporativas) `intermediate`
 ## Leadership and Management
 ### ESADE Business and Law School
 #### [Empresa familiar: gestión, dirección y sucesión Specialization](https://www.coursera.org/specializations/empresa-familiar-gestion)
@@ -223,10 +223,10 @@
 ### Universidad Nacional Autónoma de México
 #### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
 1. [Autoridad, dirección y liderazgo](https://www.coursera.org/learn/autoridad) `beginner`
-1. [Gestión del talento humano](https://www.coursera.org/learn/gestion-del-talento) `beginner`
-1. [Solución de problemas y toma de decisiones](https://www.coursera.org/learn/soluciondeproblemas) `beginner`
-2. [Administración para obtener resultados](https://www.coursera.org/learn/resultados) `beginner`
+2. [Gestión del talento humano](https://www.coursera.org/learn/gestion-del-talento) `beginner`
 3. [Orden y manejo del tiempo](https://www.coursera.org/learn/orden) `beginner`
+4. [Solución de problemas y toma de decisiones](https://www.coursera.org/learn/soluciondeproblemas) `beginner`
+5. [Administración para obtener resultados](https://www.coursera.org/learn/resultados) `beginner`
 ### Universitat Autònoma de Barcelona
  - [Tu consultorio de Coaching en las ondas](https://www.coursera.org/learn/coaching-en-las-ondas) `beginner`
 ### University of California, Irvine
@@ -289,14 +289,14 @@
 ## Algorithms
 ### Universidad Nacional Autónoma de México
 #### [Introducción a la inteligencia artificial Specialization](https://www.coursera.org/specializations/inteligencia-artificial)
-1. [Comportamiento adaptativo](https://www.coursera.org/learn/comportamiento-adapta) `intermediate`
-1. [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo) `intermediate`
 1. [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial) `intermediate`
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
-2. [Cognición encarnada](https://www.coursera.org/learn/cognicion) `beginner`
 2. [Resolución de problemas por búsqueda](https://www.coursera.org/learn/resolucion-busqueda) `beginner`
+3. [Creatividad computacional](https://www.coursera.org/learn/creatividad-computacional) `intermediate`
 4. [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas)
-7. [Creatividad computacional](https://www.coursera.org/learn/creatividad-computacional) `intermediate`
+5. [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo) `intermediate`
+6. [Comportamiento adaptativo](https://www.coursera.org/learn/comportamiento-adapta) `intermediate`
+8. [Cognición encarnada](https://www.coursera.org/learn/cognicion) `beginner`
 9. [Inteligencia artificial: Proyecto final](https://www.coursera.org/learn/inteligencia-artificial-proyecto)
 ### Universitat Autònoma de Barcelona
  - [Clasificación de imágenes: ¿cómo reconocer el contenido de una imagen?](https://www.coursera.org/learn/clasificacion-imagenes)
@@ -304,7 +304,7 @@
 ## Design and Product
 ### Arizona State University, Universidad Nacional Autónoma de México
 #### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
-1. [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final) `intermediate`
+4. [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final) `intermediate`
 ### IBM
 #### [Fundamentos de IA para Todos Specialization](https://www.coursera.org/specializations/fundamentos-de-ia-para-todos)
 3. [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
@@ -339,11 +339,11 @@
 4. [Desarrollo del lado servidor: NodeJS, Express y MongoDB](https://www.coursera.org/learn/desarrollo-lado-servidor-nodejs-express-mongodb) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Desarrollo de aplicaciones móviles con Android Specialization](https://www.coursera.org/specializations/programacion-android)
-1. [Desarrollo de aplicaciones avanzadas con Android](https://www.coursera.org/learn/aplicaciones-android)
-1. [Fundamentos de Android](https://www.coursera.org/learn/fundamentos)
 1. [Programando con Java para aplicaciones Android](https://www.coursera.org/learn/programandoconjava)
-2. [Proyecto final - Construyendo una aplicación profesional con Android](https://www.coursera.org/learn/construyendo-android-proyecto)
+2. [Fundamentos de Android](https://www.coursera.org/learn/fundamentos)
 3. [Desarrollo de aplicaciones con Android](https://www.coursera.org/learn/desarrollo-de-aplicaciones) `intermediate`
+4. [Desarrollo de aplicaciones avanzadas con Android](https://www.coursera.org/learn/aplicaciones-android)
+5. [Proyecto final - Construyendo una aplicación profesional con Android](https://www.coursera.org/learn/construyendo-android-proyecto)
 ### University of New Mexico
  - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
@@ -608,7 +608,7 @@
 #### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
 1. [Ser más creativos](https://www.coursera.org/learn/creatividad)
 #### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
-2. [Habilidades gerenciales: Proyecto final](https://www.coursera.org/learn/hgproyectofinal) `beginner`
+6. [Habilidades gerenciales: Proyecto final](https://www.coursera.org/learn/hgproyectofinal) `beginner`
 ### Universitat Autònoma de Barcelona
  - [Competencias digitales. Bases de datos: Access](https://www.coursera.org/learn/competencias-digitales-access) `beginner`
  - [Competencias digitales. Conceptos y herramientas básicas](https://www.coursera.org/learn/competencias-digitales-herramientas-basicas) `beginner`
@@ -739,9 +739,9 @@
  - [Usos Didácticos del Cine: Introducción al Análisis](https://www.coursera.org/learn/usos-didacticos-del-cine) `intermediate`
 #### [Evaluación educativa Specialization](https://www.coursera.org/specializations/evaluacion-educativa)
 1. [Evaluación educativa del y para el aprendizaje en educación superior](https://www.coursera.org/learn/evaluacion-educativa) `beginner`
-1. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 2. [Evaluación para el aprendizaje: Enfoque cuantitativo](https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo) `intermediate`
 3. [Evaluación para el aprendizaje: Enfoque cualitativo](https://www.coursera.org/learn/evaluacion-cualitativa) `intermediate`
+4. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 ### Universitat de Barcelona
  - [Claves para la innovación en la docencia universitaria](https://www.coursera.org/learn/innovacion-docencia-universitaria)
 ## Governance and Society
