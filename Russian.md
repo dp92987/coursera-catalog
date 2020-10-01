@@ -250,8 +250,8 @@
  - [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1) `intermediate`
  - [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2) `intermediate`
 #### [Программирование на Python Specialization](https://www.coursera.org/specializations/programming-in-python)
+1. [ООП и паттерны проектирования в Python](https://www.coursera.org/learn/oop-patterns-python) `intermediate`
 1. [Погружение в Python](https://www.coursera.org/learn/diving-in-python) `intermediate`
-2. [ООП и паттерны проектирования в Python](https://www.coursera.org/learn/oop-patterns-python) `intermediate`
 3. [Создание Web-сервисов на Python](https://www.coursera.org/learn/python-for-web) `intermediate`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Искусство разработки на современном C++ Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)

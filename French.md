@@ -103,6 +103,7 @@
 ## Machine Learning
 ### Coursera Project Network
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
+ - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Français Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-fr)
