@@ -180,7 +180,8 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure em Português Brasileiro](https://www.coursera.org/learn/gcp-fundamentals-br) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-br) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-br) `advanced`
- - [Reliable Cloud Infrastructure: Design and Process em Português Brasileiro](https://www.coursera.org/learn/cloud-infrastructure-design-process-br) `intermediate`
+#### [Architecting with Google Compute Engine em Português Specialization](https://www.coursera.org/specializations/gcp-architecture-br)
+5. [Reliable Cloud Infrastructure: Design and Process em Português Brasileiro](https://www.coursera.org/learn/cloud-infrastructure-design-process-br) `intermediate`
 #### [Data Engineer, Big Data and ML on Google Cloud em Português Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-br)
 2. [Modernizing Data Lakes and Data Warehouses with GCP em Português Brasileiro](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-br) `intermediate`
 3. [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br) `intermediate`
