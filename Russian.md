@@ -256,9 +256,9 @@
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Искусство разработки на современном C++ Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 1. [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) `intermediate`
-1. [Основы разработки на C++: жёлтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) `intermediate`
+1. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
+2. [Основы разработки на C++: жёлтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) `intermediate`
 3. [Основы разработки на C++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) `intermediate`
-4. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
 5. [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Использование механизмов операционных систем в разработке программного обеспечения](https://www.coursera.org/learn/os-v-razrabotke-po) `beginner`
@@ -521,6 +521,7 @@
 ### National Research Nuclear University MEPhI
  - [Изобретения, изменившие мир](https://www.coursera.org/learn/izobreteniya-izmenivshiye-mir)
  - [Квантовая механика. Часть 1. Принципы квантовой механики](https://www.coursera.org/learn/principles-of-quantum-mechanic) `intermediate`
+ - [Кристаллография в материаловедении](https://www.coursera.org/learn/physical-crystallography) `beginner`
  - [Физика в опытах. Часть 1. Механика](https://www.coursera.org/learn/fizika-v-opitah-mehanika)
  - [Физика в опытах. Часть 2. Электричество и магнетизм](https://www.coursera.org/learn/fizika-v-opitah-elektrichestvo-i-magnetizm)
  - [Физика в опытах. Часть 3. Колебания и молекулярная физика](https://www.coursera.org/learn/molekulyarnaya-fizika)

@@ -389,6 +389,7 @@
  - [Análisis de documentos con servicios cognitivos de Azure](https://www.coursera.org/learn/analisis-documentos-servicios-cognitivos-azure) `beginner`
  - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
+ - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
  - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
  - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
@@ -515,7 +516,7 @@
  - [Preparing for the Google Cloud Professional Cloud Architect Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-es) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-es) `advanced`
 #### [Architecting with Google Compute Engine en Español Specialization](https://www.coursera.org/specializations/gcp-architecture-es)
-1. [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es) `intermediate`
+5. [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es) `intermediate`
 #### [Data Engineering, Big Data and ML on Google Cloud en Español Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-es)
 2. [Modernizing Data Lakes and Data Warehouses with GCP en Español](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-es) `intermediate`
 3. [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`

@@ -25,10 +25,10 @@
 ## Computer Security and Networks
 ### Google Cloud
 #### [G Suite Administration 日本語版 Specialization](https://www.coursera.org/specializations/g-suite-administration-jp)
+1. [G Suite Mail Management 日本語版](https://www.coursera.org/learn/g-suite-mail-management-jp) `beginner`
 1. [Introduction to G Suite 日本語版](https://www.coursera.org/learn/introduction-g-suite-jp) `beginner`
 2. [Managing G Suite 日本語版](https://www.coursera.org/learn/managing-g-suite-jp) `beginner`
 3. [G Suite Security 日本語版](https://www.coursera.org/learn/g-suite-security-jp) `beginner`
-4. [G Suite Mail Management 日本語版](https://www.coursera.org/learn/g-suite-mail-management-jp) `beginner`
 ## Software Development
 ### DeepLearning.AI
  - [AI、機械学習、ディープラーニングのための TensorFlow 入門](https://www.coursera.org/learn/introduction-tensorflow-ja) `intermediate`
@@ -66,8 +66,7 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure 日本語版](https://www.coursera.org/learn/gcp-fundamentals-jp) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-jp) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-jp) `advanced`
-#### [Architecting with Google Compute Engine 日本語版 Specialization](https://www.coursera.org/specializations/gcp-architecture-jp)
-1. [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
+ - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
 #### [Data Engineering, Big Data and ML on Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-jp)
 2. [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
 3. [Building Batch Data Pipelines on GCP 日本語版](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp) `intermediate`
