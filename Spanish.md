@@ -515,8 +515,7 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Español](https://www.coursera.org/learn/gcp-fundamentals-es) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-es) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-es) `advanced`
-#### [Architecting with Google Compute Engine en Español Specialization](https://www.coursera.org/specializations/gcp-architecture-es)
-5. [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es) `intermediate`
+ - [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es) `intermediate`
 #### [Data Engineering, Big Data and ML on Google Cloud en Español Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-es)
 2. [Modernizing Data Lakes and Data Warehouses with GCP en Español](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-es) `intermediate`
 3. [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`

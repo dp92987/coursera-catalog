@@ -146,11 +146,9 @@
  - [Arch of Titus: Rome and the Menorah](https://www.coursera.org/learn/archoftitus)
 ## Music and Art
 ### Berklee College of Music
- - [Arranging for Songwriters](https://www.coursera.org/learn/arranging-for-songwriters) `intermediate`
  - [Building Your Career in Music: Developing A Brand and Funding Your Music](https://www.coursera.org/learn/navigate-music-industry-independent-artist) `beginner`
  - [Guitar for Beginners](https://www.coursera.org/learn/guitar)
  - [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live)
- - [Jazz Improvisation](https://www.coursera.org/learn/jazz-improvisation) `intermediate`
  - [Music Business Foundations](https://www.coursera.org/learn/music-business-foundations)
  - [Music for Wellness](https://www.coursera.org/learn/music-for-wellness) `beginner`
  - [Pro Tools Basics](https://www.coursera.org/learn/protools)
@@ -170,6 +168,9 @@
 2. [Guitar Scales and Chord Progressions](https://www.coursera.org/learn/guitar-scales-chord-progressions) `intermediate`
 3. [Guitar Chord Voicings: Playing Up The Neck](https://www.coursera.org/learn/guitar-chords) `intermediate`
 4. [Guitar Performance Techniques](https://www.coursera.org/learn/guitar-performance) `intermediate`
+#### [Music Education for Teachers Specialization](https://www.coursera.org/specializations/music-education)
+2. [Jazz Improvisation](https://www.coursera.org/learn/jazz-improvisation) `intermediate`
+3. [Arranging for Songwriters](https://www.coursera.org/learn/arranging-for-songwriters) `intermediate`
 #### [Music Production Specialization](https://www.coursera.org/specializations/music-production)
 4. [Music Production Capstone](https://www.coursera.org/learn/music-production-capstone) `intermediate`
 #### [O Músico Contemporâneo Specialization](https://www.coursera.org/specializations/musico-contmporaneo)
@@ -1115,9 +1116,9 @@
  - [Introduction to Finance: The Role of Financial Markets](https://www.coursera.org/learn/introduction-to-finance-the-role-of-financial-markets)
 #### [Financial Management Specialization](https://www.coursera.org/specializations/financial-management)
 1. [Financial Accounting: Foundations](https://www.coursera.org/learn/financial-accounting-basics)
-1. [Investments I: Fundamentals of Performance Evaluation](https://www.coursera.org/learn/investments-fundamentals)
 2. [Financial Accounting: Advanced Topics](https://www.coursera.org/learn/financial-accounting-advanced)
-2. [Investments II: Lessons and Applications for Investors](https://www.coursera.org/learn/investments-applications)
+3. [Investments I: Fundamentals of Performance Evaluation](https://www.coursera.org/learn/investments-fundamentals)
+4. [Investments II: Lessons and Applications for Investors](https://www.coursera.org/learn/investments-applications)
 5. [Corporate Finance I: Measuring and Promoting Value Creation](https://www.coursera.org/learn/corporate-finance-measure-success)
 6. [Corporate Finance II: Financing Investments and Managing Risk](https://www.coursera.org/learn/corporate-finance-two)
 7. [Financial Management Capstone](https://www.coursera.org/learn/financial-management-capstone)
@@ -1829,9 +1830,9 @@
  - [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data) `beginner`
 ### University of Maryland, College Park
 #### [Cybersecurity Specialization](https://www.coursera.org/specializations/cyber-security)
-1. [Cryptography](https://www.coursera.org/learn/cryptography)
-1. [Software Security](https://www.coursera.org/learn/software-security)
 1. [Usable Security](https://www.coursera.org/learn/usable-security)
+2. [Software Security](https://www.coursera.org/learn/software-security)
+3. [Cryptography](https://www.coursera.org/learn/cryptography)
 4. [Hardware Security](https://www.coursera.org/learn/hardware-security)
 5. [Cybersecurity Capstone Project](https://www.coursera.org/learn/cyber-security-capstone) `intermediate`
 ### University of Michigan
@@ -1923,8 +1924,8 @@
  - [UX and Interface Design for Embedded Systems](https://www.coursera.org/learn/ux-interface-design-embedded-systems) `intermediate`
 #### [Developing Industrial Internet of Things Specialization](https://www.coursera.org/specializations/developing-industrial-iot)
 1. [Industrial IoT Markets and Security](https://www.coursera.org/learn/industrial-iot-markets-security) `intermediate`
-1. [Modeling and Debugging Embedded Systems](https://www.coursera.org/learn/modeling-debugging-embedded-systems) `intermediate`
 2. [Project Planning and Machine Learning](https://www.coursera.org/learn/industrial-iot-project-planning-machine-learning) `intermediate`
+3. [Modeling and Debugging Embedded Systems](https://www.coursera.org/learn/modeling-debugging-embedded-systems) `intermediate`
 ### University of Colorado System
 #### [Data Warehousing for Business Intelligence Specialization](https://www.coursera.org/specializations/data-warehousing)
 2. [Data Warehouse Concepts, Design, and Data Integration](https://www.coursera.org/learn/dwdesign)
@@ -2268,9 +2269,9 @@
 2. [API Security on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-security-apigee-gcp) `intermediate`
 3. [API Development on Google Cloud's Apigee API Platform](https://www.coursera.org/learn/api-development-apigee-gcp) `intermediate`
 #### [Developing Applications with Google Cloud Platform Specialization](https://www.coursera.org/specializations/developing-apps-gcp)
-1. [App Deployment, Debugging, and Performance](https://www.coursera.org/learn/app-deployment-debugging-performance) `intermediate`
 2. [Getting Started With Application Development](https://www.coursera.org/learn/getting-started-app-development) `intermediate`
 3. [Securing and Integrating Components of your Application](https://www.coursera.org/learn/securing-integrating-components-app) `intermediate`
+4. [App Deployment, Debugging, and Performance](https://www.coursera.org/learn/app-deployment-debugging-performance) `intermediate`
 #### [Install and Manage Google Cloud's Apigee API Platform Specialization](https://www.coursera.org/specializations/apigee-api-gcp-onprem)
 1. [On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform](https://www.coursera.org/learn/onprem-fundamentals-apigee-gcp) `intermediate`
 2. [On Premises Management, Security, and Upgrade with Google Cloud's Apigee API Platform](https://www.coursera.org/learn/onprem-mgmt-security-apigee-gcp) `intermediate`
@@ -2451,8 +2452,8 @@
 3. [Lean Software Development](https://www.coursera.org/learn/lean-software-development) `beginner`
 4. [Engineering Practices for Building Quality Software](https://www.coursera.org/learn/engineering-practices-secure-software-quality) `intermediate`
 #### [Software Testing and Automation Specialization](https://www.coursera.org/specializations/software-testing-automation)
-1. [Black-box and White-box Testing](https://www.coursera.org/learn/black-box-white-box-testing) `intermediate`
 1. [Introduction to Software Testing](https://www.coursera.org/learn/introduction-software-testing) `intermediate`
+2. [Black-box and White-box Testing](https://www.coursera.org/learn/black-box-white-box-testing) `intermediate`
 3. [Introduction to Automated Analysis](https://www.coursera.org/learn/automated-analysis) `intermediate`
 4. [Web and Mobile Testing with Selenium](https://www.coursera.org/learn/web-mobile-testing) `intermediate`
 ### University of Toronto
@@ -2683,8 +2684,8 @@
 3. [Advanced SAS Programming Techniques](https://www.coursera.org/learn/advanced-sas-programming-techniques) `intermediate`
 #### [SAS Programmer Professional Certificate](https://www.coursera.org/specializations/sas-programming)
 1. [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics) `beginner`
-1. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review) `intermediate`
 2. [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced) `intermediate`
+3. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review) `intermediate`
 #### [SAS Visual Business Analytics Professional Certificate](https://www.coursera.org/specializations/sas-visual-business-analytics)
 1. [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va) `beginner`
 2. [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va)
@@ -3413,8 +3414,8 @@
  - [Bioinformatics: Introduction and Methods 生物信息学: 导论与方法](https://www.coursera.org/learn/bioinformatics-pku)
 ### Stanford University
 #### [AI in Healthcare Specialization](https://www.coursera.org/specializations/ai-healthcare)
-1. [AI in Healthcare Capstone](https://www.coursera.org/learn/ai-in-healthcare-capstone)
 1. [Introduction to Healthcare](https://www.coursera.org/learn/intro-to-healthcare) `beginner`
+5. [AI in Healthcare Capstone](https://www.coursera.org/learn/ai-in-healthcare-capstone)
 ### The State University of New York
  - [Big Data, Genes, and Medicine](https://www.coursera.org/learn/data-genes-medicine) `advanced`
 ### The University of Sydney
@@ -4588,11 +4589,11 @@
 4. [Energy: The Enterprise](https://www.coursera.org/learn/energy-industry-overview) `beginner`
 ### University of California San Diego
  - [Internet of Things Capstone: Build a Mobile Surveillance System](https://www.coursera.org/learn/internet-of-things-capstone)
+ - [Internet of Things: How did we get here?](https://www.coursera.org/learn/internet-of-things-history)
  - [Internet of Things: Multimedia Technologies](https://www.coursera.org/learn/internet-of-things-multimedia)
  - [Internet of Things: Sensing and Actuation From Devices](https://www.coursera.org/learn/internet-of-things-sensing-actuation)
  - [Internet of Things: Setting Up Your DragonBoard™ Development Platform](https://www.coursera.org/learn/internet-of-things-dragonboard)
 #### [Internet of Things Specialization](https://www.coursera.org/specializations/internet-of-things)
-1. [Internet of Things: How did we get here?](https://www.coursera.org/learn/internet-of-things-history)
 2. [Internet of Things V2: DragonBoard™ bring up and community ecosystem](https://www.coursera.org/learn/internet-of-things-dragonboard-version2)
 3. [Internet of Things V2: Setting up and Using Cloud Services](https://www.coursera.org/learn/internet-of-things-cloud-services-version2)
 6. [Internet of Things Capstone V2: Build a Mobile Surveillance System](https://www.coursera.org/learn/internet-of-things-capstone-version2)
@@ -4603,10 +4604,13 @@
 6. [Programming for the Internet of Things Project](https://www.coursera.org/learn/internet-of-things-project)
 ### University of Colorado Boulder
  - [Averaged-Switch Modeling and Simulation](https://www.coursera.org/learn/averagedswitchmodelingandsimulation) `intermediate`
+ - [Converter Circuits](https://www.coursera.org/learn/converter-circuits)
+ - [Converter Control](https://www.coursera.org/learn/converter-control)
  - [Current-Mode Control](https://www.coursera.org/learn/current-modecontrol) `intermediate`
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
+ - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Techniques of Design-Oriented Analysis](https://www.coursera.org/learn/techniques-of-design-oriented-analysis) `intermediate`
@@ -4615,34 +4619,31 @@
 2. [Nanophotonics and Detectors](https://www.coursera.org/learn/nanophotonics-detectors) `advanced`
 3. [Displays](https://www.coursera.org/learn/displays) `advanced`
 #### [Embedding Sensors and Motors Specialization](https://www.coursera.org/specializations/embedding-sensors-motors)
-1. [Motors and Motor Control Circuits](https://www.coursera.org/learn/motors-circuits-design) `intermediate`
-1. [Sensor Manufacturing and Process Control](https://www.coursera.org/learn/sensor-manufacturing-process-control) `intermediate`
 1. [Sensors and Sensor Circuit Design](https://www.coursera.org/learn/sensors-circuit-interface) `advanced`
-2. [Pressure, Force, Motion, and Humidity Sensors](https://www.coursera.org/learn/pressure-force-motion-humidity-sensors) `intermediate`
+2. [Motors and Motor Control Circuits](https://www.coursera.org/learn/motors-circuits-design) `intermediate`
+3. [Pressure, Force, Motion, and Humidity Sensors](https://www.coursera.org/learn/pressure-force-motion-humidity-sensors) `intermediate`
+4. [Sensor Manufacturing and Process Control](https://www.coursera.org/learn/sensor-manufacturing-process-control) `intermediate`
 #### [FPGA Design for Embedded Systems Specialization](https://www.coursera.org/specializations/fpga-design)
-1. [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) `intermediate`
 1. [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems) `intermediate`
-2. [FPGA Capstone:  Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) `intermediate`
 2. [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) `intermediate`
+3. [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) `intermediate`
+4. [FPGA Capstone:  Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) `intermediate`
 #### [Optical Engineering Specialization](https://www.coursera.org/specializations/optical-engineering)
 1. [First Order Optical System Design](https://www.coursera.org/learn/first-order-optical-system-design) `advanced`
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
-1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
-2. [Converter Circuits](https://www.coursera.org/learn/converter-circuits)
-3. [Converter Control](https://www.coursera.org/learn/converter-control)
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
-1. [Diode - pn Junction and Metal Semiconductor Contact](https://www.coursera.org/learn/diode-pn-junction-metal-semiconductor-contact) `advanced`
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
-2. [Transistor - Field Effect Transistor and Bipolar Junction Transistor](https://www.coursera.org/learn/transistor-field-effect-transistor-bipolar-junction-transistor) `advanced`
+2. [Diode - pn Junction and Metal Semiconductor Contact](https://www.coursera.org/learn/diode-pn-junction-metal-semiconductor-contact) `advanced`
+3. [Transistor - Field Effect Transistor and Bipolar Junction Transistor](https://www.coursera.org/learn/transistor-field-effect-transistor-bipolar-junction-transistor) `advanced`
 ### University of Colorado Boulder, University of Colorado System
 #### [Algorithms for Battery Management Systems Specialization](https://www.coursera.org/specializations/algorithms-for-battery-management-systems)
-1. [Battery State-of-Health (SOH) Estimation](https://www.coursera.org/learn/battery-state-of-health) `intermediate`
 1. [Introduction to battery-management systems](https://www.coursera.org/learn/battery-management-systems) `intermediate`
 2. [Equivalent Circuit Cell Model Simulation](https://www.coursera.org/learn/equivalent-circuit-cell-model-simulation) `intermediate`
 3. [Battery State-of-Charge (SOC) Estimation](https://www.coursera.org/learn/battery-state-of-charge) `intermediate`
+4. [Battery State-of-Health (SOH) Estimation](https://www.coursera.org/learn/battery-state-of-health) `intermediate`
 5. [Battery Pack Balancing and Power Estimation](https://www.coursera.org/learn/battery-pack-balancing-power-estimation) `intermediate`
 ### University of Rochester
  - [Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics](https://www.coursera.org/learn/audio-engineering)
@@ -5085,7 +5086,8 @@
 3. [Engaging ELLs and Their Families in the School and Community](https://www.coursera.org/learn/ell-families)
 4. [ELL Success in the Content Classroom: Capstone Project](https://www.coursera.org/learn/ell-project)
 ### Berklee College of Music
- - [Teaching Popular Music in the Classroom](https://www.coursera.org/learn/teaching-popular-music) `intermediate`
+#### [Music Education for Teachers Specialization](https://www.coursera.org/specializations/music-education)
+1. [Teaching Popular Music in the Classroom](https://www.coursera.org/learn/teaching-popular-music) `intermediate`
 ### Commonwealth Education Trust
  - [Foundations of Teaching for Learning Capstone: The Reflective Practitioner](https://www.coursera.org/learn/teaching-capstone)
  - [Foundations of Teaching for Learning: Being a Professional](https://www.coursera.org/learn/professional-teacher)
@@ -5191,9 +5193,9 @@
 ### University of California, Irvine
 #### [Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
 1. [Foundations of Virtual Instruction](https://www.coursera.org/learn/virtual-school)
-1. [Performance Assessment in the Virtual Classroom](https://www.coursera.org/learn/performance-assessment)
 2. [Emerging Trends & Technologies in the Virtual K-12 Classroom](https://www.coursera.org/learn/k-12-education)
 3. [Advanced Instructional Strategies in the Virtual Classroom](https://www.coursera.org/learn/teaching-strategies)
+4. [Performance Assessment in the Virtual Classroom](https://www.coursera.org/learn/performance-assessment)
 5. [Virtual Teacher Final Project](https://www.coursera.org/learn/virtual-teacher-capstone) `beginner`
 ### University of Cape Town
  - [Disability Inclusion in Education: Building Systems of Support](https://www.coursera.org/learn/disability-inclusion-education) `beginner`
