@@ -50,10 +50,10 @@
  - [Les partenariats qui changent le monde : alliances innovantes entre entreprises et associations](https://www.coursera.org/learn/partenariats-qui-changent-le-monde)
  - [Évaluation & Mesure d'Impact Social](https://www.coursera.org/learn/evaluation-mesure-impact-social) `beginner`
 #### [L'impact investing, la finance qui change le monde Specialization](https://www.coursera.org/specializations/impact-investing)
+1. [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
 1. [L'impact investing : comprendre les fondamentaux](https://www.coursera.org/learn/investing-fondamentaux)
 2. [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
 3. [L'impact investing : innover](https://www.coursera.org/learn/impactinvestinginnover)
-4. [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
 ### HEC Paris, Ticket for Change
  - [Devenir entrepreneur du changement](https://www.coursera.org/learn/entrepreneur-changement)
 ### Sciences Po
@@ -100,6 +100,7 @@
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
+ - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
 ### Coursera Project Network
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`

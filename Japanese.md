@@ -38,7 +38,7 @@
 3. [Architecting with Google Kubernetes Engine: Workloads 日本語版](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-jp) `intermediate`
 4. [Architecting with Google Kubernetes Engine: Production 日本語版](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-jp) `intermediate`
 #### [Developing Applications with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/developing-apps-gcp-jp)
-2. [Application Deployment, Debug, Performance 日本語版](https://www.coursera.org/learn/app-deployment-debugging-performance-jp) `intermediate`
+1. [Application Deployment, Debug, Performance 日本語版](https://www.coursera.org/learn/app-deployment-debugging-performance-jp) `intermediate`
 3. [Securing and Integrating Components of your Application 日本語版](https://www.coursera.org/learn/securing-integrating-components-app-jp) `intermediate`
 4. [Getting Started with Application Development 日本語版](https://www.coursera.org/learn/getting-started-app-development-jp) `intermediate`
 # Data Science

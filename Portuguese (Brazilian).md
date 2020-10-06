@@ -19,8 +19,8 @@
  - [Introdução à Guitarra](https://www.coursera.org/learn/intro-guitarra) `beginner`
  - [Teoria Musical](https://www.coursera.org/learn/teoria-musical) `beginner`
 #### [O Músico Contemporâneo Specialization](https://www.coursera.org/specializations/musico-contmporaneo)
+1. [Composição: Escrevendo a letra](https://www.coursera.org/learn/composicao-escrevendo-letra) `beginner`
 1. [Desenvolvendo sua musicalidade](https://www.coursera.org/learn/desenvolvendo-musicalidade) `beginner`
-2. [Composição: Escrevendo a letra](https://www.coursera.org/learn/composicao-escrevendo-letra) `beginner`
 4. [Produção final do músico moderno](https://www.coursera.org/learn/producao-musico-moderno) `intermediate`
 ### Universidade Estadual de Campinas
  - [A complexidade sensível: Um paralelo entre videogames e arte](https://www.coursera.org/learn/videogames)
@@ -192,7 +192,7 @@
 2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
 ## Security
 ### Cresça com o Google
-5. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
+1. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
 ## Support and Operations
 ### Cresça com o Google
 1. [Fundamentos do Suporte Técnico](https://www.coursera.org/learn/fundamentos-do-suporte-tecnico) `beginner`

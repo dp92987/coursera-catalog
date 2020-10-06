@@ -46,10 +46,10 @@
  - [Historia del Arte: Del Barroco al Arte Posmoderno](https://www.coursera.org/learn/historia-arte-barroco-posmoderno) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Tecnología musical con software libre Specialization](https://www.coursera.org/specializations/tecnologia-musical)
+1. [Aplicaciones musicales con Arduino](https://www.coursera.org/learn/aplicaciones-musicales-arduino)
 1. [Introducción a la producción musical](https://www.coursera.org/learn/intro-produccion-musical) `intermediate`
 2. [Grabación y postproducción musical dentro y fuera del estudio](https://www.coursera.org/learn/grabacion-musical) `intermediate`
 3. [Audio digital con Pure Data](https://www.coursera.org/learn/audio-digital-pure-data) `intermediate`
-5. [Aplicaciones musicales con Arduino](https://www.coursera.org/learn/aplicaciones-musicales-arduino)
 6. [Perspectivas de música colaborativa](https://www.coursera.org/learn/perspectivas-musica-colaborativa) `intermediate`
 7. [Tecnología musical con software libre: Proyecto final](https://www.coursera.org/learn/tecnologia-musical-proyecto) `intermediate`
 ### Universitat de Barcelona
@@ -83,17 +83,17 @@
 ### Universidad Nacional Autónoma de México
 #### [Estrategias de Negociación Specialization](https://www.coursera.org/specializations/negociacion)
 1. [Introducción al mundo de las negociaciones](https://www.coursera.org/learn/estrategias-de-negociacion)
+1. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 2. [Habilidades humanas y de negocios para negociar](https://www.coursera.org/learn/habilidades-negociacion)
 3. [Los obstáculos y la conducción en las negociaciones](https://www.coursera.org/learn/negociacion-proceso)
-4. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 5. [Proyecto final sobre negociación para un mejor clima laboral](https://www.coursera.org/learn/proyecto-negociacion)
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
 1. [Introducción a la Estrategia](https://www.coursera.org/learn/introduccionalaestrategia)
-2. [Introducción a las Finanzas](https://www.coursera.org/learn/estrategia-financiera)
+1. [Introducción a las Finanzas](https://www.coursera.org/learn/estrategia-financiera)
 3. [Introducción al Mercado](https://www.coursera.org/learn/mercado-investigacion)
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
-5. [Redacción de documentos empresariales de gran impacto](https://www.coursera.org/learn/escritura-en-negocios)
+1. [Redacción de documentos empresariales de gran impacto](https://www.coursera.org/learn/escritura-en-negocios)
 10. [Proyecto Final de Éxito Profesional](https://www.coursera.org/learn/proyecto-profesional)
 ### University of Michigan
  - [Negociación exitosa: Estrategias y habilidades esenciales (en español)](https://www.coursera.org/learn/negociacion)
@@ -110,10 +110,10 @@
  - [Planificación y gestión estratégica para Pymes](https://www.coursera.org/learn/planificacion-gestion-pymes) `beginner`
 ### Tecnológico de Monterrey
 #### [Análisis de Datos para la toma de decisiones Specialization](https://www.coursera.org/specializations/analisis-datos)
+1. [Aplicando el análisis de datos: casos selectos](https://www.coursera.org/learn/analisis-de-datos-aplicaciones)
 1. [Fundamentos del análisis de datos para la toma de decisiones](https://www.coursera.org/learn/analisis-de-datos)
-2. [Recolección y exploración de datos](https://www.coursera.org/learn/ordenamiento-datos)
+1. [Recolección y exploración de datos](https://www.coursera.org/learn/ordenamiento-datos)
 3. [Uso de técnicas estadísticas para el análisis de datos](https://www.coursera.org/learn/datos-tecnicas)
-4. [Aplicando el análisis de datos: casos selectos](https://www.coursera.org/learn/analisis-de-datos-aplicaciones)
 5. [Análisis de Datos - Proyecto Final](https://www.coursera.org/learn/analisis-datos-proyecto-final)
 ### Universidad Austral
  - [Negociación 4.0](https://www.coursera.org/learn/negociacion-iae) `beginner`
@@ -162,10 +162,10 @@
  - [Emprendiendo en STEM](https://www.coursera.org/learn/emprendiendo-en-stem) `beginner`
 ### Universidad de los Andes
 #### [Programa en Desarrollo de nuevas empresas Specialization](https://www.coursera.org/specializations/desarrollo-nuevas-empresas)
+1. [Mi nueva empresa: los siguientes pasos](https://www.coursera.org/learn/nueva-empresa) `beginner`
+1. [¿Cómo construir mi modelo de negocio?](https://www.coursera.org/learn/modelo-negocio) `beginner`
 1. [¿Cómo convertir mi idea en empresa?](https://www.coursera.org/learn/idea-empresa) `beginner`
-2. [¿Cómo construir mi modelo de negocio?](https://www.coursera.org/learn/modelo-negocio) `beginner`
 3. [¿Cómo financiar mi empresa?](https://www.coursera.org/learn/financiar-mi-empresa) `beginner`
-4. [Mi nueva empresa: los siguientes pasos](https://www.coursera.org/learn/nueva-empresa) `beginner`
 ### Universitat de Barcelona
  - [Emprender la emprendeduría](https://www.coursera.org/learn/emprender) `beginner`
 ### University of New Mexico
@@ -174,8 +174,8 @@
 ### IESE Business School
  - [¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección](https://www.coursera.org/learn/alta-direccion) `beginner`
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
+1. [Finanzas para directivos](https://www.coursera.org/learn/finanzas-operativas) `beginner`
 1. [Introducción a la Contabilidad Financiera](https://www.coursera.org/learn/contabilidad-financiera) `beginner`
-2. [Finanzas para directivos](https://www.coursera.org/learn/finanzas-operativas) `beginner`
 ### Universidad Austral
  - [Finanzas Corporativas](https://www.coursera.org/learn/finanzas-corporativas) `beginner`
  - [La Disrupción del Blockchain](https://www.coursera.org/learn/blockchain-espanol) `beginner`
@@ -210,10 +210,10 @@
  - [Gestión de organizaciones efectivas](https://www.coursera.org/learn/gestion-organizaciones-efectivas)
 ### Tecnológico de Monterrey, University of California, Irvine
 #### [Administración de Proyectos: Principios Básicos Specialization](https://www.coursera.org/specializations/administracion-proyectos)
+1. [Administración de Proyectos Project](https://www.coursera.org/learn/administracion-de-proyectos-capstone)
 1. [Iniciación y Planificación de Proyectos](https://www.coursera.org/learn/planificacion-proyectos)
 2. [Programación y presupuesto del proyecto](https://www.coursera.org/learn/riesgos-cambios-proyectos)
 3. [La gestión de los riesgos y la administración de los cambios en el proyecto](https://www.coursera.org/learn/presupuestos-proyecto)
-4. [Administración de Proyectos Project](https://www.coursera.org/learn/administracion-de-proyectos-capstone)
 ### Universidad Austral
  - [Diseño de Experiencia en Servicios](https://www.coursera.org/learn/diseno-experiencia-servicios) `beginner`
  - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech) `beginner`
@@ -222,20 +222,20 @@
  - [Gestión del alcance: el qué de la triple restricción](https://www.coursera.org/learn/gestion-alcance-proyectos) `intermediate`
 ### Universidad Nacional Autónoma de México
 #### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
+1. [Administración para obtener resultados](https://www.coursera.org/learn/resultados) `beginner`
 1. [Autoridad, dirección y liderazgo](https://www.coursera.org/learn/autoridad) `beginner`
+1. [Solución de problemas y toma de decisiones](https://www.coursera.org/learn/soluciondeproblemas) `beginner`
 2. [Gestión del talento humano](https://www.coursera.org/learn/gestion-del-talento) `beginner`
 3. [Orden y manejo del tiempo](https://www.coursera.org/learn/orden) `beginner`
-4. [Solución de problemas y toma de decisiones](https://www.coursera.org/learn/soluciondeproblemas) `beginner`
-5. [Administración para obtener resultados](https://www.coursera.org/learn/resultados) `beginner`
 ### Universitat Autònoma de Barcelona
  - [Tu consultorio de Coaching en las ondas](https://www.coursera.org/learn/coaching-en-las-ondas) `beginner`
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
+1. [El arte de negociar](https://www.coursera.org/learn/arte-de-negociacion)
 1. [Gestión de proyectos: las bases del éxito](https://www.coursera.org/learn/gestion-de-proyectos)
-2. [Trabaja inteligentemente, no más duro: Gestión del tiempo para la productividad personal y profesional](https://www.coursera.org/learn/trabaja-inteligentemente)
+1. [Trabaja inteligentemente, no más duro: Gestión del tiempo para la productividad personal y profesional](https://www.coursera.org/learn/trabaja-inteligentemente)
 3. [Finanzas para profesionales no financieros](https://www.coursera.org/learn/finanzas-no-expertos)
 4. [La comunicación laboral en el siglo XXI](https://www.coursera.org/learn/comunicacion-trabajo)
-6. [El arte de negociar](https://www.coursera.org/learn/arte-de-negociacion)
 8. [Cómo resolver problemas y tomar decisiones con eficacia](https://www.coursera.org/learn/resolucion-decisiones)
 9. [Fundamentos del Emprendimiento: Pensamiento y Acción](https://www.coursera.org/learn/fundamentos-del-emprendimiento)
 ### Università Bocconi
@@ -243,11 +243,11 @@
 ## Marketing
 ### IE Business School
 #### [Estrategia de marketing Specialization](https://www.coursera.org/specializations/estrategia-de-marketing)
+1. [El plan de marketing](https://www.coursera.org/learn/plan-de-marketing) `beginner`
 1. [Investigación de mercados y comportamiento del consumidor](https://www.coursera.org/learn/investigacion-de-mercados) `beginner`
+1. [Proyecto capstone estrategia de marketing](https://www.coursera.org/learn/capstone-estrategia) `beginner`
 2. [Posicionamiento: La base del éxito en la estrategia de marketing](https://www.coursera.org/learn/posicionamiento) `beginner`
 3. [Fundamentos del marketing mix](https://www.coursera.org/learn/fundamentos-marketing-mix) `beginner`
-4. [El plan de marketing](https://www.coursera.org/learn/plan-de-marketing) `beginner`
-5. [Proyecto capstone estrategia de marketing](https://www.coursera.org/learn/capstone-estrategia) `beginner`
 #### [Implementación del Marketing Mix Specialization](https://www.coursera.org/specializations/implementacion-marketing-mix)
 1. [Gestión de marca y producto](https://www.coursera.org/learn/gestion-marca-producto)
 2. [Estrategia de precios](https://www.coursera.org/learn/estrategia-precios)
@@ -262,15 +262,15 @@
 ### Tecnológico de Monterrey
 #### [Marketing con Redes Sociales Specialization](https://www.coursera.org/specializations/marketing-redes-sociales)
 1. [Introducción a las redes sociales. Sus objetivos y métricas.](https://www.coursera.org/learn/intro-redes-sociales) `beginner`
+1. [Requerimientos, planeación, ejecución y medición de estrategias para redes sociales](https://www.coursera.org/learn/mercadotecnia-sociales)
 2. [Beneficios y características de las redes sociales más significativas](https://www.coursera.org/learn/redes-sociales-caracteristicas)
-3. [Requerimientos, planeación, ejecución y medición de estrategias para redes sociales](https://www.coursera.org/learn/mercadotecnia-sociales)
 4. [Las redes sociales en acción](https://www.coursera.org/learn/red-social)
 5. [Marketing en Redes Sociales Proyecto Final](https://www.coursera.org/learn/redes-sociales-proyecto)
 ### Universidad Austral
  - [Coberturas de riesgo con futuros y opciones para agrobusiness](https://www.coursera.org/learn/coberturas-de-riesgo) `beginner`
 #### [Marketing Digital Specialization](https://www.coursera.org/specializations/marketing-digital)
 1. [Pilares de Marketing Digital](https://www.coursera.org/learn/marketing-digital-pilares) `beginner`
-3. [Publicidad Digital con Google AdWords](https://www.coursera.org/learn/publicidad-digital) `beginner`
+1. [Publicidad Digital con Google AdWords](https://www.coursera.org/learn/publicidad-digital) `beginner`
 4. [Compra programática de medios: Publicidad online en tiempo real](https://www.coursera.org/learn/compra-programatica) `beginner`
 5. [Proyecto Final - Programa Especializado en Marketing Digital](https://www.coursera.org/learn/marketing-digital-proyecto-final) `beginner`
 ### Universidad de Chile
@@ -321,29 +321,29 @@
  - [Arduino y algunas aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
 ### Universitat Autònoma de Barcelona
 #### [Diseño y Creación de videojuegos Specialization](https://www.coursera.org/specializations/diseno-videojuegos)
+1. [Arte 3D y animación en videojuegos](https://www.coursera.org/learn/videojuegos-animation)
+1. [Diseño de videojuegos](https://www.coursera.org/learn/videojuegos-diseno)
+1. [Diseño y creación de videojuegos: proyecto final](https://www.coursera.org/learn/videojuegos-capstone)
 1. [Videojuegos: ¿de qué hablamos?](https://www.coursera.org/learn/videojuegos-intro)
-2. [Diseño de videojuegos](https://www.coursera.org/learn/videojuegos-diseno)
-3. [Arte 3D y animación en videojuegos](https://www.coursera.org/learn/videojuegos-animation)
 4. [Motores gráficos en videojuegos: game engine](https://www.coursera.org/learn/videojuegos-engine)
 5. [Gameplay en videojuegos](https://www.coursera.org/learn/videojuegos-play)
-6. [Diseño y creación de videojuegos: proyecto final](https://www.coursera.org/learn/videojuegos-capstone)
 ## Mobile and Web Development
 ### Coursera Project Network
  - [Aprendiendo a hacer API con Node.JS](https://www.coursera.org/learn/api-nodejs) `beginner`
  - [Aprendiendo Solidity para hacer Smart Contracts](https://www.coursera.org/learn/solidity-smartcontracts) `beginner`
 ### Universidad Austral
 #### [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol)
+1. [Desarrollo del lado servidor: NodeJS, Express y MongoDB](https://www.coursera.org/learn/desarrollo-lado-servidor-nodejs-express-mongodb) `beginner`
 1. [Diseñando páginas web con Bootstrap 4](https://www.coursera.org/learn/disenando-paginas-bootstrap4) `beginner`
 2. [Desarrollo de páginas con Angular](https://www.coursera.org/learn/desarrollar-paginas-web-con-angular) `beginner`
 3. [Desarrollo de Aplicaciones Mobile Multiplataforma con Nativescript, Angular y Redux](https://www.coursera.org/learn/aplicaciones-mobile-multiplataforma-nativescript-angular-redux) `beginner`
-4. [Desarrollo del lado servidor: NodeJS, Express y MongoDB](https://www.coursera.org/learn/desarrollo-lado-servidor-nodejs-express-mongodb) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Desarrollo de aplicaciones móviles con Android Specialization](https://www.coursera.org/specializations/programacion-android)
+1. [Desarrollo de aplicaciones avanzadas con Android](https://www.coursera.org/learn/aplicaciones-android)
 1. [Programando con Java para aplicaciones Android](https://www.coursera.org/learn/programandoconjava)
+1. [Proyecto final - Construyendo una aplicación profesional con Android](https://www.coursera.org/learn/construyendo-android-proyecto)
 2. [Fundamentos de Android](https://www.coursera.org/learn/fundamentos)
 3. [Desarrollo de aplicaciones con Android](https://www.coursera.org/learn/desarrollo-de-aplicaciones) `intermediate`
-4. [Desarrollo de aplicaciones avanzadas con Android](https://www.coursera.org/learn/aplicaciones-android)
-5. [Proyecto final - Construyendo una aplicación profesional con Android](https://www.coursera.org/learn/construyendo-android-proyecto)
 ### University of New Mexico
  - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
@@ -532,11 +532,11 @@
 2. [Los bits y bytes de las redes informáticas](https://www.coursera.org/learn/redes-informaticas) `beginner`
 ## Security
 ### Crece con Google
-5. [Seguridad informática: defensa contra las artes oscuras digitales](https://www.coursera.org/learn/seguridad-informatica) `beginner`
+1. [Seguridad informática: defensa contra las artes oscuras digitales](https://www.coursera.org/learn/seguridad-informatica) `beginner`
 ## Support and Operations
 ### Crece con Google
 1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
-3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
+1. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
 4. [Administración de sistemas y servicios de infraestructura de TI](https://www.coursera.org/learn/administracion-de-sistema-y-servicios-de-infraestructura) `beginner`
 # Language Learning
 > - [Learning English](#learning-english)
@@ -544,8 +544,8 @@
 ## Learning English
 ### Arizona State University
 #### [Inglés Empresarial Specialization](https://www.coursera.org/specializations/ingles-empresarial)
+1. [Inglés Empresarial: Finanzas y Economía](https://www.coursera.org/learn/ingles-empresarial-finanzas-economia)
 1. [Inglés Empresarial: Gestión y Liderazgo](https://www.coursera.org/learn/ingles-empresarial-gestion-liderazgo)
-2. [Inglés Empresarial: Finanzas y Economía](https://www.coursera.org/learn/ingles-empresarial-finanzas-economia)
 3. [Inglés Empresarial: el márketing y ventas](https://www.coursera.org/learn/ingles-empresarial-marketing-ventas) `intermediate`
 4. [Inglés Empresarial: Proyecto Final](https://www.coursera.org/learn/ingles-empresarial-proyecto)
 ## Other Languages
@@ -602,9 +602,9 @@
  - [PlanU: escoge la mejor carrera y universidad para ti](https://www.coursera.org/learn/escoger-carrera-y-universidad) `beginner`
 #### [Liderazgo efectivo para el siglo XXI Specialization](https://www.coursera.org/specializations/liderazgo-efectivo)
 1. [Estilos de Liderazgo: opciones para avanzar en desafíos complejos](https://www.coursera.org/learn/estilos-liderazgo) `intermediate`
+1. [Liderazgo para el Siglo XXI: proyecto final](https://www.coursera.org/learn/liderazgo) `intermediate`
 2. [Autoliderazgo y gestión de emociones para avanzar en desafíos complejos](https://www.coursera.org/learn/autoliderazgo-gestion-emociones) `intermediate`
 3. [Comunicación, experimentación y aprendizaje en liderazgo](https://www.coursera.org/learn/comunicacion-experimentacion-aprendizaje) `intermediate`
-4. [Liderazgo para el Siglo XXI: proyecto final](https://www.coursera.org/learn/liderazgo) `intermediate`
 ### Universidad Nacional Autónoma de México
  - [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
 #### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
@@ -618,7 +618,7 @@
  - [Cómo hablar bien en público](https://www.coursera.org/learn/hablar-bien-en-publico) `beginner`
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
-7. [Aspectos fundamentales de la gerencia](https://www.coursera.org/learn/fundamentos-de-gestion)
+1. [Aspectos fundamentales de la gerencia](https://www.coursera.org/learn/fundamentos-de-gestion)
 # Physical Science and Engineering
 > - [Chemistry](#chemistry)
 > - [Electrical Engineering](#electrical-engineering)
@@ -744,6 +744,8 @@
 2. [Evaluación para el aprendizaje: Enfoque cuantitativo](https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo) `intermediate`
 3. [Evaluación para el aprendizaje: Enfoque cualitativo](https://www.coursera.org/learn/evaluacion-cualitativa) `intermediate`
 4. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
+### Universitat Autònoma de Barcelona
+ - [Educación Social: Ámbitos de acción y reflexión](https://www.coursera.org/learn/educacion-social) `beginner`
 ### Universitat de Barcelona
  - [Claves para la innovación en la docencia universitaria](https://www.coursera.org/learn/innovacion-docencia-universitaria)
 ## Governance and Society

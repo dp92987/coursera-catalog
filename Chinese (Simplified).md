@@ -25,9 +25,9 @@
  - [微影人的自我修养](https://www.coursera.org/learn/wei-dian-ying)
 #### [微电影创作：从观念、思维到制作 Specialization](https://www.coursera.org/specializations/wei-dian-ying)
 1. [导演思维：微影人的自我修养](https://www.coursera.org/learn/daoyan-siwei-weiyingren)
+1. [拍摄：像剪辑师一样拍摄](https://www.coursera.org/learn/pai-she)
 2. [剪辑：像编剧一样剪辑](https://www.coursera.org/learn/jian-ji) `beginner`
 3. [编剧：像导演一样编剧](https://www.coursera.org/learn/bian-ju)
-4. [拍摄：像剪辑师一样拍摄](https://www.coursera.org/learn/pai-she)
 5. [创作吧！微影人！](https://www.coursera.org/learn/wei-dian-ying-chuang-zuo)
 ### Fudan University, 上海戏剧学院
 #### [网络游戏设计与开发 Specialization](https://www.coursera.org/specializations/wangluo-youxi-sheji-kaifa)
@@ -106,7 +106,7 @@
 4. [基于Unity引擎的游戏开发进阶](https://www.coursera.org/learn/unity-kaifa-jinjie) `intermediate`
 ## Software Development
 ### Fudan University
-3. [基于Unity引擎的游戏开发基础](https://www.coursera.org/learn/unity-yinqing-youxi-kaifa) `beginner`
+1. [基于Unity引擎的游戏开发基础](https://www.coursera.org/learn/unity-yinqing-youxi-kaifa) `beginner`
 ### Nanjing University
  - [用Python玩转数据 Data Processing Using Python](https://www.coursera.org/learn/hipython)
  - [计算机操作系统](https://www.coursera.org/learn/jisuanji-caozuo-xitong)
@@ -192,10 +192,10 @@
 ## Learning English
 ### Arizona State University
 #### [商务英语课程 Business English Specialization](https://www.coursera.org/specializations/shangwu-yingyu)
+1. [商务英语课程:市场与营销英语 Marketing & Sales](https://www.coursera.org/learn/shichang-yingxiao-yingyu) `intermediate`
 1. [商务英语课程:管理与领导力英语 Management & Leadership](https://www.coursera.org/learn/guanli-lingdao-yingyu) `intermediate`
+1. [总计划案 Final Project](https://www.coursera.org/learn/shangwu-yingyu-zong-jihuaan) `intermediate`
 2. [商务英语课程:财经英语 Finance & Economics](https://www.coursera.org/learn/caijing-yingyu) `intermediate`
-3. [商务英语课程:市场与营销英语 Marketing & Sales](https://www.coursera.org/learn/shichang-yingxiao-yingyu) `intermediate`
-4. [总计划案 Final Project](https://www.coursera.org/learn/shangwu-yingyu-zong-jihuaan) `intermediate`
 ### Peking University
  - [计算机辅助翻译原理与实践 Principles and Practice of Computer-Aided Translation](https://www.coursera.org/learn/fanyi-ruanjian) `intermediate`
 ## Other Languages
