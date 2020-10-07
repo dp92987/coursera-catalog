@@ -19,8 +19,8 @@
  - [Introdução à Guitarra](https://www.coursera.org/learn/intro-guitarra) `beginner`
  - [Teoria Musical](https://www.coursera.org/learn/teoria-musical) `beginner`
 #### [O Músico Contemporâneo Specialization](https://www.coursera.org/specializations/musico-contmporaneo)
-1. [Composição: Escrevendo a letra](https://www.coursera.org/learn/composicao-escrevendo-letra) `beginner`
 1. [Desenvolvendo sua musicalidade](https://www.coursera.org/learn/desenvolvendo-musicalidade) `beginner`
+2. [Composição: Escrevendo a letra](https://www.coursera.org/learn/composicao-escrevendo-letra) `beginner`
 4. [Produção final do músico moderno](https://www.coursera.org/learn/producao-musico-moderno) `intermediate`
 ### Universidade Estadual de Campinas
  - [A complexidade sensível: Um paralelo entre videogames e arte](https://www.coursera.org/learn/videogames)
@@ -116,9 +116,9 @@
 ### Google Cloud
  - [Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro](https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-br) `intermediate`
 #### [Architecting with Google Kubernetes Engine en Portuguese  Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-br)
-2. [Architecting with Google Kubernetes Engine: Foundations em Português Brasileiro](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-br) `intermediate`
+1. [Architecting with Google Kubernetes Engine: Foundations em Português Brasileiro](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-br) `intermediate`
+1. [Architecting with Google Kubernetes Engine: Production em Português Brasileiro](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-br) `intermediate`
 3. [Architecting with Google Kubernetes Engine: Workloads em Português Brasileiro](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-br) `intermediate`
-4. [Architecting with Google Kubernetes Engine: Production em Português Brasileiro](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-br) `intermediate`
 ### Instituto Tecnológico de Aeronáutica
  - [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) `intermediate`
  - [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) `intermediate`
@@ -192,12 +192,12 @@
 2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
 ## Security
 ### Cresça com o Google
-1. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
+5. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
 ## Support and Operations
 ### Cresça com o Google
+1. [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti) `beginner`
 1. [Fundamentos do Suporte Técnico](https://www.coursera.org/learn/fundamentos-do-suporte-tecnico) `beginner`
 3. [Sistemas Operacionais e Você: Tornando-se um Usuário Avançado](https://www.coursera.org/learn/sistemas-operacionais) `beginner`
-4. [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti) `beginner`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages

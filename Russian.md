@@ -127,18 +127,18 @@
  - [Основы корпоративных финансов (Fundamentals of Corporate Finance)](https://www.coursera.org/learn/osnovy-korporativnykh-finansov) `beginner`
  - [Ценные бумаги: правовое регулирование](https://www.coursera.org/learn/cennye-bumagi-pravovoe-regulirovanie)
 #### [Корпоративные финансы и стоимость компании Specialization](https://www.coursera.org/specializations/korporativnyye-finansy)
-1. [Венчурный капитал](https://www.coursera.org/learn/venchurnyj-kapital)
+1. [Инвестиционные проекты, слияния и поглощения](https://www.coursera.org/learn/sliyaniye-pogloshcheniye)
+1. [Мастерство создания стоимости компании](https://www.coursera.org/learn/sozdanie-stoimosti-kompanii) `intermediate`
 1. [Оценка стоимости компании](https://www.coursera.org/learn/ocenka-stoimosti-kompanii)
-1. [Управление стоимостью компании](https://www.coursera.org/learn/upravlenie-stoimostju-kompanii) `intermediate`
 2. [Структура капитала компании](https://www.coursera.org/learn/struktura-kapitala-kompanii)
-3. [Инвестиционные проекты, слияния и поглощения](https://www.coursera.org/learn/sliyaniye-pogloshcheniye)
-6. [Мастерство создания стоимости компании](https://www.coursera.org/learn/sozdanie-stoimosti-kompanii) `intermediate`
+4. [Венчурный капитал](https://www.coursera.org/learn/venchurnyj-kapital)
+5. [Управление стоимостью компании](https://www.coursera.org/learn/upravlenie-stoimostju-kompanii) `intermediate`
 #### [Финансовые инструменты для частного инвестора Specialization](https://www.coursera.org/specializations/finansovyye-instrumenty)
+1. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
 1. [Управление личными финансами](https://www.coursera.org/learn/upravlenie-lichnymi-finansami)
 2. [Инвестиции в облигации](https://www.coursera.org/learn/investicii-obligacii)
 3. [Инвестиции в акции](https://www.coursera.org/learn/investicii-akcii)
 4. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
-5. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
 6. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
 ### Sberbank Corporate University
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
@@ -175,15 +175,15 @@
 ### National Research Tomsk State University
  - [Дипломный digital-проект: руководство к действию](https://www.coursera.org/learn/digital-project) `intermediate`
 #### [Цифровой SMM-проект: виртуальная платформа для бизнес-коммуникаций Specialization](https://www.coursera.org/specializations/digital-smm)
-1. [SMM-кампания: цели, стратегия, алгоритмы и маркетинговый потенциал](https://www.coursera.org/learn/tsu-smm-campaniya) `beginner`
 1. [Основы SMM: тренды, аудитории, платформы](https://www.coursera.org/learn/tsu-smm-osnovy) `beginner`
-1. [Социальные медиа: маркетинговые инструменты, сервисы и SMM-активности](https://www.coursera.org/learn/tsu-sotsialnie-media) `beginner`
+2. [Социальные медиа: маркетинговые инструменты, сервисы и SMM-активности](https://www.coursera.org/learn/tsu-sotsialnie-media) `beginner`
+3. [SMM-кампания: цели, стратегия, алгоритмы и маркетинговый потенциал](https://www.coursera.org/learn/tsu-smm-campaniya) `beginner`
 ### National Research University Higher School of Economics
 #### [Основы Digital Маркетинга Specialization](https://www.coursera.org/specializations/fundamentals-digital-marketing)
-1. [Контекстная реклама. Google AdWords](https://www.coursera.org/learn/kontextnaya-reklama-google-adwords) `intermediate`
+1. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
 1. [Маркетинговая стратегия в digital среде (Digital marketing strategy)](https://www.coursera.org/learn/digital-marketing-strategy) `intermediate`
-1. [Работа с клиентской базой и входящий маркетинг](https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing) `intermediate`
-4. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
+2. [Контекстная реклама. Google AdWords](https://www.coursera.org/learn/kontextnaya-reklama-google-adwords) `intermediate`
+3. [Работа с клиентской базой и входящий маркетинг](https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Маркетинг. Часть 1. Основные категории, принципы и подходы](https://www.coursera.org/learn/marketing-printsipy) `beginner`
  - [Маркетинг. Часть 2. Инструментарий маркетинга](https://www.coursera.org/learn/marketing-instrumentarij) `intermediate`
@@ -229,19 +229,19 @@
 ## Mobile and Web Development
 ### Moscow Institute of Physics and Technology, e-legion, ФРОО
 #### [Android-разработка: основы, многопоточность, архитектура Specialization](https://www.coursera.org/specializations/android-developer)
+1. [Архитектура Android-приложений](https://www.coursera.org/learn/android-app-architecture) `intermediate`
 1. [Быстрый старт в разработке Android-приложений](https://www.coursera.org/learn/quick-start-to-android) `intermediate`
 2. [Многопоточность и сетевое взаимодействие в Android](https://www.coursera.org/learn/android-multithreading-and-network) `intermediate`
-3. [Архитектура Android-приложений](https://www.coursera.org/learn/android-app-architecture) `intermediate`
 #### [iOS-разработка: Swift, UI и многопоточность Specialization](https://www.coursera.org/specializations/ios-dev)
 1. [Введение в iOS-разработку](https://www.coursera.org/learn/ios-razrabotka-na-swift) `intermediate`
-1. [Пользовательский интерфейс](https://www.coursera.org/learn/user-interface) `intermediate`
+2. [Пользовательский интерфейс](https://www.coursera.org/learn/user-interface) `intermediate`
 3. [Многопоточность](https://www.coursera.org/learn/ios-multithreading) `intermediate`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Разработка интерфейсов: вёрстка и JavaScript Specialization](https://www.coursera.org/specializations/razrabotka-interfeysov)
 1. [JavaScript, часть 1: основы и функции](https://www.coursera.org/learn/javascript-osnovy-i-funktsii) `intermediate`
+1. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 2. [Основы HTML и CSS](https://www.coursera.org/learn/snovy-html-i-css) `beginner`
 3. [Тонкости верстки](https://www.coursera.org/learn/tonkosti-verstki) `intermediate`
-4. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 5. [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt) `advanced`
 ## Software Development
 ### Moscow Institute of Physics and Technology
@@ -250,23 +250,23 @@
  - [Разработка веб-сервисов на Go - основы языка](https://www.coursera.org/learn/golang-webservices-1) `intermediate`
  - [Разработка веб-сервисов на Golang, часть 2](https://www.coursera.org/learn/golang-webservices-2) `intermediate`
 #### [Программирование на Python Specialization](https://www.coursera.org/specializations/programming-in-python)
+1. [ООП и паттерны проектирования в Python](https://www.coursera.org/learn/oop-patterns-python) `intermediate`
 1. [Погружение в Python](https://www.coursera.org/learn/diving-in-python) `intermediate`
-2. [ООП и паттерны проектирования в Python](https://www.coursera.org/learn/oop-patterns-python) `intermediate`
 3. [Создание Web-сервисов на Python](https://www.coursera.org/learn/python-for-web) `intermediate`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Искусство разработки на современном C++ Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 1. [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) `intermediate`
-1. [Основы разработки на C++: жёлтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) `intermediate`
-1. [Основы разработки на C++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) `intermediate`
-4. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
-5. [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) `intermediate`
+1. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
+1. [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) `intermediate`
+2. [Основы разработки на C++: жёлтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) `intermediate`
+3. [Основы разработки на C++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Использование механизмов операционных систем в разработке программного обеспечения](https://www.coursera.org/learn/os-v-razrabotke-po) `beginner`
 #### [ИТ-кризисология. Антикризисная разработка программных систем Specialization](https://www.coursera.org/specializations/it-crisis-management)
+1. [Модели антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem)
 1. [Разработка корпоративных систем. Часть 1. Модели жизненного цикла](https://www.coursera.org/learn/razrabotka-korporativnih-sistem-modeli-jiznennogo-cikla)
 2. [Разработка корпоративных систем. Часть 2. Строгие методологии разработки](https://www.coursera.org/learn/strogie-metodologii-razrabotki)
 3. [Разработка корпоративных систем. Часть 3. Гибкие методологии разработки](https://www.coursera.org/learn/gibkie-metodologii-razrabotki)
-4. [Модели антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem)
 5. [Методологии антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/korporativnye-antikrizisnye-methodology)
 7. [ИТ-кризисология. Модернизация системы автоматизации управления воздушным движением](https://www.coursera.org/learn/project-it-crisis-management)
 ### National Research Tomsk State University
@@ -285,8 +285,8 @@
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 1. [Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python) `beginner`
-4. [Построение выводов по данным](https://www.coursera.org/learn/stats-for-data-analysis) `advanced`
-5. [Прикладные задачи анализа данных](https://www.coursera.org/learn/data-analysis-applications) `intermediate`
+1. [Прикладные задачи анализа данных](https://www.coursera.org/learn/data-analysis-applications) `intermediate`
+2. [Построение выводов по данным](https://www.coursera.org/learn/stats-for-data-analysis) `advanced`
 6. [Анализ данных: финальный проект](https://www.coursera.org/learn/data-analysis-project) `advanced`
 ### Moscow Institute of Physics and Technology, ФРОО, Mail.Ru Group
 #### [Программирование на Python Specialization](https://www.coursera.org/specializations/programming-in-python)
@@ -309,8 +309,8 @@
  - [Машинное обучение для руководителей](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley) `beginner`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
-1. [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning) `intermediate`
-2. [Обучение на размеченных данных](https://www.coursera.org/learn/supervised-learning) `intermediate`
+1. [Обучение на размеченных данных](https://www.coursera.org/learn/supervised-learning) `intermediate`
+3. [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Машинное обучение и большие данные](https://www.coursera.org/learn/machine-learning-and-big-data) `beginner`
 ### National Research University Higher School of Economics, Yandex School of Data Analysis
@@ -327,10 +327,10 @@
 ### Saint Petersburg State University
 #### [Просто о статистике (с использованием R) Specialization](https://www.coursera.org/specializations/prosto-o-statistike)
 1. [Знакомство с R и базовая статистика](https://www.coursera.org/learn/znakomstvo-r-bazovaya-statistika) `beginner`
-1. [Смешанные линейные модели](https://www.coursera.org/learn/smeshannye-lineynye-modeli) `intermediate`
+1. [Линейные модели с дискретными предикторами](https://www.coursera.org/learn/lineyniye-modeli-s-diskretnimi-prediktorami) `intermediate`
 2. [Линейная регрессия](https://www.coursera.org/learn/lineynaya-regressiya) `intermediate`
-3. [Линейные модели с дискретными предикторами](https://www.coursera.org/learn/lineyniye-modeli-s-diskretnimi-prediktorami) `intermediate`
 4. [Обобщенные линейные модели](https://www.coursera.org/learn/obobshchennye-linejnye-modeli) `intermediate`
+5. [Смешанные линейные модели](https://www.coursera.org/learn/smeshannye-lineynye-modeli) `intermediate`
 # Health
 > - [Basic Science](#basic-science)
 > - [Health Informatics](#health-informatics)
@@ -412,9 +412,9 @@
 ### Saint Petersburg State University
  - [Китайский для начинающих (Chinese for beginners)](https://www.coursera.org/learn/kitayskiy-dlya-nachinayushchikh) `beginner`
 #### [Русский как иностранный Specialization](https://www.coursera.org/specializations/russkiy-kak-inostrannyy)
+1. [Русский как иностранный B2-1](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b2) `intermediate`
 1. [Русский как иностранный: B1+. Russian as a foreign language: B1+](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1) `intermediate`
 2. [Русский как иностранный: B1+. Часть 2. Russian as a foreign language. B1+. Part 2.](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1-2) `intermediate`
-3. [Русский как иностранный B2-1](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b2) `intermediate`
 4. [Русский язык как иностранный B2-2](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b2-2) `intermediate`
 # Math and Logic
 > - [Math and Logic](#math-and-logic)
@@ -472,7 +472,7 @@
  - [Принципы управления людьми и проектами](https://www.coursera.org/learn/human-project-management) `beginner`
 ### Saint Petersburg State University
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
-2. [Инструменты позитивной психологии в менеджменте. Курс для руководителей](https://www.coursera.org/learn/instrumenty-pozitivnoy-psikhologii-menedzhmente) `beginner`
+1. [Инструменты позитивной психологии в менеджменте. Курс для руководителей](https://www.coursera.org/learn/instrumenty-pozitivnoy-psikhologii-menedzhmente) `beginner`
 ### Sberbank Corporate University
  - [Развитие карьеры в 50+](https://www.coursera.org/learn/razvitiya-karyery-pyatdesyat) `beginner`
 # Physical Science and Engineering
