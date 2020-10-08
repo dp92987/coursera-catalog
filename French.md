@@ -51,7 +51,7 @@
  - [Évaluation & Mesure d'Impact Social](https://www.coursera.org/learn/evaluation-mesure-impact-social) `beginner`
 #### [L'impact investing, la finance qui change le monde Specialization](https://www.coursera.org/specializations/impact-investing)
 1. [L'impact investing : comprendre les fondamentaux](https://www.coursera.org/learn/investing-fondamentaux)
-1. [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
+2. [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
 3. [L'impact investing : innover](https://www.coursera.org/learn/impactinvestinginnover)
 4. [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
 ### HEC Paris, Ticket for Change

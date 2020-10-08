@@ -29,7 +29,6 @@
 ### DeepLearning.AI
  - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar) `beginner`
 ### University of Virginia
- - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar) `beginner`
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar) `beginner`
 ## Leadership and Management
 ### BCG, University of Virginia

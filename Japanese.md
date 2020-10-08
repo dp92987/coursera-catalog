@@ -34,9 +34,9 @@
  - [AI、機械学習、ディープラーニングのための TensorFlow 入門](https://www.coursera.org/learn/introduction-tensorflow-ja) `intermediate`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine 日本語版 Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-jp)
-1. [Architecting with Google Kubernetes Engine: Production 日本語版](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-jp) `intermediate`
-1. [Architecting with Google Kubernetes Engine: Workloads 日本語版](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-jp) `intermediate`
 2. [Architecting with Google Kubernetes Engine: Foundations 日本語版](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-jp) `intermediate`
+3. [Architecting with Google Kubernetes Engine: Workloads 日本語版](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-jp) `intermediate`
+4. [Architecting with Google Kubernetes Engine: Production 日本語版](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-jp) `intermediate`
 #### [Developing Applications with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/developing-apps-gcp-jp)
 2. [Application Deployment, Debug, Performance 日本語版](https://www.coursera.org/learn/app-deployment-debugging-performance-jp) `intermediate`
 3. [Securing and Integrating Components of your Application 日本語版](https://www.coursera.org/learn/securing-integrating-components-app-jp) `intermediate`
@@ -59,15 +59,14 @@
 > - [Data Management](#data-management)
 ## Cloud Computing
 ### Google Cloud
+ - [Elastic Cloud Infrastructure: Scaling and Automation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-jp) `intermediate`
+ - [Essential Cloud Infrastructure: Core Services 日本語版](https://www.coursera.org/learn/gcp-infrastructure-core-services-jp) `intermediate`
+ - [Essential Cloud Infrastructure: Foundation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-foundation-jp) `intermediate`
  - [Getting Started with Google Kubernetes Engine 日本語版](https://www.coursera.org/learn/google-kubernetes-engine-jp) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure 日本語版](https://www.coursera.org/learn/gcp-fundamentals-jp) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-jp) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-jp) `advanced`
-#### [Architecting with Google Compute Engine 日本語版 Specialization](https://www.coursera.org/specializations/gcp-architecture-jp)
-2. [Essential Cloud Infrastructure: Foundation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-foundation-jp) `intermediate`
-3. [Essential Cloud Infrastructure: Core Services 日本語版](https://www.coursera.org/learn/gcp-infrastructure-core-services-jp) `intermediate`
-4. [Elastic Cloud Infrastructure: Scaling and Automation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-jp) `intermediate`
-5. [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
+ - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
 #### [Data Engineering, Big Data and ML on Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-jp)
 2. [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
 3. [Building Batch Data Pipelines on GCP 日本語版](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp) `intermediate`

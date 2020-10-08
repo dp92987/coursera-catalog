@@ -24,11 +24,11 @@
 ### Fudan University
  - [微影人的自我修养](https://www.coursera.org/learn/wei-dian-ying)
 #### [微电影创作：从观念、思维到制作 Specialization](https://www.coursera.org/specializations/wei-dian-ying)
-1. [创作吧！微影人！](https://www.coursera.org/learn/wei-dian-ying-chuang-zuo)
-1. [剪辑：像编剧一样剪辑](https://www.coursera.org/learn/jian-ji) `beginner`
 1. [导演思维：微影人的自我修养](https://www.coursera.org/learn/daoyan-siwei-weiyingren)
+2. [剪辑：像编剧一样剪辑](https://www.coursera.org/learn/jian-ji) `beginner`
 3. [编剧：像导演一样编剧](https://www.coursera.org/learn/bian-ju)
 4. [拍摄：像剪辑师一样拍摄](https://www.coursera.org/learn/pai-she)
+5. [创作吧！微影人！](https://www.coursera.org/learn/wei-dian-ying-chuang-zuo)
 ### Fudan University, 上海戏剧学院
 #### [网络游戏设计与开发 Specialization](https://www.coursera.org/specializations/wangluo-youxi-sheji-kaifa)
 1. [游戏产业概论](https://www.coursera.org/learn/youxi-chanye-gailun) `beginner`
@@ -100,7 +100,7 @@
 #### [网络游戏设计与开发 Specialization](https://www.coursera.org/specializations/wangluo-youxi-sheji-kaifa)
 5. [网络游戏设计与开发毕业项目](https://www.coursera.org/learn/wangluo-youxi-biye) `intermediate`
 ### Fudan University, 上海戏剧学院
-1. [游戏策划与设计](https://www.coursera.org/learn/youxi-cehua-sheji) `beginner`
+2. [游戏策划与设计](https://www.coursera.org/learn/youxi-cehua-sheji) `beginner`
 ## Mobile and Web Development
 ### Fudan University
 4. [基于Unity引擎的游戏开发进阶](https://www.coursera.org/learn/unity-kaifa-jinjie) `intermediate`
@@ -118,9 +118,9 @@
  - [操作系统原理（Operating Systems）](https://www.coursera.org/learn/os-pku) `intermediate`
  - [软件工程](https://www.coursera.org/learn/ruanjian-gongcheng) `intermediate`
 #### [程序设计与算法 Specialization](https://www.coursera.org/specializations/biancheng-suanfa)
-1. [C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
 1. [计算导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
 2. [C程序设计进阶](https://www.coursera.org/learn/c-chengxu-sheji)
+3. [C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
 ### The Chinese University of Hong Kong, The University of Melbourne
  - [离散优化建模基础篇 Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/lisan-youhua-jianmo-jichupian) `intermediate`
  - [离散优化建模高阶篇 Advanced Modeling for Discrete Optimization](https://www.coursera.org/learn/lisan-youhua-jianmo-gaojiepian) `intermediate`
@@ -128,12 +128,12 @@
 ### Xi'an Jiaotong University
  - [系统平台与计算环境](https://www.coursera.org/learn/jisuanji-wangluo)
 #### [.Net平台下的软件开发技术 Specialization](https://www.coursera.org/specializations/netpingtai-ruanjian-kaifa)
-1. [.Net平台下的软件开发技术毕业项目](https://www.coursera.org/learn/net-ruanjian-kaifa-biye)
-1. [c#高级编程](https://www.coursera.org/learn/csharp-gaoji-biancheng) `intermediate`
-1. [SQL Server数据库技术](https://www.coursera.org/learn/sql-server-shujuku-jishu) `beginner`
 1. [系统平台与C#程序基础](https://www.coursera.org/learn/xitong-pingtai-csharp-chengxu-jichu)
+2. [c#高级编程](https://www.coursera.org/learn/csharp-gaoji-biancheng) `intermediate`
 3. [Windows可视化程序设计](https://www.coursera.org/learn/windows-keshihua-chengxu-sheji)
+4. [SQL Server数据库技术](https://www.coursera.org/learn/sql-server-shujuku-jishu) `beginner`
 5. [基于.Net的Web开发技术](https://www.coursera.org/learn/dot-net-kaifa-jishu)
+6. [.Net平台下的软件开发技术毕业项目](https://www.coursera.org/learn/net-ruanjian-kaifa-biye)
 # Data Science
 > - [Data Analysis](#data-analysis)
 ## Data Analysis
@@ -193,7 +193,7 @@
 ### Arizona State University
 #### [商务英语课程 Business English Specialization](https://www.coursera.org/specializations/shangwu-yingyu)
 1. [商务英语课程:管理与领导力英语 Management & Leadership](https://www.coursera.org/learn/guanli-lingdao-yingyu) `intermediate`
-1. [商务英语课程:财经英语 Finance & Economics](https://www.coursera.org/learn/caijing-yingyu) `intermediate`
+2. [商务英语课程:财经英语 Finance & Economics](https://www.coursera.org/learn/caijing-yingyu) `intermediate`
 3. [商务英语课程:市场与营销英语 Marketing & Sales](https://www.coursera.org/learn/shichang-yingxiao-yingyu) `intermediate`
 4. [总计划案 Final Project](https://www.coursera.org/learn/shangwu-yingyu-zong-jihuaan) `intermediate`
 ### Peking University

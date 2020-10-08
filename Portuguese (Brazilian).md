@@ -116,9 +116,9 @@
 ### Google Cloud
  - [Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro](https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-br) `intermediate`
 #### [Architecting with Google Kubernetes Engine en Portuguese  Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-br)
-1. [Architecting with Google Kubernetes Engine: Foundations em Português Brasileiro](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-br) `intermediate`
-1. [Architecting with Google Kubernetes Engine: Production em Português Brasileiro](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-br) `intermediate`
+2. [Architecting with Google Kubernetes Engine: Foundations em Português Brasileiro](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-br) `intermediate`
 3. [Architecting with Google Kubernetes Engine: Workloads em Português Brasileiro](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-br) `intermediate`
+4. [Architecting with Google Kubernetes Engine: Production em Português Brasileiro](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-br) `intermediate`
 ### Instituto Tecnológico de Aeronáutica
  - [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) `intermediate`
  - [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) `intermediate`
@@ -195,9 +195,9 @@
 5. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
 ## Support and Operations
 ### Cresça com o Google
-1. [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti) `beginner`
 1. [Fundamentos do Suporte Técnico](https://www.coursera.org/learn/fundamentos-do-suporte-tecnico) `beginner`
 3. [Sistemas Operacionais e Você: Tornando-se um Usuário Avançado](https://www.coursera.org/learn/sistemas-operacionais) `beginner`
+4. [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti) `beginner`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages
