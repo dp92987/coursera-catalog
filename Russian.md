@@ -584,6 +584,7 @@
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Политическая география](https://www.coursera.org/learn/politicheskaya-geografiya) `beginner`
 ### National Research University Higher School of Economics
+ - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`
  - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
  - [Психология межгрупповых отношений](https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii)
  - [Социология медиа](https://www.coursera.org/learn/sociologiya-media) `beginner`
@@ -599,3 +600,5 @@
 ### Saint Petersburg State University
  - [Налоговое право (Tax law)](https://www.coursera.org/learn/nalogovoye-pravo) `intermediate`
  - [Правовое регулирование отношений в Интернете. Российская перспектива](https://www.coursera.org/learn/regulirovaniye-interneta)
+### University of Geneva
+ - [Политика и управление водными ресурсами](https://www.coursera.org/learn/russian-water-management)

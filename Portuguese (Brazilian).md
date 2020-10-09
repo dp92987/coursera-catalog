@@ -19,7 +19,6 @@
  - [Introdução à Guitarra](https://www.coursera.org/learn/intro-guitarra) `beginner`
  - [Teoria Musical](https://www.coursera.org/learn/teoria-musical) `beginner`
 #### [O Músico Contemporâneo Specialization](https://www.coursera.org/specializations/musico-contmporaneo)
-1. [Desenvolvendo sua musicalidade](https://www.coursera.org/learn/desenvolvendo-musicalidade) `beginner`
 2. [Composição: Escrevendo a letra](https://www.coursera.org/learn/composicao-escrevendo-letra) `beginner`
 4. [Produção final do músico moderno](https://www.coursera.org/learn/producao-musico-moderno) `intermediate`
 ### Universidade Estadual de Campinas
@@ -121,7 +120,6 @@
 4. [Architecting with Google Kubernetes Engine: Production em Português Brasileiro](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-br) `intermediate`
 ### Instituto Tecnológico de Aeronáutica
  - [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) `intermediate`
- - [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) `intermediate`
  - [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java) `intermediate`
  - [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) `intermediate`
  - [TDD – Desenvolvimento de Software Guiado por Testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) `intermediate`

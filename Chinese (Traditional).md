@@ -46,6 +46,7 @@
 ## Business Strategy
 ### National Taiwan University
  - [商管研究中的賽局分析（一）：通路選擇、合約制定與共享經濟 (Game Theoretic Analysis for Business Research (1))](https://www.coursera.org/learn/gabr) `beginner`
+ - [服務模式的體驗、設計與創新：從痛點到賣點 (Experience, Design, and Innovation of Service Models: from Pain Points to Selling Points)](https://www.coursera.org/learn/service-models) `beginner`
  - [賽局與產業競爭策略 (Game Theory and Business Strategy)](https://www.coursera.org/learn/game-theory-and-business-strategy) `beginner`
 ## Marketing
 ### National Taiwan University

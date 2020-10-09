@@ -14,6 +14,7 @@
 ## Business Essentials
 ### Coursera Project Network
  - [خدمات غوغل المتقدمة](https://www.coursera.org/learn/advanced-google-services-arabic) `beginner`
+ - [فصول غوغل الدراسية - للطلاب](https://www.coursera.org/learn/google-classroom-for-students-arabic) `beginner`
  - [مقدمة لخدمات غوغل](https://www.coursera.org/learn/intro-to-google-services-arabic) `beginner`
 ### Macquarie University
  - [مهارات برنامج Excel للعمل: المبادئ الأساسية](https://www.coursera.org/learn/excel-essentials-ar) `beginner`
@@ -29,6 +30,7 @@
 ### DeepLearning.AI
  - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar) `beginner`
 ### University of Virginia
+ - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar) `beginner`
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar) `beginner`
 ## Leadership and Management
 ### BCG, University of Virginia

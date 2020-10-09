@@ -7,14 +7,10 @@
  - [Physical Science and Engineering](#physical-science-and-engineering)
 # Business
 > - [Business Strategy](#business-strategy)
-> - [Finance](#finance)
 ## Business Strategy
 ### Google Cloud
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
  - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`
-## Finance
-### University of Zurich
- - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
 # Computer Science
 > - [Software Development](#software-development)
 ## Software Development
