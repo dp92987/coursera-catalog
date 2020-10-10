@@ -88,6 +88,7 @@
 ### Tsinghua University
 #### [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms-tsinghua)
 1. [Data Structures and Algorithms (I)](https://www.coursera.org/learn/data-structures-algorithms-1) `intermediate`
+2. [Data Structures and Algorithms (II)](https://www.coursera.org/learn/data-structures-algorithms-2) `intermediate`
 3. [Data Structures and Algorithms (III)](https://www.coursera.org/learn/data-structures-algorithms-3) `intermediate`
 4. [Data Structures and Algorithms (IV)](https://www.coursera.org/learn/data-structures-algorithms-4) `intermediate`
 ## Computer Security and Networks

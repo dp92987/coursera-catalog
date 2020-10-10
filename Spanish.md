@@ -124,6 +124,8 @@
  - [Proyectos complejos: éxitos o fracasos](https://www.coursera.org/learn/proyectos-complejos-exitosos-fracasados) `beginner`
 #### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
 1. [Hacer negocios con multinacionales y empresas en América Latina](https://www.coursera.org/learn/negocios-multinacionales-america-latina) `beginner`
+### Universidad de Palermo
+ - [E-Business: Negocios Online](https://www.coursera.org/learn/e-business-negocios-online) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
 4. [Introducción a la Calidad](https://www.coursera.org/learn/gestion-de-productividad)
@@ -150,7 +152,12 @@
  - [Fundamentos del Liderazgo con Goldman Sachs 10,000 Women](https://www.coursera.org/learn/10k-women-esp-3)
  - [Haz Crecer Tu Negocio con Goldman Sachs 10,000 Women](https://www.coursera.org/learn/10k-women-esp-1)
 ### Pontificia Universidad Católica de Chile
+ - [Diseño y Creación de un Emprendimiento Social](https://www.coursera.org/learn/emprendimiento-social-negocios-sustentable-canvas-sociales) `beginner`
  - [Gestión Empresarial Exitosa para Pymes](https://www.coursera.org/learn/gestionempresarialpyme)
+### Tecnológico de Monterrey
+ - [Desarrollo rápido de productos innovadores para mercados emergentes](https://www.coursera.org/learn/innovacion)
+#### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
+2. [Diseñando una estrategia de negocios en América Latina](https://www.coursera.org/learn/disenando-estrategia-negocio-america-latina) `beginner`
 ### Universidad Austral
  - [Emprendiendo en STEM](https://www.coursera.org/learn/emprendiendo-en-stem) `beginner`
 ### Universidad de los Andes
@@ -208,6 +215,7 @@
 3. [La gestión de los riesgos y la administración de los cambios en el proyecto](https://www.coursera.org/learn/presupuestos-proyecto)
 4. [Administración de Proyectos Project](https://www.coursera.org/learn/administracion-de-proyectos-capstone)
 ### Universidad Austral
+ - [Diseño de Experiencia en Servicios](https://www.coursera.org/learn/diseno-experiencia-servicios) `beginner`
  - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech) `beginner`
  - [Estrategia Empresarial](https://www.coursera.org/learn/estrategia-empresarial) `beginner`
 ### Universidad de los Andes
@@ -228,6 +236,7 @@
 3. [Finanzas para profesionales no financieros](https://www.coursera.org/learn/finanzas-no-expertos)
 4. [La comunicación laboral en el siglo XXI](https://www.coursera.org/learn/comunicacion-trabajo)
 6. [El arte de negociar](https://www.coursera.org/learn/arte-de-negociacion)
+8. [Cómo resolver problemas y tomar decisiones con eficacia](https://www.coursera.org/learn/resolucion-decisiones)
 9. [Fundamentos del Emprendimiento: Pensamiento y Acción](https://www.coursera.org/learn/fundamentos-del-emprendimiento)
 ### Università Bocconi
  - [Gestión de las empresas de alimentación y bebidas](https://www.coursera.org/learn/empresas-alimentos-bebidas)
@@ -236,6 +245,7 @@
 #### [Estrategia de marketing Specialization](https://www.coursera.org/specializations/estrategia-de-marketing)
 1. [Investigación de mercados y comportamiento del consumidor](https://www.coursera.org/learn/investigacion-de-mercados) `beginner`
 2. [Posicionamiento: La base del éxito en la estrategia de marketing](https://www.coursera.org/learn/posicionamiento) `beginner`
+3. [Fundamentos del marketing mix](https://www.coursera.org/learn/fundamentos-marketing-mix) `beginner`
 4. [El plan de marketing](https://www.coursera.org/learn/plan-de-marketing) `beginner`
 5. [Proyecto capstone estrategia de marketing](https://www.coursera.org/learn/capstone-estrategia) `beginner`
 #### [Implementación del Marketing Mix Specialization](https://www.coursera.org/specializations/implementacion-marketing-mix)
@@ -283,6 +293,7 @@
 2. [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial) `intermediate`
 3. [Resolución de problemas por búsqueda](https://www.coursera.org/learn/resolucion-busqueda) `beginner`
 4. [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas)
+5. [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo) `intermediate`
 6. [Comportamiento adaptativo](https://www.coursera.org/learn/comportamiento-adapta) `intermediate`
 7. [Creatividad computacional](https://www.coursera.org/learn/creatividad-computacional) `intermediate`
 8. [Cognición encarnada](https://www.coursera.org/learn/cognicion) `beginner`
@@ -301,15 +312,21 @@
  - [¿Cómo (nos) cambia la Tecnología?](https://www.coursera.org/learn/comonoscambialatecnologia) `beginner`
 ### Universidad de los Andes
 #### [Desarrollo y Diseño de Videojuegos Specialization](https://www.coursera.org/specializations/desarrollo-videojuegos)
+1. [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity) `beginner`
+2. [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro) `beginner`
 3. [Emprendimiento y métodos ágiles de desarrollo en videojuegos](https://www.coursera.org/learn/videojuegos-emprendimiento) `beginner`
+4. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
+5. [Desarrollo y Diseño de Videojuegos: Proyecto final](https://www.coursera.org/learn/proyecto-desarrollo-videojuegos) `intermediate`
 ### Universidad Nacional Autónoma de México
  - [Arduino y algunas aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
 ### Universitat Autònoma de Barcelona
 #### [Diseño y Creación de videojuegos Specialization](https://www.coursera.org/specializations/diseno-videojuegos)
 1. [Videojuegos: ¿de qué hablamos?](https://www.coursera.org/learn/videojuegos-intro)
+2. [Diseño de videojuegos](https://www.coursera.org/learn/videojuegos-diseno)
 3. [Arte 3D y animación en videojuegos](https://www.coursera.org/learn/videojuegos-animation)
 4. [Motores gráficos en videojuegos: game engine](https://www.coursera.org/learn/videojuegos-engine)
 5. [Gameplay en videojuegos](https://www.coursera.org/learn/videojuegos-play)
+6. [Diseño y creación de videojuegos: proyecto final](https://www.coursera.org/learn/videojuegos-capstone)
 ## Mobile and Web Development
 ### Coursera Project Network
  - [Aprendiendo a hacer API con Node.JS](https://www.coursera.org/learn/api-nodejs) `beginner`
@@ -318,6 +335,7 @@
 #### [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol)
 1. [Diseñando páginas web con Bootstrap 4](https://www.coursera.org/learn/disenando-paginas-bootstrap4) `beginner`
 2. [Desarrollo de páginas con Angular](https://www.coursera.org/learn/desarrollar-paginas-web-con-angular) `beginner`
+3. [Desarrollo de Aplicaciones Mobile Multiplataforma con Nativescript, Angular y Redux](https://www.coursera.org/learn/aplicaciones-mobile-multiplataforma-nativescript-angular-redux) `beginner`
 4. [Desarrollo del lado servidor: NodeJS, Express y MongoDB](https://www.coursera.org/learn/desarrollo-lado-servidor-nodejs-express-mongodb) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Desarrollo de aplicaciones móviles con Android Specialization](https://www.coursera.org/specializations/programacion-android)
@@ -326,6 +344,8 @@
 3. [Desarrollo de aplicaciones con Android](https://www.coursera.org/learn/desarrollo-de-aplicaciones) `intermediate`
 4. [Desarrollo de aplicaciones avanzadas con Android](https://www.coursera.org/learn/aplicaciones-android)
 5. [Proyecto final - Construyendo una aplicación profesional con Android](https://www.coursera.org/learn/construyendo-android-proyecto)
+### University of New Mexico
+ - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
 ### Coursera Project Network
  - [Análisis de texto en archivos con Azure cognitive search](https://www.coursera.org/learn/analisis-textos-archivos-servicios-cognitivos-azure) `beginner`
@@ -371,6 +391,7 @@
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
  - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
+ - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
@@ -393,6 +414,8 @@
 ## Machine Learning
 ### Coursera Project Network
  - [Analizando sentimientos y entidades en textos con Azure](https://www.coursera.org/learn/analisis-sentimientos-azure) `beginner`
+ - [Diseñando modelos con Azure Machine Learning Studio](https://www.coursera.org/learn/modelos-azure-ml-studio) `beginner`
+ - [Diseñando un bot con Azure LUIS](https://www.coursera.org/learn/bot-luis) `beginner`
  - [Generando modelos con Auto Machine Learning](https://www.coursera.org/learn/generando-modelos-automl) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Español](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es) `intermediate`
@@ -440,8 +463,12 @@
  - [Spanish for Successful Communication in Healthcare Settings](https://www.coursera.org/learn/spanish-in-healthcare-settings) `intermediate`
 ### Tecnológico de Monterrey
  - [Evaluación del Aprendizaje en Escenarios Clínicos](https://www.coursera.org/learn/evaluacion-aprendizaje-escenarios-clinicos) `intermediate`
+### Universidad de los Andes
+ - [Diagnóstico y tratamiento del dolor neuropático en atención primaria](https://www.coursera.org/learn/dolor-neuropatico-anestesiologia) `intermediate`
 ### Universidad Nacional Autónoma de México
  - [Cuidado de heridas en el ámbito hospitalario](https://www.coursera.org/learn/cuidado-heridas) `intermediate`
+ - [Cáncer de próstata](https://www.coursera.org/learn/cancer-prostata) `beginner`
+ - [Diálisis peritoneal](https://www.coursera.org/learn/dialisis-peritoneal)
  - [Farmacología para odontólogos](https://www.coursera.org/learn/farmaco-odontologos)
  - [Farmacovigilancia ocular](https://www.coursera.org/learn/farmacovigilancia-ocular) `intermediate`
  - [Manejo moderno de la caries dental](https://www.coursera.org/learn/tratamiento-caries) `beginner`
@@ -455,6 +482,7 @@
 ## Psychology
 ### Universidad de los Andes
  - [Bienestar, equidad y derechos humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos) `beginner`
+ - [Diseño de proyectos para promover el bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar) `intermediate`
  - [Sexualidad...mucho más que sexo](https://www.coursera.org/learn/sexualidad) `beginner`
 ### Universidad de Palermo
  - [Introducción a la Neurociencia](https://www.coursera.org/learn/neurociencia) `beginner`
@@ -589,6 +617,7 @@
  - [Competencias digitales. Bases de datos: Access](https://www.coursera.org/learn/competencias-digitales-access) `beginner`
  - [Competencias digitales. Conceptos y herramientas básicas](https://www.coursera.org/learn/competencias-digitales-herramientas-basicas) `beginner`
  - [Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, Power Point)](https://www.coursera.org/learn/competencias-digitales-ofimatica) `beginner`
+ - [Cómo hablar bien en público](https://www.coursera.org/learn/hablar-bien-en-publico) `beginner`
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
 7. [Aspectos fundamentales de la gerencia](https://www.coursera.org/learn/fundamentos-de-gestion)
@@ -608,9 +637,11 @@
  - [Electrones en Acción: Electrónica y Arduinos para tus propios Inventos](https://www.coursera.org/learn/electrones-en-accion)
 #### [Electrónica en cápsulas Specialization](https://www.coursera.org/specializations/electronica-analogica-ingeniero-electrones)
 1. [Cómo entrenar a tus electrones 1: Fundamentos de la electrónica analógica](https://www.coursera.org/learn/fundamentos-de-la-electronica-analogica) `intermediate`
+2. [Cómo entrenar a tus electrones 2: Diodos y Transistores](https://www.coursera.org/learn/entrenar-electrones-diodos-transistores) `intermediate`
 3. [Cómo entrenar a tus electrones 3: Aplicaciones interesantes](https://www.coursera.org/learn/entrenar-electrones-aplicaciones-electronica) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Control automático: La tecnología invisible](https://www.coursera.org/learn/control-automatico) `beginner`
+ - [Cómo autoconstruir tu vivienda. Segunda etapa](https://www.coursera.org/learn/como-autoconstruir-tu-vivienda-segunda-etapa) `beginner`
 ### Universitat Autònoma de Barcelona
  - [Sistemas Digitales: De las puertas lógicas al procesador](https://www.coursera.org/learn/sistemas-digitales)
 ## Environmental Science and Sustainability
@@ -635,6 +666,7 @@
  - [Equilibrio, ¿por qué se caen las cosas?](https://www.coursera.org/learn/equilibrio) `beginner`
  - [Ingeniería de Tráfico](https://www.coursera.org/learn/ingenieria-trafico) `beginner`
 ### Universidad Nacional Autónoma de México
+ - [Cómo autoconstruir tu vivienda](https://www.coursera.org/learn/como-autoconstruir-tu-vivienda)
  - [Robótica](https://www.coursera.org/learn/robotica-inicial)
 ## Physics and Astronomy
 ### Tecnológico de Monterrey
@@ -681,6 +713,7 @@
  - [Fundamentos de la escritura](https://www.coursera.org/learn/escritura-esp) `beginner`
  - [Fundamentos de la escritura académica](https://www.coursera.org/learn/escritura-academica-esp) `beginner`
 #### [Diseño Instruccional: Aprendizaje activo y Pedagogía digital Specialization](https://www.coursera.org/specializations/diseno-instruccional)
+1. [Diseño instruccional para el aprendizaje activo](https://www.coursera.org/learn/aprendizaje-activo) `beginner`
 2. [Modelos de diseño instruccional para ambientes digitales](https://www.coursera.org/learn/instruccional-diseno-ambientes-digitales) `beginner`
 3. [Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales](https://www.coursera.org/learn/proyect) `beginner`
 ### Universidad Austral
@@ -695,6 +728,7 @@
 3. [Enseñar, aprender y evaluar en Escuelas Rurales](https://www.coursera.org/learn/ensenar-aprender-evaluar-escuelas-rurales) `beginner`
 4. [La escuela y su comunidad: lecciones desde la ruralidad](https://www.coursera.org/learn/escuela-comunidad-lecciones-innovacion-educativa) `beginner`
 ### Universidad de Chile
+ - [Docencia para la capacitación laboral y el aprendizaje a lo largo de la vida.](https://www.coursera.org/learn/docencia-capacitacion-laboral) `intermediate`
  - [El desafío de Innovar en la Educación Superior](https://www.coursera.org/learn/educacion-superior)
  - [Potenciando mi aprendizaje en el primer año de Universidad](https://www.coursera.org/learn/potenciando-aprendizaje) `beginner`
 ### Universidad de los Andes
@@ -703,6 +737,7 @@
 ### Universidad Nacional Autónoma de México
  - [Aprender](https://www.coursera.org/learn/aprendo)
  - [Atrévete a innovar tu enseñanza con pensamiento de diseño](https://www.coursera.org/learn/innovacioneducativa) `beginner`
+ - [Cursos en línea: modelo para armar](https://www.coursera.org/learn/enlinea) `beginner`
  - [Cómo hacer una tesis](https://www.coursera.org/learn/como-hacer-una-tesis) `beginner`
  - [Introducción a la Producción Audiovisual](https://www.coursera.org/learn/intro-produccion-audiovisual) `beginner`
  - [Usos Didácticos del Cine: Introducción al Análisis](https://www.coursera.org/learn/usos-didacticos-del-cine) `intermediate`
@@ -724,6 +759,7 @@
  - [América Latina en los cambios internacionales: amenazas y oportunidades.](https://www.coursera.org/learn/america-latina) `beginner`
  - [Competencias Laborales: Perfiles, Evaluación y Capacitación.](https://www.coursera.org/learn/competencias-lab) `intermediate`
 ### Universidad de los Andes
+ - [DDHH y democracia: una visión desde América Latina](https://www.coursera.org/learn/derechos-humanos-democracia-america-latina) `beginner`
  - [Objetivos de desarrollo sostenible para América Latina y el Caribe](https://www.coursera.org/learn/objetivos-desarrollo-sostenible) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Acuerdos globales para el desarrollo sostenible](https://www.coursera.org/learn/acuerdos-globales) `beginner`
@@ -736,6 +772,7 @@
  - [Seguridad hídrica](https://www.coursera.org/learn/seguridad-hidrica) `beginner`
 ### Universitat Autònoma de Barcelona
  - [Ciudades en crisis y nuevas políticas urbanas](https://www.coursera.org/learn/ciudades-politicas-urbanas) `beginner`
+ - [Democracia y decisiones públicas. Introducción al análisis de políticas públicas](https://www.coursera.org/learn/democracia) `beginner`
 ## Law
 ### Universitat Autònoma de Barcelona
  - [Contratación y mercado digital. Aspectos legales y otras cuestiones de interés](https://www.coursera.org/learn/mercado-digital) `beginner`

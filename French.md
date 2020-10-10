@@ -34,6 +34,8 @@
  - [Innovation publique et pensée design, l'innovation sociale au service des territoires](https://www.coursera.org/learn/innovation-publique-pensee-design) `beginner`
  - [L'entrepreneuriat social: faire son business plan](https://www.coursera.org/learn/monde-action)
  - [Originalité et modernité du mutualisme](https://www.coursera.org/learn/originalite-et-modernite-du-mutualisme) `beginner`
+### University of Colorado Boulder
+ - [Donner un feedback utile](https://www.coursera.org/learn/feedback-fr)
 ## Business Strategy
 ### ESSEC Business School
  - [Nouveaux modèles économiques des associations](https://www.coursera.org/learn/nouveaux-modeles-economiques-associations) `beginner`
@@ -52,6 +54,8 @@
 2. [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
 3. [L'impact investing : innover](https://www.coursera.org/learn/impactinvestinginnover)
 4. [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
+### HEC Paris, Ticket for Change
+ - [Devenir entrepreneur du changement](https://www.coursera.org/learn/entrepreneur-changement)
 ### Sciences Po
  - [Be entrepreneurial in Cultural Industries in the digital age](https://www.coursera.org/learn/entrepreneurial-culture-digital-age) `beginner`
  - [Entreprendre dans les Industries Culturelles à l'ère du numérique](https://www.coursera.org/learn/entreprendre-culture) `beginner`
@@ -112,6 +116,8 @@
 # Health
 > - [Healthcare Management](#healthcare-management)
 > - [Patient Care](#patient-care)
+> - [Psychology](#psychology)
+> - [Public Health](#public-health)
 ## Healthcare Management
 ### University of Geneva, Université de Montréal, Université libre de Bruxelles
  - [Supervision du raisonnement clinique](https://www.coursera.org/learn/supervision-raisonnement-clinique) `beginner`
@@ -120,6 +126,14 @@
  - [ÉCHELLE RACE: Dépistage préhospitalier de l’AVC impliquant une occlusion de gros vaisseaux cérébraux](https://www.coursera.org/learn/prestorace-fr) `intermediate`
 ### University of Geneva
  - [Troubles du spectre de l'autisme : diagnostic](https://www.coursera.org/learn/troubles-spectre-autisme-diagnostic) `intermediate`
+## Psychology
+### University of Geneva
+ - [Développement psychologique de l'enfant](https://www.coursera.org/learn/enfant-developpement) `beginner`
+### University of Lausanne
+ - [Dopage : Sports, Organisations et Sciences](https://www.coursera.org/learn/dopage)
+## Public Health
+### University of Geneva
+ - [Ebola : Vaincre ensemble !](https://www.coursera.org/learn/ebola-vaincre-ensemble)
 # Information Technology
 > - [Cloud Computing](#cloud-computing)
 ## Cloud Computing
@@ -188,6 +202,7 @@
 ### University of Geneva
  - [Physique des particules - une introduction](https://www.coursera.org/learn/physique-particules) `intermediate`
 ### École Polytechnique
+ - [D'un infini à l'autre - Voyages de l'infiniment grand à l'infiniment petit](https://www.coursera.org/learn/physique-2-infinis-liens) `beginner`
  - [Les deux infinis et nous - Voyages de l'infiniment grand à l'infiniment petit](https://www.coursera.org/learn/physique-2-infinis-et-nous) `beginner`
  - [Mécanique quantique](https://www.coursera.org/learn/mecanique-quantique) `intermediate`
  - [Vers l'infiniment grand - Voyages de l'infiniment grand à l'infiniment petit](https://www.coursera.org/learn/physique-2-infinis-infiniment-grand) `beginner`
@@ -241,6 +256,7 @@
  - [Villes africaines: Mobilités et transports urbains](https://www.coursera.org/learn/mobilite-afrique)
 ## Law
 ### University of Geneva
+ - [Droit International de l'Eau Douce](https://www.coursera.org/learn/droit-international-eau-douce) `intermediate`
  - [Gestion et Politique de l'eau](https://www.coursera.org/learn/gestion-eau)
  - [Introduction aux Droits de l’Homme](https://www.coursera.org/learn/droits-de-lhomme)
  - [Rédaction de contrats](https://www.coursera.org/learn/contrats)

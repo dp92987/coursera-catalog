@@ -59,19 +59,20 @@
 > - [Data Management](#data-management)
 ## Cloud Computing
 ### Google Cloud
+ - [Building Batch Data Pipelines on GCP 日本語版](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp) `intermediate`
+ - [Building Resilient Streaming Analytics Systems on GCP 日本語版](https://www.coursera.org/learn/streaming-analytics-systems-gcp-jp) `intermediate`
  - [Elastic Cloud Infrastructure: Scaling and Automation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-jp) `intermediate`
  - [Essential Cloud Infrastructure: Core Services 日本語版](https://www.coursera.org/learn/gcp-infrastructure-core-services-jp) `intermediate`
  - [Essential Cloud Infrastructure: Foundation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-foundation-jp) `intermediate`
  - [Getting Started with Google Kubernetes Engine 日本語版](https://www.coursera.org/learn/google-kubernetes-engine-jp) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure 日本語版](https://www.coursera.org/learn/gcp-fundamentals-jp) `intermediate`
- - [Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-jp) `advanced`
- - [Preparing for the Google Cloud Professional Data Engineer Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-jp) `advanced`
+ - [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
-#### [Data Engineering, Big Data and ML on Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-jp)
-2. [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
-3. [Building Batch Data Pipelines on GCP 日本語版](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp) `intermediate`
-4. [Building Resilient Streaming Analytics Systems on GCP 日本語版](https://www.coursera.org/learn/streaming-analytics-systems-gcp-jp) `intermediate`
-5. [Smart Analytics, Machine Learning, and AI on GCP 日本語版](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-jp) `intermediate`
+ - [Smart Analytics, Machine Learning, and AI on GCP 日本語版](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-jp) `intermediate`
+#### [Cloud Architecture with Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-cloud-architect-jp)
+6. [Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-jp) `advanced`
+#### [Data Engineering with Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-data-engineering-jp)
+6. [Preparing for the Google Cloud Professional Data Engineer Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-jp) `advanced`
 ## Data Management
 ### Google Cloud
 #### [From Data to Insights with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform-jp)
