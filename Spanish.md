@@ -395,6 +395,7 @@
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
+ - [ML y Power BI para incrementar las ventas en Retail](https://www.coursera.org/learn/ml-powerbi-ventas-retail) `advanced`
  - [Predicción del fraude bancario con autoML y Pycaret](https://www.coursera.org/learn/prediccion-fraude-automl-pycaret) `advanced`
  - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
@@ -627,7 +628,6 @@
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
 > - [Mechanical Engineering](#mechanical-engineering)
 > - [Physics and Astronomy](#physics-and-astronomy)
-> - [Research Methods](#research-methods)
 ## Chemistry
 ### Universidad Nacional Autónoma de México
  - [Una aproximación a la Química del Carbono](https://www.coursera.org/learn/qimica-carbono) `beginner`
@@ -667,7 +667,6 @@
  - [Ingeniería de Tráfico](https://www.coursera.org/learn/ingenieria-trafico) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Cómo autoconstruir tu vivienda](https://www.coursera.org/learn/como-autoconstruir-tu-vivienda)
- - [Robótica](https://www.coursera.org/learn/robotica-inicial)
 ## Physics and Astronomy
 ### Tecnológico de Monterrey
  - [Conceptos y Herramientas para la Física Universitaria](https://www.coursera.org/learn/fisica-universitaria)
@@ -678,9 +677,6 @@
 ### Universitat de Barcelona, Fundació Navegació Oceànica Barcelona
  - [Estrategias para ganar. Meteorología en la vuelta al mundo](https://www.coursera.org/learn/estrategiasparaganar-meteorologia) `intermediate`
  - [Strategies for winning. Meteorology in a round the world regatta](https://www.coursera.org/learn/meteorology)
-## Research Methods
-### Universitat de Barcelona
- - [Técnicas Microscópicas de Caracterización](https://www.coursera.org/learn/tecnicas-microscopicas-caracterizacion)
 # Social Sciences
 > - [Economics](#economics)
 > - [Education](#education)
@@ -743,9 +739,9 @@
  - [Usos Didácticos del Cine: Introducción al Análisis](https://www.coursera.org/learn/usos-didacticos-del-cine) `intermediate`
 #### [Evaluación educativa Specialization](https://www.coursera.org/specializations/evaluacion-educativa)
 1. [Evaluación educativa del y para el aprendizaje en educación superior](https://www.coursera.org/learn/evaluacion-educativa) `beginner`
+1. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 2. [Evaluación para el aprendizaje: Enfoque cuantitativo](https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo) `intermediate`
 3. [Evaluación para el aprendizaje: Enfoque cualitativo](https://www.coursera.org/learn/evaluacion-cualitativa) `intermediate`
-4. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 ### Universitat Autònoma de Barcelona
  - [Educación Social: Ámbitos de acción y reflexión](https://www.coursera.org/learn/educacion-social) `beginner`
 ### Universitat de Barcelona

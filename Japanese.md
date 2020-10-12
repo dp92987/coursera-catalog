@@ -26,7 +26,7 @@
 ### Google Cloud
 #### [G Suite Administration 日本語版 Specialization](https://www.coursera.org/specializations/g-suite-administration-jp)
 1. [Introduction to G Suite 日本語版](https://www.coursera.org/learn/introduction-g-suite-jp) `beginner`
-2. [Managing G Suite 日本語版](https://www.coursera.org/learn/managing-g-suite-jp) `beginner`
+1. [Managing G Suite 日本語版](https://www.coursera.org/learn/managing-g-suite-jp) `beginner`
 3. [G Suite Security 日本語版](https://www.coursera.org/learn/g-suite-security-jp) `beginner`
 4. [G Suite Mail Management 日本語版](https://www.coursera.org/learn/g-suite-mail-management-jp) `beginner`
 ## Software Development
@@ -69,9 +69,9 @@
  - [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
  - [Smart Analytics, Machine Learning, and AI on GCP 日本語版](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-jp) `intermediate`
-#### [Cloud Architecture with Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-cloud-architect-jp)
+#### [Cloud Architecture with Google Cloud 日本語版 Professional Certificate](https://www.coursera.org/specializations/gcp-cloud-architect-jp)
 6. [Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-jp) `advanced`
-#### [Data Engineering with Google Cloud 日本語版 Specialization](https://www.coursera.org/specializations/gcp-data-engineering-jp)
+#### [Data Engineering with Google Cloud 日本語版 Professional Certificate](https://www.coursera.org/specializations/gcp-data-engineering-jp)
 6. [Preparing for the Google Cloud Professional Data Engineer Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-jp) `advanced`
 ## Data Management
 ### Google Cloud
