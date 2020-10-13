@@ -118,7 +118,7 @@
 ### Universidad Austral
  - [Negociación 4.0](https://www.coursera.org/learn/negociacion-iae) `beginner`
 #### [Marketing Digital Specialization](https://www.coursera.org/specializations/marketing-digital)
-2. [Estrategias de  Redes Sociales](https://www.coursera.org/learn/redes-sociales-estrategias) `beginner`
+1. [Estrategias de  Redes Sociales](https://www.coursera.org/learn/redes-sociales-estrategias) `beginner`
 ### Universidad de los Andes
  - [Los Objetivos de Desarrollo Sostenible para las empresas](https://www.coursera.org/learn/objetivos-desarrollo-sostenible-empresas) `beginner`
  - [Proyectos complejos: éxitos o fracasos](https://www.coursera.org/learn/proyectos-complejos-exitosos-fracasados) `beginner`
@@ -188,9 +188,9 @@
  - [Finanzas personales](https://www.coursera.org/learn/finanzas-personales)
 #### [Finanzas corporativas Specialization](https://www.coursera.org/specializations/finanzascorporativas)
 1. [Administración financiera y su función en la empresa](https://www.coursera.org/learn/admonfinanciera) `intermediate`
+1. [Estructura de capital y política de dividendos](https://www.coursera.org/learn/estructura) `intermediate`
 2. [Matemáticas financieras](https://www.coursera.org/learn/matematicas) `intermediate`
 3. [Evaluación de inversiones en Bienes de Capital](https://www.coursera.org/learn/evaluaciondeinversiones) `intermediate`
-4. [Estructura de capital y política de dividendos](https://www.coursera.org/learn/estructura) `intermediate`
 5. [Valuación de empresas](https://www.coursera.org/learn/valuacionempresas) `intermediate`
 6. [Toma de Decisiones Financieras](https://www.coursera.org/learn/proyectofinanzascorporativas) `intermediate`
 ## Leadership and Management
@@ -312,10 +312,10 @@
  - [¿Cómo (nos) cambia la Tecnología?](https://www.coursera.org/learn/comonoscambialatecnologia) `beginner`
 ### Universidad de los Andes
 #### [Desarrollo y Diseño de Videojuegos Specialization](https://www.coursera.org/specializations/desarrollo-videojuegos)
+1. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
 1. [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity) `beginner`
 2. [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro) `beginner`
 3. [Emprendimiento y métodos ágiles de desarrollo en videojuegos](https://www.coursera.org/learn/videojuegos-emprendimiento) `beginner`
-4. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
 5. [Desarrollo y Diseño de Videojuegos: Proyecto final](https://www.coursera.org/learn/proyecto-desarrollo-videojuegos) `intermediate`
 ### Universidad Nacional Autónoma de México
  - [Arduino y algunas aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
@@ -555,7 +555,7 @@
 ### Arizona State University
 #### [Chino básico: Lenguaje y cultura empresarial Specialization](https://www.coursera.org/specializations/chino-basico)
 1. [Chino básico: Cómo dar una primera impresión positiva](https://www.coursera.org/learn/chino-primera-impresion)
-2. [Chino básico: La etiqueta social en los negocios](https://www.coursera.org/learn/chino-etiqueta-negocios)
+1. [Chino básico: La etiqueta social en los negocios](https://www.coursera.org/learn/chino-etiqueta-negocios)
 3. [Chino básico: Los viajes de negocios](https://www.coursera.org/learn/chino-viajes-de-negocios)
 4. [Proyecto Final: Chino básico - Lenguaje y cultura empresarial](https://www.coursera.org/learn/proyecto-final-chino-basico)
 ### Universitat Autònoma de Barcelona
@@ -628,6 +628,7 @@
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
 > - [Mechanical Engineering](#mechanical-engineering)
 > - [Physics and Astronomy](#physics-and-astronomy)
+> - [Research Methods](#research-methods)
 ## Chemistry
 ### Universidad Nacional Autónoma de México
  - [Una aproximación a la Química del Carbono](https://www.coursera.org/learn/qimica-carbono) `beginner`
@@ -667,6 +668,7 @@
  - [Ingeniería de Tráfico](https://www.coursera.org/learn/ingenieria-trafico) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Cómo autoconstruir tu vivienda](https://www.coursera.org/learn/como-autoconstruir-tu-vivienda)
+ - [Robótica](https://www.coursera.org/learn/robotica-inicial)
 ## Physics and Astronomy
 ### Tecnológico de Monterrey
  - [Conceptos y Herramientas para la Física Universitaria](https://www.coursera.org/learn/fisica-universitaria)
@@ -677,6 +679,9 @@
 ### Universitat de Barcelona, Fundació Navegació Oceànica Barcelona
  - [Estrategias para ganar. Meteorología en la vuelta al mundo](https://www.coursera.org/learn/estrategiasparaganar-meteorologia) `intermediate`
  - [Strategies for winning. Meteorology in a round the world regatta](https://www.coursera.org/learn/meteorology)
+## Research Methods
+### Universitat de Barcelona
+ - [Técnicas Microscópicas de Caracterización](https://www.coursera.org/learn/tecnicas-microscopicas-caracterizacion)
 # Social Sciences
 > - [Economics](#economics)
 > - [Education](#education)
@@ -686,7 +691,7 @@
 ### IE Business School
 #### [ Globalización, Crecimiento Económico y Estabilidad Specialization](https://www.coursera.org/specializations/globalizacion-crecimiento-economico-y-estabilidad)
 1. [Analizando las Políticas Económicas](https://www.coursera.org/learn/analizando-politicas-economicas)
-2. [Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado](https://www.coursera.org/learn/comercio-inmigracion-tipos-de-cambio) `beginner`
+1. [Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado](https://www.coursera.org/learn/comercio-inmigracion-tipos-de-cambio) `beginner`
 3. [Riesgos y oportunidades empresariales en una economía globalizada](https://www.coursera.org/learn/riesgos-oportunidades-empresariales) `intermediate`
 ### Universidad de Chile
  - [Criterios para la Gestión y el Aseguramiento de la Calidad en la Educación Superior](https://www.coursera.org/learn/calidadeducacionsuperior) `beginner`
@@ -720,8 +725,8 @@
  - [La enseñanza de las Ciencias Naturales en la escuela primaria](https://www.coursera.org/learn/ensenar-ciencias-naturales) `beginner`
 #### [Educación Básica en Contextos Rurales Specialization](https://www.coursera.org/specializations/educacion-basica-rural)
 1. [Educación en Contextos Rurales: Perspectivas en América Latina](https://www.coursera.org/learn/educacion-contextos-rurales-america-latina) `beginner`
+1. [Enseñar, aprender y evaluar en Escuelas Rurales](https://www.coursera.org/learn/ensenar-aprender-evaluar-escuelas-rurales) `beginner`
 2. [Gestión estratégica de Escuelas en Contextos Rurales](https://www.coursera.org/learn/gestion-estrategica-escuelas-rurales) `beginner`
-3. [Enseñar, aprender y evaluar en Escuelas Rurales](https://www.coursera.org/learn/ensenar-aprender-evaluar-escuelas-rurales) `beginner`
 4. [La escuela y su comunidad: lecciones desde la ruralidad](https://www.coursera.org/learn/escuela-comunidad-lecciones-innovacion-educativa) `beginner`
 ### Universidad de Chile
  - [Docencia para la capacitación laboral y el aprendizaje a lo largo de la vida.](https://www.coursera.org/learn/docencia-capacitacion-laboral) `intermediate`
@@ -739,9 +744,9 @@
  - [Usos Didácticos del Cine: Introducción al Análisis](https://www.coursera.org/learn/usos-didacticos-del-cine) `intermediate`
 #### [Evaluación educativa Specialization](https://www.coursera.org/specializations/evaluacion-educativa)
 1. [Evaluación educativa del y para el aprendizaje en educación superior](https://www.coursera.org/learn/evaluacion-educativa) `beginner`
-1. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 2. [Evaluación para el aprendizaje: Enfoque cuantitativo](https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo) `intermediate`
 3. [Evaluación para el aprendizaje: Enfoque cualitativo](https://www.coursera.org/learn/evaluacion-cualitativa) `intermediate`
+4. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 ### Universitat Autònoma de Barcelona
  - [Educación Social: Ámbitos de acción y reflexión](https://www.coursera.org/learn/educacion-social) `beginner`
 ### Universitat de Barcelona

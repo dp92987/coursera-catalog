@@ -132,6 +132,7 @@
 3. [Инвестиционные проекты, слияния и поглощения](https://www.coursera.org/learn/sliyaniye-pogloshcheniye)
 4. [Венчурный капитал](https://www.coursera.org/learn/venchurnyj-kapital)
 5. [Управление стоимостью компании](https://www.coursera.org/learn/upravlenie-stoimostju-kompanii) `intermediate`
+6. [Мастерство создания стоимости компании](https://www.coursera.org/learn/sozdanie-stoimosti-kompanii) `intermediate`
 #### [Финансовые инструменты для частного инвестора Specialization](https://www.coursera.org/specializations/finansovyye-instrumenty)
 1. [Управление личными финансами](https://www.coursera.org/learn/upravlenie-lichnymi-finansami)
 2. [Инвестиции в облигации](https://www.coursera.org/learn/investicii-obligacii)
@@ -165,6 +166,8 @@
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 1. [Психотехнологии работы с персоналом (Psychotechnologies of personnel management)](https://www.coursera.org/learn/psikhotekhnologii-raboty) `beginner`
 ## Marketing
+### E-Learning Development Fund
+ - [Интернет-маркетолог. Лидогенерация](https://www.coursera.org/learn/internet-marketer-lead-generation) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Брендинг в инновациях - новая коммуникационная реальность](https://www.coursera.org/learn/brending-v-innovaciyah)
  - [Маркетинг инновационных продуктов](https://www.coursera.org/learn/marketing-innov-produktov) `beginner`
@@ -179,6 +182,7 @@
 3. [SMM-кампания: цели, стратегия, алгоритмы и маркетинговый потенциал](https://www.coursera.org/learn/tsu-smm-campaniya) `beginner`
 ### National Research University Higher School of Economics
 #### [Основы Digital Маркетинга Specialization](https://www.coursera.org/specializations/fundamentals-digital-marketing)
+1. [Маркетинговая стратегия в digital среде (Digital marketing strategy)](https://www.coursera.org/learn/digital-marketing-strategy) `intermediate`
 2. [Контекстная реклама. Google AdWords](https://www.coursera.org/learn/kontextnaya-reklama-google-adwords) `intermediate`
 3. [Работа с клиентской базой и входящий маркетинг](https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing) `intermediate`
 4. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
@@ -232,12 +236,12 @@
 3. [Архитектура Android-приложений](https://www.coursera.org/learn/android-app-architecture) `intermediate`
 #### [iOS-разработка: Swift, UI и многопоточность Specialization](https://www.coursera.org/specializations/ios-dev)
 1. [Введение в iOS-разработку](https://www.coursera.org/learn/ios-razrabotka-na-swift) `intermediate`
-1. [Пользовательский интерфейс](https://www.coursera.org/learn/user-interface) `intermediate`
+2. [Пользовательский интерфейс](https://www.coursera.org/learn/user-interface) `intermediate`
 3. [Многопоточность](https://www.coursera.org/learn/ios-multithreading) `intermediate`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Разработка интерфейсов: вёрстка и JavaScript Specialization](https://www.coursera.org/specializations/razrabotka-interfeysov)
 1. [JavaScript, часть 1: основы и функции](https://www.coursera.org/learn/javascript-osnovy-i-funktsii) `intermediate`
-1. [Основы HTML и CSS](https://www.coursera.org/learn/snovy-html-i-css) `beginner`
+2. [Основы HTML и CSS](https://www.coursera.org/learn/snovy-html-i-css) `beginner`
 3. [Тонкости верстки](https://www.coursera.org/learn/tonkosti-verstki) `intermediate`
 4. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 5. [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt) `advanced`
