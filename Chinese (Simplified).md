@@ -24,11 +24,11 @@
 ### Fudan University
  - [微影人的自我修养](https://www.coursera.org/learn/wei-dian-ying)
 #### [微电影创作：从观念、思维到制作 Specialization](https://www.coursera.org/specializations/wei-dian-ying)
-1. [创作吧！微影人！](https://www.coursera.org/learn/wei-dian-ying-chuang-zuo)
 1. [导演思维：微影人的自我修养](https://www.coursera.org/learn/daoyan-siwei-weiyingren)
 2. [剪辑：像编剧一样剪辑](https://www.coursera.org/learn/jian-ji) `beginner`
 3. [编剧：像导演一样编剧](https://www.coursera.org/learn/bian-ju)
 4. [拍摄：像剪辑师一样拍摄](https://www.coursera.org/learn/pai-she)
+5. [创作吧！微影人！](https://www.coursera.org/learn/wei-dian-ying-chuang-zuo)
 ### Fudan University, 上海戏剧学院
 #### [网络游戏设计与开发 Specialization](https://www.coursera.org/specializations/wangluo-youxi-sheji-kaifa)
 1. [游戏产业概论](https://www.coursera.org/learn/youxi-chanye-gailun) `beginner`
@@ -156,6 +156,7 @@
 ### Peking University
  - [流行病学基础（上）](https://www.coursera.org/learn/liuxing-bing-xue) `beginner`
  - [生物学概念与途径](https://www.coursera.org/learn/biologyconcept) `intermediate`
+ - [生物演化](https://www.coursera.org/learn/shengwu-yanhua)
  - [遗传学实验](https://www.coursera.org/learn/genetic-lab) `beginner`
 ### Shanghai Jiao Tong University
  - [生命科学发展史](https://www.coursera.org/learn/shengming-kexue-fazhanshi)
@@ -192,7 +193,7 @@
 ### Arizona State University
 #### [商务英语课程 Business English Specialization](https://www.coursera.org/specializations/shangwu-yingyu)
 1. [商务英语课程:管理与领导力英语 Management & Leadership](https://www.coursera.org/learn/guanli-lingdao-yingyu) `intermediate`
-1. [商务英语课程:财经英语 Finance & Economics](https://www.coursera.org/learn/caijing-yingyu) `intermediate`
+2. [商务英语课程:财经英语 Finance & Economics](https://www.coursera.org/learn/caijing-yingyu) `intermediate`
 3. [商务英语课程:市场与营销英语 Marketing & Sales](https://www.coursera.org/learn/shichang-yingxiao-yingyu) `intermediate`
 4. [总计划案 Final Project](https://www.coursera.org/learn/shangwu-yingyu-zong-jihuaan) `intermediate`
 ### Peking University

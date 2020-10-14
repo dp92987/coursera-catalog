@@ -48,6 +48,7 @@
 ### emlyon business school
  - [Effectuation : l'entrepreneuriat pour tous](https://www.coursera.org/learn/effectuation) `beginner`
 ### ESSEC Business School
+ - [L'entrepreneuriat social : changer d'échelle](https://www.coursera.org/learn/entrepreneuriat-social-changer-d-echelle) `beginner`
  - [L'entrepreneuriat social : de l'envie au projet](https://www.coursera.org/learn/entrepreneuriatquichangelemonde) `beginner`
  - [Les partenariats qui changent le monde : alliances innovantes entre entreprises et associations](https://www.coursera.org/learn/partenariats-qui-changent-le-monde)
  - [Évaluation & Mesure d'Impact Social](https://www.coursera.org/learn/evaluation-mesure-impact-social) `beginner`

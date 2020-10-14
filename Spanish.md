@@ -118,7 +118,7 @@
 ### Universidad Austral
  - [Negociación 4.0](https://www.coursera.org/learn/negociacion-iae) `beginner`
 #### [Marketing Digital Specialization](https://www.coursera.org/specializations/marketing-digital)
-1. [Estrategias de  Redes Sociales](https://www.coursera.org/learn/redes-sociales-estrategias) `beginner`
+2. [Estrategias de  Redes Sociales](https://www.coursera.org/learn/redes-sociales-estrategias) `beginner`
 ### Universidad de los Andes
  - [Los Objetivos de Desarrollo Sostenible para las empresas](https://www.coursera.org/learn/objetivos-desarrollo-sostenible-empresas) `beginner`
  - [Proyectos complejos: éxitos o fracasos](https://www.coursera.org/learn/proyectos-complejos-exitosos-fracasados) `beginner`
@@ -188,9 +188,9 @@
  - [Finanzas personales](https://www.coursera.org/learn/finanzas-personales)
 #### [Finanzas corporativas Specialization](https://www.coursera.org/specializations/finanzascorporativas)
 1. [Administración financiera y su función en la empresa](https://www.coursera.org/learn/admonfinanciera) `intermediate`
-1. [Estructura de capital y política de dividendos](https://www.coursera.org/learn/estructura) `intermediate`
 2. [Matemáticas financieras](https://www.coursera.org/learn/matematicas) `intermediate`
 3. [Evaluación de inversiones en Bienes de Capital](https://www.coursera.org/learn/evaluaciondeinversiones) `intermediate`
+4. [Estructura de capital y política de dividendos](https://www.coursera.org/learn/estructura) `intermediate`
 5. [Valuación de empresas](https://www.coursera.org/learn/valuacionempresas) `intermediate`
 6. [Toma de Decisiones Financieras](https://www.coursera.org/learn/proyectofinanzascorporativas) `intermediate`
 ## Leadership and Management
@@ -210,7 +210,6 @@
  - [Gestión de organizaciones efectivas](https://www.coursera.org/learn/gestion-organizaciones-efectivas)
 ### Tecnológico de Monterrey, University of California, Irvine
 #### [Administración de Proyectos: Principios Básicos Specialization](https://www.coursera.org/specializations/administracion-proyectos)
-1. [Iniciación y Planificación de Proyectos](https://www.coursera.org/learn/planificacion-proyectos)
 2. [Programación y presupuesto del proyecto](https://www.coursera.org/learn/riesgos-cambios-proyectos)
 3. [La gestión de los riesgos y la administración de los cambios en el proyecto](https://www.coursera.org/learn/presupuestos-proyecto)
 4. [Administración de Proyectos Project](https://www.coursera.org/learn/administracion-de-proyectos-capstone)
@@ -312,10 +311,10 @@
  - [¿Cómo (nos) cambia la Tecnología?](https://www.coursera.org/learn/comonoscambialatecnologia) `beginner`
 ### Universidad de los Andes
 #### [Desarrollo y Diseño de Videojuegos Specialization](https://www.coursera.org/specializations/desarrollo-videojuegos)
-1. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
 1. [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity) `beginner`
 2. [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro) `beginner`
 3. [Emprendimiento y métodos ágiles de desarrollo en videojuegos](https://www.coursera.org/learn/videojuegos-emprendimiento) `beginner`
+4. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
 5. [Desarrollo y Diseño de Videojuegos: Proyecto final](https://www.coursera.org/learn/proyecto-desarrollo-videojuegos) `intermediate`
 ### Universidad Nacional Autónoma de México
  - [Arduino y algunas aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
@@ -555,7 +554,7 @@
 ### Arizona State University
 #### [Chino básico: Lenguaje y cultura empresarial Specialization](https://www.coursera.org/specializations/chino-basico)
 1. [Chino básico: Cómo dar una primera impresión positiva](https://www.coursera.org/learn/chino-primera-impresion)
-1. [Chino básico: La etiqueta social en los negocios](https://www.coursera.org/learn/chino-etiqueta-negocios)
+2. [Chino básico: La etiqueta social en los negocios](https://www.coursera.org/learn/chino-etiqueta-negocios)
 3. [Chino básico: Los viajes de negocios](https://www.coursera.org/learn/chino-viajes-de-negocios)
 4. [Proyecto Final: Chino básico - Lenguaje y cultura empresarial](https://www.coursera.org/learn/proyecto-final-chino-basico)
 ### Universitat Autònoma de Barcelona
@@ -691,7 +690,7 @@
 ### IE Business School
 #### [ Globalización, Crecimiento Económico y Estabilidad Specialization](https://www.coursera.org/specializations/globalizacion-crecimiento-economico-y-estabilidad)
 1. [Analizando las Políticas Económicas](https://www.coursera.org/learn/analizando-politicas-economicas)
-1. [Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado](https://www.coursera.org/learn/comercio-inmigracion-tipos-de-cambio) `beginner`
+2. [Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado](https://www.coursera.org/learn/comercio-inmigracion-tipos-de-cambio) `beginner`
 3. [Riesgos y oportunidades empresariales en una economía globalizada](https://www.coursera.org/learn/riesgos-oportunidades-empresariales) `intermediate`
 ### Universidad de Chile
  - [Criterios para la Gestión y el Aseguramiento de la Calidad en la Educación Superior](https://www.coursera.org/learn/calidadeducacionsuperior) `beginner`
@@ -699,8 +698,6 @@
 ### Universidad Nacional Autónoma de México
  - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios) `beginner`
  - [¿Cómo llegamos aquí? Una historia del poder en México](https://www.coursera.org/learn/historia-de-mexico) `beginner`
-### Universitat Autònoma de Barcelona
- - [Kit básico (para evitar los errores más frecuentes) de finanzas](https://www.coursera.org/learn/finanzas-basicas) `beginner`
 ### École normale supérieure
  - [Transiciones energéticas y ecológicas en los países del Sur](https://www.coursera.org/learn/transiciones-energeticas-y-ecologicas-en-los-paises-del-sur) `intermediate`
 ## Education
@@ -725,8 +722,8 @@
  - [La enseñanza de las Ciencias Naturales en la escuela primaria](https://www.coursera.org/learn/ensenar-ciencias-naturales) `beginner`
 #### [Educación Básica en Contextos Rurales Specialization](https://www.coursera.org/specializations/educacion-basica-rural)
 1. [Educación en Contextos Rurales: Perspectivas en América Latina](https://www.coursera.org/learn/educacion-contextos-rurales-america-latina) `beginner`
-1. [Enseñar, aprender y evaluar en Escuelas Rurales](https://www.coursera.org/learn/ensenar-aprender-evaluar-escuelas-rurales) `beginner`
 2. [Gestión estratégica de Escuelas en Contextos Rurales](https://www.coursera.org/learn/gestion-estrategica-escuelas-rurales) `beginner`
+3. [Enseñar, aprender y evaluar en Escuelas Rurales](https://www.coursera.org/learn/ensenar-aprender-evaluar-escuelas-rurales) `beginner`
 4. [La escuela y su comunidad: lecciones desde la ruralidad](https://www.coursera.org/learn/escuela-comunidad-lecciones-innovacion-educativa) `beginner`
 ### Universidad de Chile
  - [Docencia para la capacitación laboral y el aprendizaje a lo largo de la vida.](https://www.coursera.org/learn/docencia-capacitacion-laboral) `intermediate`
