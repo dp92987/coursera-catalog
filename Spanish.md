@@ -210,6 +210,7 @@
  - [Gestión de organizaciones efectivas](https://www.coursera.org/learn/gestion-organizaciones-efectivas)
 ### Tecnológico de Monterrey, University of California, Irvine
 #### [Administración de Proyectos: Principios Básicos Specialization](https://www.coursera.org/specializations/administracion-proyectos)
+1. [Iniciación y Planificación de Proyectos](https://www.coursera.org/learn/planificacion-proyectos)
 2. [Programación y presupuesto del proyecto](https://www.coursera.org/learn/riesgos-cambios-proyectos)
 3. [La gestión de los riesgos y la administración de los cambios en el proyecto](https://www.coursera.org/learn/presupuestos-proyecto)
 4. [Administración de Proyectos Project](https://www.coursera.org/learn/administracion-de-proyectos-capstone)
@@ -386,6 +387,7 @@
 ## Data Analysis
 ### Coursera Project Network
  - [Análisis de documentos con servicios cognitivos de Azure](https://www.coursera.org/learn/analisis-documentos-servicios-cognitivos-azure) `beginner`
+ - [Automated Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/automated-machine-learning-powerbi) `intermediate`
  - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
@@ -698,6 +700,8 @@
 ### Universidad Nacional Autónoma de México
  - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios) `beginner`
  - [¿Cómo llegamos aquí? Una historia del poder en México](https://www.coursera.org/learn/historia-de-mexico) `beginner`
+### Universitat Autònoma de Barcelona
+ - [Kit básico (para evitar los errores más frecuentes) de finanzas](https://www.coursera.org/learn/finanzas-basicas) `beginner`
 ### École normale supérieure
  - [Transiciones energéticas y ecológicas en los países del Sur](https://www.coursera.org/learn/transiciones-energeticas-y-ecologicas-en-los-paises-del-sur) `intermediate`
 ## Education
