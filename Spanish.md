@@ -354,6 +354,7 @@
  - [Aprendiendo Python con estadística descriptiva](https://www.coursera.org/learn/aprendiendo-python-con-estadistica-descriptiva) `beginner`
  - [Aprendiendo Python con textos, números y ecuaciones](https://www.coursera.org/learn/aprendiendo-python-con-textos-numeros-ecuaciones) `beginner`
  - [Aprendiendo Python con álgebra lineal](https://www.coursera.org/learn/aprendiendo-python-con-algebra-lineal) `beginner`
+ - [Creando simulaciones con python](https://www.coursera.org/learn/simulaciones-python) `intermediate`
  - [Implementando un motor con Alibaba Cloud y ElasticSearch](https://www.coursera.org/learn/alibabacloud-elastic) `beginner`
  - [Primeros pasos en Python](https://www.coursera.org/learn/primeros-pasos-python) `beginner`
  - [Programando un blockchain básico con Javascript](https://www.coursera.org/learn/blockchain-javascript) `beginner`
@@ -631,6 +632,8 @@
 > - [Physics and Astronomy](#physics-and-astronomy)
 > - [Research Methods](#research-methods)
 ## Chemistry
+### Universidad Autónoma Metropolitana
+ - [Iniciándome en la Química](https://www.coursera.org/learn/iniciandome-en-la-qumica) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Una aproximación a la Química del Carbono](https://www.coursera.org/learn/qimica-carbono) `beginner`
  - [¡¿Cómo?! ¿Química en mi casa?](https://www.coursera.org/learn/quimica-en-mi-casa)

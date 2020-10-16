@@ -96,9 +96,10 @@
 2. [Мировая экономика. Субъекты и ресурсы.](https://www.coursera.org/learn/mirovaya-ekonomika-subyekty-resursy) `beginner`
 3. [Мировая экономика. Ведущие страны - участники](https://www.coursera.org/learn/uchastniki-mirovaya-ekonomika-vedushchiye-strany) `beginner`
 ### Saint Petersburg State University
- - [Коммерциализация результатов инновационной деятельности](https://www.coursera.org/learn/krid) `intermediate`
- - [Стартап в условиях открытых инноваций](https://www.coursera.org/learn/startupinn) `beginner`
- - [Цифровая трансформация бизнеса](https://www.coursera.org/learn/digital-transformation-rus) `beginner`
+#### [Стартап versus Цифровая трансформация Specialization](https://www.coursera.org/specializations/startup-vs-digtrans)
+2. [Стартап в условиях открытых инноваций](https://www.coursera.org/learn/startupinn) `beginner`
+3. [Коммерциализация результатов инновационной деятельности](https://www.coursera.org/learn/krid) `intermediate`
+4. [Цифровая трансформация бизнеса](https://www.coursera.org/learn/digital-transformation-rus) `beginner`
 ## Entrepreneurship
 ### Moscow Institute of Physics and Technology
  - [Закон стартапа: юридические основы технологического бизнеса](https://www.coursera.org/learn/zakon-startapa-tekhnologicheskogo-biznesa) `intermediate`
@@ -109,8 +110,8 @@
 ### Moscow Institute of Physics and Technology, Фонд развития интернет-инициатив (ФРИИ)
  - [Интернет-предпринимательство](https://www.coursera.org/learn/internet-predprinimatelstvo) `beginner`
 ### Saint Petersburg State University
- - [«Стартап: как вырасти в успешный бизнес»](https://www.coursera.org/learn/startup-spbu)
  - [Правовое регулирование налога на прибыль в Российской Федерации](https://www.coursera.org/learn/pravovoe-regulirovanie-naloga-na-pribyl) `beginner`
+1. [«Стартап: как вырасти в успешный бизнес»](https://www.coursera.org/learn/startup-spbu)
 ## Finance
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Государственное регулирование финансовых рынков на современном этапе](https://www.coursera.org/learn/gosudarstve-regulirovaniye-finansovykh-rynkov)
@@ -258,9 +259,9 @@
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Искусство разработки на современном C++ Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 1. [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) `intermediate`
-1. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
 2. [Основы разработки на C++: жёлтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) `intermediate`
 3. [Основы разработки на C++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) `intermediate`
+4. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
 5. [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Использование механизмов операционных систем в разработке программного обеспечения](https://www.coursera.org/learn/os-v-razrabotke-po) `beginner`
@@ -397,7 +398,8 @@
 ### Moscow Institute of Physics and Technology, Mail.Ru Group
  - [Введение в информационный поиск](https://www.coursera.org/learn/vvedeniye-informatsionnyy-poisk) `intermediate`
 ### Saint Petersburg State University
- - [Практики цифровой трансформации](https://www.coursera.org/learn/pracdig)
+#### [Стартап versus Цифровая трансформация Specialization](https://www.coursera.org/specializations/startup-vs-digtrans)
+5. [Практики цифровой трансформации](https://www.coursera.org/learn/pracdig)
 ## Networking
 ### Saint Petersburg State University
  - [Основы и практическое применение блокчейна](https://www.coursera.org/learn/blokcheyna) `beginner`

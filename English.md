@@ -643,6 +643,7 @@
 3. [Strategy Implementation](https://www.coursera.org/learn/strategy-implementation)
 4. [Strategic Management - Capstone Project](https://www.coursera.org/learn/businesscap)
 ### Coursera Project Network
+ - [Agile Project: Product Prototype Touchpoint Analysis in Miro](https://www.coursera.org/learn/agile-prototype-analysis-miro) `intermediate`
  - [Agile Projects:  Developing Tasks with Taiga](https://www.coursera.org/learn/developing-agile-tasks-taiga) `intermediate`
  - [Agile Projects: Creating User Stories with Value in Taiga](https://www.coursera.org/learn/agile-stories-mapping-taiga) `intermediate`
  - [Agile Projects: Defining Epics and Mapping Value with Taiga](https://www.coursera.org/learn/agile-epics-mapping-taiga) `intermediate`
@@ -991,7 +992,6 @@
  - [Construct Stock Market Indices](https://www.coursera.org/learn/construct-stock-market-indices) `advanced`
  - [Create a Budget with Google Sheets](https://www.coursera.org/learn/create-a-budget-with-google-sheets) `beginner`
  - [Create a Financial Statement using Google Sheets](https://www.coursera.org/learn/create-financial-statement-google-sheets) `beginner`
- - [Create a Simple Gantt Chart using Google Sheets](https://www.coursera.org/learn/create-gantt-chart-google-sheets) `beginner`
  - [Create a Simple Project Timeline in Google Sheets](https://www.coursera.org/learn/create-a-simple-project-timeline) `beginner`
  - [Discounted Cash Flow Modeling](https://www.coursera.org/learn/discounted-cash-flow-modeling) `intermediate`
  - [Evaluate Profit Margins with VLOOKUP in Google Sheets](https://www.coursera.org/learn/evaluate-profit-margins-with-vlookup-in-google-sheets) `beginner`
@@ -1831,9 +1831,9 @@
 4. [TCP/IP and Advanced Topics](https://www.coursera.org/learn/tcp-ip-advanced)
 #### [Fundamentals of Computer Network Security Specialization](https://www.coursera.org/specializations/computer-network-security)
 1. [Design and Analyze Secure Networked Systems](https://www.coursera.org/learn/design-secure-networked-systems) `intermediate`
+1. [Secure Networked System with Firewall and IDS](https://www.coursera.org/learn/secure-networked-system-with-firewall-ids) `intermediate`
 2. [Basic Cryptography and Programming with Crypto API](https://www.coursera.org/learn/basic-cryptography-and-crypto-api) `intermediate`
 3. [Hacking and Patching](https://www.coursera.org/learn/hacking-patching) `intermediate`
-4. [Secure Networked System with Firewall and IDS](https://www.coursera.org/learn/secure-networked-system-with-firewall-ids) `intermediate`
 #### [Introduction to Applied Cryptography Specialization](https://www.coursera.org/specializations/introduction-applied-cryptography)
 1. [Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems) `beginner`
 2. [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography) `beginner`
@@ -2176,7 +2176,6 @@
  - [Create a First-Person Camera (VM-Compatible!) in Unity](https://www.coursera.org/learn/create-first-person-camera-c-sharp-unity) `beginner`
  - [Create a Memory Puzzle Game in Python Using Pygame](https://www.coursera.org/learn/create-memory-puzzle-game-in-python-using-pygame) `intermediate`
  - [Create a Python Application using MySQL](https://www.coursera.org/learn/create-python-application-mysql) `intermediate`
- - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database) `intermediate`
  - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java) `intermediate`
  - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio) `intermediate`
  - [Create a text adventure game with Ink](https://www.coursera.org/learn/create-a-text-adventure-game-with-ink) `beginner`
@@ -2236,6 +2235,7 @@
  - [Learn to Code using C# on VS Code](https://www.coursera.org/learn/learn-code-csharp-vscode) `beginner`
  - [Light Up Your World in Unity (Introduction to Lighting)](https://www.coursera.org/learn/light-up-your-world-unity-introduction-lighting) `beginner`
  - [Make Your Pick-Ups Look Cool in Unity (Intro to Animation 1)](https://www.coursera.org/learn/make-pick-ups-look-cool-unity-introduction-animation-1) `beginner`
+ - [Manage Your Versions with Git (Part I)](https://www.coursera.org/learn/git-1) `beginner`
  - [Manipulate Object Properties with C# in Unity](https://www.coursera.org/learn/manipulate-object-properties-c-sharp-unity) `beginner`
  - [Modern JavaScript: ES6 Basics](https://www.coursera.org/learn/modern-javascript-es6-basics) `intermediate`
  - [Object-Oriented Programming with Java](https://www.coursera.org/learn/object-oriented-programming-java) `intermediate`
@@ -2723,8 +2723,8 @@
 3. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review) `intermediate`
 #### [SAS Statistical Business Analyst Professional Certificate](https://www.coursera.org/specializations/sas-statistical-business-analyst)
 1. [Introduction to Statistical Analysis:  Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) `intermediate`
+1. [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) `intermediate`
 2. [Regression Modeling Fundamentals](https://www.coursera.org/learn/regression-modeling-sas) `intermediate`
-3. [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) `intermediate`
 #### [SAS Visual Business Analytics Professional Certificate](https://www.coursera.org/specializations/sas-visual-business-analytics)
 1. [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va) `beginner`
 2. [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va)
@@ -3021,8 +3021,11 @@
  - [TensorFlow for AI: Computer Vision Basics](https://www.coursera.org/learn/tensorflow-for-ai-computer-vision-basics) `intermediate`
  - [TensorFlow for AI: Get to Know Tensorflow](https://www.coursera.org/learn/tensorflow-for-ai-get-to-know-tensorflow) `intermediate`
  - [TensorFlow for AI: Neural Network Representation](https://www.coursera.org/learn/tensorflow-for-ai-neural-network-representation) `intermediate`
+ - [TensorFlow for CNNs: Data Augmentation](https://www.coursera.org/learn/tensorflow-for-cnns-data-augmentation) `intermediate`
+ - [TensorFlow for CNNs: Image Segmentation](https://www.coursera.org/learn/tensorflow-for-cnns-image-segmentation) `intermediate`
  - [TensorFlow for CNNs: Learn and Practice CNNs](https://www.coursera.org/learn/tensorflow-for-cnns-learn-and-practice-cnns) `intermediate`
  - [TensorFlow for CNNs: Multi-Class Classification](https://www.coursera.org/learn/tensorflow-for-cnns-multi-class-classification) `intermediate`
+ - [TensorFlow for CNNs: Object Recognition](https://www.coursera.org/learn/tensorflow-for-cnns-object-recognition) `intermediate`
  - [TensorFlow for CNNs: Transfer Learning](https://www.coursera.org/learn/tensorflow-for-cnns-transfer-learning) `intermediate`
  - [TensorFlow Serving with Docker for Model Deployment](https://www.coursera.org/learn/tensorflow-serving-docker-model-deployment) `intermediate`
  - [Traffic Sign Classification Using Deep Learning in Python/Keras](https://www.coursera.org/learn/traffic-sign-classification-deep-learning) `intermediate`
@@ -4681,7 +4684,6 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
- - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Real-Time Mission-Critical Systems Design](https://www.coursera.org/learn/real-time-mission-critical-systems-design) `intermediate`
@@ -4705,6 +4707,7 @@
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
+1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
@@ -4933,17 +4936,16 @@
  - [Introduction to Indoor Air Quality](https://www.coursera.org/learn/intro-indoor-air-quality) `beginner`
  - [Mastering Statics](https://www.coursera.org/learn/mastering-statics) `intermediate`
 ### University at Buffalo, The State University of New York
+ - [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
+ - [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
  - [Collaborative Robot Safety: Design & Deployment](https://www.coursera.org/learn/collaborative-robot-safety) `beginner`
-#### [Digital Manufacturing & Design Technology  Specialization](https://www.coursera.org/specializations/digital-manufacturing-design-technology)
-1. [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
-2. [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
-3. [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
-4. [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
-5. [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
-6. [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
-7. [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
-8. [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
-9. [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
+ - [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
+ - [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
+ - [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
+ - [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
+ - [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
+ - [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
+ - [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
 ### University of California, Davis
  - [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
 ### University of California, Santa Cruz
