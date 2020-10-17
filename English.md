@@ -992,6 +992,7 @@
  - [Construct Stock Market Indices](https://www.coursera.org/learn/construct-stock-market-indices) `advanced`
  - [Create a Budget with Google Sheets](https://www.coursera.org/learn/create-a-budget-with-google-sheets) `beginner`
  - [Create a Financial Statement using Google Sheets](https://www.coursera.org/learn/create-financial-statement-google-sheets) `beginner`
+ - [Create a Simple Gantt Chart using Google Sheets](https://www.coursera.org/learn/create-gantt-chart-google-sheets) `beginner`
  - [Create a Simple Project Timeline in Google Sheets](https://www.coursera.org/learn/create-a-simple-project-timeline) `beginner`
  - [Discounted Cash Flow Modeling](https://www.coursera.org/learn/discounted-cash-flow-modeling) `intermediate`
  - [Evaluate Profit Margins with VLOOKUP in Google Sheets](https://www.coursera.org/learn/evaluate-profit-margins-with-vlookup-in-google-sheets) `beginner`
@@ -1033,6 +1034,7 @@
  - [Investment Management in an Evolving and Volatile World by HEC Paris and AXA Investment Managers](https://www.coursera.org/learn/investment-management) `intermediate`
 ### IESE Business School
  - [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials)
+ - [Corporate Finance Essentials II](https://www.coursera.org/learn/corporate-finance-essentials-ii) `intermediate`
 #### [Foundations of Management Specialization](https://www.coursera.org/specializations/foundations-management)
 1. [Accounting: Principles of Financial Accounting](https://www.coursera.org/learn/financial-accounting) `beginner`
 2. [Finance for Managers](https://www.coursera.org/learn/operational-finance)
@@ -1831,9 +1833,9 @@
 4. [TCP/IP and Advanced Topics](https://www.coursera.org/learn/tcp-ip-advanced)
 #### [Fundamentals of Computer Network Security Specialization](https://www.coursera.org/specializations/computer-network-security)
 1. [Design and Analyze Secure Networked Systems](https://www.coursera.org/learn/design-secure-networked-systems) `intermediate`
-1. [Secure Networked System with Firewall and IDS](https://www.coursera.org/learn/secure-networked-system-with-firewall-ids) `intermediate`
 2. [Basic Cryptography and Programming with Crypto API](https://www.coursera.org/learn/basic-cryptography-and-crypto-api) `intermediate`
 3. [Hacking and Patching](https://www.coursera.org/learn/hacking-patching) `intermediate`
+4. [Secure Networked System with Firewall and IDS](https://www.coursera.org/learn/secure-networked-system-with-firewall-ids) `intermediate`
 #### [Introduction to Applied Cryptography Specialization](https://www.coursera.org/specializations/introduction-applied-cryptography)
 1. [Classical Cryptosystems and Core Concepts](https://www.coursera.org/learn/classical-cryptosystems) `beginner`
 2. [Mathematical Foundations for Cryptography](https://www.coursera.org/learn/mathematical-foundations-cryptography) `beginner`
@@ -2176,6 +2178,7 @@
  - [Create a First-Person Camera (VM-Compatible!) in Unity](https://www.coursera.org/learn/create-first-person-camera-c-sharp-unity) `beginner`
  - [Create a Memory Puzzle Game in Python Using Pygame](https://www.coursera.org/learn/create-memory-puzzle-game-in-python-using-pygame) `intermediate`
  - [Create a Python Application using MySQL](https://www.coursera.org/learn/create-python-application-mysql) `intermediate`
+ - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database) `intermediate`
  - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java) `intermediate`
  - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio) `intermediate`
  - [Create a text adventure game with Ink](https://www.coursera.org/learn/create-a-text-adventure-game-with-ink) `beginner`
@@ -2723,8 +2726,8 @@
 3. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review) `intermediate`
 #### [SAS Statistical Business Analyst Professional Certificate](https://www.coursera.org/specializations/sas-statistical-business-analyst)
 1. [Introduction to Statistical Analysis:  Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) `intermediate`
-1. [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) `intermediate`
 2. [Regression Modeling Fundamentals](https://www.coursera.org/learn/regression-modeling-sas) `intermediate`
+3. [Predictive Modeling with Logistic Regression using SAS](https://www.coursera.org/learn/sas-predictive-modeling-using-logistic-regression) `intermediate`
 #### [SAS Visual Business Analytics Professional Certificate](https://www.coursera.org/specializations/sas-visual-business-analytics)
 1. [Getting Started with SAS Visual Analytics](https://www.coursera.org/learn/preparing-data-sas-va) `beginner`
 2. [Data Analysis and Reporting in SAS Visual Analytics](https://www.coursera.org/learn/data-analysis-reporting-sas-va)
@@ -4007,13 +4010,16 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) `intermediate`
  - [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) `beginner`
  - [Managing Change when Moving to Google Cloud](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud) `beginner`
+ - [Managing Security in Google Cloud Platform](https://www.coursera.org/learn/managing-security-in-google-cloud-platform) `intermediate`
  - [Migrating to Google Cloud](https://www.coursera.org/learn/migrating-to-gcp) `beginner`
+ - [Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp) `intermediate`
  - [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp) `intermediate`
  - [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization) `intermediate`
  - [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) `advanced`
  - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) `intermediate`
+ - [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud) `intermediate`
  - [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos) `advanced`
  - [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp) `intermediate`
  - [Understanding Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-management) `beginner`
@@ -4021,10 +4027,6 @@
 1. [Hybrid Cloud Infrastructure Foundations with Anthos](https://www.coursera.org/learn/hybrid-cloud-infrastructure-foundations-anthos) `intermediate`
 2. [Hybrid Cloud Service Mesh with Anthos](https://www.coursera.org/learn/hybrid-cloud-service-mesh-anthos) `intermediate`
 3. [Hybrid Cloud Multi-Cluster with Anthos](https://www.coursera.org/learn/hybrid-cloud-multi-cluster-anthos) `advanced`
-#### [Security in Google Cloud Platform Specialization](https://www.coursera.org/specializations/security-google-cloud-platform)
-2. [Managing Security in Google Cloud Platform](https://www.coursera.org/learn/managing-security-in-google-cloud-platform) `intermediate`
-3. [Security Best Practices in Google Cloud](https://www.coursera.org/learn/security-best-practices-in-google-cloud) `intermediate`
-4. [Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp) `intermediate`
 #### [SRE and DevOps Engineer with Google Cloud Professional Certificate](https://www.coursera.org/specializations/sre-devops-engineer-google-cloud)
 5. [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) `intermediate`
 ### IBM
@@ -4114,9 +4116,10 @@
  - [Become a CBRS Certified Professional Installer by Google](https://www.coursera.org/learn/google-cbrs-cpi-training)
  - [CBRS Professional Training](https://www.coursera.org/learn/google-cbrs-professional-training) `beginner`
 ### Google Cloud
-#### [Networking in Google Cloud Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
-2. [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks) `intermediate`
-3. [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management) `intermediate`
+ - [Networking in Google Cloud: Defining and Implementing Networks](https://www.coursera.org/learn/networking-gcp-defining-implementing-networks) `intermediate`
+ - [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.coursera.org/learn/networking-gcp-hybrid-connectivity-network-management) `intermediate`
+#### [Google Cloud Networking Professional Certificate](https://www.coursera.org/specializations/google-cloud-networking)
+4. [Hands-On Labs in Google Cloud for Networking Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-networking-engineer) `intermediate`
 ### Intel
  - [Intel® Network Academy - Network Transformation 101](https://www.coursera.org/learn/network-transformation-101) `beginner`
  - [Intel® Network Academy - Network Transformation 102](https://www.coursera.org/learn/network-transformation-102) `beginner`
@@ -4156,6 +4159,9 @@
  - [Cybersecurity in Healthcare (Hospitals & Care Centres)](https://www.coursera.org/learn/cybersecurity-in-healthcare) `beginner`
 ### Google
  - [IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security) `beginner`
+### Google Cloud
+#### [Google Cloud Security Professional Certificate](https://www.coursera.org/specializations/google-cloud-security)
+7. [Hands-On Labs in Google Cloud for Security Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer) `intermediate`
 ### IBM
  - [Cyber Threat Intelligence](https://www.coursera.org/learn/ibm-cyber-threat-intelligence) `beginner`
  - [Cybersecurity Capstone:  Breach Response Case Studies](https://www.coursera.org/learn/ibm-cybersecurity-breach-case-studies) `beginner`
@@ -4684,6 +4690,7 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
+ - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Real-Time Mission-Critical Systems Design](https://www.coursera.org/learn/real-time-mission-critical-systems-design) `intermediate`
@@ -4707,7 +4714,6 @@
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
-1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`

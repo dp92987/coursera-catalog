@@ -167,7 +167,7 @@
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 1. [Психотехнологии работы с персоналом (Psychotechnologies of personnel management)](https://www.coursera.org/learn/psikhotekhnologii-raboty) `beginner`
 ## Marketing
-### E-Learning Development Fund
+### E-Learning Development Fund, Ingate Management and Business Academy
  - [Интернет-маркетолог. Лидогенерация](https://www.coursera.org/learn/internet-marketer-lead-generation) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Брендинг в инновациях - новая коммуникационная реальность](https://www.coursera.org/learn/brending-v-innovaciyah)
