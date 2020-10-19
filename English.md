@@ -346,7 +346,6 @@
  - [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life](https://www.coursera.org/learn/know-thyself-the-examined-life) `beginner`
  - [Know Thyself - The Value and Limits of Self-Knowledge: The Unconscious](https://www.coursera.org/learn/know-thyself-the-unconscious) `intermediate`
  - [Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences](https://www.coursera.org/learn/philosophy-cognitive-sciences)
- - [Philosophy and the Sciences: Introduction to the Philosophy of Physical Sciences](https://www.coursera.org/learn/philosophy-physical-sciences)
  - [Philosophy, Science and Religion: Philosophy and Religion](https://www.coursera.org/learn/philosophy-science-religion-2) `beginner`
  - [Philosophy, Science and Religion: Religion and Science](https://www.coursera.org/learn/philosophy-science-religion-3) `beginner`
  - [Philosophy, Science and Religion: Science and Philosophy](https://www.coursera.org/learn/philosophy-science-religion-1) `beginner`
@@ -641,7 +640,6 @@
 1. [Strategic Management](https://www.coursera.org/learn/strategic-management)
 2. [Strategy Formulation](https://www.coursera.org/learn/strategy-formulation)
 3. [Strategy Implementation](https://www.coursera.org/learn/strategy-implementation)
-4. [Strategic Management - Capstone Project](https://www.coursera.org/learn/businesscap)
 ### Coursera Project Network
  - [Agile Project: Product Prototype Touchpoint Analysis in Miro](https://www.coursera.org/learn/agile-prototype-analysis-miro) `intermediate`
  - [Agile Projects:  Developing Tasks with Taiga](https://www.coursera.org/learn/developing-agile-tasks-taiga) `intermediate`
@@ -1605,7 +1603,6 @@
  - [Website Optimization Client Report Project](https://www.coursera.org/learn/seo-project) `intermediate`
 #### [Market Research Specialization](https://www.coursera.org/specializations/market-research)
 1. [Research Proposal: Initiating Research](https://www.coursera.org/learn/research-proposal-initiating-research) `intermediate`
-2. [Qualitative Research](https://www.coursera.org/learn/qualitative-research) `intermediate`
 3. [Quantitative Research](https://www.coursera.org/learn/quantitative-research) `intermediate`
 4. [Research Report: Delivering Insights](https://www.coursera.org/learn/marketing-research-report) `intermediate`
 ### University of Colorado Boulder
@@ -2180,6 +2177,7 @@
  - [Create a Python Application using MySQL](https://www.coursera.org/learn/create-python-application-mysql) `intermediate`
  - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database) `intermediate`
  - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java) `intermediate`
+ - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio) `intermediate`
  - [Create a text adventure game with Ink](https://www.coursera.org/learn/create-a-text-adventure-game-with-ink) `beginner`
  - [Create a User Interface in Unity Part 2 - World-Space Canvas](https://www.coursera.org/learn/create-ui-unity-world-space-canvas) `beginner`
  - [Create an FPS Weapon in Unity (Part 1 - Revolver)](https://www.coursera.org/learn/create-fps-weapon-unity-revolver) `beginner`
@@ -2200,6 +2198,7 @@
  - [Create your first Java project using jGRASP](https://www.coursera.org/learn/create-your-first-java-project-using-jgrasp) `beginner`
  - [Create Your First Multithreaded Application in Java](https://www.coursera.org/learn/create-your-first-multithreaded-application) `intermediate`
  - [Create Your First Python Program](https://www.coursera.org/learn/first-python-program) `beginner`
+ - [Create your first test automation script - Selenium and C#](https://www.coursera.org/learn/create-first-test-automation-script-using-selenium-and-c-sharp) `beginner`
  - [Create Your First Web App with Python and Flask](https://www.coursera.org/learn/python-flask) `intermediate`
  - [Create your own Sudoku Solver using AI and Python](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python) `intermediate`
  - [CSS Animated Components with ReactJS](https://www.coursera.org/learn/reactjs-css-animation) `intermediate`
@@ -2392,7 +2391,6 @@
 ### University at Buffalo, The State University of New York
 #### [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
 1. [Blockchain Basics](https://www.coursera.org/learn/blockchain-basics) `beginner`
-2. [Smart Contracts](https://www.coursera.org/learn/smarter-contracts) `intermediate`
 3. [Decentralized Applications (Dapps)](https://www.coursera.org/learn/decentralized-apps-on-blockchain) `intermediate`
 4. [Blockchain Platforms](https://www.coursera.org/learn/blockchain-platforms) `intermediate`
 ### University of Alberta
@@ -4272,7 +4270,6 @@
 ### Moscow Institute of Physics and Technology
  - [Academic Literacy](https://www.coursera.org/learn/academic-literacy) `intermediate`
  - [Grant Proposal](https://www.coursera.org/learn/grant-proposal) `intermediate`
- - [Scholarly Communication](https://www.coursera.org/learn/scholarly-communication) `intermediate`
  - [Technical Writing](https://www.coursera.org/learn/technical-writing) `intermediate`
 ### Nanjing University
  - [Translation in Practice](https://www.coursera.org/learn/translation-in-practice) `beginner`
@@ -4688,7 +4685,6 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
- - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Real-Time Mission-Critical Systems Design](https://www.coursera.org/learn/real-time-mission-critical-systems-design) `intermediate`
@@ -4712,6 +4708,7 @@
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
+1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
@@ -4940,16 +4937,17 @@
  - [Introduction to Indoor Air Quality](https://www.coursera.org/learn/intro-indoor-air-quality) `beginner`
  - [Mastering Statics](https://www.coursera.org/learn/mastering-statics) `intermediate`
 ### University at Buffalo, The State University of New York
- - [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
- - [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
  - [Collaborative Robot Safety: Design & Deployment](https://www.coursera.org/learn/collaborative-robot-safety) `beginner`
- - [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
- - [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
- - [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
- - [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
- - [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
- - [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
- - [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
+#### [Digital Manufacturing & Design Technology  Specialization](https://www.coursera.org/specializations/digital-manufacturing-design-technology)
+1. [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design) `beginner`
+2. [Digital Thread: Components](https://www.coursera.org/learn/digital-thread-components) `beginner`
+3. [Digital Thread: Implementation](https://www.coursera.org/learn/digital-thread-implementation) `beginner`
+4. [Advanced Manufacturing Process Analysis](https://www.coursera.org/learn/advanced-manufacturing-process-analysis) `beginner`
+5. [Intelligent Machining](https://www.coursera.org/learn/intelligent-machining) `beginner`
+6. [Advanced Manufacturing Enterprise](https://www.coursera.org/learn/advanced-manufacturing-enterprise) `beginner`
+7. [Cyber Security in Manufacturing](https://www.coursera.org/learn/cyber-security-manufacturing) `beginner`
+8. [MBSE: Model-Based Systems Engineering](https://www.coursera.org/learn/mbse) `beginner`
+9. [Roadmap to Success in Digital Manufacturing & Design](https://www.coursera.org/learn/roadmap-success-digital-manufacturing-design) `beginner`
 ### University of California, Davis
  - [Materials Science: 10 Things Every Engineer Should Know](https://www.coursera.org/learn/materials-science)
 ### University of California, Santa Cruz

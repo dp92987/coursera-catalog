@@ -3,6 +3,5 @@
 # Undefined
 > - [Undefined](#undefined)
 ## Undefined
-### Coursera Project Network
- - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio)
- - [Create your first test automation script - Selenium and C#](https://www.coursera.org/learn/create-first-test-automation-script-using-selenium-and-c-sharp)
+### Google Cloud
+ - [Creating New BigQuery Datasets and Visualizing Insights 日本語版](https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights-jp)

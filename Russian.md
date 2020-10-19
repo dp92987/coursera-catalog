@@ -24,8 +24,6 @@
  - [Санкт-Петербург – столица империи Петра I](https://www.coursera.org/learn/sankt-peterburg-petr) `beginner`
 ### Novosibirsk State University 
  - [Археология. О чём говорят древности?](https://www.coursera.org/learn/archaeology) `beginner`
-### Saint Petersburg State University
- - [Ислам: история, культура, практика (Islam: history, culture, praxis)](https://www.coursera.org/learn/islam-istoriya-kultura) `beginner`
 ## Music and Art
 ### National Research Tomsk State University
  - [Fashion-иллюстрация: Скетчинг](https://www.coursera.org/learn/fashion-illustration-sketching) `beginner`

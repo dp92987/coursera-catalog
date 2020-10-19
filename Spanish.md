@@ -398,6 +398,7 @@
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
+ - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure) `beginner`
  - [ML y Power BI para incrementar las ventas en Retail](https://www.coursera.org/learn/ml-powerbi-ventas-retail) `advanced`
  - [Predicción del fraude bancario con autoML y Pycaret](https://www.coursera.org/learn/prediccion-fraude-automl-pycaret) `advanced`
  - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
@@ -511,6 +512,7 @@
 > - [Support and Operations](#support-and-operations)
 ## Cloud Computing
 ### Coursera Project Network
+ - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
  - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
 ### Google Cloud
