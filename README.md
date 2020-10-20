@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5113` courses. Updated daily.
+Complete list of `5152` courses. Updated daily.
 
 # TOC
 
@@ -154,4 +154,3 @@ Complete list of `5113` courses. Updated daily.
  - [Business](<Ukrainian.md#business>)
  - [Social Sciences](<Ukrainian.md#social-sciences>)
 ### Undefined
- - [Undefined](<Undefined.md#undefined>)

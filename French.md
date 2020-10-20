@@ -146,6 +146,7 @@
  - [Essential Cloud Infrastructure: Core Services en Français](https://www.coursera.org/learn/gcp-infrastructure-core-services-fr) `intermediate`
  - [Essential Cloud Infrastructure: Foundation en Français](https://www.coursera.org/learn/gcp-infrastructure-foundation-fr) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Français](https://www.coursera.org/learn/gcp-fundamentals-fr) `intermediate`
+ - [Optimizing Your Google Cloud Platform Costs en Français](https://www.coursera.org/learn/gcp-cost-optimization-fr) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process en Français](https://www.coursera.org/learn/cloud-infrastructure-design-process-fr) `intermediate`
 #### [Data Engineer, Big Data and ML on Google Cloud en Français Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-fr)
 2. [Modernizing Data Lakes and Data Warehouses with GCP en Français](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-fr) `intermediate`

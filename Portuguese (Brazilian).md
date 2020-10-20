@@ -178,15 +178,19 @@
  - [Essential Cloud Infrastructure: Core Services em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-core-services-br) `intermediate`
  - [Essential Cloud Infrastructure: Foundation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-foundation-br) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure em Português Brasileiro](https://www.coursera.org/learn/gcp-fundamentals-br) `intermediate`
+ - [Optimizing Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-optimization-br) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-br) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-br) `advanced`
  - [Reliable Cloud Infrastructure: Design and Process em Português Brasileiro](https://www.coursera.org/learn/cloud-infrastructure-design-process-br) `intermediate`
+ - [Understanding Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-management-br) `beginner`
 #### [Data Engineer, Big Data and ML on Google Cloud em Português Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-br)
 2. [Modernizing Data Lakes and Data Warehouses with GCP em Português Brasileiro](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-br) `intermediate`
 3. [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br) `intermediate`
 4. [Building Resilient Streaming Analytics Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/streaming-analytics-systems-gcp-br) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-br) `intermediate`
 ## Networking
+### Coursera Project Network
+ - [Introdução a Mapas de Relação com Kumu](https://www.coursera.org/learn/intro-kumu) `beginner`
 ### Cresça com o Google
 #### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
 2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
