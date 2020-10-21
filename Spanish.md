@@ -446,6 +446,7 @@
 > - [Patient Care](#patient-care)
 > - [Psychology](#psychology)
 > - [Public Health](#public-health)
+> - [Research](#research)
 ## Basic Science
 ### Universidad Nacional Autónoma de México
  - [Charles Darwin: El origen del evolucionismo moderno](https://www.coursera.org/learn/darwin-origen-evolucionismo-moderno) `intermediate`
@@ -504,6 +505,9 @@
  - [Seguimiento de casos y contactos COVID-19](https://www.coursera.org/learn/seguimiento-de-casos-y-contactos-covid-19) `beginner`
 ### Universidad Nacional Autónoma de México
  - [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica)
+## Research
+### Universidad Nacional Autónoma de México
+ - [El rol docente del médico residente](https://www.coursera.org/learn/residente) `beginner`
 # Information Technology
 > - [Cloud Computing](#cloud-computing)
 > - [Data Management](#data-management)

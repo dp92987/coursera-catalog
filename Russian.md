@@ -299,7 +299,7 @@
 ### Novosibirsk State University 
 #### [Анализ данных Specialization](https://www.coursera.org/specializations/analiz-dannykh)
 1. [Введение в данные](https://www.coursera.org/learn/vvedeniye-dannyye) `intermediate`
-2. [Исследование статистических взаимосвязей](https://www.coursera.org/learn/statisticheskikh-vzaimosvyazey) `intermediate`
+1. [Исследование статистических взаимосвязей](https://www.coursera.org/learn/statisticheskikh-vzaimosvyazey) `intermediate`
 3. [Сравнение и создание групп](https://www.coursera.org/learn/sravneniye-sozdaniye-grupp) `intermediate`
 4. [Тренды и классификации](https://www.coursera.org/learn/trendy-klassifikatsii) `intermediate`
 ### Saint Petersburg State University
