@@ -232,7 +232,6 @@
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
 1. [Gestión de proyectos: las bases del éxito](https://www.coursera.org/learn/gestion-de-proyectos)
-2. [Trabaja inteligentemente, no más duro: Gestión del tiempo para la productividad personal y profesional](https://www.coursera.org/learn/trabaja-inteligentemente)
 3. [Finanzas para profesionales no financieros](https://www.coursera.org/learn/finanzas-no-expertos)
 4. [La comunicación laboral en el siglo XXI](https://www.coursera.org/learn/comunicacion-trabajo)
 6. [El arte de negociar](https://www.coursera.org/learn/arte-de-negociacion)
@@ -405,7 +404,6 @@
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
 ### Universidad Austral
- - [Excel aplicado a los negocios (Nivel Avanzado)](https://www.coursera.org/learn/excel-aplicado-negocios-avanzado) `intermediate`
  - [Fundamentos de Excel para Negocios](https://www.coursera.org/learn/excel-para-negocios) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Introducción a Data Science: Programación Estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r) `beginner`
@@ -587,7 +585,6 @@
 ### Universidad de los Andes
  - [Aprendizaje de las matemáticas de primaria](https://www.coursera.org/learn/aprendizaje-matematicas-primaria) `beginner`
  - [Contenido de las matemáticas de primaria](https://www.coursera.org/learn/contenido-matematica-escolar) `beginner`
- - [Enseñanza de las matemáticas de primaria](https://www.coursera.org/learn/ensenanza-matematicas-primaria) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Estadística y probabilidad](https://www.coursera.org/learn/estadistica-probabilidad) `beginner`
  - [Funciones algebraicas y trascendentes](https://www.coursera.org/learn/funciones-algebraicas) `beginner`
