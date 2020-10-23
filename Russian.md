@@ -128,19 +128,19 @@
  - [Основы корпоративных финансов (Fundamentals of Corporate Finance)](https://www.coursera.org/learn/osnovy-korporativnykh-finansov) `beginner`
  - [Ценные бумаги: правовое регулирование](https://www.coursera.org/learn/cennye-bumagi-pravovoe-regulirovanie)
 #### [Корпоративные финансы и стоимость компании Specialization](https://www.coursera.org/specializations/korporativnyye-finansy)
+1. [Инвестиционные проекты, слияния и поглощения](https://www.coursera.org/learn/sliyaniye-pogloshcheniye)
 1. [Оценка стоимости компании](https://www.coursera.org/learn/ocenka-stoimosti-kompanii)
+2. [Венчурный капитал](https://www.coursera.org/learn/venchurnyj-kapital)
 2. [Структура капитала компании](https://www.coursera.org/learn/struktura-kapitala-kompanii)
-3. [Инвестиционные проекты, слияния и поглощения](https://www.coursera.org/learn/sliyaniye-pogloshcheniye)
-4. [Венчурный капитал](https://www.coursera.org/learn/venchurnyj-kapital)
-5. [Управление стоимостью компании](https://www.coursera.org/learn/upravlenie-stoimostju-kompanii) `intermediate`
-6. [Мастерство создания стоимости компании](https://www.coursera.org/learn/sozdanie-stoimosti-kompanii) `intermediate`
+3. [Управление стоимостью компании](https://www.coursera.org/learn/upravlenie-stoimostju-kompanii) `intermediate`
+4. [Мастерство создания стоимости компании](https://www.coursera.org/learn/sozdanie-stoimosti-kompanii) `intermediate`
 #### [Финансовые инструменты для частного инвестора Specialization](https://www.coursera.org/specializations/finansovyye-instrumenty)
+1. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
 1. [Управление личными финансами](https://www.coursera.org/learn/upravlenie-lichnymi-finansami)
 2. [Инвестиции в облигации](https://www.coursera.org/learn/investicii-obligacii)
+2. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
 3. [Инвестиции в акции](https://www.coursera.org/learn/investicii-akcii)
-4. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
-5. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
-6. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
+3. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
 ### Sberbank Corporate University
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -183,10 +183,10 @@
 3. [SMM-кампания: цели, стратегия, алгоритмы и маркетинговый потенциал](https://www.coursera.org/learn/tsu-smm-campaniya) `beginner`
 ### National Research University Higher School of Economics
 #### [Основы Digital Маркетинга Specialization](https://www.coursera.org/specializations/fundamentals-digital-marketing)
+1. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
 1. [Маркетинговая стратегия в digital среде (Digital marketing strategy)](https://www.coursera.org/learn/digital-marketing-strategy) `intermediate`
 2. [Контекстная реклама. Google AdWords](https://www.coursera.org/learn/kontextnaya-reklama-google-adwords) `intermediate`
 3. [Работа с клиентской базой и входящий маркетинг](https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing) `intermediate`
-4. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Маркетинг. Часть 1. Основные категории, принципы и подходы](https://www.coursera.org/learn/marketing-printsipy) `beginner`
  - [Маркетинг. Часть 2. Инструментарий маркетинга](https://www.coursera.org/learn/marketing-instrumentarij) `intermediate`
@@ -259,9 +259,9 @@
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Искусство разработки на современном C++ Specialization](https://www.coursera.org/specializations/c-plus-plus-modern-development)
 1. [Основы разработки на C++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) `intermediate`
+1. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
 2. [Основы разработки на C++: жёлтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) `intermediate`
 3. [Основы разработки на C++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) `intermediate`
-4. [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) `intermediate`
 5. [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Использование механизмов операционных систем в разработке программного обеспечения](https://www.coursera.org/learn/os-v-razrabotke-po) `beginner`
