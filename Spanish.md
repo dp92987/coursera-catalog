@@ -302,9 +302,6 @@
  - [Clasificación de imágenes: ¿cómo reconocer el contenido de una imagen?](https://www.coursera.org/learn/clasificacion-imagenes)
  - [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 ## Design and Product
-### Arizona State University, Universidad Nacional Autónoma de México
-#### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
-4. [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final) `intermediate`
 ### IBM
 #### [Fundamentos de IA para Todos Specialization](https://www.coursera.org/specializations/fundamentos-de-ia-para-todos)
 3. [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
@@ -390,6 +387,7 @@
 ### Coursera Project Network
  - [Análisis de documentos con servicios cognitivos de Azure](https://www.coursera.org/learn/analisis-documentos-servicios-cognitivos-azure) `beginner`
  - [Automated Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/automated-machine-learning-powerbi) `intermediate`
+ - [Automated Machine Learning en Power BI Clasificación](https://www.coursera.org/learn/automated-machine-learning-powerbi-clasificacion) `intermediate`
  - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
@@ -550,7 +548,7 @@
 ## Support and Operations
 ### Crece con Google
 1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
-1. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
+3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
 4. [Administración de sistemas y servicios de infraestructura de TI](https://www.coursera.org/learn/administracion-de-sistema-y-servicios-de-infraestructura) `beginner`
 # Language Learning
 > - [Learning English](#learning-english)

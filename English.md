@@ -1042,7 +1042,7 @@
  - [Accounting: Principles of Financial Accounting](https://www.coursera.org/learn/financial-accounting) `beginner`
  - [Finance for Managers](https://www.coursera.org/learn/operational-finance)
 #### [Think like a CFO Specialization](https://www.coursera.org/specializations/thinklikeacfo)
-2. [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials)
+3. [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials)
 4. [Corporate Finance Essentials II](https://www.coursera.org/learn/corporate-finance-essentials-ii) `intermediate`
 ### Indian School of Business
 #### [Business Technology Management Specialization](https://www.coursera.org/specializations/business-technology-managment)
@@ -1526,8 +1526,10 @@
  - [Create a Google Ads Search Campaign](https://www.coursera.org/learn/create-a-google-ads-search-campaign) `beginner`
  - [Create a Google Ads Video Campaign](https://www.coursera.org/learn/create-a-google-ads-video-campaign) `beginner`
  - [Create a Google Video Ads Sequence Campaign](https://www.coursera.org/learn/create-a-google-video-ads-sequence-campaign) `beginner`
+ - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides) `beginner`
  - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva) `advanced`
  - [Create Infographics using Piktochart](https://www.coursera.org/learn/create-outstanding-infographics-using-piktochart) `beginner`
+ - [Create Swag Bag Inserts to Market your Business using Canva](https://www.coursera.org/learn/create-swag-bag-inserts-to-market-your-business-using-canva) `advanced`
  - [Design a Client Welcome Kit using Canva](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva) `advanced`
  - [Design a Factor Analysis Using Survey Data in Google Sheets](https://www.coursera.org/learn/design-a-factor-analysis-using-survey-data-in-google-sheets) `beginner`
  - [Design Online Course Printables using Canva](https://www.coursera.org/learn/design-online-course-printables-using-canva) `advanced`
@@ -1696,8 +1698,8 @@
 ### National Research University Higher School of Economics
  - [Introduction to numerical analysis](https://www.coursera.org/learn/intro-to-numerical-analysis) `intermediate`
 #### [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
-2. [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision) `advanced`
-3. [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning) `advanced`
+5. [Deep Learning in Computer Vision](https://www.coursera.org/learn/deep-learning-in-computer-vision) `advanced`
+7. [Addressing Large Hadron Collider Challenges by Machine Learning](https://www.coursera.org/learn/hadron-collider-machine-learning) `advanced`
 ### New York University
 #### [Machine Learning and Reinforcement Learning in Finance Specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 4. [Overview of Advanced Methods of Reinforcement Learning in Finance](https://www.coursera.org/learn/advanced-methods-reinforcement-learning-finance) `advanced`
@@ -1726,11 +1728,11 @@
 ### University of California San Diego, National Research University Higher School of Economics
 #### [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
 1. [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) `intermediate`
-1. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) `intermediate`
-2. [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) `advanced`
 2. [Data Structures](https://www.coursera.org/learn/data-structures) `intermediate`
 3. [Algorithms on Graphs](https://www.coursera.org/learn/algorithms-on-graphs) `intermediate`
-3. [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) `advanced`
+4. [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings) `intermediate`
+5. [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity) `advanced`
+6. [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes) `advanced`
 #### [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 1. [Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof) `beginner`
 2. [Combinatorics and Probability](https://www.coursera.org/learn/combinatorics) `beginner`
@@ -2005,6 +2007,7 @@
 ### CentraleSupélec
  - [Build Your First Android App (Project-Centered Course)](https://www.coursera.org/learn/android-app)
 ### Coursera Project Network
+ - [Access CSV in an Android Studio Project](https://www.coursera.org/learn/access-csv-android-studio-project) `intermediate`
  - [Become a JavaScript Pro with these 7 Skills](https://www.coursera.org/learn/become-a-js-pro-7-skills) `intermediate`
  - [Blazor and JavaScript Interoperability](https://www.coursera.org/learn/blazor-javascript-interoperability) `intermediate`
  - [Build a Full Website using WordPress](https://www.coursera.org/learn/build-a-full-website-using-wordpress) `advanced`
@@ -2196,12 +2199,14 @@
  - [C++ Inheritance, Aggregation and Composition](https://www.coursera.org/learn/cpp-inheritance-aggregation-composition) `intermediate`
  - [Class Creation in Object Oriented Python](https://www.coursera.org/learn/class-creation-in-object-oriented-python) `beginner`
  - [Concepts in Python: Loops, Functions and Returns](https://www.coursera.org/learn/python-loops-functions-returns) `beginner`
+ - [Container Orchestration using Kubernetes](https://www.coursera.org/learn/container-orchestration-kubernetes) `beginner`
  - [Containerize a full-stack NodeJS application in Docker](https://www.coursera.org/learn/containerize-full-stack-nodejs-application-in-docker) `intermediate`
  - [Control physics with C# in Unity](https://www.coursera.org/learn/controlling-physics-c-sharp-unity) `beginner`
  - [Create a Boggle Word Solver using recursion in Python](https://www.coursera.org/learn/boggle-python-recursion) `intermediate`
  - [Create a Coin Pick-Up and Spending Mechanics in Unity](https://www.coursera.org/learn/create-coin-pick-up-spending-mechanics-unity) `beginner`
  - [Create a First-Person Camera (VM-Compatible!) in Unity](https://www.coursera.org/learn/create-first-person-camera-c-sharp-unity) `beginner`
  - [Create a Memory Puzzle Game in Python Using Pygame](https://www.coursera.org/learn/create-memory-puzzle-game-in-python-using-pygame) `intermediate`
+ - [Create a Point of Sale (POS) with Java Basics](https://www.coursera.org/learn/pos-java) `intermediate`
  - [Create a Python Application using MySQL](https://www.coursera.org/learn/create-python-application-mysql) `intermediate`
  - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database) `intermediate`
  - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java) `intermediate`
@@ -2230,9 +2235,11 @@
  - [Create your first test automation script - Selenium and C#](https://www.coursera.org/learn/create-first-test-automation-script-using-selenium-and-c-sharp) `beginner`
  - [Create Your First Web App with Python and Flask](https://www.coursera.org/learn/python-flask) `intermediate`
  - [Create your own Sudoku Solver using AI and Python](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python) `intermediate`
+ - [Creating a Virtual Bookstore using Java Basics](https://www.coursera.org/learn/virtual-book-store-using-java-basics) `beginner`
  - [CSS Animated Components with ReactJS](https://www.coursera.org/learn/reactjs-css-animation) `intermediate`
  - [Data Visualization with Python](https://www.coursera.org/learn/data-visualization-with-python) `intermediate`
  - [Data-Driven Testing (via Database) with Selenium & Nunit](https://www.coursera.org/learn/data-driven-testing-via-database-with-selenium-nunit) `intermediate`
+ - [Data-Driven Testing (via Database) with Selenium & TestNG](https://www.coursera.org/learn/data-driven-testing-via-database-with-selenium-testng) `intermediate`
  - [Data-Driven Testing (via spreadsheet) with Selenium & Nunit](https://www.coursera.org/learn/data-driven-testing-via-spreadsheet-with-selenium-nunit) `intermediate`
  - [Data-Driven Testing (via spreadsheet) with Selenium & TestNG](https://www.coursera.org/learn/data-driven-testing-via-spreadsheet-with-selenium-testng) `intermediate`
  - [Database Design with SQL Server Management Studio (SSMS)](https://www.coursera.org/learn/database-design-with-sql-server-management-studio) `beginner`
@@ -2491,7 +2498,6 @@
  - [Machine Learning for All](https://www.coursera.org/learn/uol-machine-learning-for-all) `beginner`
  - [Malicious Software and its Underground Economy: Two Sides to Every Story](https://www.coursera.org/learn/malsoftware)
 ### University of London, Goldsmiths, University of London
- - [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia)
 #### [Introduction to Computer Science and Programming Specialization](https://www.coursera.org/specializations/introduction-computer-science-programming)
 1. [Introduction to Computer Programming](https://www.coursera.org/learn/introduction-to-computer-programming) `beginner`
 #### [Responsive Website Development and Design Specialization](https://www.coursera.org/specializations/website-development)
@@ -2559,6 +2565,7 @@
 ### Coursera Project Network
  - [3D SARS-CoV-19 Protein Visualization With Biopython](https://www.coursera.org/learn/3d-sars-cov-19-protein-visualization-with-biopython) `intermediate`
  - [A Geometrical Approach to Genome Analysis: Skew & Z-Curve](https://www.coursera.org/learn/genome-analysis-z-curve) `intermediate`
+ - [Analysing Unstructured Data using MongoDB and PySpark](https://www.coursera.org/learn/analyse-unstructured-data-mongodb-pyspark) `beginner`
  - [Analysis of Variance with ANOVA in Google Sheets](https://www.coursera.org/learn/analysis-of-variance-anova-in-google-sheets) `intermediate`
  - [Analyze Stock Data using R and Quantmod Package](https://www.coursera.org/learn/analyze-stock-data-using-r-quantmod) `beginner`
  - [Analyze Website Visitors with Google Analytics Segments](https://www.coursera.org/learn/analyze-visitors-google-analytics-segments) `intermediate`
@@ -2675,9 +2682,9 @@
 #### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
 1. [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds) `beginner`
 #### [IBM Data Analyst Professional Certificate](https://www.coursera.org/specializations/ibm-data-analyst)
-1. [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos) `beginner`
 1. [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) `beginner`
 2. [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) `beginner`
+3. [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos) `beginner`
 8. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project) `intermediate`
 ### Indian School of Business
 #### [Business Technology Management Specialization](https://www.coursera.org/specializations/business-technology-managment)
@@ -2705,7 +2712,6 @@
 #### [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r)
 1. [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment) `intermediate`
 2. [Advanced R Programming](https://www.coursera.org/learn/advanced-r) `intermediate`
-3. [Building R Packages](https://www.coursera.org/learn/r-packages) `intermediate`
 4. [Building Data Visualization Tools](https://www.coursera.org/learn/r-data-visualization) `intermediate`
 5. [Mastering Software Development in R Capstone](https://www.coursera.org/learn/r-capstone) `intermediate`
 #### [Neuroscience and Neuroimaging Specialization](https://www.coursera.org/specializations/computational-neuroscience)
@@ -2719,9 +2725,9 @@
 4. [Artificial Intelligence Ethics in Action](https://www.coursera.org/learn/ai-ethics-analysis) `intermediate`
 ### MathWorks
 #### [Practical Data Science with MATLAB Specialization](https://www.coursera.org/specializations/practical-data-science-matlab)
-1. [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) `intermediate`
 1. [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab) `beginner`
 2. [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) `intermediate`
+4. [Data Science Project: MATLAB for the Real World](https://www.coursera.org/learn/matlab-capstone) `intermediate`
 ### MongoDB Inc.
  - [MongoDB Aggregation Framework](https://www.coursera.org/learn/mongodb-aggregation-framework) `intermediate`
 ### Moscow Institute of Physics and Technology
@@ -2756,8 +2762,8 @@
 3. [Advanced SAS Programming Techniques](https://www.coursera.org/learn/advanced-sas-programming-techniques) `intermediate`
 #### [SAS Programmer Professional Certificate](https://www.coursera.org/specializations/sas-programming)
 1. [Getting Started with SAS Programming](https://www.coursera.org/learn/sas-programming-basics) `beginner`
-1. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review) `intermediate`
 2. [Doing More with SAS Programming](https://www.coursera.org/learn/sas-programming-advanced) `intermediate`
+3. [Practical SAS Programming and Certification Review](https://www.coursera.org/learn/sas-programming-certification-review) `intermediate`
 #### [SAS Statistical Business Analyst Professional Certificate](https://www.coursera.org/specializations/sas-statistical-business-analyst)
 1. [Introduction to Statistical Analysis:  Hypothesis Testing](https://www.coursera.org/learn/statistical-analysis-hypothesis-testing-sas) `intermediate`
 2. [Regression Modeling Fundamentals](https://www.coursera.org/learn/regression-modeling-sas) `intermediate`
@@ -3034,6 +3040,7 @@
  - [Perform Feature Analysis with Yellowbrick](https://www.coursera.org/learn/feature-analysis-yellowbrick) `intermediate`
  - [Perform Real-Time Object Detection with YOLOv3](https://www.coursera.org/learn/real-time-object-detection-yolo) `intermediate`
  - [Perform Sentiment Analysis with scikit-learn](https://www.coursera.org/learn/scikit-learn-logistic-regression-sentiment-analysis) `intermediate`
+ - [Predict electricity consumption in Python using Scikit-Learn](https://www.coursera.org/learn/predict-electricity-consumption) `beginner`
  - [Predict Employee Turnover with scikit-learn](https://www.coursera.org/learn/employee-turnover-scikit-learn) `intermediate`
  - [Predict Future Product Prices Using Facebook Prophet](https://www.coursera.org/learn/prophet-timeseries-prediction) `intermediate`
  - [Predict Sales Revenue with scikit-learn](https://www.coursera.org/learn/scikit-learn-simple-linear-regression) `beginner`
@@ -3071,6 +3078,7 @@
  - [TensorFlow for NLP: Semantic Similarity in Texts](https://www.coursera.org/learn/tensorflow-for-nlp-semantic-similarity-in-texts) `intermediate`
  - [TensorFlow for NLP: Text Embedding and Classification](https://www.coursera.org/learn/tensorflow-for-nlp-text-embedding-and-classification) `intermediate`
  - [TensorFlow Serving with Docker for Model Deployment](https://www.coursera.org/learn/tensorflow-serving-docker-model-deployment) `intermediate`
+ - [Text Classification Using Word2Vec and LSTM on Keras](https://www.coursera.org/learn/text-classification-word2vec-lstm-keras-tensorflow) `intermediate`
  - [Traffic Sign Classification Using Deep Learning in Python/Keras](https://www.coursera.org/learn/traffic-sign-classification-deep-learning) `intermediate`
  - [Transfer Learning for Food Classification](https://www.coursera.org/learn/transfer-learning-food-classification) `beginner`
  - [Transfer Learning for NLP with TensorFlow Hub](https://www.coursera.org/learn/transfer-learning-nlp-tensorflow-hub) `intermediate`
@@ -3178,8 +3186,8 @@
 ### National Research University Higher School of Economics
 #### [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
 1. [Introduction to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning) `advanced`
-1. [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl) `advanced`
 3. [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning) `advanced`
+4. [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl) `advanced`
 6. [Natural Language Processing](https://www.coursera.org/learn/language-processing) `advanced`
 ### New York Institute of Finance, Google Cloud
 #### [Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)
@@ -4023,6 +4031,8 @@
  - [Building Smart Business Assistants with IBM Watson](https://www.coursera.org/learn/building-smart-business-assistants-ibm-watson) `beginner`
  - [Containerization Using Docker](https://www.coursera.org/learn/containerization-using-docker) `intermediate`
  - [Creating an AWS EC2 Autoscaling Group using Load Balancer](https://www.coursera.org/learn/create-aws-ec2-autoscaling-group-load-balancer) `intermediate`
+ - [Deploy a Wordpress Website in AWS EC2](https://www.coursera.org/learn/deploy-wordpress-aws-ec2) `intermediate`
+ - [Deploy Machine Learning Model into AWS Cloud Servers](https://www.coursera.org/learn/deploy-ml-model-aws-elastic-beanstalk) `intermediate`
  - [Docker Essentials & Building a Containerized Web Application](https://www.coursera.org/learn/docker-container-essentials-web-app) `beginner`
  - [Hosting a Static Website (HTML/CSS/Javascript) in AWS S3](https://www.coursera.org/learn/hosting-static-web-site-aws) `beginner`
  - [Introduction to Docker: Build Your Own Portfolio Site](https://www.coursera.org/learn/introduction-to-docker-build-portfolio-site) `beginner`
@@ -4115,6 +4125,7 @@
  - [CRUD Operations using MongoDB NoSQL](https://www.coursera.org/learn/crud-operations-using-mongodb-nosql) `beginner`
  - [Database Design and Diagramming in Dia](https://www.coursera.org/learn/database-design-and-diagramming-in-dia) `beginner`
  - [Manipulating Data with SQL](https://www.coursera.org/learn/manipulating-data-with-sql) `intermediate`
+ - [Modeling Data Warehouses using Apache Hive](https://www.coursera.org/learn/data-warehousing-with-apache-hive) `beginner`
  - [Postman - Intro to APIs (without coding)](https://www.coursera.org/learn/laura-gemmell-intro-postman-apis) `beginner`
  - [Relational Modeling in Dia](https://www.coursera.org/learn/relational-modeling-in-dia) `beginner`
  - [Retrieve Data using Single-Table SQL Queries](https://www.coursera.org/learn/single-table-sql-queries) `beginner`
@@ -4309,11 +4320,10 @@
 ### Lund University
  - [Writing in English at University](https://www.coursera.org/learn/writing-english-university) `beginner`
 ### Moscow Institute of Physics and Technology
+ - [Academic Literacy](https://www.coursera.org/learn/academic-literacy) `intermediate`
  - [Grant Proposal](https://www.coursera.org/learn/grant-proposal) `intermediate`
  - [Scholarly Communication](https://www.coursera.org/learn/scholarly-communication) `intermediate`
  - [Technical Writing](https://www.coursera.org/learn/technical-writing) `intermediate`
-#### [ English for Research Publication Purposes Specialization](https://www.coursera.org/specializations/english-for-research-publication-purposes)
-1. [Academic Literacy](https://www.coursera.org/learn/academic-literacy) `intermediate`
 ### Nanjing University
  - [Translation in Practice](https://www.coursera.org/learn/translation-in-practice) `beginner`
 ### Pontificia Universidad Católica de Chile
@@ -4468,9 +4478,9 @@
  - [Stochastic processes](https://www.coursera.org/learn/stochasticprocesses) `intermediate`
 #### [Mathematics for Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-data-science)
 1. [Discrete Math and Analyzing Social Graphs](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs)
-1. [First Steps in Linear Algebra for Machine Learning](https://www.coursera.org/learn/first-steps-in-linear-algebra-for-machine-learning) `intermediate`
 2. [Calculus and Optimization for Machine Learning](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning) `intermediate`
-2. [Probability Theory, Statistics and Exploratory Data Analysis](https://www.coursera.org/learn/probability-theory-statistics)
+3. [First Steps in Linear Algebra for Machine Learning](https://www.coursera.org/learn/first-steps-in-linear-algebra-for-machine-learning) `intermediate`
+4. [Probability Theory, Statistics and Exploratory Data Analysis](https://www.coursera.org/learn/probability-theory-statistics)
 ### Princeton University
  - [Analytic Combinatorics](https://www.coursera.org/learn/analytic-combinatorics) `intermediate`
 ### Saint Petersburg State University
@@ -5263,6 +5273,8 @@
  - [Learning Mindsets & Skills](https://www.coursera.org/learn/learning-skills)
 ### Johns Hopkins University
  - [Inclusive Online Teaching Teach-Out](https://www.coursera.org/learn/inclusive-online-teaching)
+### Macquarie University
+ - [Artificial Intelligence (AI) Education for Teachers](https://www.coursera.org/learn/artificial-intelligence-education-for-teachers) `beginner`
 ### Nanyang Technological University, Singapore
  - [Motivating Gen Z Learners: What Parents and Teachers Need to Know](https://www.coursera.org/learn/motivate-genz-learners) `beginner`
 ### New Teacher Center, Silicon Schools Fund, Clayton Christensen Institute, Relay Graduate School of Education
