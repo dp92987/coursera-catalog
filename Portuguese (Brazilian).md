@@ -123,7 +123,6 @@
  - [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) `intermediate`
  - [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) `intermediate`
  - [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java) `intermediate`
- - [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) `intermediate`
  - [TDD – Desenvolvimento de Software Guiado por Testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) `intermediate`
 ### Universidade de São Paulo
  - [Introdução ao Teste de Software](https://www.coursera.org/learn/intro-teste-de-software) `beginner`

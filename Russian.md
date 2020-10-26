@@ -237,7 +237,7 @@
 3. [Архитектура Android-приложений](https://www.coursera.org/learn/android-app-architecture) `intermediate`
 #### [iOS-разработка: Swift, UI и многопоточность Specialization](https://www.coursera.org/specializations/ios-dev)
 1. [Введение в iOS-разработку](https://www.coursera.org/learn/ios-razrabotka-na-swift) `intermediate`
-2. [Пользовательский интерфейс](https://www.coursera.org/learn/user-interface) `intermediate`
+1. [Пользовательский интерфейс](https://www.coursera.org/learn/user-interface) `intermediate`
 3. [Многопоточность](https://www.coursera.org/learn/ios-multithreading) `intermediate`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Разработка интерфейсов: вёрстка и JavaScript Specialization](https://www.coursera.org/specializations/razrabotka-interfeysov)

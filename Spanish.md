@@ -25,6 +25,8 @@
  - [Iniciación a los jeroglíficos egipcios](https://www.coursera.org/learn/iniciacion-jeroglificos-egipcios) `beginner`
 ### Universitat de Barcelona
  - [The Mediterranean, a Space of Exchange (from the Renaissance to Enlightenment)](https://www.coursera.org/learn/mediterraneanhistory)
+### Yad Vashem 
+ - [Antisemitismo: Desde sus orígenes hasta el presente](https://www.coursera.org/learn/antisemitismo) `beginner`
 ## Music and Art
 ### Berklee College of Music
  - [Improvisación de jazz](https://www.coursera.org/learn/improvisacion-de-jazz) `intermediate`
@@ -174,7 +176,6 @@
 ### IESE Business School
  - [¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección](https://www.coursera.org/learn/alta-direccion) `beginner`
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
-1. [Introducción a la Contabilidad Financiera](https://www.coursera.org/learn/contabilidad-financiera) `beginner`
 2. [Finanzas para directivos](https://www.coursera.org/learn/finanzas-operativas) `beginner`
 ### Universidad Austral
  - [Finanzas Corporativas](https://www.coursera.org/learn/finanzas-corporativas) `beginner`
@@ -551,7 +552,7 @@
 ## Support and Operations
 ### Crece con Google
 1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
-3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
+1. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
 4. [Administración de sistemas y servicios de infraestructura de TI](https://www.coursera.org/learn/administracion-de-sistema-y-servicios-de-infraestructura) `beginner`
 # Language Learning
 > - [Learning English](#learning-english)

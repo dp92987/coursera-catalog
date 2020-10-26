@@ -50,7 +50,6 @@
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-jp) `intermediate`
 #### [Machine Learning with TensorFlow  Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-jp)
 1. [How Google does Machine Learning 日本語版](https://www.coursera.org/learn/google-machine-learning-jp) `intermediate`
-2. [Launching into Machine Learning 日本語版](https://www.coursera.org/learn/launching-machine-learning-jp) `intermediate`
 3. [Intro to TensorFlow 日本語版](https://www.coursera.org/learn/intro-tensorflow-jp) `intermediate`
 4. [Feature Engineering 日本語版](https://www.coursera.org/learn/feature-engineering-jp) `intermediate`
 5. [Art and Science of Machine Learning 日本語版](https://www.coursera.org/learn/art-science-ml-jp) `intermediate`
