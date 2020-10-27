@@ -176,6 +176,7 @@
 ### IESE Business School
  - [¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección](https://www.coursera.org/learn/alta-direccion) `beginner`
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
+1. [Introducción a la Contabilidad Financiera](https://www.coursera.org/learn/contabilidad-financiera) `beginner`
 2. [Finanzas para directivos](https://www.coursera.org/learn/finanzas-operativas) `beginner`
 ### Universidad Austral
  - [Finanzas Corporativas](https://www.coursera.org/learn/finanzas-corporativas) `beginner`
@@ -519,6 +520,7 @@
 ## Cloud Computing
 ### Coursera Project Network
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
+ - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
  - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
 ### Google Cloud
@@ -552,7 +554,7 @@
 ## Support and Operations
 ### Crece con Google
 1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
-1. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
+3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
 4. [Administración de sistemas y servicios de infraestructura de TI](https://www.coursera.org/learn/administracion-de-sistema-y-servicios-de-infraestructura) `beginner`
 # Language Learning
 > - [Learning English](#learning-english)
