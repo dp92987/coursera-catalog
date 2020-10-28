@@ -15,6 +15,7 @@
 > - [Philosophy](#philosophy)
 ## History
 ### University of Geneva
+ - [A l’avènement du christianisme : l’archéologie des derniers païens](https://www.coursera.org/learn/archeology) `beginner`
  - [Calvin - Histoire et réception d'une Réforme](https://www.coursera.org/learn/calvin) `beginner`
  - [Violences et religions](https://www.coursera.org/learn/violences-religions) `beginner`
 ### Yad Vashem 
@@ -148,6 +149,7 @@
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Français](https://www.coursera.org/learn/gcp-fundamentals-fr) `intermediate`
  - [Optimizing Your Google Cloud Platform Costs en Français](https://www.coursera.org/learn/gcp-cost-optimization-fr) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process en Français](https://www.coursera.org/learn/cloud-infrastructure-design-process-fr) `intermediate`
+ - [Understanding Your Google Cloud Platform Costs en Français](https://www.coursera.org/learn/gcp-cost-management-fr) `beginner`
 #### [Data Engineer, Big Data and ML on Google Cloud en Français Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-fr)
 2. [Modernizing Data Lakes and Data Warehouses with GCP en Français](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-fr) `intermediate`
 3. [Building Batch Data Pipelines on GCP en Français](https://www.coursera.org/learn/batch-data-pipelines-gcp-fr) `intermediate`

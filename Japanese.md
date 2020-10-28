@@ -24,6 +24,7 @@
 > - [Software Development](#software-development)
 ## Computer Security and Networks
 ### Google Cloud
+ - [Planning for your G Suite Deployment 日本語版](https://www.coursera.org/learn/deploying-g-suite-jp) `beginner`
 #### [G Suite Administration 日本語版 Specialization](https://www.coursera.org/specializations/g-suite-administration-jp)
 1. [Introduction to G Suite 日本語版](https://www.coursera.org/learn/introduction-g-suite-jp) `beginner`
 2. [Managing G Suite 日本語版](https://www.coursera.org/learn/managing-g-suite-jp) `beginner`
@@ -50,8 +51,8 @@
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals 日本語版](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-jp) `intermediate`
 #### [Machine Learning with TensorFlow  Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-jp)
 1. [How Google does Machine Learning 日本語版](https://www.coursera.org/learn/google-machine-learning-jp) `intermediate`
-1. [Intro to TensorFlow 日本語版](https://www.coursera.org/learn/intro-tensorflow-jp) `intermediate`
 2. [Launching into Machine Learning 日本語版](https://www.coursera.org/learn/launching-machine-learning-jp) `intermediate`
+3. [Intro to TensorFlow 日本語版](https://www.coursera.org/learn/intro-tensorflow-jp) `intermediate`
 4. [Feature Engineering 日本語版](https://www.coursera.org/learn/feature-engineering-jp) `intermediate`
 5. [Art and Science of Machine Learning 日本語版](https://www.coursera.org/learn/art-science-ml-jp) `intermediate`
 # Information Technology
@@ -70,6 +71,7 @@
  - [Optimizing Your Google Cloud Platform (GCP) Costs 日本語版](https://www.coursera.org/learn/gcp-cost-optimization-jp) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
  - [Smart Analytics, Machine Learning, and AI on GCP 日本語版](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-jp) `intermediate`
+ - [Understanding Your Google Cloud Platform (GCP) Costs 日本語版](https://www.coursera.org/learn/gcp-cost-management-jp) `beginner`
 #### [Cloud Architecture with Google Cloud 日本語版 Professional Certificate](https://www.coursera.org/specializations/gcp-cloud-architect-jp)
 6. [Preparing for the Google Cloud Professional Cloud Architect Exam 日本語版](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-jp) `advanced`
 #### [Data Engineering with Google Cloud 日本語版 Professional Certificate](https://www.coursera.org/specializations/gcp-data-engineering-jp)

@@ -10,6 +10,7 @@
  - [Personal Development](#personal-development)
  - [Physical Science and Engineering](#physical-science-and-engineering)
  - [Social Sciences](#social-sciences)
+ - [Undefined](#undefined)
 # Arts and Humanities
 > - [History](#history)
 > - [Music and Art](#music-and-art)
@@ -1042,8 +1043,8 @@
  - [Accounting: Principles of Financial Accounting](https://www.coursera.org/learn/financial-accounting) `beginner`
  - [Finance for Managers](https://www.coursera.org/learn/operational-finance)
 #### [Think like a CFO Specialization](https://www.coursera.org/specializations/thinklikeacfo)
+1. [Corporate Finance Essentials II](https://www.coursera.org/learn/corporate-finance-essentials-ii) `intermediate`
 3. [Corporate Finance Essentials](https://www.coursera.org/learn/corporate-finance-essentials)
-4. [Corporate Finance Essentials II](https://www.coursera.org/learn/corporate-finance-essentials-ii) `intermediate`
 ### Indian School of Business
 #### [Business Technology Management Specialization](https://www.coursera.org/specializations/business-technology-managment)
 3. [Accounting and Finance for IT professionals](https://www.coursera.org/learn/accounting-finance) `beginner`
@@ -2511,10 +2512,10 @@
 ### University of Michigan
 #### [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 1. [Python Basics](https://www.coursera.org/learn/python-basics) `beginner`
+1. [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) `intermediate`
 2. [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) `beginner`
 3. [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python) `intermediate`
 4. [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance) `intermediate`
-5. [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) `intermediate`
 #### [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 2. [Python Data Structures](https://www.coursera.org/learn/python-data)
@@ -2588,6 +2589,7 @@
  - [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/learn/interactive-dashboards-streamlit-python) `intermediate`
  - [Create Technical Stock Charts Using R and Quantmod](https://www.coursera.org/learn/create-technical-stock-charts-r-quantmod) `beginner`
  - [Creating Models using Smartpls](https://www.coursera.org/learn/smartpls-advanced-regression) `intermediate`
+ - [Cryptocurrency Data Visualization using Plotly Express](https://www.coursera.org/learn/cryptocurrency-data-visualization-using-plotly-express) `beginner`
  - [Custom Reports in Google Analytics](https://www.coursera.org/learn/custom-reports-in-google-analytics) `intermediate`
  - [Data Analysis Using Pyspark](https://www.coursera.org/learn/data-analysis-using-pyspark) `intermediate`
  - [Data Analytics:  Scraping Data using Hadley Wickam's Rvest package in R](https://www.coursera.org/learn/scrape-data-using-rvest-for-analytics) `intermediate`
@@ -2681,18 +2683,18 @@
  - [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) `intermediate`
  - [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) `beginner`
  - [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) `beginner`
+ - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos) `beginner`
  - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) `intermediate`
  - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science) `beginner`
+ - [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) `beginner`
+ - [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) `beginner`
  - [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai) `beginner`
  - [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) `beginner`
  - [What is Data Science?](https://www.coursera.org/learn/what-is-datascience) `beginner`
 #### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
 1. [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds) `beginner`
 #### [IBM Data Analyst Professional Certificate](https://www.coursera.org/specializations/ibm-data-analyst)
-1. [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos) `beginner`
-1. [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) `beginner`
-2. [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) `beginner`
-8. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project) `intermediate`
+1. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project) `intermediate`
 ### Indian School of Business
 #### [Business Technology Management Specialization](https://www.coursera.org/specializations/business-technology-managment)
 2. [Business Analytics and Digital Media](https://www.coursera.org/learn/business-analytics) `beginner`
@@ -3121,9 +3123,9 @@
 3. [Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow) `intermediate`
 4. [Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) `intermediate`
 #### [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+1. [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) `intermediate`
 1. [Build Basic Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) `intermediate`
 2. [Build Better Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) `intermediate`
-3. [Apply Generative Adversarial Networks (GANs)](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) `intermediate`
 #### [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) `intermediate`
 2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp) `intermediate`
@@ -3160,11 +3162,11 @@
  - [Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression) `intermediate`
  - [Unsupervised Learning](https://www.coursera.org/learn/ibm-unsupervised-learning) `intermediate`
 #### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
-1. [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing) `advanced`
+2. [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing) `advanced`
 3. [Applied AI with DeepLearning](https://www.coursera.org/learn/ai) `advanced`
 4. [Advanced Data Science Capstone](https://www.coursera.org/learn/advanced-data-science-capstone) `advanced`
 #### [IBM AI Engineering Professional Certificate](https://www.coursera.org/specializations/ai-engineer)
-1. [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/learn/machine-learning-big-data-apache-spark) `intermediate`
+2. [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/learn/machine-learning-big-data-apache-spark) `intermediate`
 3. [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) `intermediate`
 4. [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch) `intermediate`
 5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow) `intermediate`
@@ -4181,6 +4183,7 @@
 ### Coursera Project Network
  - [Design and Simulate Smart Home Networks in Packet Tracer](https://www.coursera.org/learn/design-simulate-smart-home-networks-packet-tracer) `intermediate`
  - [How To Build a Network Topology Using GNS3](https://www.coursera.org/learn/how-to-build-a-network-topology-using-gns3) `beginner`
+ - [Introduction to Networks and Cisco Devices](https://www.coursera.org/learn/ccna-introduction-networks-cisco-devices) `intermediate`
 ### Google
  - [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking) `beginner`
 ### Google - Spectrum Sharing
@@ -4544,6 +4547,8 @@
 ### Case Western Reserve University
  - [Designing Your Personal Weight Loss Plan](https://www.coursera.org/learn/weight-loss-plan) `beginner`
  - [Take the Lead on Healthcare Quality Improvement](https://www.coursera.org/learn/hcqualityimprovement) `beginner`
+### CertNexus
+ - [Preparing for Your CertNexus Certification Exam](https://www.coursera.org/learn/preparing-for-your-certnexus-certification-exam) `beginner`
 ### Coursera Project Network
  - [Teaching with Peer Review Using Eduflow](https://www.coursera.org/learn/teaching-with-peer-review-using-eduflow) `beginner`
 ### Duke University
@@ -4764,7 +4769,6 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
- - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Real-Time Mission-Critical Systems Design](https://www.coursera.org/learn/real-time-mission-critical-systems-design) `intermediate`
@@ -4788,6 +4792,7 @@
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
+1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
@@ -5263,6 +5268,7 @@
 ### Coursera Project Network
  - [Advanced Google Classroom for Education](https://www.coursera.org/learn/advanced-google-classroom) `beginner`
  - [Building Classroom Community Using Flipgrid](https://www.coursera.org/learn/classroom-flipgrid) `beginner`
+ - [Create a Virtual Classroom using Google Slides](https://www.coursera.org/learn/virtual-classroom-google-slides) `beginner`
  - [Create a Visual Schedule with Google Slides](https://www.coursera.org/learn/teaching-visual-schedule) `beginner`
  - [Create a Writing Rubric with Google Docs](https://www.coursera.org/learn/writing-rubric) `beginner`
  - [Creating a Choice Board with Google Slides](https://www.coursera.org/learn/choice-board-google-slides) `beginner`
@@ -5658,3 +5664,8 @@
  - [America's Unwritten Constitution](https://www.coursera.org/learn/unwritten-constitution)
  - [American Contract Law I](https://www.coursera.org/learn/contracts-1) `beginner`
  - [American Contract Law II](https://www.coursera.org/learn/contracts-2) `beginner`
+# Undefined
+> - [Undefined](#undefined)
+## Undefined
+### University of Michigan
+ - [Practicing Gratitude Teach-Out](https://www.coursera.org/learn/practicing-gratitude-teach-out) `beginner`
