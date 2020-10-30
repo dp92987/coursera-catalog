@@ -310,6 +310,8 @@
 ### IBM
 #### [Fundamentos de IA para Todos Specialization](https://www.coursera.org/specializations/fundamentos-de-ia-para-todos)
 3. [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
+### Universidad Autónoma Metropolitana
+ - [Rebo-binario](https://www.coursera.org/learn/rebo-binario) `beginner`
 ### Universidad de Chile
  - [¿Cómo (nos) cambia la Tecnología?](https://www.coursera.org/learn/comonoscambialatecnologia) `beginner`
 ### Universidad de los Andes
@@ -407,6 +409,11 @@
  - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
+### IBM
+#### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
+1. [Python para Data Science y AI](https://www.coursera.org/learn/python-para-data-science-y-ai) `beginner`
+6. [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
+9. [Ciencia de Datos Aplicada - Curso Capstone](https://www.coursera.org/learn/ciencia-de-datos-aplicada-cuso-capstone) `intermediate`
 ### Universidad Austral
  - [Excel aplicado a los negocios (Nivel Avanzado)](https://www.coursera.org/learn/excel-aplicado-negocios-avanzado) `intermediate`
  - [Fundamentos de Excel para Negocios](https://www.coursera.org/learn/excel-para-negocios) `beginner`
@@ -529,6 +536,7 @@
  - [Essential Cloud Infrastructure: Foundation en Español](https://www.coursera.org/learn/gcp-infrastructure-foundation-es) `intermediate`
  - [Getting Started with Google Kubernetes Engine en Español](https://www.coursera.org/learn/google-kubernetes-engine-es) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Español](https://www.coursera.org/learn/gcp-fundamentals-es) `intermediate`
+ - [Managing Change when Moving to Google Cloud en Español](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-es) `beginner`
  - [Optimizing Your Google Cloud Platform (GCP) Costs en Español](https://www.coursera.org/learn/gcp-cost-optimization-es) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-es) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-es) `advanced`

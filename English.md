@@ -483,7 +483,6 @@
 #### [Salesforce Sales Development Representative Professional Certificate](https://www.coursera.org/specializations/sales-development-representative)
 1. [Groundwork for Success in Sales Development](https://www.coursera.org/learn/sales-success) `beginner`
 2. [Foundations for Interviewing with Confidence](https://www.coursera.org/learn/sales-interview) `beginner`
-3. [Conversational Selling Playbook for SDRs](https://www.coursera.org/learn/conversational-sales) `beginner`
 4. [Boosting Productivity through the Tech Stack](https://www.coursera.org/learn/sales-enablement-tools-productivity) `beginner`
 5. [Practical Guide to Navigating Professional Relationships](https://www.coursera.org/learn/professional-communication-skills-sales) `beginner`
 ### The Hong Kong University of Science and Technology
@@ -1153,9 +1152,9 @@
  - [Accounting for Decision Making](https://www.coursera.org/learn/accounting) `intermediate`
  - [Exploring Basic Income in a Changing Economy Teach-Out](https://www.coursera.org/learn/exploring-basic-income-in-a-changing-economy) `beginner`
 #### [Financial Technology (Fintech) Innovations Specialization](https://www.coursera.org/specializations/financialtechnology)
+1. [Raising Capital: Credit Tech, Coin Offerings, and Crowdfunding](https://www.coursera.org/learn/credit-tech) `beginner`
 1. [The Future of Payment Technologies](https://www.coursera.org/learn/paytech) `beginner`
 2. [Blockchain and Cryptocurrency Explained](https://www.coursera.org/learn/crypto-finance) `beginner`
-3. [Raising Capital: Credit Tech, Coin Offerings, and Crowdfunding](https://www.coursera.org/learn/credit-tech) `beginner`
 4. [Innovations in Investment Technology: Artificial Intelligence](https://www.coursera.org/learn/invest-tech) `beginner`
 #### [Foundational Finance for Strategic Decision Making Specialization](https://www.coursera.org/specializations/foundational-finance)
 1. [Time Value of Money](https://www.coursera.org/learn/time-value-of-money) `beginner`
@@ -1394,9 +1393,9 @@
 #### [Project Management Principles and Practices Specialization](https://www.coursera.org/specializations/project-management)
 2. [Budgeting and Scheduling Projects](https://www.coursera.org/learn/schedule-projects)
 #### [UCI Project Management Professional Certificate](https://www.coursera.org/professional-certificate/applied-project-management)
-1. [Project Execution](https://www.coursera.org/learn/project-execution) `beginner`
 1. [Project Launch](https://www.coursera.org/learn/project-management) `beginner`
 2. [Project Planning](https://www.coursera.org/learn/project-planning-1) `beginner`
+3. [Project Execution](https://www.coursera.org/learn/project-execution) `beginner`
 4. [Project Practicum with Multiple Projects](https://www.coursera.org/learn/project-practicum-with-multiple-projects) `beginner`
 ### University of Colorado Boulder
  - [Teamwork Skills: Communicating Effectively in Groups](https://www.coursera.org/learn/teamwork-skills-effective-communication) `beginner`
@@ -1542,6 +1541,7 @@
  - [Set up Google Analytics for a single page website](https://www.coursera.org/learn/set-up-google-analytics-on-single-page-applications) `beginner`
  - [The Product Lifecycle: A Guide from start to finish](https://www.coursera.org/learn/the-product-life-cycle) `intermediate`
  - [Use Canva to Create an Interactive Mind Map](https://www.coursera.org/learn/canva-create-an-interactive-mind-map) `intermediate`
+ - [Use Canva to Create Desktop and Mobile-friendly Web Pages.](https://www.coursera.org/learn/use-canva-to-create-desktop-and-mobile-friendly-webpages) `beginner`
  - [Use Canva to Create Social Media Marketing Designs](https://www.coursera.org/learn/using-canva-create-social-media-marketing-design) `beginner`
  - [Use Canva to Design Digital Course Collateral](https://www.coursera.org/learn/canva-design-digital-course-collateral) `advanced`
  - [Use Mailchimp to Build an E-mail Marketing Campaign](https://www.coursera.org/learn/mailchimp-build-email-marketing-campaign) `beginner`
@@ -1562,10 +1562,10 @@
 2. [Foundations of marketing analytics](https://www.coursera.org/learn/foundations-marketing-analytics)
 ### Facebook
 #### [Facebook Social Media Marketing Professional Certificate](https://www.coursera.org/specializations/facebook-social-media-marketing)
-1. [Advertising with Facebook](https://www.coursera.org/learn/advertising-with-facebook) `beginner`
 1. [Introduction to Social Media Marketing](https://www.coursera.org/learn/social-media-marketing-introduction) `beginner`
 2. [Social Media Management](https://www.coursera.org/learn/social-media-management) `beginner`
 3. [Fundamentals of Social Media Advertising](https://www.coursera.org/learn/social-media-advertising-fundamentals) `beginner`
+4. [Advertising with Facebook](https://www.coursera.org/learn/advertising-with-facebook) `beginner`
 5. [Measure and Optimize Social Media Marketing Campaigns](https://www.coursera.org/learn/measure-and-optimize-social-media-marketing-campaigns) `beginner`
 ### IE Business School
 #### [Branding: The Creative Journey Specialization](https://www.coursera.org/specializations/branding-the-creative-journey)
@@ -1652,6 +1652,7 @@
 #### [Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations)
 1. [Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing)
 ### University of Virginia
+ - [Artificial Intelligence in Marketing](https://www.coursera.org/learn/uva-darden-artificial-intelligence-marketing) `beginner`
  - [Marketing Analytics](https://www.coursera.org/learn/uva-darden-market-analytics) `beginner`
 ### University of Virginia, BCG
 #### [Pricing Strategy Optimization Specialization](https://www.coursera.org/specializations/uva-darden-bcg-pricing-strategy)
@@ -2131,14 +2132,14 @@
 4. [Using JavaScript, JQuery, and JSON in Django](https://www.coursera.org/learn/django-javascript-jquery-json) `intermediate`
 #### [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications)
 1. [Building Web Applications in PHP](https://www.coursera.org/learn/web-applications-php) `intermediate`
+1. [JavaScript, jQuery, and JSON](https://www.coursera.org/learn/javascript-jquery-json) `intermediate`
 2. [Introduction to Structured Query Language (SQL)](https://www.coursera.org/learn/intro-sql) `intermediate`
 3. [Building Database Applications in PHP](https://www.coursera.org/learn/database-applications-php) `intermediate`
-4. [JavaScript, jQuery, and JSON](https://www.coursera.org/learn/javascript-jquery-json) `intermediate`
 #### [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
+1. [Interactivity with JavaScript](https://www.coursera.org/learn/javascript)
 1. [Introduction to HTML5](https://www.coursera.org/learn/html)
+2. [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign)
 2. [Introduction to CSS3](https://www.coursera.org/learn/introcss)
-3. [Interactivity with JavaScript](https://www.coursera.org/learn/javascript)
-4. [Advanced Styling with Responsive Design](https://www.coursera.org/learn/responsivedesign)
 5. [Web Design for Everybody Capstone](https://www.coursera.org/learn/web-design-project)
 ### University of New Mexico
  - [Web Application Development: Basic Concepts](https://www.coursera.org/learn/web-app)
@@ -2297,6 +2298,7 @@
  - [Scheduling Selenium TestNG tests via Jenkins CI/CD tool](https://www.coursera.org/learn/scheduling-selenium-testng-tests-via-ci-cd-tools-jenkins) `beginner`
  - [Selenium Grid - Running Selenium tests in parallel](https://www.coursera.org/learn/selenium-grid-running-selenium-tests-in-parallel) `beginner`
  - [Source control management for test automation with Git](https://www.coursera.org/learn/source-control-management-test-automation-git) `beginner`
+ - [SQL Functions](https://www.coursera.org/learn/sql-functions) `beginner`
  - [SQL Joins](https://www.coursera.org/learn/sql-joins) `beginner`
  - [Starting GUI Programming with JavaFX](https://www.coursera.org/learn/gui-programming-javafx) `intermediate`
  - [Testing and Debugging Python](https://www.coursera.org/learn/testing-and-debugging-python) `intermediate`
@@ -2683,20 +2685,26 @@
 1. [End-to-End Machine Learning with TensorFlow on GCP](https://www.coursera.org/learn/end-to-end-ml-tensorflow-gcp) `advanced`
 ### IBM
  - [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone) `intermediate`
+ - [Bases de datos y SQL para ciencia de datos](https://www.coursera.org/learn/sql-para-ciencia-de-datos) `beginner`
  - [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python) `beginner`
  - [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology) `beginner`
  - [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos) `beginner`
  - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) `intermediate`
  - [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science) `beginner`
  - [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm) `beginner`
+ - [Herramientas para la ciencia de datos](https://www.coursera.org/learn/herramientas-para-la-ciencia-de-datos) `beginner`
  - [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics) `beginner`
+ - [Metodología de la ciencia de datos](https://www.coursera.org/learn/metodologia-de-la-ciencia-de-datos) `beginner`
  - [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai) `beginner`
  - [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) `beginner`
  - [What is Data Science?](https://www.coursera.org/learn/what-is-datascience) `beginner`
+ - [¿Qué es la ciencia de datos?](https://www.coursera.org/learn/que-es-la-ciencia-de-datos) `beginner`
 #### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
 1. [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds) `beginner`
+#### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
+7. [Visualización de Datos con Python](https://www.coursera.org/learn/visualizacion-de-datos-con-python) `intermediate`
 #### [IBM Data Analyst Professional Certificate](https://www.coursera.org/specializations/ibm-data-analyst)
-8. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project) `intermediate`
+1. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project) `intermediate`
 ### Indian School of Business
 #### [Business Technology Management Specialization](https://www.coursera.org/specializations/business-technology-managment)
 2. [Business Analytics and Digital Media](https://www.coursera.org/learn/business-analytics) `beginner`
@@ -2975,6 +2983,7 @@
  - [Basic Artificial Neural Networks in Python](https://www.coursera.org/learn/basic-artificial-neural-networks-in-python) `intermediate`
  - [Basic Image Classification with TensorFlow](https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification) `beginner`
  - [Basic Sentiment Analysis with TensorFlow](https://www.coursera.org/learn/basic-sentiment-analysis-tensorflow) `intermediate`
+ - [Bayesian Optimization with Python](https://www.coursera.org/learn/bayesian-optimization-python) `intermediate`
  - [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/learn/data-science-streamlit-python) `intermediate`
  - [Build a Deep Learning Based Image Classifier with R](https://www.coursera.org/learn/deep-learning-image-classifier-r) `intermediate`
  - [Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/learn/machine-learning-streamlit-python) `intermediate`
@@ -3167,11 +3176,13 @@
 2. [Advanced Machine Learning and Signal Processing](https://www.coursera.org/learn/advanced-machine-learning-signal-processing) `advanced`
 3. [Applied AI with DeepLearning](https://www.coursera.org/learn/ai) `advanced`
 4. [Advanced Data Science Capstone](https://www.coursera.org/learn/advanced-data-science-capstone) `advanced`
+#### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
+8. [Aprendizaje Automático con Python](https://www.coursera.org/learn/aprendizaje-automatico-con-python) `intermediate`
 #### [IBM AI Engineering Professional Certificate](https://www.coursera.org/specializations/ai-engineer)
+1. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow) `intermediate`
 2. [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/learn/machine-learning-big-data-apache-spark) `intermediate`
 3. [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) `intermediate`
 4. [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch) `intermediate`
-5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow) `intermediate`
 6. [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone) `advanced`
 #### [IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow)
 1. [AI Workflow: Business Priorities and Data Ingestion](https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion) `intermediate`
@@ -3191,8 +3202,8 @@
 1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) `beginner`
 3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) `intermediate`
 #### [TensorFlow 2 for Deep Learning Specialization](https://www.coursera.org/specializations/tensorflow2-deeplearning)
+1. [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2) `intermediate`
 1. [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2) `intermediate`
-2. [Customising your models with TensorFlow 2](https://www.coursera.org/learn/customising-models-tensorflow2) `intermediate`
 3. [Probabilistic Deep Learning with TensorFlow 2](https://www.coursera.org/learn/probabilistic-deep-learning-with-tensorflow2) `advanced`
 ### Johns Hopkins University
  - [Practical Machine Learning](https://www.coursera.org/learn/practical-machine-learning)
@@ -3788,8 +3799,8 @@
 ### University of Michigan
  - [Mindware: Critical Thinking for the Information Age](https://www.coursera.org/learn/mindware) `beginner`
 #### [Survey Data Collection and Analytics  Specialization](https://www.coursera.org/specializations/data-collection)
-2. [Data Collection: Online, Telephone and Face-to-face](https://www.coursera.org/learn/data-collection-methods) `beginner`
-3. [Questionnaire Design for Social Surveys](https://www.coursera.org/learn/questionnaire-design)
+1. [Data Collection: Online, Telephone and Face-to-face](https://www.coursera.org/learn/data-collection-methods) `beginner`
+2. [Questionnaire Design for Social Surveys](https://www.coursera.org/learn/questionnaire-design)
 4. [Sampling People, Networks and Records](https://www.coursera.org/learn/sampling-methods) `beginner`
 ### University of Michigan, University of Maryland, College Park
 7. [Survey Data Collection and Analytics Project (Capstone)](https://www.coursera.org/learn/survey-data-capstone)
@@ -3978,6 +3989,7 @@
  - [Lecture Series for Preventing and Controlling COVID-19](https://www.coursera.org/learn/covid-19lectureseries) `beginner`
 ### Yale University
  - [Essentials of Global Health](https://www.coursera.org/learn/essentials-global-health)
+ - [Global Quality Maternal and Newborn Care](https://www.coursera.org/learn/global-quality-maternal-and-newborn-care) `intermediate`
  - [Health Behavior Change: From Evidence to Action](https://www.coursera.org/learn/health-behavior-change) `beginner`
 #### [Climate Change and Health: From Science to Action Specialization](https://www.coursera.org/specializations/climate-change-and-health)
 1. [Introduction to Climate Change and Health](https://www.coursera.org/learn/introduction-climate-change-health) `beginner`
@@ -4185,6 +4197,7 @@
 1. [Big Data Emerging Technologies](https://www.coursera.org/learn/big-data-emerging-technologies) `beginner`
 ## Networking
 ### Coursera Project Network
+ - [Configure and Test Basic Network Connectivity](https://www.coursera.org/learn/configure-test-basic-network-connectivity-ccna-1-2) `intermediate`
  - [Design and Simulate Smart Home Networks in Packet Tracer](https://www.coursera.org/learn/design-simulate-smart-home-networks-packet-tracer) `intermediate`
  - [How To Build a Network Topology Using GNS3](https://www.coursera.org/learn/how-to-build-a-network-topology-using-gns3) `beginner`
  - [Introduction to Networks and Cisco Devices](https://www.coursera.org/learn/ccna-introduction-networks-cisco-devices) `intermediate`
@@ -5199,7 +5212,7 @@
 3. [Business Opportunities and Risks in a Globalized Economy](https://www.coursera.org/learn/business-opportunities-and-risks-in-a-globalized-economy) `intermediate`
 ### Johns Hopkins University
 #### [Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy)
-1. [What are the Chances? Probability and Uncertainty in Statistics](https://www.coursera.org/learn/chances-probability-uncertainty-statistics) `intermediate`
+4. [What are the Chances? Probability and Uncertainty in Statistics](https://www.coursera.org/learn/chances-probability-uncertainty-statistics) `intermediate`
 5. [Data Literacy Capstone – Evaluating Research](https://www.coursera.org/learn/data-literacy-capstone-evaluating-research) `intermediate`
 ### National Research University Higher School of Economics
  - [Economics of Transition and Emerging Markets](https://www.coursera.org/learn/economics-transition-emerging-markets) `beginner`

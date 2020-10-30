@@ -67,6 +67,7 @@
  - [Essential Cloud Infrastructure: Foundation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-foundation-jp) `intermediate`
  - [Getting Started with Google Kubernetes Engine 日本語版](https://www.coursera.org/learn/google-kubernetes-engine-jp) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure 日本語版](https://www.coursera.org/learn/gcp-fundamentals-jp) `intermediate`
+ - [Managing Change when Moving to Google Cloud 日本語版](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-jp) `beginner`
  - [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
  - [Optimizing Your Google Cloud Platform (GCP) Costs 日本語版](https://www.coursera.org/learn/gcp-cost-optimization-jp) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`

@@ -142,6 +142,7 @@
 # Health
 > - [Basic Science](#basic-science)
 > - [Health Informatics](#health-informatics)
+> - [Healthcare Management](#healthcare-management)
 > - [Nutrition](#nutrition)
 > - [Patient Care](#patient-care)
 > - [Psychology](#psychology)
@@ -164,6 +165,9 @@
 ### Peking University
  - [医学统计学与SPSS软件（基础篇）](https://www.coursera.org/learn/spss-ruanjian)
  - [生物信息学: 导论与方法](https://www.coursera.org/learn/sheng-wu-xin-xi-xue)
+## Healthcare Management
+### Shanghai Jiao Tong University
+ - [循序渐进练瑜伽](https://www.coursera.org/learn/yoga-sjtu) `beginner`
 ## Nutrition
 ### Nanjing University
  - [营养与健康](https://www.coursera.org/learn/yingyang-jiankang)
