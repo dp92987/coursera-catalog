@@ -103,6 +103,8 @@
 #### [Fundamentos Empresariales  Specialization](https://www.coursera.org/specializations/wharton-fundamentos-empresariales)
 5. [Proyecto de Fundamentos Empresariales de Wharton](https://www.coursera.org/learn/wharton-proyecto-final-empresariales)
 ## Business Strategy
+### Coursera Project Network
+ - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
 ### DeepLearning.AI
  - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es) `beginner`
 ### Google Cloud
@@ -308,8 +310,7 @@
 #### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
 4. [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final) `intermediate`
 ### IBM
-#### [Fundamentos de IA para Todos Specialization](https://www.coursera.org/specializations/fundamentos-de-ia-para-todos)
-3. [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
+ - [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
 ### Universidad Autónoma Metropolitana
  - [Rebo-binario](https://www.coursera.org/learn/rebo-binario) `beginner`
 ### Universidad de Chile
@@ -410,8 +411,8 @@
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
 ### IBM
+ - [Python para Data Science y AI](https://www.coursera.org/learn/python-para-data-science-y-ai) `beginner`
 #### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
-1. [Python para Data Science y AI](https://www.coursera.org/learn/python-para-data-science-y-ai) `beginner`
 6. [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
 9. [Ciencia de Datos Aplicada - Curso Capstone](https://www.coursera.org/learn/ciencia-de-datos-aplicada-cuso-capstone) `intermediate`
 ### Universidad Austral
@@ -441,9 +442,11 @@
 4. [Feature Engineering en Español](https://www.coursera.org/learn/feature-engineering-es) `intermediate`
 5. [Art and Science of Machine Learning en Español](https://www.coursera.org/learn/art-science-ml-es) `intermediate`
 ### IBM
-#### [Fundamentos de IA para Todos Specialization](https://www.coursera.org/specializations/fundamentos-de-ia-para-todos)
-1. [Introducción a La Inteligencia Artificial (IA)](https://www.coursera.org/learn/introduccion-a-la-inteligencia-artificial) `beginner`
-2. [Iniciación A La IA con IBM Watson](https://www.coursera.org/learn/aprenda-ia-con-ibm-watson) `beginner`
+ - [Iniciación A La IA con IBM Watson](https://www.coursera.org/learn/aprenda-ia-con-ibm-watson) `beginner`
+ - [Introducción a La Inteligencia Artificial (IA)](https://www.coursera.org/learn/introduccion-a-la-inteligencia-artificial) `beginner`
+#### [Bases de Inteligencia Artificial para Todos Specialization](https://www.coursera.org/specializations/bases-de-inteligencia-artificial-para-todos)
+5. [Creación de aplicaciones de IA con las API de Watson](https://www.coursera.org/learn/creacion-de-aplicaciones-de-ia-con-las-api-de-watson) `intermediate`
+6. [Introducción a la Visión Artificial con Watson y OpenCV](https://www.coursera.org/learn/introduccion-a-la-vision-artificial-con-watson-y-opencv) `beginner`
 ## Probability and Statistics
 ### Universidad Austral
  - [Estadística aplicada a los negocios](https://www.coursera.org/learn/estadistica-aplicada-negocios) `beginner`

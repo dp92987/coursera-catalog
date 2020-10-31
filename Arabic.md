@@ -9,6 +9,7 @@
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
+> - [Entrepreneurship](#entrepreneurship)
 > - [Leadership and Management](#leadership-and-management)
 > - [Marketing](#marketing)
 ## Business Essentials
@@ -32,6 +33,9 @@
 ### University of Virginia
  - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar) `beginner`
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar) `beginner`
+## Entrepreneurship
+### Coursera Project Network
+ - [مقدمة الى تطوير المنتجات الجديدة للشركات الصغيرة والمتوسطة](https://www.coursera.org/learn/new-product-dev-sme-arabic) `beginner`
 ## Leadership and Management
 ### BCG, University of Virginia
  - [التحوّل الرقمي](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-ar) `beginner`
