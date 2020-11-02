@@ -444,7 +444,6 @@
 ### Macquarie University
  - [Excel Fundamentals for Data Analysis](https://www.coursera.org/learn/excel-data-analysis-fundamentals) `intermediate`
 #### [Analysing: Numeric and digital literacies Specialization](https://www.coursera.org/specializations/analysing-numeric-digital-literacies)
-1. [Management and financial accounting: Know your numbers 1](https://www.coursera.org/learn/management-accounting) `beginner`
 3. [Business intelligence and data analytics: Generate insights](https://www.coursera.org/learn/business-intelligence-data-analytics)
 #### [Excel Skills for Business Specialization](https://www.coursera.org/specializations/excel)
 1. [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials) `beginner`
@@ -483,7 +482,6 @@
 1. [Supply Chain Logistics](https://www.coursera.org/learn/supply-chain-logistics) `beginner`
 ### Saint Petersburg State University
  - [Doing Business in Russia](https://www.coursera.org/learn/business-russia) `beginner`
- - [Legal aspects of conducting business in Russia](https://www.coursera.org/learn/legal-business-russia) `beginner`
 ### Salesforce, SV Academy
 #### [Salesforce Sales Development Representative Professional Certificate](https://www.coursera.org/specializations/sales-development-representative)
 1. [Groundwork for Success in Sales Development](https://www.coursera.org/learn/sales-success) `beginner`
@@ -1412,7 +1410,6 @@
 1. [Project Launch](https://www.coursera.org/learn/project-management) `beginner`
 2. [Project Planning](https://www.coursera.org/learn/project-planning-1) `beginner`
 3. [Project Execution](https://www.coursera.org/learn/project-execution) `beginner`
-4. [Project Practicum with Multiple Projects](https://www.coursera.org/learn/project-practicum-with-multiple-projects) `beginner`
 ### University of Colorado Boulder
  - [Teamwork Skills: Communicating Effectively in Groups](https://www.coursera.org/learn/teamwork-skills-effective-communication) `beginner`
 #### [Leading Sustainable Community Transformation Specialization](https://www.coursera.org/specializations/sustainable-transformation)
@@ -2331,6 +2328,7 @@
  - [Restful Web Service Spring Boot Visual Studio Code Gradle](https://www.coursera.org/learn/restful-web-service-spring-boot-visual-studio-coder-gradle) `intermediate`
  - [Scheduling Selenium TestNG tests via Jenkins CI/CD tool](https://www.coursera.org/learn/scheduling-selenium-testng-tests-via-ci-cd-tools-jenkins) `beginner`
  - [Selenium Grid - Running Selenium tests in parallel](https://www.coursera.org/learn/selenium-grid-running-selenium-tests-in-parallel) `beginner`
+ - [Set up a Continuous Integration (CI) workflow in CIrcleCI](https://www.coursera.org/learn/setup-continuous-integration-ci-workflow-in-circleci) `intermediate`
  - [Snake game in Python: use Pygame to build your game](https://www.coursera.org/learn/snakegame-python-pygame) `intermediate`
  - [Source control management for test automation with Git](https://www.coursera.org/learn/source-control-management-test-automation-git) `beginner`
  - [SQL Functions](https://www.coursera.org/learn/sql-functions) `beginner`
@@ -2513,11 +2511,10 @@
 4. [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b)
 ### University of Colorado System
  - [C# Programming for Unity Game Development Capstone Project](https://www.coursera.org/learn/programming-unity-game-development-project) `intermediate`
+ - [Data Structures and Design Patterns for Game Developers](https://www.coursera.org/learn/data-structures-design-patterns) `intermediate`
  - [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games) `intermediate`
  - [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity) `beginner`
  - [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity) `intermediate`
-#### [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
-4. [Data Structures and Design Patterns for Game Developers](https://www.coursera.org/learn/data-structures-design-patterns) `intermediate`
 #### [Computational Thinking with Beginning C Programming Specialization](https://www.coursera.org/specializations/computational-thinking-c-programming)
 1. [Algorithms, Data Collection, and Starting to Code](https://www.coursera.org/learn/algorithms-data-collection-code) `beginner`
 2. [Data Analysis and Representation, Selection and Iteration](https://www.coursera.org/learn/data-analysis-representation-selection-iteration) `beginner`
@@ -2853,7 +2850,6 @@
 2. [Introduction to Clinical Data](https://www.coursera.org/learn/introduction-clinical-data) `beginner`
 ### The Hong Kong University of Science and Technology
  - [Understanding China, 1700-2000: A Data Analytic Approach, Part 1](https://www.coursera.org/learn/understanding-china-history-part-1)
- - [Understanding China, 1700-2000: A Data Analytic Approach, Part 2](https://www.coursera.org/learn/understanding-china-history-part-2)
 ### The Pennsylvania State University
  - [Maps and the Geospatial Revolution](https://www.coursera.org/learn/geospatial) `beginner`
 ### The University of Edinburgh
@@ -2862,7 +2858,6 @@
  - [Research Data Management and Sharing](https://www.coursera.org/learn/data-management)
 ### Universidad Nacional Autónoma de México
 #### [Database systems Specialization](https://www.coursera.org/specializations/database-systems)
-1. [Relational database systems](https://www.coursera.org/learn/relational-database) `intermediate`
 2. [Business intelligence and data warehousing](https://www.coursera.org/learn/business-intelligence-data-warehousing) `intermediate`
 3. [NoSQL systems](https://www.coursera.org/learn/nosql-databases) `intermediate`
 4. [Designing data-intensive applications](https://www.coursera.org/learn/data-intensive-applications) `intermediate`
@@ -2980,7 +2975,6 @@
  - [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics) `intermediate`
 #### [Data Science at Scale Specialization](https://www.coursera.org/specializations/data-science)
 1. [Data Manipulation at Scale: Systems and Algorithms](https://www.coursera.org/learn/data-manipulation)
-2. [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics)
 3. [Communicating Data Science Results](https://www.coursera.org/learn/data-results)
 4. [Data Science at Scale - Capstone Project](https://www.coursera.org/learn/datasci-capstone)
 #### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
@@ -4074,8 +4068,6 @@
 2. [Drug Development](https://www.coursera.org/learn/drug-development) `beginner`
 ### University of California, Irvine
  - [Extracellular Vesicles in Health and Disease](https://www.coursera.org/learn/extracellular-vesicles-health-disease) `intermediate`
-### University of Cape Town
- - [Understanding Clinical Research: Behind the Statistics](https://www.coursera.org/learn/clinical-research)
 ### University of Geneva
  - [Precision Medicine](https://www.coursera.org/learn/precision-medicine) `intermediate`
 ### University of Illinois at Urbana-Champaign
@@ -4593,7 +4585,6 @@
 ### The Hong Kong University of Science and Technology
  - [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) `beginner`
  - [Fibonacci Numbers and the Golden Ratio](https://www.coursera.org/learn/fibonacci) `beginner`
- - [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) `beginner`
  - [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) `beginner`
 ### The University of Sydney
  - [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) `intermediate`
@@ -4844,7 +4835,6 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
- - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Real-Time Mission-Critical Systems Design](https://www.coursera.org/learn/real-time-mission-critical-systems-design) `intermediate`
@@ -4859,15 +4849,16 @@
 3. [Pressure, Force, Motion, and Humidity Sensors](https://www.coursera.org/learn/pressure-force-motion-humidity-sensors) `intermediate`
 4. [Sensor Manufacturing and Process Control](https://www.coursera.org/learn/sensor-manufacturing-process-control) `intermediate`
 #### [FPGA Design for Embedded Systems Specialization](https://www.coursera.org/specializations/fpga-design)
+1. [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) `intermediate`
 1. [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems) `intermediate`
+2. [FPGA Capstone:  Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) `intermediate`
 2. [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) `intermediate`
-3. [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) `intermediate`
-4. [FPGA Capstone:  Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) `intermediate`
 #### [Optical Engineering Specialization](https://www.coursera.org/specializations/optical-engineering)
 1. [First Order Optical System Design](https://www.coursera.org/learn/first-order-optical-system-design) `advanced`
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
+1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
@@ -5160,7 +5151,6 @@
  - [Imagining Other Earths](https://www.coursera.org/learn/life-on-other-planets)
 ### Rice University
 #### [Introduction to Mechanics Specialization](https://www.coursera.org/specializations/introduction-to-mechanics)
-1. [Physics 101 - Forces and Kinematics](https://www.coursera.org/learn/physics-101-forces-kinematics) `intermediate`
 2. [Physics 101 - Energy and Momentum](https://www.coursera.org/learn/physics-101-energy-momentum) `intermediate`
 ### Rutgers the State University of New Jersey
  - [Analyzing the Universe](https://www.coursera.org/learn/analyze) `beginner`
@@ -5551,7 +5541,6 @@
  - [Soul Beliefs: Causes and Consequences - Unit 1: Historical Foundations](https://www.coursera.org/learn/soulbeliefs)
 ### Saint Petersburg State University
  - [Political Governance and Public Policy in Russia](https://www.coursera.org/learn/political-governance-russia) `beginner`
- - [Russia and Nuclear Arms Control](https://www.coursera.org/learn/russia-and-nuclear-arms-control) `beginner`
 ### Sciences Po
  - [Cities are back in town : sociologie urbaine pour un monde globalisé](https://www.coursera.org/learn/developpement-urbain) `beginner`
  - [Cities are back in town : sociología urbana para un mundo globalizado](https://www.coursera.org/learn/desarrollo-urbano) `beginner`

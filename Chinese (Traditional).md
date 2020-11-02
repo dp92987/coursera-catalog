@@ -29,7 +29,6 @@
 ### National Taiwan University
  - [東亞儒學：孟子一(East Asian Confucianisms: Mencius (1))](https://www.coursera.org/learn/mencius1) `beginner`
  - [東亞儒學：孟子二 (East Asian Confucianisms: Mencius(2))](https://www.coursera.org/learn/mencius2)
- - [東亞儒家：人文精神一(East Asian Confucianisms: Humanism (1))](https://www.coursera.org/learn/east-asian-confucianisms-humanism1)
  - [東亞儒家：人文精神二(East Asian Confucianisms: Humanism (2))](https://www.coursera.org/learn/east-asian-confucianisms-humanism2) `intermediate`
  - [活用希臘哲學 (Understanding the Greek Philosophy)](https://www.coursera.org/learn/xila-zhexue) `beginner`
  - [紅樓夢(The Red Chamber Dream)](https://www.coursera.org/learn/the-red-chamber-dream)

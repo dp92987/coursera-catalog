@@ -15,8 +15,6 @@
 > - [Music and Art](#music-and-art)
 > - [Philosophy](#philosophy)
 ## History
-### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
- - [Диаспоры в глобальной политике](https://www.coursera.org/learn/diaspori-v-globalnoi-politike) `beginner`
 ### National Research University Higher School of Economics
  - [История и теория медиа (History and theory of media)](https://www.coursera.org/learn/teoriya-smi) `beginner`
  - [История международных отношений](https://www.coursera.org/learn/int-relations-history) `beginner`
@@ -140,7 +138,6 @@
 3. [Инвестиции в акции](https://www.coursera.org/learn/investicii-akcii)
 4. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
 5. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
-6. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
 ### Sberbank Corporate University
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -464,7 +461,6 @@
  - [Создание научно-технического текста](https://www.coursera.org/learn/nauchno-texnicheski-text)
 ### National Research Tomsk State University
  - [Деловой этикет: от Слов к Делу](https://www.coursera.org/learn/delovoy-etiket-ot-slov-k-delu)
- - [Практика разрешения конфликтов. Я - семья - работа - общество](https://www.coursera.org/learn/conflict-resolution) `beginner`
  - [Психология призвания](https://www.coursera.org/learn/psykhologiya-prizvaniya) `intermediate`
  - [Психология признания и самозанятости](https://www.coursera.org/learn/psihologiya-priznaniya-i-samozanyatosti) `beginner`
  - [Эксподизайн: проектирование музейной экспозиции в диалогах дизайнера и музеолога](https://www.coursera.org/learn/ekspodizayn) `beginner`
