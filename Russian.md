@@ -15,6 +15,8 @@
 > - [Music and Art](#music-and-art)
 > - [Philosophy](#philosophy)
 ## History
+### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
+ - [Диаспоры в глобальной политике](https://www.coursera.org/learn/diaspori-v-globalnoi-politike) `beginner`
 ### National Research University Higher School of Economics
  - [История и теория медиа (History and theory of media)](https://www.coursera.org/learn/teoriya-smi) `beginner`
  - [История международных отношений](https://www.coursera.org/learn/int-relations-history) `beginner`
@@ -128,16 +130,15 @@
 #### [Корпоративные финансы и стоимость компании Specialization](https://www.coursera.org/specializations/korporativnyye-finansy)
 1. [Оценка стоимости компании](https://www.coursera.org/learn/ocenka-stoimosti-kompanii)
 2. [Структура капитала компании](https://www.coursera.org/learn/struktura-kapitala-kompanii)
-3. [Инвестиционные проекты, слияния и поглощения](https://www.coursera.org/learn/sliyaniye-pogloshcheniye)
 4. [Венчурный капитал](https://www.coursera.org/learn/venchurnyj-kapital)
 5. [Управление стоимостью компании](https://www.coursera.org/learn/upravlenie-stoimostju-kompanii) `intermediate`
 6. [Мастерство создания стоимости компании](https://www.coursera.org/learn/sozdanie-stoimosti-kompanii) `intermediate`
 #### [Финансовые инструменты для частного инвестора Specialization](https://www.coursera.org/specializations/finansovyye-instrumenty)
 1. [Управление личными финансами](https://www.coursera.org/learn/upravlenie-lichnymi-finansami)
-2. [Инвестиции в облигации](https://www.coursera.org/learn/investicii-obligacii)
 3. [Инвестиции в акции](https://www.coursera.org/learn/investicii-akcii)
 4. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
 5. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
+6. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
 ### Sberbank Corporate University
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -155,7 +156,6 @@
  - [Менеджмент профессиональной траектории](https://www.coursera.org/learn/management-proftraektorii) `beginner`
  - [Организационная диагностика](https://www.coursera.org/learn/organizatsionnaya-diagnostika) `beginner`
  - [Прикладное управление рисками](https://www.coursera.org/learn/applied-risk-management) `beginner`
- - [Универсальные практики влияния](https://www.coursera.org/learn/praktiki-vliyaniya) `intermediate`
 ### National Research Tomsk State University, ScrumTrek, E-Learning Development Fund
  - [Agile и Scrum в работе над проектами и продуктами](https://www.coursera.org/learn/upravleniya-proektami-agile-scrum) `beginner`
 ### National Research Tomsk State University, Международная Академия исследования лжи, E-Learning Development Fund
@@ -164,8 +164,8 @@
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 1. [Психотехнологии работы с персоналом (Psychotechnologies of personnel management)](https://www.coursera.org/learn/psikhotekhnologii-raboty) `beginner`
 ## Marketing
-### E-Learning Development Fund, Ingate Management and Business Academy
- - [Интернет-маркетолог. Лидогенерация](https://www.coursera.org/learn/internet-marketer-lead-generation) `beginner`
+### IMBA)
+ - [Интернет-маркетинг. Лидогенерация (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/imba-internet-marketing-lead-generation) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Брендинг в инновациях - новая коммуникационная реальность](https://www.coursera.org/learn/brending-v-innovaciyah)
  - [Маркетинг инновационных продуктов](https://www.coursera.org/learn/marketing-innov-produktov) `beginner`
@@ -238,9 +238,9 @@
 3. [Многопоточность](https://www.coursera.org/learn/ios-multithreading) `intermediate`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Разработка интерфейсов: вёрстка и JavaScript Specialization](https://www.coursera.org/specializations/razrabotka-interfeysov)
-1. [JavaScript, часть 1: основы и функции](https://www.coursera.org/learn/javascript-osnovy-i-funktsii) `intermediate`
-2. [Основы HTML и CSS](https://www.coursera.org/learn/snovy-html-i-css) `beginner`
-3. [Тонкости верстки](https://www.coursera.org/learn/tonkosti-verstki) `intermediate`
+1. [Основы HTML и CSS](https://www.coursera.org/learn/snovy-html-i-css) `beginner`
+2. [Тонкости верстки](https://www.coursera.org/learn/tonkosti-verstki) `intermediate`
+3. [JavaScript, часть 1: основы и функции](https://www.coursera.org/learn/javascript-osnovy-i-funktsii) `intermediate`
 4. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 5. [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt) `advanced`
 ## Software Development
@@ -394,6 +394,8 @@
 ## Data Management
 ### Moscow Institute of Physics and Technology, Mail.Ru Group
  - [Введение в информационный поиск](https://www.coursera.org/learn/vvedeniye-informatsionnyy-poisk) `intermediate`
+### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
+ - [Цифровые аспекты современных международных отношений](https://www.coursera.org/learn/casmo)
 ### Saint Petersburg State University
 #### [Стартап versus Цифровая трансформация Specialization](https://www.coursera.org/specializations/startup-vs-digtrans)
 5. [Практики цифровой трансформации](https://www.coursera.org/learn/pracdig)
@@ -461,6 +463,7 @@
  - [Создание научно-технического текста](https://www.coursera.org/learn/nauchno-texnicheski-text)
 ### National Research Tomsk State University
  - [Деловой этикет: от Слов к Делу](https://www.coursera.org/learn/delovoy-etiket-ot-slov-k-delu)
+ - [Практика разрешения конфликтов. Я - семья - работа - общество](https://www.coursera.org/learn/conflict-resolution) `beginner`
  - [Психология призвания](https://www.coursera.org/learn/psykhologiya-prizvaniya) `intermediate`
  - [Психология признания и самозанятости](https://www.coursera.org/learn/psihologiya-priznaniya-i-samozanyatosti) `beginner`
  - [Эксподизайн: проектирование музейной экспозиции в диалогах дизайнера и музеолога](https://www.coursera.org/learn/ekspodizayn) `beginner`
@@ -568,7 +571,6 @@
  - [Экономическая социология](https://www.coursera.org/learn/ekonomicheskaya-sociologiya)
 ### Saint Petersburg State University
  - [Международное трудовое право](https://www.coursera.org/learn/int-lab-law-ru)
- - [Управление брендами в цифровой экономике](https://www.coursera.org/learn/digitbrand)
 ## Education
 ### National Research Nuclear University MEPhI
  - [Научные тексты — учимся писать на русском и английском](https://www.coursera.org/learn/naychnie-teksti) `beginner`
@@ -577,11 +579,13 @@
 ### National Research Tomsk State University, Samara University
  - [Как читать фотографию](https://www.coursera.org/learn/kak-chitat-fotografiyu) `intermediate`
 ### National Research University Higher School of Economics
- - [Авторские школы](https://www.coursera.org/learn/authorschools) `beginner`
  - [Организационные практики и инструменты в работе лидера образовательной организации](https://www.coursera.org/learn/organizational-practices-and-instruments) `intermediate`
  - [Умная аналитика в управлении образованием](https://www.coursera.org/learn/smart-analytics-education) `intermediate`
 ## Governance and Society
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
+ - [КПЗС Часть 1](https://www.coursera.org/learn/kpzs1)
+ - [КПЗС Часть 2](https://www.coursera.org/learn/kpzs2)
+ - [КПЗС Часть 3](https://www.coursera.org/learn/kpzs3)
  - [Политическая география](https://www.coursera.org/learn/politicheskaya-geografiya) `beginner`
 ### National Research University Higher School of Economics
  - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`

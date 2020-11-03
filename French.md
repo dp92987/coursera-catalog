@@ -69,7 +69,6 @@
 ### ESSEC Business School
  - [Animer une séance collaborative](https://www.coursera.org/learn/animer-seance-collaborative) `beginner`
  - [Entreprise et changement climatique](https://www.coursera.org/learn/entreprise-changement-climatique) `beginner`
- - [L'avenir de la décision : connaître et agir en complexité](https://www.coursera.org/learn/lavenir-de-la-decision)
  - [L'excellence opérationnelle en pratique](https://www.coursera.org/learn/excellence-operationnelle) `beginner`
  - [L'innovation managériale en pratique](https://www.coursera.org/learn/innovation-manageriale) `beginner`
  - [Leadership d'excellence par le sport de haut niveau](https://www.coursera.org/learn/leadership-excellence-sport) `beginner`
@@ -203,7 +202,6 @@
  - [Systèmes d’Information Géographique - Partie 2](https://www.coursera.org/learn/sig-2) `beginner`
 ## Mechanical Engineering
 ### École Polytechnique Fédérale de Lausanne
- - [L'art des structures 1 : Câbles et arcs](https://www.coursera.org/learn/structures) `beginner`
  - [L'Art des Structures 2 : treillis, poutres, dalles et cadres](https://www.coursera.org/learn/structures2) `intermediate`
  - [Mécanique Lagrangienne](https://www.coursera.org/learn/mecanique-lagrangienne)
 ## Physics and Astronomy

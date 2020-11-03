@@ -141,7 +141,6 @@
 #### [Fundamentos Empresariales  Specialization](https://www.coursera.org/specializations/wharton-fundamentos-empresariales)
 1. [Introducción al Marketing](https://www.coursera.org/learn/wharton-introduccion-marketing)
 2. [Introducción a la Contabilidad Financiera](https://www.coursera.org/learn/wharton-contabilidad-financiera)
-3. [Introducción a la Gestión de Operaciones](https://www.coursera.org/learn/wharton-gestion-operaciones)
 4. [Introducción a las Finanzas Corporativas](https://www.coursera.org/learn/wharton-finanzas-corporativas)
 ## Entrepreneurship
 ### Goldman Sachs
@@ -362,6 +361,7 @@
  - [Creando simulaciones con python](https://www.coursera.org/learn/simulaciones-python) `intermediate`
  - [Implementando un motor con Alibaba Cloud y ElasticSearch](https://www.coursera.org/learn/alibabacloud-elastic) `beginner`
  - [Primeros pasos en Python](https://www.coursera.org/learn/primeros-pasos-python) `beginner`
+ - [Primeros pasos en SQL](https://www.coursera.org/learn/primeros-pasos-sql) `beginner`
  - [Programando un blockchain básico con Javascript](https://www.coursera.org/learn/blockchain-javascript) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Español Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-es)
@@ -399,6 +399,7 @@
  - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
+ - [Curso Completo de Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/curso-completo-machine-learning-microsoft-powerbi) `advanced`
  - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
  - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
@@ -411,10 +412,9 @@
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
 ### IBM
+ - [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
+ - [Ciencia de Datos Aplicada - Curso Capstone](https://www.coursera.org/learn/ciencia-de-datos-aplicada-cuso-capstone) `intermediate`
  - [Python para Data Science y AI](https://www.coursera.org/learn/python-para-data-science-y-ai) `beginner`
-#### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
-6. [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
-9. [Ciencia de Datos Aplicada - Curso Capstone](https://www.coursera.org/learn/ciencia-de-datos-aplicada-cuso-capstone) `intermediate`
 ### Universidad Austral
  - [Excel aplicado a los negocios (Nivel Avanzado)](https://www.coursera.org/learn/excel-aplicado-negocios-avanzado) `intermediate`
  - [Fundamentos de Excel para Negocios](https://www.coursera.org/learn/excel-para-negocios) `beginner`
@@ -433,6 +433,7 @@
  - [Diseñando modelos con Azure Machine Learning Studio](https://www.coursera.org/learn/modelos-azure-ml-studio) `beginner`
  - [Diseñando un bot con Azure LUIS](https://www.coursera.org/learn/bot-luis) `beginner`
  - [Generando modelos con Auto Machine Learning](https://www.coursera.org/learn/generando-modelos-automl) `intermediate`
+ - [Predicción de Ventas Pronosticando Tendencias](https://www.coursera.org/learn/prediccion-de-ventas-pronosticando-tendencias-en-google-sheets) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Español](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Español Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-es)
@@ -554,8 +555,6 @@
 ## Data Management
 ### Coursera Project Network
  - [Mejores prácticas para el procesamiento de datos en Big Data](https://www.coursera.org/learn/mejores-practicas-big-data) `intermediate`
-### Pontificia Universidad Católica de Chile
- - [Introducción a la Minería de Datos](https://www.coursera.org/learn/mineria-de-datos-introduccion) `beginner`
 ## Networking
 ### Crece con Google
 #### [Soporte de Tecnologías de la Información de Google Professional Certificate](https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google)

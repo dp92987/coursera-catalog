@@ -1,12 +1,6 @@
 # Turkish Courses
- - [Health](#health)
  - [Math and Logic](#math-and-logic)
  - [Personal Development](#personal-development)
-# Health
-> - [Patient Care](#patient-care)
-## Patient Care
-### Koç University
- - [İnfertilite Hemşireliği (Infertility Nursing)](https://www.coursera.org/learn/infertilite)
 # Math and Logic
 > - [Math and Logic](#math-and-logic)
 ## Math and Logic

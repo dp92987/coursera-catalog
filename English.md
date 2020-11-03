@@ -93,7 +93,6 @@
 ### University of Arizona
  - [Roman Art and Archaeology](https://www.coursera.org/learn/roman-art-archaeology)
 ### University of California, Santa Cruz
- - [Feminism and Social Justice](https://www.coursera.org/learn/feminism-social-justice) `beginner`
  - [Russian History: from Lenin to Putin](https://www.coursera.org/learn/russian-history-lenin-putin) `beginner`
  - [The Holocaust: The Destruction of European Jewry](https://www.coursera.org/learn/the-holocaust)
 ### University of Colorado Boulder
@@ -293,7 +292,6 @@
 ### University of Rochester
  - [History of Rock, Part One](https://www.coursera.org/learn/history-of-rock)
  - [History of Rock, Part Two](https://www.coursera.org/learn/history-of-rock-2)
- - [The Blues: Understanding and Performing an American Art Form](https://www.coursera.org/learn/the-blues)
  - [The Music of the Beatles](https://www.coursera.org/learn/the-beatles)
  - [The Music of the Rolling Stones, 1962-1974](https://www.coursera.org/learn/rolling-stones)
 ### University of Zurich
@@ -374,7 +372,6 @@
 ### Utrecht University
  - [Inequality and Democracy](https://www.coursera.org/learn/inequality-and-democracy) `beginner`
 ### Wesleyan University
- - [How to Change the World](https://www.coursera.org/learn/world-change) `beginner`
  - [The Modern and the Postmodern (Part 1)](https://www.coursera.org/learn/modern-postmodern-1)
 ### Yonsei University
  - [Re-imaging God in Korean Context](https://www.coursera.org/learn/god-korean-context) `beginner`
@@ -444,6 +441,7 @@
 ### Macquarie University
  - [Excel Fundamentals for Data Analysis](https://www.coursera.org/learn/excel-data-analysis-fundamentals) `intermediate`
 #### [Analysing: Numeric and digital literacies Specialization](https://www.coursera.org/specializations/analysing-numeric-digital-literacies)
+1. [Management and financial accounting: Know your numbers 1](https://www.coursera.org/learn/management-accounting) `beginner`
 3. [Business intelligence and data analytics: Generate insights](https://www.coursera.org/learn/business-intelligence-data-analytics)
 #### [Excel Skills for Business Specialization](https://www.coursera.org/specializations/excel)
 1. [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials) `beginner`
@@ -482,6 +480,7 @@
 1. [Supply Chain Logistics](https://www.coursera.org/learn/supply-chain-logistics) `beginner`
 ### Saint Petersburg State University
  - [Doing Business in Russia](https://www.coursera.org/learn/business-russia) `beginner`
+ - [Legal aspects of conducting business in Russia](https://www.coursera.org/learn/legal-business-russia) `beginner`
 ### Salesforce, SV Academy
 #### [Salesforce Sales Development Representative Professional Certificate](https://www.coursera.org/specializations/sales-development-representative)
 1. [Groundwork for Success in Sales Development](https://www.coursera.org/learn/sales-success) `beginner`
@@ -497,7 +496,6 @@
 ### University of California, Irvine
  - [Effective Problem-Solving and Decision-Making](https://www.coursera.org/learn/problem-solving)
  - [High-Impact Business Writing](https://www.coursera.org/learn/business-writing)
- - [Introduction to Learning Transfer and Life Long Learning (3L)](https://www.coursera.org/learn/intro-learning-transfer) `beginner`
  - [The Art of Negotiation](https://www.coursera.org/learn/art-of-negotiation)
 #### [Career Success Specialization](https://www.coursera.org/specializations/career-success)
 2. [Work Smarter, Not Harder: Time Management for Personal & Professional Productivity](https://www.coursera.org/learn/work-smarter-not-harder)
@@ -576,7 +574,6 @@
 #### [Human Resource Management: HR for People Managers Specialization](https://www.coursera.org/specializations/human-resource-management)
 2. [Recruiting, Hiring, and Onboarding Employees](https://www.coursera.org/learn/recruiting-hiring-onboarding-employees)
 3. [Managing Employee Performance](https://www.coursera.org/learn/employee-performance)
-4. [Managing Employee Compensation](https://www.coursera.org/learn/compensation-management)
 ### University of Pennsylvania
  - [Financial Acumen for Non-Financial Managers](https://www.coursera.org/learn/finance-healthcare-managers) `beginner`
  - [Fundamentals of Quantitative Modeling](https://www.coursera.org/learn/wharton-quantitative-modeling)
@@ -709,7 +706,6 @@
 2. [Sales Strategy](https://www.coursera.org/learn/sales-strategy) `intermediate`
 3. [Models & Frameworks to Support Sales Planning](https://www.coursera.org/learn/models-frameworks-support-sales-planning) `intermediate`
 4. [Sales & Marketing Alignment](https://www.coursera.org/learn/sales-marketing-alignment) `intermediate`
-5. [Strategic Sales Management Final Project](https://www.coursera.org/learn/ssm-final-project) `intermediate`
 ### Google Cloud
  - [Business Transformation with Google Cloud](https://www.coursera.org/learn/business-transformation-google-cloud) `beginner`
  - [Google Cloud Product Fundamentals](https://www.coursera.org/learn/google-cloud-product-fundamentals) `beginner`
@@ -1006,7 +1002,6 @@
  - [Compare Stock Returns with Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets) `beginner`
  - [Construct Stock Market Indices](https://www.coursera.org/learn/construct-stock-market-indices) `advanced`
  - [Create a Budget with Google Sheets](https://www.coursera.org/learn/create-a-budget-with-google-sheets) `beginner`
- - [Create a Financial Statement using Google Sheets](https://www.coursera.org/learn/create-financial-statement-google-sheets) `beginner`
  - [Create a Simple Gantt Chart using Google Sheets](https://www.coursera.org/learn/create-gantt-chart-google-sheets) `beginner`
  - [Create a Simple Project Timeline in Google Sheets](https://www.coursera.org/learn/create-a-simple-project-timeline) `beginner`
  - [Discounted Cash Flow Modeling](https://www.coursera.org/learn/discounted-cash-flow-modeling) `intermediate`
@@ -1248,6 +1243,7 @@
  - [Create Online Employee Onboarding Course with Eduflow](https://www.coursera.org/learn/online-employee-onboarding-eduflow) `beginner`
  - [Create Training Videos with Powtoon](https://www.coursera.org/learn/create-training-videos-powtoon) `beginner`
  - [Creating a Customer Service Survey Using Google Forms](https://www.coursera.org/learn/create-customer-service-survey-google-forms) `beginner`
+ - [Critical Path Analysis Using Lucidchart](https://www.coursera.org/learn/critical-path-analysis-using-lucidchart) `intermediate`
  - [Data Visualization Using Google Sheets](https://www.coursera.org/learn/data-visualization-using-google-sheets) `beginner`
  - [Gmail: The Foundation To Accessing Google Apps](https://www.coursera.org/learn/gmail-foundation-to-google-apps) `beginner`
  - [Hiring and Onboarding Employees with ClickUp](https://www.coursera.org/learn/hiring-onboarding-employees-with-clickup) `intermediate`
@@ -1312,7 +1308,6 @@
 3. [Leadership, Motivation and Organizational Control](https://www.coursera.org/learn/leadership-motivation-organizational-control) `beginner`
 ### Johns Hopkins University
 #### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science)
-3. [Managing Data Analysis](https://www.coursera.org/learn/managing-data-analysis)
 5. [Executive Data Science Capstone](https://www.coursera.org/learn/executive-data-science-capstone)
 ### Macquarie University
 #### [Adapting: Career Development Specialization](https://www.coursera.org/specializations/adapting-career-development)
@@ -1410,6 +1405,7 @@
 1. [Project Launch](https://www.coursera.org/learn/project-management) `beginner`
 2. [Project Planning](https://www.coursera.org/learn/project-planning-1) `beginner`
 3. [Project Execution](https://www.coursera.org/learn/project-execution) `beginner`
+4. [Project Practicum with Multiple Projects](https://www.coursera.org/learn/project-practicum-with-multiple-projects) `beginner`
 ### University of Colorado Boulder
  - [Teamwork Skills: Communicating Effectively in Groups](https://www.coursera.org/learn/teamwork-skills-effective-communication) `beginner`
 #### [Leading Sustainable Community Transformation Specialization](https://www.coursera.org/specializations/sustainable-transformation)
@@ -1544,6 +1540,7 @@
  - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides) `beginner`
  - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva) `advanced`
  - [Create Infographics using Piktochart](https://www.coursera.org/learn/create-outstanding-infographics-using-piktochart) `beginner`
+ - [Create Swag Bag Inserts to Market your Business using Canva](https://www.coursera.org/learn/create-swag-bag-inserts-to-market-your-business-using-canva) `advanced`
  - [Design a Client Welcome Kit using Canva](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva) `advanced`
  - [Design a Factor Analysis Using Survey Data in Google Sheets](https://www.coursera.org/learn/design-a-factor-analysis-using-survey-data-in-google-sheets) `beginner`
  - [Design Online Course Printables using Canva](https://www.coursera.org/learn/design-online-course-printables-using-canva) `advanced`
@@ -1573,13 +1570,10 @@
 4. [Survey analysis to Gain Marketing Insights](https://www.coursera.org/learn/survey-analysis-marketing-insights)
 5. [Introduction to Social Media Analytics](https://www.coursera.org/learn/social-media-analytics-introduction)
 6. [Marketing Analytics Capstone Project](https://www.coursera.org/learn/marketing-analytics-project)
-### ESSEC Business School
-#### [Strategic Business Analytics Specialization](https://www.coursera.org/specializations/strategic-analytics)
-2. [Foundations of marketing analytics](https://www.coursera.org/learn/foundations-marketing-analytics)
 ### Facebook
 #### [Facebook Social Media Marketing Professional Certificate](https://www.coursera.org/specializations/facebook-social-media-marketing)
 1. [Introduction to Social Media Marketing](https://www.coursera.org/learn/social-media-marketing-introduction) `beginner`
-2. [Social Media Management](https://www.coursera.org/learn/social-media-management) `beginner`
+1. [Social Media Management](https://www.coursera.org/learn/social-media-management) `beginner`
 3. [Fundamentals of Social Media Advertising](https://www.coursera.org/learn/social-media-advertising-fundamentals) `beginner`
 4. [Advertising with Facebook](https://www.coursera.org/learn/advertising-with-facebook) `beginner`
 5. [Measure and Optimize Social Media Marketing Campaigns](https://www.coursera.org/learn/measure-and-optimize-social-media-marketing-campaigns) `beginner`
@@ -1615,7 +1609,6 @@
 4. [Content Strategy for Professionals: Ensuring Your Content's Impact](https://www.coursera.org/learn/effective-content-strategy)
 5. [Content Strategy for Professionals: Capstone Project](https://www.coursera.org/learn/content-strategy-project) `intermediate`
 #### [Social Media Marketing Specialization](https://www.coursera.org/specializations/social-media-marketing)
-1. [What is Social?](https://www.coursera.org/learn/what-is-social)
 2. [The Importance of Listening](https://www.coursera.org/learn/importance-of-listening)
 3. [Engagement & Nurture Marketing Strategies](https://www.coursera.org/learn/nurture-market-strategies)
 4. [Content, Advertising & Social IMC](https://www.coursera.org/learn/social-imc)
@@ -1925,7 +1918,6 @@
  - [Flush Out a Feature on Coursera in Miro](https://www.coursera.org/learn/coursera-feature-miro) `beginner`
  - [Getting Started in GIMP](https://www.coursera.org/learn/getting-started-in-gimp) `beginner`
  - [Getting Started with Azure DevOps Boards](https://www.coursera.org/learn/getting-started-azure-devops-boards) `beginner`
- - [How to Create Text Effects in GIMP](https://www.coursera.org/learn/how-to-create-text-effects-in-gimp) `intermediate`
  - [How to Design a Space-Saving Table Using SketchUp](https://www.coursera.org/learn/introduction-to-product-design) `beginner`
  - [How to Make Image Editing Selections in GIMP](https://www.coursera.org/learn/how-to-make-image-editing-selections-in-gimp) `intermediate`
  - [iPad Music Player in XD](https://www.coursera.org/learn/ipad-music-player-in-xd) `intermediate`
@@ -2029,6 +2021,7 @@
  - [Become a JavaScript Pro with these 7 Skills](https://www.coursera.org/learn/become-a-js-pro-7-skills) `intermediate`
  - [Blazor and JavaScript Interoperability](https://www.coursera.org/learn/blazor-javascript-interoperability) `intermediate`
  - [Build a Full Website using WordPress](https://www.coursera.org/learn/build-a-full-website-using-wordpress) `advanced`
+ - [Build a Google Cloud Firestore Web App (Part I)](https://www.coursera.org/learn/build-a-firestore-webapp-1) `intermediate`
  - [Build A Google Firebase Web App (Part II)](https://www.coursera.org/learn/build-firebase-webapp-2) `intermediate`
  - [Build a Google Firebase Web Application](https://www.coursera.org/learn/build-a-google-firebase-webapp) `intermediate`
  - [Build a Linear Layout App in Android Studio](https://www.coursera.org/learn/build-linear-layout-app-android-studio) `beginner`
@@ -2276,6 +2269,7 @@
  - [Database Design with SQL Server Management Studio (SSMS)](https://www.coursera.org/learn/database-design-with-sql-server-management-studio) `beginner`
  - [Design and Develop a Website using Figma and CSS](https://www.coursera.org/learn/design-and-develop-website-using-figma-and-css) `intermediate`
  - [Developing a Connect Four Game using Java OOP](https://www.coursera.org/learn/developing-a-connect-four-game-using-java-oop) `intermediate`
+ - [Dice Game in Python](https://www.coursera.org/learn/dice-game-python) `beginner`
  - [Encryption And Decryption Using C++](https://www.coursera.org/learn/encryption-and-decrytion-using-cpp) `intermediate`
  - [Exception Handling in Python](https://www.coursera.org/learn/exception-handling-in-python) `intermediate`
  - [Getting Started With Game Development Using PyGame](https://www.coursera.org/learn/getting-started-with-game-development-using-pygame) `beginner`
@@ -2372,11 +2366,11 @@
 3. [Development of Real-Time Systems](https://www.coursera.org/learn/real-time-systems) `intermediate`
 4. [Capstone:  Autonomous Runway Detection for IoT](https://www.coursera.org/learn/autonomous-runway-detection) `advanced`
 ### Google Cloud
+ - [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke) `intermediate`
  - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow) `beginner`
  - [Building Scalable Java Microservices with Spring Boot and Spring Cloud](https://www.coursera.org/learn/google-cloud-java-spring) `intermediate`
  - [Industrial IoT on Google Cloud Platform](https://www.coursera.org/learn/iiot-google-cloud-platform) `beginner`
 #### [Architecting with Google Kubernetes Engine Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine)
-2. [Architecting with Google Kubernetes Engine: Foundations](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke) `intermediate`
 3. [Architecting with Google Kubernetes Engine: Workloads](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke) `intermediate`
 4. [Architecting with Google Kubernetes Engine: Production](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production) `intermediate`
 #### [Developing APIs with Google Cloud's Apigee API Platform Specialization](https://www.coursera.org/specializations/apigee-api-gcp)
@@ -2630,6 +2624,7 @@
  - [Creating Models using Smartpls](https://www.coursera.org/learn/smartpls-advanced-regression) `intermediate`
  - [Cryptocurrency Data Visualization using Plotly Express](https://www.coursera.org/learn/cryptocurrency-data-visualization-using-plotly-express) `beginner`
  - [Custom Reports in Google Analytics](https://www.coursera.org/learn/custom-reports-in-google-analytics) `intermediate`
+ - [D3Js Basics](https://www.coursera.org/learn/d3-basics) `intermediate`
  - [Data Analysis Using Pyspark](https://www.coursera.org/learn/data-analysis-using-pyspark) `intermediate`
  - [Data Analytics:  Scraping Data using Hadley Wickam's Rvest package in R](https://www.coursera.org/learn/scrape-data-using-rvest-for-analytics) `intermediate`
  - [Data Manipulation and Business Analysis using Spreadsheets](https://www.coursera.org/learn/data-manipulation-and-business-analysis-using-spreadsheets) `intermediate`
@@ -2739,12 +2734,11 @@
  - [Metodología de la ciencia de datos](https://www.coursera.org/learn/metodologia-de-la-ciencia-de-datos) `beginner`
  - [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai) `beginner`
  - [Tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science) `beginner`
+ - [Visualización de Datos con Python](https://www.coursera.org/learn/visualizacion-de-datos-con-python) `intermediate`
  - [What is Data Science?](https://www.coursera.org/learn/what-is-datascience) `beginner`
  - [¿Qué es la ciencia de datos?](https://www.coursera.org/learn/que-es-la-ciencia-de-datos) `beginner`
 #### [Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
 1. [Fundamentals of Scalable Data Science](https://www.coursera.org/learn/ds) `beginner`
-#### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
-7. [Visualización de Datos con Python](https://www.coursera.org/learn/visualizacion-de-datos-con-python) `intermediate`
 #### [IBM Data Analyst Professional Certificate](https://www.coursera.org/specializations/ibm-data-analyst)
 8. [IBM Data Analyst Capstone Project](https://www.coursera.org/learn/ibm-data-analyst-capstone-project) `intermediate`
 ### Indian School of Business
@@ -2766,7 +2760,6 @@
 2. [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r) `intermediate`
 3. [Advanced Data Visualization with R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r)
 4. [Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards)
-5. [Data Visualization Capstone](https://www.coursera.org/learn/data-visualization-capstone)
 #### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science)
 1. [A Crash Course in Data Science](https://www.coursera.org/learn/data-science-course)
 2. [Building a Data Science Team](https://www.coursera.org/learn/build-data-science-team)
@@ -2778,7 +2771,6 @@
 4. [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing)
 5. [Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools)
 6. [Bioconductor for Genomic Data Science](https://www.coursera.org/learn/bioconductor)
-8. [Genomic Data Science Capstone](https://www.coursera.org/learn/genomic-data-science-project)
 #### [Mastering Software Development in R Specialization](https://www.coursera.org/specializations/r)
 1. [The R Programming Environment](https://www.coursera.org/learn/r-programming-environment) `intermediate`
 2. [Advanced R Programming](https://www.coursera.org/learn/advanced-r) `intermediate`
@@ -2850,6 +2842,7 @@
 2. [Introduction to Clinical Data](https://www.coursera.org/learn/introduction-clinical-data) `beginner`
 ### The Hong Kong University of Science and Technology
  - [Understanding China, 1700-2000: A Data Analytic Approach, Part 1](https://www.coursera.org/learn/understanding-china-history-part-1)
+ - [Understanding China, 1700-2000: A Data Analytic Approach, Part 2](https://www.coursera.org/learn/understanding-china-history-part-2)
 ### The Pennsylvania State University
  - [Maps and the Geospatial Revolution](https://www.coursera.org/learn/geospatial) `beginner`
 ### The University of Edinburgh
@@ -2858,6 +2851,7 @@
  - [Research Data Management and Sharing](https://www.coursera.org/learn/data-management)
 ### Universidad Nacional Autónoma de México
 #### [Database systems Specialization](https://www.coursera.org/specializations/database-systems)
+1. [Relational database systems](https://www.coursera.org/learn/relational-database) `intermediate`
 2. [Business intelligence and data warehousing](https://www.coursera.org/learn/business-intelligence-data-warehousing) `intermediate`
 3. [NoSQL systems](https://www.coursera.org/learn/nosql-databases) `intermediate`
 4. [Designing data-intensive applications](https://www.coursera.org/learn/data-intensive-applications) `intermediate`
@@ -2975,6 +2969,7 @@
  - [Social Media Data Analytics](https://www.coursera.org/learn/social-media-data-analytics) `intermediate`
 #### [Data Science at Scale Specialization](https://www.coursera.org/specializations/data-science)
 1. [Data Manipulation at Scale: Systems and Algorithms](https://www.coursera.org/learn/data-manipulation)
+2. [Practical Predictive Analytics: Models and Methods](https://www.coursera.org/learn/predictive-analytics)
 3. [Communicating Data Science Results](https://www.coursera.org/learn/data-results)
 4. [Data Science at Scale - Capstone Project](https://www.coursera.org/learn/datasci-capstone)
 #### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
@@ -3023,6 +3018,7 @@
  - [Basic Image Classification with TensorFlow](https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification) `beginner`
  - [Basic Sentiment Analysis with TensorFlow](https://www.coursera.org/learn/basic-sentiment-analysis-tensorflow) `intermediate`
  - [Bayesian Optimization with Python](https://www.coursera.org/learn/bayesian-optimization-python) `intermediate`
+ - [Bitcoin Price Prediction using Facebook Prophet](https://www.coursera.org/learn/bitcoin-price-prediction-using-facebook-prophet) `beginner`
  - [Build a Data Science Web App with Streamlit and Python](https://www.coursera.org/learn/data-science-streamlit-python) `intermediate`
  - [Build a Deep Learning Based Image Classifier with R](https://www.coursera.org/learn/deep-learning-image-classifier-r) `intermediate`
  - [Build a Machine Learning Web App with Streamlit and Python](https://www.coursera.org/learn/machine-learning-streamlit-python) `intermediate`
@@ -3067,6 +3063,7 @@
  - [Fine Tune BERT for Text Classification with TensorFlow](https://www.coursera.org/learn/fine-tune-bert-tensorflow) `intermediate`
  - [Generate Synthetic Images with DCGANs in Keras](https://www.coursera.org/learn/generative-adversarial-networks-keras) `advanced`
  - [Generating New Recipes using GPT-2](https://www.coursera.org/learn/generating-new-recipes-python) `intermediate`
+ - [Get Familiar with ML basics in a Kaggle Competition](https://www.coursera.org/learn/ml-basics-kaggle-competition) `beginner`
  - [Graduate Admission Prediction with Pyspark ML](https://www.coursera.org/learn/graduate-admission-prediction-with-pyspark-ml) `intermediate`
  - [Handling Imbalanced Data Classification Problems](https://www.coursera.org/learn/handling-imbalanced-data-classification-problems) `intermediate`
  - [Hierarchical Clustering: Customer Segmentation](https://www.coursera.org/learn/hierarchical-clustering-customer-segmentation) `intermediate`
@@ -3084,6 +3081,7 @@
  - [Impute Data to Forecast Demand in Google Sheets](https://www.coursera.org/learn/impute-data-to-forecast-demand-in-google-sheets) `beginner`
  - [Interactive Machine Learning Dashboards using Plotly Dash](https://www.coursera.org/learn/interactive-dashboards-plotly-dash) `intermediate`
  - [Interactive Word Embeddings using Word2Vec and Plotly](https://www.coursera.org/learn/interactive-word2vec) `intermediate`
+ - [Introduction to Customer Segmentation in Python](https://www.coursera.org/learn/customer-segmentation-python) `beginner`
  - [Introduction to Natural Language Processing in Python](https://www.coursera.org/learn/intro-natural-language-processing-nlp-python) `intermediate`
  - [Introduction to Reinforcement Learning in Python](https://www.coursera.org/learn/introduction-to-reinforcement-learning-in-python) `intermediate`
  - [Introduction to Topic Modeling for Business](https://www.coursera.org/learn/introduction-to-topic-modeling-for-business) `intermediate`
@@ -3185,6 +3183,8 @@
 4. [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp) `intermediate`
 ### Duke University
  - [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning-duke) `intermediate`
+### EIT Digital 
+ - [Advanced Recommender Systems](https://www.coursera.org/learn/advanced-recommender-systems) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals) `intermediate`
  - [Managing Machine Learning Projects with Google Cloud](https://www.coursera.org/learn/machine-learning-business-professionals) `beginner`
@@ -3220,10 +3220,10 @@
 #### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
 8. [Aprendizaje Automático con Python](https://www.coursera.org/learn/aprendizaje-automatico-con-python) `intermediate`
 #### [IBM AI Engineering Professional Certificate](https://www.coursera.org/specializations/ai-engineer)
+1. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow) `intermediate`
 2. [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/learn/machine-learning-big-data-apache-spark) `intermediate`
 3. [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) `intermediate`
 4. [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch) `intermediate`
-5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow) `intermediate`
 6. [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone) `advanced`
 #### [IBM AI Enterprise Workflow Specialization](https://www.coursera.org/specializations/ibm-ai-workflow)
 1. [AI Workflow: Business Priorities and Data Ingestion](https://www.coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion) `intermediate`
@@ -3434,7 +3434,6 @@
  - [Introduction to Genetics and Evolution](https://www.coursera.org/learn/genetics-evolution)
  - [Introductory Human Physiology](https://www.coursera.org/learn/physiology)
  - [Music as Biology: What We Like to Hear and Why](https://www.coursera.org/learn/music-as-biology)
- - [The Brain and Space](https://www.coursera.org/learn/human-brain) `beginner`
  - [Visual Perception and the Brain](https://www.coursera.org/learn/visual-perception)
 ### Duke University, Kilimanjaro Christian Medical University College
  - [Tropical Parasitology: Protozoans, Worms, Vectors and Human Diseases](https://www.coursera.org/learn/parasitology) `intermediate`
@@ -3566,7 +3565,6 @@
 3. [Anatomy: Human Neuroanatomy](https://www.coursera.org/learn/anatomy403-3x) `beginner`
 4. [Anatomy: Gastrointestinal, Reproductive and Endocrine Systems](https://www.coursera.org/learn/anatomy403-4x) `beginner`
 ### University of Pennsylvania
- - [Feeding the World](https://www.coursera.org/learn/feedingtheworld) `beginner`
  - [Introduction to Dental Medicine](https://www.coursera.org/learn/dental-medicine-penn) `beginner`
  - [The Oral Cavity: Portal to Health and Disease](https://www.coursera.org/learn/oralcavity) `intermediate`
 ### University of Rochester
@@ -3614,7 +3612,6 @@
  - [Biology Meets Programming: Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics) `beginner`
 #### [Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics)
 1. [Finding Hidden Messages in DNA (Bioinformatics I)](https://www.coursera.org/learn/dna-analysis) `beginner`
-2. [Genome Sequencing (Bioinformatics II)](https://www.coursera.org/learn/genome-sequencing) `beginner`
 3. [Comparing Genes, Proteins, and Genomes (Bioinformatics III)](https://www.coursera.org/learn/comparing-genomes) `beginner`
 4. [Molecular Evolution (Bioinformatics IV)](https://www.coursera.org/learn/molecular-evolution) `beginner`
 5. [Genomic Data Science and Clustering (Bioinformatics V)](https://www.coursera.org/learn/genomic-data) `beginner`
@@ -3743,7 +3740,6 @@
 2. [Symptom Management in Palliative Care](https://www.coursera.org/learn/symptom-management-in-palliative-care) `intermediate`
 3. [Transitions in Care from Survivorship to Hospice](https://www.coursera.org/learn/transitions-in-care-from-survivorship-to-hospice) `beginner`
 4. [Supporting Families and Caregivers](https://www.coursera.org/learn/supporting-families-and-caregivers) `beginner`
-5. [Palliative Care Always Capstone Course](https://www.coursera.org/learn/palliative-care-always-capstone-course) `intermediate`
 ### Technion - Israel Institute of Technology
  - [Medical Cannabis for Pain Control](https://www.coursera.org/learn/medical-cannabis-pain-control) `beginner`
  - [Traditional herbal medicine in supportive cancer care: From alternative to integrative](https://www.coursera.org/learn/cancer-medicine-alternative-herbal-asia) `beginner`
@@ -3773,11 +3769,9 @@
 1. [Preventative Healthcare for the Newborn Baby](https://www.coursera.org/learn/preventive-healthcare-newborn-baby) `beginner`
 4. [Supporting Parents of a Newborn Baby](https://www.coursera.org/learn/supporting-parents-newborn-baby) `beginner`
 #### [Palliative Care: It's Not Just Hospice Anymore Specialization](https://www.coursera.org/specializations/palliative-care)
-1. [What is Palliative Care?](https://www.coursera.org/learn/what-is-palliative-care) `beginner`
 2. [Pain Management: Easing Pain in Palliative Care](https://www.coursera.org/learn/pain-management-easing-pain-in-palliative-care) `beginner`
 3. [Easing Physical Symptoms: It's Not Just Hospice Anymore](https://www.coursera.org/learn/easing-physical-symptoms) `beginner`
 4. [Psychosocial and Spiritual Aspects of Palliative Care](https://www.coursera.org/learn/psychosocial-spiritual-aspects-palliative-care) `beginner`
-5. [Palliative Care Capstone Projects](https://www.coursera.org/learn/palliative-care-capstone-project) `beginner`
 #### [School Health for Children and Adolescents Specialization](https://www.coursera.org/specializations/school-health-for-children-and-adolescents)
 1. [Managing Asthma, Allergies, Diabetes, and Seizures in School](https://www.coursera.org/learn/managing-asthma-allergies-diabetes-and-seizures-in-school) `beginner`
 2. [Managing ADHD, Autism, Learning Disabilities, and Concussion in School](https://www.coursera.org/learn/managing-adhd-autism-learning-disabilities-and-concussion-in-school)
@@ -4068,6 +4062,8 @@
 2. [Drug Development](https://www.coursera.org/learn/drug-development) `beginner`
 ### University of California, Irvine
  - [Extracellular Vesicles in Health and Disease](https://www.coursera.org/learn/extracellular-vesicles-health-disease) `intermediate`
+### University of Cape Town
+ - [Understanding Clinical Research: Behind the Statistics](https://www.coursera.org/learn/clinical-research)
 ### University of Geneva
  - [Precision Medicine](https://www.coursera.org/learn/precision-medicine) `intermediate`
 ### University of Illinois at Urbana-Champaign
@@ -4111,6 +4107,7 @@
  - [Build a Firebase Android Application](https://www.coursera.org/learn/firebase-android-app) `intermediate`
  - [Build a Firebase Android Application (Part II)](https://www.coursera.org/learn/firebase-android-app-2) `advanced`
  - [Build a RESTful Serverless API on AWS](https://www.coursera.org/learn/restful-serverless-api-on-aws) `beginner`
+ - [Building Chatbot with Google DialogFlow](https://www.coursera.org/learn/building-chatbot-with-dialogflow) `intermediate`
  - [Building Smart Business Assistants with IBM Watson](https://www.coursera.org/learn/building-smart-business-assistants-ibm-watson) `beginner`
  - [Containerization Using Docker](https://www.coursera.org/learn/containerization-using-docker) `intermediate`
  - [Creating an AWS EC2 Autoscaling Group using Load Balancer](https://www.coursera.org/learn/create-aws-ec2-autoscaling-group-load-balancer) `intermediate`
@@ -4148,7 +4145,6 @@
  - [Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp) `intermediate`
  - [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp) `intermediate`
  - [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization) `intermediate`
- - [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) `advanced`
  - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) `intermediate`
@@ -4160,6 +4156,8 @@
 1. [Hybrid Cloud Infrastructure Foundations with Anthos](https://www.coursera.org/learn/hybrid-cloud-infrastructure-foundations-anthos) `intermediate`
 2. [Hybrid Cloud Service Mesh with Anthos](https://www.coursera.org/learn/hybrid-cloud-service-mesh-anthos) `intermediate`
 3. [Hybrid Cloud Multi-Cluster with Anthos](https://www.coursera.org/learn/hybrid-cloud-multi-cluster-anthos) `advanced`
+#### [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/specializations/cloud-engineering-gcp)
+7. [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
 #### [SRE and DevOps Engineer with Google Cloud Professional Certificate](https://www.coursera.org/specializations/sre-devops-engineer-google-cloud)
 5. [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) `intermediate`
 ### IBM
@@ -4585,6 +4583,7 @@
 ### The Hong Kong University of Science and Technology
  - [Differential Equations for Engineers](https://www.coursera.org/learn/differential-equations-engineers) `beginner`
  - [Fibonacci Numbers and the Golden Ratio](https://www.coursera.org/learn/fibonacci) `beginner`
+ - [Matrix Algebra for Engineers](https://www.coursera.org/learn/matrix-algebra-engineers) `beginner`
  - [Vector Calculus for Engineers](https://www.coursera.org/learn/vector-calculus-engineers) `beginner`
 ### The University of Sydney
  - [Introduction to Calculus](https://www.coursera.org/learn/introduction-to-calculus) `intermediate`
@@ -4601,8 +4600,6 @@
  - [Calculus: Single Variable Part 3 - Integration](https://www.coursera.org/learn/integration-calculus)
  - [Calculus: Single Variable Part 4 - Applications](https://www.coursera.org/learn/applications-calculus)
  - [Single Variable Calculus](https://www.coursera.org/learn/discrete-calculus)
-### Wesleyan University
- - [Introduction to Complex Analysis](https://www.coursera.org/learn/complex-analysis) `intermediate`
 # Personal Development
 > - [Personal Development](#personal-development)
 ## Personal Development
@@ -4654,7 +4651,6 @@
 ### Peking University
  - [Essentials for English Speeches and Presentations  英语演讲与演示](https://www.coursera.org/learn/yingyuyanjiang)
 ### The State University of New York
- - [Empowering Yourself in a Post-Truth World](https://www.coursera.org/learn/empowering-yourself-post-truth-world) `beginner`
  - [How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course)](https://www.coursera.org/learn/skills-management) `intermediate`
  - [How to Write a Resume (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-resume)
  - [Ignite Your Everyday Creativity](https://www.coursera.org/learn/ignite-creativity)
@@ -4663,7 +4659,6 @@
 #### [Career Brand Management Specialization](https://www.coursera.org/specializations/career-brand-management)
 1. [Strategic Career Self-Management](https://www.coursera.org/learn/strategic-career-self-management)
 2. [Career Brand Development and Self-Coaching](https://www.coursera.org/learn/career-brand-development-self-coaching)
-3. [Strategic Self-Marketing and Personal Branding](https://www.coursera.org/learn/self-marketing) `intermediate`
 4. [Career Total Fitness Annual Retreat](https://www.coursera.org/learn/career-fitness) `intermediate`
 ### The State University of New York, University at Buffalo / Binghamton University
  - [Exploring Emerging Technologies for Lifelong Learning and Success](https://www.coursera.org/learn/emerging-technologies-lifelong-learning) `beginner`
@@ -4835,6 +4830,7 @@
  - [Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware) `intermediate`
  - [Input Filter Design](https://www.coursera.org/learn/inputfilterdesign) `intermediate`
  - [Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems) `intermediate`
+ - [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
  - [Real-Time Embedded Systems Concepts and Practices](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices) `intermediate`
  - [Real-Time Embedded Systems Theory and Analysis](https://www.coursera.org/learn/real-time-embedded-theory-analysis) `advanced`
  - [Real-Time Mission-Critical Systems Design](https://www.coursera.org/learn/real-time-mission-critical-systems-design) `intermediate`
@@ -4849,16 +4845,15 @@
 3. [Pressure, Force, Motion, and Humidity Sensors](https://www.coursera.org/learn/pressure-force-motion-humidity-sensors) `intermediate`
 4. [Sensor Manufacturing and Process Control](https://www.coursera.org/learn/sensor-manufacturing-process-control) `intermediate`
 #### [FPGA Design for Embedded Systems Specialization](https://www.coursera.org/specializations/fpga-design)
-1. [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) `intermediate`
 1. [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems) `intermediate`
-2. [FPGA Capstone:  Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) `intermediate`
 2. [Hardware Description Languages for FPGA Design](https://www.coursera.org/learn/fpga-hardware-description-languages) `intermediate`
+3. [FPGA Softcore Processors and IP Acquisition](https://www.coursera.org/learn/fpga-softcore-proccessors-ip) `intermediate`
+4. [FPGA Capstone:  Building FPGA Projects](https://www.coursera.org/learn/capstone-fpga-design) `intermediate`
 #### [Optical Engineering Specialization](https://www.coursera.org/specializations/optical-engineering)
 1. [First Order Optical System Design](https://www.coursera.org/learn/first-order-optical-system-design) `advanced`
 2. [Optical Efficiency and Resolution](https://www.coursera.org/learn/optical-efficiency-and-resolution) `advanced`
 3. [Design of High-Performance Optical Systems](https://www.coursera.org/learn/design-high-performance-optical-systems) `advanced`
 #### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
-1. [Introduction to Power Electronics](https://www.coursera.org/learn/power-electronics) `intermediate`
 4. [Magnetics for Power Electronic Converters](https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2) `intermediate`
 #### [Semiconductor Devices Specialization](https://www.coursera.org/specializations/semiconductor-devices)
 1. [Semiconductor Physics](https://www.coursera.org/learn/semiconductor-physics) `advanced`
@@ -5151,6 +5146,7 @@
  - [Imagining Other Earths](https://www.coursera.org/learn/life-on-other-planets)
 ### Rice University
 #### [Introduction to Mechanics Specialization](https://www.coursera.org/specializations/introduction-to-mechanics)
+1. [Physics 101 - Forces and Kinematics](https://www.coursera.org/learn/physics-101-forces-kinematics) `intermediate`
 2. [Physics 101 - Energy and Momentum](https://www.coursera.org/learn/physics-101-energy-momentum) `intermediate`
 ### Rutgers the State University of New Jersey
  - [Analyzing the Universe](https://www.coursera.org/learn/analyze) `beginner`
@@ -5331,9 +5327,12 @@
 ### Coursera Project Network
  - [Advanced Google Classroom for Education](https://www.coursera.org/learn/advanced-google-classroom) `beginner`
  - [Building Classroom Community Using Flipgrid](https://www.coursera.org/learn/classroom-flipgrid) `beginner`
+ - [Building Students Math Skills with iKnowit](https://www.coursera.org/learn/student-math-iknowit) `beginner`
+ - [Create a Class Website using Google Sites](https://www.coursera.org/learn/classroom-website) `beginner`
  - [Create a Virtual Classroom using Google Slides](https://www.coursera.org/learn/virtual-classroom-google-slides) `beginner`
  - [Create a Visual Schedule with Google Slides](https://www.coursera.org/learn/teaching-visual-schedule) `beginner`
  - [Create a Writing Rubric with Google Docs](https://www.coursera.org/learn/writing-rubric) `beginner`
+ - [Create Engaging Lessons with Google Slides and Peardeck](https://www.coursera.org/learn/lessons-google-slides) `beginner`
  - [Creating a Choice Board with Google Slides](https://www.coursera.org/learn/choice-board-google-slides) `beginner`
  - [Creating a Student Profile in Google Docs](https://www.coursera.org/learn/student-profile-google-docs) `beginner`
  - [Creating Interactive Learning Videos with Edpuzzle](https://www.coursera.org/learn/creating-interactive-learning-videos-edpuzzle) `beginner`
@@ -5341,6 +5340,7 @@
  - [Engaging and Assessing  Students with Plickers](https://www.coursera.org/learn/engaging-assessing-students-plickers) `beginner`
  - [Enhance Student Learning through Kahoot](https://www.coursera.org/learn/education-kahoot) `beginner`
  - [Enhancing Communication with Remind](https://www.coursera.org/learn/communicating-with-remind) `beginner`
+ - [Enhancing Student Self-Reflection with Google Docs](https://www.coursera.org/learn/student-reflection-google-doc) `beginner`
  - [Getting Started with Google Classroom](https://www.coursera.org/learn/google-classroom) `beginner`
  - [Implementing Parent Feedback with Google Forms](https://www.coursera.org/learn/education-feedback-google-forms) `beginner`
  - [Improving Classroom Management with Class Dojo](https://www.coursera.org/learn/improving-classroom-management-classdojo) `beginner`
@@ -5428,7 +5428,6 @@
 6. [Capstone Project: Teaching Impacts of Technology](https://www.coursera.org/learn/teach-impacts-technology-capstone) `beginner`
 ### University of California, Irvine
 #### [Virtual Teacher Specialization](https://www.coursera.org/specializations/virtual-teacher)
-1. [Foundations of Virtual Instruction](https://www.coursera.org/learn/virtual-school)
 2. [Emerging Trends & Technologies in the Virtual K-12 Classroom](https://www.coursera.org/learn/k-12-education)
 3. [Advanced Instructional Strategies in the Virtual Classroom](https://www.coursera.org/learn/teaching-strategies)
 4. [Performance Assessment in the Virtual Classroom](https://www.coursera.org/learn/performance-assessment)
@@ -5541,6 +5540,7 @@
  - [Soul Beliefs: Causes and Consequences - Unit 1: Historical Foundations](https://www.coursera.org/learn/soulbeliefs)
 ### Saint Petersburg State University
  - [Political Governance and Public Policy in Russia](https://www.coursera.org/learn/political-governance-russia) `beginner`
+ - [Russia and Nuclear Arms Control](https://www.coursera.org/learn/russia-and-nuclear-arms-control) `beginner`
 ### Sciences Po
  - [Cities are back in town : sociologie urbaine pour un monde globalisé](https://www.coursera.org/learn/developpement-urbain) `beginner`
  - [Cities are back in town : sociología urbana para un mundo globalizado](https://www.coursera.org/learn/desarrollo-urbano) `beginner`
@@ -5575,7 +5575,6 @@
  - [Risk in Modern Society](https://www.coursera.org/learn/risk-in-modern-society) `beginner`
 ### University of Amsterdam
  - [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory)
- - [Introduction to Communication Science](https://www.coursera.org/learn/communication)
  - [Media ethics & governance](https://www.coursera.org/learn/media-ethics-governance) `intermediate`
  - [Reclaiming the Street](https://www.coursera.org/learn/reclaiming-the-street) `beginner`
  - [Unraveling the Cycling City](https://www.coursera.org/learn/unraveling-the-cycling-city) `intermediate`
@@ -5632,7 +5631,6 @@
  - [Police Brutality in America Teach-Out](https://www.coursera.org/learn/police-brutality-in-america-teach-out) `beginner`
  - [Why Iowa? A Primer on Primaries and Caucuses Teach-Out](https://www.coursera.org/learn/why-iowa-a-primer-on-primaries-and-caucuses) `beginner`
 ### University of Pennsylvania
- - [Introduction to Key Constitutional Concepts and Supreme Court Cases](https://www.coursera.org/learn/constitution) `beginner`
  - [Network Dynamics of Social Behavior](https://www.coursera.org/learn/networkdynamics) `beginner`
 #### [Business Strategies for A Better World Specialization](https://www.coursera.org/specializations/wharton-global-business-strategy)
 1. [Global Trends for Business and Society](https://www.coursera.org/learn/wharton-global-trends-business)
