@@ -69,6 +69,7 @@
 ### ESSEC Business School
  - [Animer une séance collaborative](https://www.coursera.org/learn/animer-seance-collaborative) `beginner`
  - [Entreprise et changement climatique](https://www.coursera.org/learn/entreprise-changement-climatique) `beginner`
+ - [L'avenir de la décision : connaître et agir en complexité](https://www.coursera.org/learn/lavenir-de-la-decision)
  - [L'excellence opérationnelle en pratique](https://www.coursera.org/learn/excellence-operationnelle) `beginner`
  - [L'innovation managériale en pratique](https://www.coursera.org/learn/innovation-manageriale) `beginner`
  - [Leadership d'excellence par le sport de haut niveau](https://www.coursera.org/learn/leadership-excellence-sport) `beginner`
@@ -102,6 +103,7 @@
 ### Coursera Project Network
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
+ - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
@@ -202,6 +204,7 @@
  - [Systèmes d’Information Géographique - Partie 2](https://www.coursera.org/learn/sig-2) `beginner`
 ## Mechanical Engineering
 ### École Polytechnique Fédérale de Lausanne
+ - [L'art des structures 1 : Câbles et arcs](https://www.coursera.org/learn/structures) `beginner`
  - [L'Art des Structures 2 : treillis, poutres, dalles et cadres](https://www.coursera.org/learn/structures2) `intermediate`
  - [Mécanique Lagrangienne](https://www.coursera.org/learn/mecanique-lagrangienne)
 ## Physics and Astronomy

@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5274` courses. Updated daily.
+Complete list of `5319` courses. Updated daily.
 
 # TOC
 
@@ -148,6 +148,7 @@ Complete list of `5274` courses. Updated daily.
 ### Swedish
  - [Language Learning](<Swedish.md#language-learning>)
 ### Turkish
+ - [Health](<Turkish.md#health>)
  - [Math and Logic](<Turkish.md#math-and-logic>)
  - [Personal Development](<Turkish.md#personal-development>)
 ### Ukrainian

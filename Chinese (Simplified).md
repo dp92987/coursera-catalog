@@ -175,6 +175,7 @@
 ### Peking University
  - [更年期综合管理](https://www.coursera.org/learn/geng-nian-qi)
 ### Shanghai Jiao Tong University
+ - [常见慢性病的健康管理](https://www.coursera.org/learn/chang-jian-man-xing-bing)
  - [生命安全与救援Life Safety and Rescue](https://www.coursera.org/learn/sheng-ming-an-quan-ji-jiu)
 ### The University of Hong Kong
  - [口腔种植学 （Implant Dentistry）](https://www.coursera.org/learn/implant-dentistry-chinese) `intermediate`
@@ -182,6 +183,8 @@
 ### Nanjing University
  - [心理学与生活](https://www.coursera.org/learn/xin-li-xue-sheng-huo)
  - [手把手教你心理咨询：谈话的艺术](https://www.coursera.org/learn/tanhua-yishu) `beginner`
+### Yunlin University of Science and Technology)
+ - [当代应用心理学 (Shanghai Jiao Tong University, 云林科技大学](https://www.coursera.org/learn/dangdai-yingyong-xinli-xue)
 ## Public Health
 ### Fudan University
  - [全球卫生导论](https://www.coursera.org/learn/quanqiu-weisheng) `beginner`

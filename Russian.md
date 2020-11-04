@@ -130,11 +130,13 @@
 #### [Корпоративные финансы и стоимость компании Specialization](https://www.coursera.org/specializations/korporativnyye-finansy)
 1. [Оценка стоимости компании](https://www.coursera.org/learn/ocenka-stoimosti-kompanii)
 2. [Структура капитала компании](https://www.coursera.org/learn/struktura-kapitala-kompanii)
+3. [Инвестиционные проекты, слияния и поглощения](https://www.coursera.org/learn/sliyaniye-pogloshcheniye)
 4. [Венчурный капитал](https://www.coursera.org/learn/venchurnyj-kapital)
 5. [Управление стоимостью компании](https://www.coursera.org/learn/upravlenie-stoimostju-kompanii) `intermediate`
 6. [Мастерство создания стоимости компании](https://www.coursera.org/learn/sozdanie-stoimosti-kompanii) `intermediate`
 #### [Финансовые инструменты для частного инвестора Specialization](https://www.coursera.org/specializations/finansovyye-instrumenty)
 1. [Управление личными финансами](https://www.coursera.org/learn/upravlenie-lichnymi-finansami)
+2. [Инвестиции в облигации](https://www.coursera.org/learn/investicii-obligacii)
 3. [Инвестиции в акции](https://www.coursera.org/learn/investicii-akcii)
 4. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
 5. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
@@ -156,6 +158,7 @@
  - [Менеджмент профессиональной траектории](https://www.coursera.org/learn/management-proftraektorii) `beginner`
  - [Организационная диагностика](https://www.coursera.org/learn/organizatsionnaya-diagnostika) `beginner`
  - [Прикладное управление рисками](https://www.coursera.org/learn/applied-risk-management) `beginner`
+ - [Универсальные практики влияния](https://www.coursera.org/learn/praktiki-vliyaniya) `intermediate`
 ### National Research Tomsk State University, ScrumTrek, E-Learning Development Fund
  - [Agile и Scrum в работе над проектами и продуктами](https://www.coursera.org/learn/upravleniya-proektami-agile-scrum) `beginner`
 ### National Research Tomsk State University, Международная Академия исследования лжи, E-Learning Development Fund
@@ -571,6 +574,7 @@
  - [Экономическая социология](https://www.coursera.org/learn/ekonomicheskaya-sociologiya)
 ### Saint Petersburg State University
  - [Международное трудовое право](https://www.coursera.org/learn/int-lab-law-ru)
+ - [Управление брендами в цифровой экономике](https://www.coursera.org/learn/digitbrand)
 ## Education
 ### National Research Nuclear University MEPhI
  - [Научные тексты — учимся писать на русском и английском](https://www.coursera.org/learn/naychnie-teksti) `beginner`
@@ -579,6 +583,7 @@
 ### National Research Tomsk State University, Samara University
  - [Как читать фотографию](https://www.coursera.org/learn/kak-chitat-fotografiyu) `intermediate`
 ### National Research University Higher School of Economics
+ - [Авторские школы](https://www.coursera.org/learn/authorschools) `beginner`
  - [Организационные практики и инструменты в работе лидера образовательной организации](https://www.coursera.org/learn/organizational-practices-and-instruments) `intermediate`
  - [Умная аналитика в управлении образованием](https://www.coursera.org/learn/smart-analytics-education) `intermediate`
 ## Governance and Society

@@ -141,6 +141,7 @@
 #### [Fundamentos Empresariales  Specialization](https://www.coursera.org/specializations/wharton-fundamentos-empresariales)
 1. [Introducción al Marketing](https://www.coursera.org/learn/wharton-introduccion-marketing)
 2. [Introducción a la Contabilidad Financiera](https://www.coursera.org/learn/wharton-contabilidad-financiera)
+3. [Introducción a la Gestión de Operaciones](https://www.coursera.org/learn/wharton-gestion-operaciones)
 4. [Introducción a las Finanzas Corporativas](https://www.coursera.org/learn/wharton-finanzas-corporativas)
 ## Entrepreneurship
 ### Goldman Sachs
@@ -404,6 +405,7 @@
  - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
+ - [Introducción a Azure Data Factory para Big Data](https://www.coursera.org/learn/introduccion-azure-data-factory-big-data) `advanced`
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
  - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure) `beginner`
  - [ML y Power BI para incrementar las ventas en Retail](https://www.coursera.org/learn/ml-powerbi-ventas-retail) `advanced`
@@ -555,6 +557,8 @@
 ## Data Management
 ### Coursera Project Network
  - [Mejores prácticas para el procesamiento de datos en Big Data](https://www.coursera.org/learn/mejores-practicas-big-data) `intermediate`
+### Pontificia Universidad Católica de Chile
+ - [Introducción a la Minería de Datos](https://www.coursera.org/learn/mineria-de-datos-introduccion) `beginner`
 ## Networking
 ### Crece con Google
 #### [Soporte de Tecnologías de la Información de Google Professional Certificate](https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google)
@@ -658,6 +662,7 @@
 ## Chemistry
 ### Universidad Autónoma Metropolitana
  - [Iniciándome en la Química](https://www.coursera.org/learn/iniciandome-en-la-qumica) `beginner`
+ - [La Química de las Reacciones](https://www.coursera.org/learn/la-qumica-de-las-reacciones) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Una aproximación a la Química del Carbono](https://www.coursera.org/learn/qimica-carbono) `beginner`
  - [¡¿Cómo?! ¿Química en mi casa?](https://www.coursera.org/learn/quimica-en-mi-casa)
