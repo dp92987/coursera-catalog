@@ -2561,10 +2561,10 @@
 ### University of Michigan
 #### [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 1. [Python Basics](https://www.coursera.org/learn/python-basics) `beginner`
+1. [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) `intermediate`
 2. [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) `beginner`
 3. [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python) `intermediate`
 4. [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance) `intermediate`
-5. [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) `intermediate`
 #### [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 2. [Python Data Structures](https://www.coursera.org/learn/python-data)
@@ -2663,6 +2663,7 @@
  - [Importing Data into R](https://www.coursera.org/learn/import-data-into-r) `intermediate`
  - [Intermediate Pandas Python Library for Data Science](https://www.coursera.org/learn/intermediate-pandas-python-library-data-science) `intermediate`
  - [Introduction to Business Analysis Using Spreadsheets: Basics](https://www.coursera.org/learn/business-analysis-using-spreadsheets) `beginner`
+ - [Introduction to Data Analysis Using Google Spreadsheet](https://www.coursera.org/learn/introduction-to-data-analysis-using-google-spreadsheet) `beginner`
  - [Introduction to EDA in R](https://www.coursera.org/learn/introduction-to-eda-in-r) `intermediate`
  - [Introduction to Line Balancing Using Precedence Diagram](https://www.coursera.org/learn/introduction-to-line-balancing-using-precedence-diagram) `beginner`
  - [Introduction to Systems and Network Mapping with Kumu](https://www.coursera.org/learn/systems-network-kumu) `beginner`
@@ -4170,6 +4171,7 @@
  - [Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp) `intermediate`
  - [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp) `intermediate`
  - [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization) `intermediate`
+ - [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) `advanced`
  - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) `intermediate`
@@ -4181,8 +4183,6 @@
 1. [Hybrid Cloud Infrastructure Foundations with Anthos](https://www.coursera.org/learn/hybrid-cloud-infrastructure-foundations-anthos) `intermediate`
 2. [Hybrid Cloud Service Mesh with Anthos](https://www.coursera.org/learn/hybrid-cloud-service-mesh-anthos) `intermediate`
 3. [Hybrid Cloud Multi-Cluster with Anthos](https://www.coursera.org/learn/hybrid-cloud-multi-cluster-anthos) `advanced`
-#### [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/specializations/cloud-engineering-gcp)
-7. [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
 #### [SRE and DevOps Engineer with Google Cloud Professional Certificate](https://www.coursera.org/specializations/sre-devops-engineer-google-cloud)
 5. [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) `intermediate`
 ### IBM
@@ -5360,7 +5360,6 @@
  - [Building Classroom Community Using Flipgrid](https://www.coursera.org/learn/classroom-flipgrid) `beginner`
  - [Building Students Math Skills with iKnowit](https://www.coursera.org/learn/student-math-iknowit) `beginner`
  - [Create a Class Website using Google Sites](https://www.coursera.org/learn/classroom-website) `beginner`
- - [Create a Virtual Classroom using Google Slides](https://www.coursera.org/learn/virtual-classroom-google-slides) `beginner`
  - [Create a Visual Schedule with Google Slides](https://www.coursera.org/learn/teaching-visual-schedule) `beginner`
  - [Create a Writing Rubric with Google Docs](https://www.coursera.org/learn/writing-rubric) `beginner`
  - [Create Engaging Lessons with Google Slides and Peardeck](https://www.coursera.org/learn/lessons-google-slides) `beginner`
