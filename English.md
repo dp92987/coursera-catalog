@@ -671,7 +671,9 @@
  - [Create a Mortgage Payment Calculator in Google Sheets](https://www.coursera.org/learn/create-mortgage-payment-calculator-in-google-sheets) `beginner`
  - [Create a Profile and Network on LinkedIn](https://www.coursera.org/learn/create-a-profile-and-network-on-linkedin) `beginner`
  - [Create a RACI Matrix in Google Sheets](https://www.coursera.org/learn/create-a-raci-matrix-in-google-sheets) `beginner`
+ - [Google Suite for Project Collaboration](https://www.coursera.org/learn/google-suite-for-project-collaboration) `beginner`
  - [Google Suite for Project Communications](https://www.coursera.org/learn/google-suite-for-project-communications) `beginner`
+ - [Improve Communication Processes Using Gmail](https://www.coursera.org/learn/improve-gmail-communication) `intermediate`
  - [Leveraging Mentions and Threads in Slack](https://www.coursera.org/learn/leveraging-mentions-and-thread-in-slack) `intermediate`
  - [Leveraging Real-Time Analytics in Slack](https://www.coursera.org/learn/leveraging-real-time-analytics-in-slack-local-and-surveymonkey-integrations) `intermediate`
  - [Process Improvement: a Kaizen Event with Google Slides](https://www.coursera.org/learn/kaizen-event-process-improvement-google-slides) `beginner`
@@ -1262,6 +1264,7 @@
  - [Introduction to Project Management with ClickUp](https://www.coursera.org/learn/introduction-to-project-management-with-clickup) `beginner`
  - [Marketing Design with Easil](https://www.coursera.org/learn/marketing-design-with-easil) `beginner`
  - [Performance Reviews with Eduflow](https://www.coursera.org/learn/performance-reviews-with-eduflow) `beginner`
+ - [Remote Employee Onboarding with Eduflow](https://www.coursera.org/learn/remote-employee-onboarding-with-eduflow) `beginner`
  - [RStudio for Six Sigma - Basic Descriptive Statistics](https://www.coursera.org/learn/rstudio-six-sigma-basic-statistics) `beginner`
  - [Tableau Public for Project Management and Beyond](https://www.coursera.org/learn/tableau-public-for-project-management-and-beyond) `beginner`
  - [Training and Development with Eduflow](https://www.coursera.org/learn/training-and-development-with-eduflow) `beginner`
@@ -1550,6 +1553,7 @@
  - [Create a Google Video Ads Sequence Campaign](https://www.coursera.org/learn/create-a-google-video-ads-sequence-campaign) `beginner`
  - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides) `beginner`
  - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva) `advanced`
+ - [Create Cross Tabulation Reports in Google Sheets](https://www.coursera.org/learn/cross-tabulation-reports-google-sheets) `intermediate`
  - [Create Infographics using Piktochart](https://www.coursera.org/learn/create-outstanding-infographics-using-piktochart) `beginner`
  - [Create Swag Bag Inserts to Market your Business using Canva](https://www.coursera.org/learn/create-swag-bag-inserts-to-market-your-business-using-canva) `advanced`
  - [Design a Client Welcome Kit using Canva](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva) `advanced`
@@ -2084,6 +2088,7 @@
  - [JavaScript Decision Programming with If-Else](https://www.coursera.org/learn/javascript-decision-programming-if-else) `intermediate`
  - [JavaScript Decision Programming with Nested If](https://www.coursera.org/learn/javascript-decision-programming-nested-if) `intermediate`
  - [JavaScript Decision Programming with Switch](https://www.coursera.org/learn/javascript-decision-programming-switch) `intermediate`
+ - [JavaScript For Loop](https://www.coursera.org/learn/javascript-for-loop) `intermediate`
  - [JavaScript Numbers: Properties and Methods](https://www.coursera.org/learn/javascript-numbers-properties-methods) `beginner`
  - [JavaScript Strings: Properties and Methods](https://www.coursera.org/learn/javascript-strings-properties-methods) `beginner`
  - [JavaScript Variables and Assignment Operators](https://www.coursera.org/learn/javascript-variables-assignment-operators) `beginner`
@@ -2248,7 +2253,6 @@
  - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database) `intermediate`
  - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java) `intermediate`
  - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio) `intermediate`
- - [Create a text adventure game with Ink](https://www.coursera.org/learn/create-a-text-adventure-game-with-ink) `beginner`
  - [Create a User Interface in Unity Part 2 - World-Space Canvas](https://www.coursera.org/learn/create-ui-unity-world-space-canvas) `beginner`
  - [Create an FPS Weapon in Unity (Part 1 - Revolver)](https://www.coursera.org/learn/create-fps-weapon-unity-revolver) `beginner`
  - [Create an FPS Weapon in Unity (Part 2 - Firing Effects)](https://www.coursera.org/learn/create-fps-weapon-unity-firing-effects) `beginner`
@@ -2312,6 +2316,7 @@
  - [Java Decision Programming](https://www.coursera.org/learn/java-decison-programming) `intermediate`
  - [Java Inheritance, Composition and Aggregation](https://www.coursera.org/learn/java-inheritance-composition-and-aggregation) `intermediate`
  - [Java Primitive Types to Calculate Expenses](https://www.coursera.org/learn/java-primitive-types-to-calculate-expenses) `intermediate`
+ - [Java Spring Boot Application Software Testing](https://www.coursera.org/learn/java-spring-boot-application-software-testing) `intermediate`
  - [Learn Java and JavaFX by creating a Graphical Calculator](https://www.coursera.org/learn/learn-java-and-javafx-graphical-calculator) `beginner`
  - [Learn Java with no prior programming experience](https://www.coursera.org/learn/learn-programming-java) `beginner`
  - [Learn Javascript - 21 Essential Array Methods](https://www.coursera.org/learn/21-essential-javascript-array-methods) `beginner`
@@ -2342,6 +2347,7 @@
  - [Set up a Continuous Integration (CI) workflow in CIrcleCI](https://www.coursera.org/learn/setup-continuous-integration-ci-workflow-in-circleci) `intermediate`
  - [Snake game in Python: use Pygame to build your game](https://www.coursera.org/learn/snakegame-python-pygame) `intermediate`
  - [Source control management for test automation with Git](https://www.coursera.org/learn/source-control-management-test-automation-git) `beginner`
+ - [Spring Boot Inversion of Control and Dependency Injection](https://www.coursera.org/learn/spring-boot-inversion-of-control-and-dependency-injection) `intermediate`
  - [SQL Functions](https://www.coursera.org/learn/sql-functions) `beginner`
  - [SQL Joins](https://www.coursera.org/learn/sql-joins) `beginner`
  - [Starting GUI Programming with JavaFX](https://www.coursera.org/learn/gui-programming-javafx) `intermediate`
@@ -2561,10 +2567,10 @@
 ### University of Michigan
 #### [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 1. [Python Basics](https://www.coursera.org/learn/python-basics) `beginner`
-1. [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) `intermediate`
 2. [Python Functions, Files, and Dictionaries](https://www.coursera.org/learn/python-functions-files-dictionaries) `beginner`
 3. [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python) `intermediate`
 4. [Python Classes and Inheritance](https://www.coursera.org/learn/python-classes-inheritance) `intermediate`
+5. [Python Project: pillow, tesseract, and opencv](https://www.coursera.org/learn/python-project) `intermediate`
 #### [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 1. [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 2. [Python Data Structures](https://www.coursera.org/learn/python-data)
@@ -2700,7 +2706,6 @@
  - [Stock Analysis:  Create a Buy Signal Filter using R and the Quantmod Package](https://www.coursera.org/learn/create-buy-signal-filter-using-r-quantmod-package) `beginner`
  - [Support Vector Machines in Python, From Start to Finish](https://www.coursera.org/learn/support-vector-machines-in-python) `intermediate`
  - [Tell the Data Story with Survey Graphics in Google Slides](https://www.coursera.org/learn/tell-the-data-story-with-survey-graphics-in-google-slides) `intermediate`
- - [The Art of Creative Visuals & Story Telling](https://www.coursera.org/learn/creative-visuals) `intermediate`
  - [Using Descriptive Statistics to Analyze Data in R](https://www.coursera.org/learn/descriptive-statistics-analyze-data-r) `beginner`
  - [Using Shiny to Plot Differential Gene Expression](https://www.coursera.org/learn/shiny-to-plot-differential-gene-expression) `beginner`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
@@ -3067,6 +3072,7 @@
  - [Data Visualization with Plotly Express](https://www.coursera.org/learn/data-visualization-plotly-express) `intermediate`
  - [Deep Learning Inference with Azure ML Studio](https://www.coursera.org/learn/azure-machine-learning-studio-deep-learning-inference) `beginner`
  - [Deep Learning NLP: Training GPT-2 from scratch](https://www.coursera.org/learn/deep-learning-nlp-gpt-2) `beginner`
+ - [Deep Learning with PyTorch: Build a Neural Network](https://www.coursera.org/learn/deep-learning-with-pytorch-build-a-neural-network) `intermediate`
  - [Deploy Models with TensorFlow Serving and Flask](https://www.coursera.org/learn/deploy-models-tensorflow-serving-flask) `intermediate`
  - [Detecting COVID-19 with Chest X-Ray using PyTorch](https://www.coursera.org/learn/covid-19-detection-x-ray) `intermediate`
  - [Diabetes Prediction With Pyspark MLLIB](https://www.coursera.org/learn/diabetes-prediction-with-pyspark-mllib) `intermediate`
@@ -3361,6 +3367,7 @@
  - [Chi-Squared Test in Google Sheets](https://www.coursera.org/learn/chi-squared-test-google-sheets) `beginner`
  - [Forecasting US Presidential Elections with Mixed Models](https://www.coursera.org/learn/forecasting-us-elections-mixed-effects) `intermediate`
  - [Intro to Time Series Analysis in R](https://www.coursera.org/learn/intro-time-series-analysis-in-r) `beginner`
+ - [Type 1 and Type 2 Error Analysis in Google Sheets](https://www.coursera.org/learn/type-1-type-2-error-analysis-google-sheets) `beginner`
  - [Using probability distributions for real world problems in R](https://www.coursera.org/learn/probability-distributions-real-world-problems-r) `beginner`
 ### Databricks
 #### [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts)
@@ -4638,6 +4645,7 @@
 ### CertNexus
  - [Preparing for Your CertNexus Certification Exam](https://www.coursera.org/learn/preparing-for-your-certnexus-certification-exam) `beginner`
 ### Coursera Project Network
+ - [Facilitate Online Discussions with Eduflow](https://www.coursera.org/learn/facilitate-online-discussions-with-eduflow) `beginner`
  - [Teaching with Peer Review Using Eduflow](https://www.coursera.org/learn/teaching-with-peer-review-using-eduflow) `beginner`
 ### Duke University
 #### [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke)
@@ -4807,12 +4815,13 @@
 ### Institut Mines-Télécom
  - [Introduction to Satellite Communications](https://www.coursera.org/learn/satellite-communications) `beginner`
 ### Korea Advanced Institute of Science and Technology(KAIST)
- - [Electrodynamics: An Introduction](https://www.coursera.org/learn/electrodynamics-introduction) `intermediate`
- - [Electrodynamics: Analysis of Electric Fields](https://www.coursera.org/learn/electrodynamics-analysis-of-electric-fields) `advanced`
- - [Electrodynamics: Electric and Magnetic Fields](https://www.coursera.org/learn/electrodynamics-electric-magnetic-fields) `advanced`
- - [Electrodynamics: In-depth Solutions for Maxwell’s Equations](https://www.coursera.org/learn/electrodynamics-solutions-maxwells-equations) `advanced`
  - [Introduction to Semiconductor Devices 1](https://www.coursera.org/learn/semiconductor-1) `intermediate`
  - [Introduction to Semiconductor Devices 2](https://www.coursera.org/learn/semiconductor-2) `intermediate`
+#### [Electrodynamics  Specialization](https://www.coursera.org/specializations/electrodynamics)
+1. [Electrodynamics: An Introduction](https://www.coursera.org/learn/electrodynamics-introduction) `intermediate`
+2. [Electrodynamics: Analysis of Electric Fields](https://www.coursera.org/learn/electrodynamics-analysis-of-electric-fields) `advanced`
+3. [Electrodynamics: Electric and Magnetic Fields](https://www.coursera.org/learn/electrodynamics-electric-magnetic-fields) `advanced`
+4. [Electrodynamics: In-depth Solutions for Maxwell’s Equations](https://www.coursera.org/learn/electrodynamics-solutions-maxwells-equations) `advanced`
 ### Lund University
  - [Fundamentals of particle accelerator technology  (NPAP MOOC)](https://www.coursera.org/learn/fundamentals-particle-accelerator-technology) `intermediate`
 ### Moscow Institute of Physics and Technology
@@ -4981,7 +4990,6 @@
 ### University of Colorado Boulder
  - [Water in the Western United States](https://www.coursera.org/learn/water-united-states) `beginner`
 #### [Arctic Climate, Environ. & Geographies of a Changing North Specialization](https://www.coursera.org/specializations/arctic-climate-environment-geographies)
-1. [The Arctic as a System](https://www.coursera.org/learn/the-arctic-as-a-system)
 2. [The Changing Arctic: Present, Past, & Future](https://www.coursera.org/learn/arctic-present-past-future)
 ### University of Colorado System
  - [Electric Utilities Fundamentals and Future](https://www.coursera.org/learn/electric-utilities) `beginner`
@@ -5360,6 +5368,7 @@
  - [Building Classroom Community Using Flipgrid](https://www.coursera.org/learn/classroom-flipgrid) `beginner`
  - [Building Students Math Skills with iKnowit](https://www.coursera.org/learn/student-math-iknowit) `beginner`
  - [Create a Class Website using Google Sites](https://www.coursera.org/learn/classroom-website) `beginner`
+ - [Create a Virtual Classroom using Google Slides](https://www.coursera.org/learn/virtual-classroom-google-slides) `beginner`
  - [Create a Visual Schedule with Google Slides](https://www.coursera.org/learn/teaching-visual-schedule) `beginner`
  - [Create a Writing Rubric with Google Docs](https://www.coursera.org/learn/writing-rubric) `beginner`
  - [Create Engaging Lessons with Google Slides and Peardeck](https://www.coursera.org/learn/lessons-google-slides) `beginner`
