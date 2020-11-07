@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5331` courses. Updated daily.
+Complete list of `5334` courses. Updated daily.
 
 # TOC
 
@@ -70,7 +70,6 @@ Complete list of `5331` courses. Updated daily.
  - [Personal Development](<English.md#personal-development>)
  - [Physical Science and Engineering](<English.md#physical-science-and-engineering>)
  - [Social Sciences](<English.md#social-sciences>)
- - [Undefined](<English.md#undefined>)
 ### French
  - [Arts and Humanities](<French.md#arts-and-humanities>)
  - [Business](<French.md#business>)
@@ -155,4 +154,3 @@ Complete list of `5331` courses. Updated daily.
  - [Business](<Ukrainian.md#business>)
  - [Social Sciences](<Ukrainian.md#social-sciences>)
 ### Undefined
- - [Undefined](<Undefined.md#undefined>)

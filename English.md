@@ -10,7 +10,6 @@
  - [Personal Development](#personal-development)
  - [Physical Science and Engineering](#physical-science-and-engineering)
  - [Social Sciences](#social-sciences)
- - [Undefined](#undefined)
 # Arts and Humanities
 > - [History](#history)
 > - [Music and Art](#music-and-art)
@@ -1014,6 +1013,7 @@
  - [Create a Financial Statement using Google Sheets](https://www.coursera.org/learn/create-financial-statement-google-sheets) `beginner`
  - [Create a Simple Gantt Chart using Google Sheets](https://www.coursera.org/learn/create-gantt-chart-google-sheets) `beginner`
  - [Create a Simple Project Timeline in Google Sheets](https://www.coursera.org/learn/create-a-simple-project-timeline) `beginner`
+ - [Develop a Savings Plan on Fixed Income with Google Sheets](https://www.coursera.org/learn/fixed-income-savings-plan-with-google-sheets) `beginner`
  - [Discounted Cash Flow Modeling](https://www.coursera.org/learn/discounted-cash-flow-modeling) `intermediate`
  - [Evaluate Profit Margins with VLOOKUP in Google Sheets](https://www.coursera.org/learn/evaluate-profit-margins-with-vlookup-in-google-sheets) `beginner`
  - [Expenses in ProfitBooks](https://www.coursera.org/learn/expenses-in-profitbooks) `beginner`
@@ -1216,7 +1216,7 @@
 ## Leadership and Management
 ### Advancing Women in Product
 #### [Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
-1. [The Business of Product Management I](https://www.coursera.org/learn/the-business-of-product-management-one)
+1. [The Business of Product Management I](https://www.coursera.org/learn/the-business-of-product-management-one) `beginner`
 ### BCG, University of Virginia
 #### [Leading the Modern Day Business Specialization](https://www.coursera.org/specializations/leading-modern-day-business)
 1. [Digital Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation) `beginner`
@@ -1551,6 +1551,7 @@
  - [Create a Google Ads Search Campaign](https://www.coursera.org/learn/create-a-google-ads-search-campaign) `beginner`
  - [Create a Google Ads Video Campaign](https://www.coursera.org/learn/create-a-google-ads-video-campaign) `beginner`
  - [Create a Google Video Ads Sequence Campaign](https://www.coursera.org/learn/create-a-google-video-ads-sequence-campaign) `beginner`
+ - [Create a Project Management Tracker using Google Sheets](https://www.coursera.org/learn/create-a-project-management-tracker-using-google-sheets) `beginner`
  - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides) `beginner`
  - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva) `advanced`
  - [Create Cross Tabulation Reports in Google Sheets](https://www.coursera.org/learn/cross-tabulation-reports-google-sheets) `intermediate`
@@ -1919,9 +1920,9 @@
 ## Design and Product
 ### Advancing Women in Product
 #### [Real-World Product Management Specialization](https://www.coursera.org/specializations/real-world-product-management)
-2. [The Business of Product Management II](https://www.coursera.org/learn/real-world-product-management-skills)
-3. [The Art & Science of Product Management](https://www.coursera.org/learn/pms-leading-design-engineering-ai-ml)
-4. [Acing the Product Management Interview](https://www.coursera.org/learn/acing-product-management-interviews)
+2. [The Business of Product Management II](https://www.coursera.org/learn/real-world-product-management-skills) `beginner`
+3. [The Art & Science of Product Management](https://www.coursera.org/learn/pms-leading-design-engineering-ai-ml) `beginner`
+4. [Acing the Product Management Interview](https://www.coursera.org/learn/acing-product-management-interviews) `beginner`
 ### Coursera Project Network
  - [Accessible Landing Page Solutions in XD](https://www.coursera.org/learn/accessible-landing-page-xd) `intermediate`
  - [Build a Custom Profile Avatar with Inkscape](https://www.coursera.org/learn/build-a-custom-profile-avatar-with-inkscape) `beginner`
@@ -1944,6 +1945,7 @@
  - [Product Design: Designing a modern table lamp using SketchUp](https://www.coursera.org/learn/product-design-designing-a-modern-table-lamp-using-sketchup) `intermediate`
  - [Scrum Team Building Using Games and Interactive Tools](https://www.coursera.org/learn/scrum-team-building-using-games-interactive-tools) `intermediate`
  - [User Experience Responsive Hero in XD for Beginners](https://www.coursera.org/learn/xd-responsive-hero-beginners) `beginner`
+ - [Visual Communication through zines using Scribus & Issuu.com](https://www.coursera.org/learn/visual-communication-through-zines) `intermediate`
 ### EIT Digital 
  - [System Validation: Automata and behavioural equivalences](https://www.coursera.org/learn/automata-system-validation) `intermediate`
 ### Georgia Institute of Technology
@@ -2253,6 +2255,7 @@
  - [Create a Python Application using PyMongo and MongoDB Database](https://www.coursera.org/learn/python-application-pymango-mongodb-database) `intermediate`
  - [Create a Record of Students using Arrays in Java](https://www.coursera.org/learn/create-a-record-of-students-using-arrays-in-java) `intermediate`
  - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio) `intermediate`
+ - [Create a text adventure game with Ink](https://www.coursera.org/learn/create-a-text-adventure-game-with-ink) `beginner`
  - [Create a User Interface in Unity Part 2 - World-Space Canvas](https://www.coursera.org/learn/create-ui-unity-world-space-canvas) `beginner`
  - [Create an FPS Weapon in Unity (Part 1 - Revolver)](https://www.coursera.org/learn/create-fps-weapon-unity-revolver) `beginner`
  - [Create an FPS Weapon in Unity (Part 2 - Firing Effects)](https://www.coursera.org/learn/create-fps-weapon-unity-firing-effects) `beginner`
@@ -2646,6 +2649,7 @@
  - [Create Technical Stock Charts Using R and Quantmod](https://www.coursera.org/learn/create-technical-stock-charts-r-quantmod) `beginner`
  - [Creating Models using Smartpls](https://www.coursera.org/learn/smartpls-advanced-regression) `intermediate`
  - [Cryptocurrency Data Visualization using Plotly Express](https://www.coursera.org/learn/cryptocurrency-data-visualization-using-plotly-express) `beginner`
+ - [Custom Attribution Modeling with Google Analytics](https://www.coursera.org/learn/custom-attribution-modeling-with-google-analytics) `beginner`
  - [Custom Reports in Google Analytics](https://www.coursera.org/learn/custom-reports-in-google-analytics) `intermediate`
  - [D3Js Basics](https://www.coursera.org/learn/d3-basics) `intermediate`
  - [Data Analysis Using Pyspark](https://www.coursera.org/learn/data-analysis-using-pyspark) `intermediate`
@@ -2706,6 +2710,7 @@
  - [Stock Analysis:  Create a Buy Signal Filter using R and the Quantmod Package](https://www.coursera.org/learn/create-buy-signal-filter-using-r-quantmod-package) `beginner`
  - [Support Vector Machines in Python, From Start to Finish](https://www.coursera.org/learn/support-vector-machines-in-python) `intermediate`
  - [Tell the Data Story with Survey Graphics in Google Slides](https://www.coursera.org/learn/tell-the-data-story-with-survey-graphics-in-google-slides) `intermediate`
+ - [The Art of Creative Visuals & Story Telling](https://www.coursera.org/learn/creative-visuals) `intermediate`
  - [Using Descriptive Statistics to Analyze Data in R](https://www.coursera.org/learn/descriptive-statistics-analyze-data-r) `beginner`
  - [Using Shiny to Plot Differential Gene Expression](https://www.coursera.org/learn/shiny-to-plot-differential-gene-expression) `beginner`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
@@ -3874,6 +3879,7 @@
  - [Unethical Decision Making in Organizations](https://www.coursera.org/learn/unethical-decision-making) `beginner`
 ### University of Michigan
  - [Mindware: Critical Thinking for the Information Age](https://www.coursera.org/learn/mindware) `beginner`
+ - [Practicing Gratitude Teach-Out](https://www.coursera.org/learn/practicing-gratitude-teach-out) `beginner`
 #### [Survey Data Collection and Analytics  Specialization](https://www.coursera.org/specializations/data-collection)
 2. [Data Collection: Online, Telephone and Face-to-face](https://www.coursera.org/learn/data-collection-methods) `beginner`
 3. [Questionnaire Design for Social Surveys](https://www.coursera.org/learn/questionnaire-design)
@@ -4139,6 +4145,7 @@
  - [AWS: Publish a NodeJS Website from Scratch](https://www.coursera.org/learn/aws-publish-nodejs-website-from-scratch) `beginner`
  - [Build a Firebase Android Application](https://www.coursera.org/learn/firebase-android-app) `intermediate`
  - [Build a Firebase Android Application (Part II)](https://www.coursera.org/learn/firebase-android-app-2) `advanced`
+ - [Build a RESTful API(Node.js) using AWS Lambda & API Gateway](https://www.coursera.org/learn/aws-lambda-api-gateway-nodejs) `beginner`
  - [Build a RESTful Serverless API on AWS](https://www.coursera.org/learn/restful-serverless-api-on-aws) `beginner`
  - [Building Chatbot with Google DialogFlow](https://www.coursera.org/learn/building-chatbot-with-dialogflow) `intermediate`
  - [Building Smart Business Assistants with IBM Watson](https://www.coursera.org/learn/building-smart-business-assistants-ibm-watson) `beginner`
@@ -4190,6 +4197,10 @@
 1. [Hybrid Cloud Infrastructure Foundations with Anthos](https://www.coursera.org/learn/hybrid-cloud-infrastructure-foundations-anthos) `intermediate`
 2. [Hybrid Cloud Service Mesh with Anthos](https://www.coursera.org/learn/hybrid-cloud-service-mesh-anthos) `intermediate`
 3. [Hybrid Cloud Multi-Cluster with Anthos](https://www.coursera.org/learn/hybrid-cloud-multi-cluster-anthos) `advanced`
+#### [Customer Experiences with Contact Center AI Specialization](https://www.coursera.org/specializations/customer-experience-gcp)
+1. [Contact Center AI: Conversational Design Fundamentals](https://www.coursera.org/learn/contact-center-ai-conversational-design-fundamentals) `intermediate`
+2. [Contact Center AI: Building a Dynamic Virtual Agent](https://www.coursera.org/learn/contact-center-ai-building-a-dynamic-virtual-agent) `intermediate`
+3. [Contact Center AI: Operations and Implementation](https://www.coursera.org/learn/contact-center-ai-operations-and-implementation) `intermediate`
 #### [SRE and DevOps Engineer with Google Cloud Professional Certificate](https://www.coursera.org/specializations/sre-devops-engineer-google-cloud)
 5. [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) `intermediate`
 ### IBM
@@ -4990,6 +5001,7 @@
 ### University of Colorado Boulder
  - [Water in the Western United States](https://www.coursera.org/learn/water-united-states) `beginner`
 #### [Arctic Climate, Environ. & Geographies of a Changing North Specialization](https://www.coursera.org/specializations/arctic-climate-environment-geographies)
+1. [The Arctic as a System](https://www.coursera.org/learn/the-arctic-as-a-system)
 2. [The Changing Arctic: Present, Past, & Future](https://www.coursera.org/learn/arctic-present-past-future)
 ### University of Colorado System
  - [Electric Utilities Fundamentals and Future](https://www.coursera.org/learn/electric-utilities) `beginner`
@@ -5765,8 +5777,3 @@
  - [America's Unwritten Constitution](https://www.coursera.org/learn/unwritten-constitution)
  - [American Contract Law I](https://www.coursera.org/learn/contracts-1) `beginner`
  - [American Contract Law II](https://www.coursera.org/learn/contracts-2) `beginner`
-# Undefined
-> - [Undefined](#undefined)
-## Undefined
-### University of Michigan
- - [Practicing Gratitude Teach-Out](https://www.coursera.org/learn/practicing-gratitude-teach-out) `beginner`

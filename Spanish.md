@@ -113,13 +113,6 @@
  - [Google Cloud Product Fundamentals en Español](https://www.coursera.org/learn/google-cloud-product-fundamentals-es) `beginner`
 ### Pontificia Universidad Católica de Chile
  - [Planificación y gestión estratégica para Pymes](https://www.coursera.org/learn/planificacion-gestion-pymes) `beginner`
-### Tecnológico de Monterrey
-#### [Análisis de Datos para la toma de decisiones Specialization](https://www.coursera.org/specializations/analisis-datos)
-1. [Fundamentos del análisis de datos para la toma de decisiones](https://www.coursera.org/learn/analisis-de-datos)
-2. [Recolección y exploración de datos](https://www.coursera.org/learn/ordenamiento-datos)
-3. [Uso de técnicas estadísticas para el análisis de datos](https://www.coursera.org/learn/datos-tecnicas)
-4. [Aplicando el análisis de datos: casos selectos](https://www.coursera.org/learn/analisis-de-datos-aplicaciones)
-5. [Análisis de Datos - Proyecto Final](https://www.coursera.org/learn/analisis-datos-proyecto-final)
 ### Universidad Austral
  - [Negociación 4.0](https://www.coursera.org/learn/negociacion-iae) `beginner`
 #### [Marketing Digital Specialization](https://www.coursera.org/specializations/marketing-digital)
