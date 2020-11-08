@@ -4481,7 +4481,6 @@
 #### [Academic English: Writing Specialization](https://www.coursera.org/specializations/academic-english)
 1. [Grammar and Punctuation](https://www.coursera.org/learn/grammar-punctuation)
 3. [Advanced Writing](https://www.coursera.org/learn/advanced-writing)
-5. [Project: Writing a Research Paper](https://www.coursera.org/learn/academic-writing-capstone)
 #### [Learn English: Advanced Academic Speaking and Listening Specialization](https://www.coursera.org/specializations/speaklistenenglish)
 1. [Academic Listening and Note-Taking](https://www.coursera.org/learn/note-taking) `intermediate`
 2. [Presentations: Speaking so that People Listen](https://www.coursera.org/learn/presentations-speaking-so-that-people-listen) `intermediate`
