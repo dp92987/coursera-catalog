@@ -82,6 +82,7 @@
 > - [Software Development](#software-development)
 ## Software Development
 ### Coursera Project Network
+ - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
  - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
  - [Scripting Bash - Découverte du Langage de Programmation](https://www.coursera.org/learn/programmation-bash) `intermediate`
  - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`

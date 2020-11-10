@@ -3,5 +3,7 @@
 # Undefined
 > - [Undefined](#undefined)
 ## Undefined
-### University of California, Irvine
- - [Project: Writing a Research Paper](https://www.coursera.org/learn/academic-writing-capstone)
+### (ISC)²
+ - [Cryptography](https://www.coursera.org/learn/cryptography-sscp)
+### Coursera Project Network
+ - [Critical Path Analysis Using Lucidchart](https://www.coursera.org/learn/critical-path-analysis-using-lucidchart)

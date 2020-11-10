@@ -330,6 +330,7 @@
 ### Coursera Project Network
  - [Aprendiendo a hacer API con Node.JS](https://www.coursera.org/learn/api-nodejs) `beginner`
  - [Aprendiendo Solidity para hacer Smart Contracts](https://www.coursera.org/learn/solidity-smartcontracts) `beginner`
+ - [Fundamentos de React Hooks](https://www.coursera.org/learn/fundamentos-react-hooks) `intermediate`
 ### Universidad Austral
 #### [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol)
 1. [Diseñando páginas web con Bootstrap 4](https://www.coursera.org/learn/disenando-paginas-bootstrap4) `beginner`
@@ -393,9 +394,11 @@
  - [Automated Machine Learning en Power BI Clasificación](https://www.coursera.org/learn/automated-machine-learning-powerbi-clasificacion) `intermediate`
  - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
+ - [Azure Data Engineer con Databricks y Azure Data Factory](https://www.coursera.org/learn/azure-data-engineer-databricks-data-factory) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
  - [Curso Completo de Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/curso-completo-machine-learning-microsoft-powerbi) `advanced`
  - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
+ - [Curso Completo de Spark con Databricks (Big Data)](https://www.coursera.org/learn/curso-completo-spark-databricks) `advanced`
  - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`

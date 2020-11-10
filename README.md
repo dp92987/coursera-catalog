@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5334` courses. Updated daily.
+Complete list of `5343` courses. Updated daily.
 
 # TOC
 
@@ -84,10 +84,8 @@ Complete list of `5334` courses. Updated daily.
  - [Social Sciences](<French.md#social-sciences>)
 ### German
  - [Business](<German.md#business>)
- - [Computer Science](<German.md#computer-science>)
  - [Data Science](<German.md#data-science>)
  - [Health](<German.md#health>)
- - [Information Technology](<German.md#information-technology>)
  - [Physical Science and Engineering](<German.md#physical-science-and-engineering>)
 ### Hebrew
  - [Arts and Humanities](<Hebrew.md#arts-and-humanities>)
