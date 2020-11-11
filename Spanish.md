@@ -85,9 +85,9 @@
 ### Universidad Nacional Autónoma de México
 #### [Estrategias de Negociación Specialization](https://www.coursera.org/specializations/negociacion)
 1. [Introducción al mundo de las negociaciones](https://www.coursera.org/learn/estrategias-de-negociacion)
+1. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 2. [Habilidades humanas y de negocios para negociar](https://www.coursera.org/learn/habilidades-negociacion)
 3. [Los obstáculos y la conducción en las negociaciones](https://www.coursera.org/learn/negociacion-proceso)
-4. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 5. [Proyecto final sobre negociación para un mejor clima laboral](https://www.coursera.org/learn/proyecto-negociacion)
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
 1. [Introducción a la Estrategia](https://www.coursera.org/learn/introduccionalaestrategia)

@@ -20,7 +20,6 @@
  - [現代文學導讀：詩、散文、小說](https://www.coursera.org/learn/poetry-prose-novel) `beginner`
 ## Music and Art
 ### National Taiwan University
- - [唐詩新思路 (Tang Poetry)](https://www.coursera.org/learn/tang-poems) `beginner`
  - [東坡詞 (Ci Poetry of Su Dong Po)](https://www.coursera.org/learn/su-dongpo) `beginner`
 ### The Chinese University of Hong Kong
  - [中國人文經典導讀](https://www.coursera.org/learn/zhongguorenwenjingdiandaodu)

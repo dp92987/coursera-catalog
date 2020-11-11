@@ -148,7 +148,6 @@
 ## Music and Art
 ### Berklee College of Music
  - [Building Your Career in Music: Developing A Brand and Funding Your Music](https://www.coursera.org/learn/navigate-music-industry-independent-artist) `beginner`
- - [Creating Sounds for Electronic Music](https://www.coursera.org/learn/music-synthesizer)
  - [Guitar for Beginners](https://www.coursera.org/learn/guitar)
  - [Introduction to Ableton Live](https://www.coursera.org/learn/ableton-live)
  - [Music Business Foundations](https://www.coursera.org/learn/music-business-foundations)
@@ -164,6 +163,7 @@
 3. [Musicianship: Tensions, Harmonic Function, and Modal Interchange](https://www.coursera.org/learn/musicianship-harmony) `intermediate`
 4. [Developing Your Musicianship: Final Project](https://www.coursera.org/learn/musicianship-final-project) `intermediate`
 #### [Electronic Music Production Specialization](https://www.coursera.org/specializations/electronic-music-production)
+3. [Creating Sounds for Electronic Music](https://www.coursera.org/learn/music-synthesizer)
 4. [Electronic Music Performance Techniques](https://www.coursera.org/learn/edi-performance-techniques) `intermediate`
 #### [How to Play Guitar Specialization](https://www.coursera.org/specializations/play-guitar)
 2. [Guitar Scales and Chord Progressions](https://www.coursera.org/learn/guitar-scales-chord-progressions) `intermediate`
@@ -214,8 +214,6 @@
  - [How to Make a Comic Book (Project-Centered Course)](https://www.coursera.org/learn/make-comic-books)
 ### IE Business School, IE School of Architecture & Design
  - [Making Architecture](https://www.coursera.org/learn/making-architecture) `beginner`
-### Ludwig-Maximilians-Universität München (LMU)
- - [Theatre and Globalization](https://www.coursera.org/learn/global-theatre) `beginner`
 ### Michigan State University
  - [Getting Started With Music Theory](https://www.coursera.org/learn/music-theory) `beginner`
  - [Getting Your Film off the Ground](https://www.coursera.org/learn/film-off-ground) `beginner`
@@ -363,7 +361,6 @@
 ### University of Copenhagen
  - [Søren Kierkegaard - Subjectivity, Irony and the Crisis of Modernity](https://www.coursera.org/learn/kierkegaard)
 ### University of Michigan
- - [Disinformation, Misinformation, and Fake News Teach-Out](https://www.coursera.org/learn/disinformation-misinformation-fake-news) `beginner`
  - [LGBTQ Pride: From Origins to Evolution Teach-Out](https://www.coursera.org/learn/lgbtq-pride) `beginner`
 ### University of Pennsylvania
  - [Ancient Philosophy: Aristotle and His Successors](https://www.coursera.org/learn/aristotle)
@@ -1262,6 +1259,7 @@
  - [Create Online Employee Onboarding Course with Eduflow](https://www.coursera.org/learn/online-employee-onboarding-eduflow) `beginner`
  - [Create Training Videos with Powtoon](https://www.coursera.org/learn/create-training-videos-powtoon) `beginner`
  - [Creating a Customer Service Survey Using Google Forms](https://www.coursera.org/learn/create-customer-service-survey-google-forms) `beginner`
+ - [Critical Path Analysis Using Lucidchart](https://www.coursera.org/learn/critical-path-analysis-using-lucidchart) `intermediate`
  - [Customer Support digital transformation with HubSpot](https://www.coursera.org/learn/customer-support-digital-transformation-for-smbs-with-hubspot-crm) `beginner`
  - [Data Visualization Using Google Sheets](https://www.coursera.org/learn/data-visualization-using-google-sheets) `beginner`
  - [Gmail: The Foundation To Accessing Google Apps](https://www.coursera.org/learn/gmail-foundation-to-google-apps) `beginner`
@@ -1360,7 +1358,6 @@
 ### National Research University Higher School of Economics
  - [Digital transformation of megapolises: from zero to #1 in UN digital e-government ranking](https://www.coursera.org/learn/digital-transformation-of-megapolises) `beginner`
 ### Northwestern University
- - [Power Onboarding](https://www.coursera.org/learn/power-onboarding) `beginner`
 #### [Organizational Leadership Specialization](https://www.coursera.org/specializations/organizational-leadership)
 1. [High Performance Collaboration: Leadership, Teamwork, and Negotiation](https://www.coursera.org/learn/leadership-collaboration)
 2. [Leadership Communication for Maximum Impact: Storytelling](https://www.coursera.org/learn/leadership-storytelling)
@@ -1391,7 +1388,6 @@
 2. [Procurement Basics](https://www.coursera.org/learn/procurement-basics) `beginner`
 3. [Strategic Sourcing](https://www.coursera.org/learn/strategic-sourcing) `beginner`
 4. [Supplier Management](https://www.coursera.org/learn/supplier-management) `beginner`
-5. [Supply Market Analysis](https://www.coursera.org/learn/supply-market-analysis) `beginner`
 6. [Procurement Negotiation](https://www.coursera.org/learn/procurement-negotiation) `beginner`
 7. [Strategic Procurement and Sourcing Conclusions](https://www.coursera.org/learn/procurement-sourcing-conclusions) `beginner`
 ### Stanford University
@@ -2316,6 +2312,7 @@
  - [Introduction to API Testing using JMeter Tool](https://www.coursera.org/learn/introduction-to-api-testing-using-jmeter-tool) `beginner`
  - [Introduction to Bash Shell Scripting](https://www.coursera.org/learn/introduction-to-bash-shell-scripting) `beginner`
  - [Introduction to Docker : The Basics](https://www.coursera.org/learn/docker-fundamentals) `beginner`
+ - [Introduction to JUnit 5 and Integration with Selenium](https://www.coursera.org/learn/introduction-to-junit5-integration-with-selenium) `beginner`
  - [Introduction to Pointers and Memory Management in C/C++](https://www.coursera.org/learn/introduction-to-pointers-and-memory-in-c-and-cpp) `intermediate`
  - [Introduction to Python](https://www.coursera.org/learn/introduction-to-python) `beginner`
  - [Introduction to Relational Database and SQL](https://www.coursera.org/learn/introduction-to-relational-database-and-sql) `beginner`
@@ -2348,7 +2345,6 @@
  - [Process Student Details using Inheritance in Java](https://www.coursera.org/learn/process-student-details-using-inheritance-in-java) `intermediate`
  - [Processing Data with Python](https://www.coursera.org/learn/processing-data-with-python) `intermediate`
  - [Programming a Quantum Computer with Qiskit](https://www.coursera.org/learn/programming-quantum-computer-qiskit) `intermediate`
- - [Programming in C#: A comprehensive approach to C# Fundamentals](https://www.coursera.org/learn/programming-in-c) `beginner`
  - [Project: Creating Your First C++ Application](https://www.coursera.org/learn/creating-a-cpp-calculator) `beginner`
  - [Python Data Structures](https://www.coursera.org/learn/python-data-structures) `intermediate`
  - [Python Tricks and Hacks for Productivity](https://www.coursera.org/learn/python-hacks) `intermediate`
@@ -2542,10 +2538,9 @@
 ### University of Colorado System
  - [C# Programming for Unity Game Development Capstone Project](https://www.coursera.org/learn/programming-unity-game-development-project) `intermediate`
  - [Data Structures and Design Patterns for Game Developers](https://www.coursera.org/learn/data-structures-design-patterns) `intermediate`
+ - [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games) `intermediate`
  - [Introduction to C# Programming and Unity](https://www.coursera.org/learn/introduction-programming-unity) `beginner`
  - [More C# Programming and Unity](https://www.coursera.org/learn/more-programming-unity) `intermediate`
-#### [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
-3. [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games) `intermediate`
 #### [Computational Thinking with Beginning C Programming Specialization](https://www.coursera.org/specializations/computational-thinking-c-programming)
 1. [Algorithms, Data Collection, and Starting to Code](https://www.coursera.org/learn/algorithms-data-collection-code) `beginner`
 2. [Data Analysis and Representation, Selection and Iteration](https://www.coursera.org/learn/data-analysis-representation-selection-iteration) `beginner`
@@ -4201,6 +4196,7 @@
  - [Mitigating Security Vulnerabilities on Google Cloud Platform](https://www.coursera.org/learn/mitigating-security-vulnerabilites-gcp) `intermediate`
  - [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp) `intermediate`
  - [Optimizing Your Google Cloud Platform (GCP) Costs](https://www.coursera.org/learn/gcp-cost-optimization) `intermediate`
+ - [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam) `advanced`
  - [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) `intermediate`
@@ -4212,8 +4208,6 @@
 1. [Hybrid Cloud Infrastructure Foundations with Anthos](https://www.coursera.org/learn/hybrid-cloud-infrastructure-foundations-anthos) `intermediate`
 2. [Hybrid Cloud Service Mesh with Anthos](https://www.coursera.org/learn/hybrid-cloud-service-mesh-anthos) `intermediate`
 3. [Hybrid Cloud Multi-Cluster with Anthos](https://www.coursera.org/learn/hybrid-cloud-multi-cluster-anthos) `advanced`
-#### [Cloud Engineering with Google Cloud Professional Certificate](https://www.coursera.org/specializations/cloud-engineering-gcp)
-6. [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) `beginner`
 #### [Customer Experiences with Contact Center AI Specialization](https://www.coursera.org/specializations/customer-experience-gcp)
 1. [Contact Center AI: Conversational Design Fundamentals](https://www.coursera.org/learn/contact-center-ai-conversational-design-fundamentals) `intermediate`
 2. [Contact Center AI: Building a Dynamic Virtual Agent](https://www.coursera.org/learn/contact-center-ai-building-a-dynamic-virtual-agent) `intermediate`
@@ -4333,6 +4327,7 @@
 1. [Access Controls](https://www.coursera.org/learn/access-control-sscp) `beginner`
 2. [Security Operations and Administration](https://www.coursera.org/learn/security-operations-administration-sscp) `beginner`
 3. [Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery](https://www.coursera.org/learn/incident-response-recovery-risks-sscp) `beginner`
+4. [Cryptography](https://www.coursera.org/learn/cryptography-sscp) `beginner`
 5. [Networks and Communications Security](https://www.coursera.org/learn/network-security-communications-sscp) `beginner`
 6. [Systems and Application Security](https://www.coursera.org/learn/systems-application-security-sscp) `beginner`
 ### Association of International Certified Professional Accountants
@@ -4582,6 +4577,8 @@
 4. [Learn Mandarin Chinese: Capstone Project](https://www.coursera.org/learn/learn-mandarin-project) `beginner`
 #### [Learn Mandarin Chinese: Intermediate  Specialization](https://www.coursera.org/specializations/learn-mandarin-chinese-intermediate)
 4. [Mandarin Chinese for Intermediate Learners: Capstone Project](https://www.coursera.org/learn/mandarin-chinese-intermediate-learner-capstone) `intermediate`
+### Sungkyunkwan University
+ - [The Korean Alphabet: An Introduction to Hangeul](https://www.coursera.org/learn/the-korean-alphabet-an-introduction-to-hangeul) `beginner`
 ### Universiteit Leiden, Meertens instituut (KNAW)
  - [Miracles of Human Language: An Introduction to Linguistics](https://www.coursera.org/learn/human-language) `beginner`
 ### University of California, Davis
@@ -4674,6 +4671,7 @@
 ### Coursera Project Network
  - [Facilitate Online Discussions with Eduflow](https://www.coursera.org/learn/facilitate-online-discussions-with-eduflow) `beginner`
  - [Teaching with Peer Review Using Eduflow](https://www.coursera.org/learn/teaching-with-peer-review-using-eduflow) `beginner`
+ - [What is Your Life Goal?](https://www.coursera.org/learn/discover-your-purpose) `beginner`
 ### Duke University
 #### [Introduction to Logic and Critical Thinking Specialization](https://www.coursera.org/specializations/logic-critical-thinking-duke)
 1. [Think Again I: How to Understand Arguments](https://www.coursera.org/learn/understanding-arguments) `beginner`
@@ -5122,6 +5120,8 @@
  - [Introduction to Basic Vibrations](https://www.coursera.org/learn/introduction-basic-vibrations) `intermediate`
  - [Particle Dynamics](https://www.coursera.org/learn/particle-dynamics) `intermediate`
  - [Rigid Body Dynamics](https://www.coursera.org/learn/rigid-body-dynamics) `intermediate`
+### National Research Nuclear University MEPhI, Ivanovo State Power Engineering University
+ - [Construction and operation of pumps for nuclear power plants](https://www.coursera.org/learn/pumps-for-nuclear-power-plants) `beginner`
 ### National Taiwan University
  - [3D CAD Application](https://www.coursera.org/learn/3d-cad-application) `intermediate`
  - [3D CAD Fundamental](https://www.coursera.org/learn/3d-cad-fundamental) `beginner`
@@ -5383,9 +5383,6 @@
 2. [Assessing Achievement with the ELL in Mind](https://www.coursera.org/learn/ell-assessment)
 3. [Engaging ELLs and Their Families in the School and Community](https://www.coursera.org/learn/ell-families)
 4. [ELL Success in the Content Classroom: Capstone Project](https://www.coursera.org/learn/ell-project)
-### Berklee College of Music
-#### [Music Education for Teachers Specialization](https://www.coursera.org/specializations/music-education)
-1. [Teaching Popular Music in the Classroom](https://www.coursera.org/learn/teaching-popular-music) `intermediate`
 ### Commonwealth Education Trust
  - [Foundations of Teaching for Learning Capstone: The Reflective Practitioner](https://www.coursera.org/learn/teaching-capstone)
  - [Foundations of Teaching for Learning: Being a Professional](https://www.coursera.org/learn/professional-teacher)
@@ -5607,8 +5604,6 @@
  - [Communication theory: bridging academia and practice](https://www.coursera.org/learn/communicationtheory-academia-practice) `intermediate`
  - [Introduction to Contemporary Geopolitics](https://www.coursera.org/learn/contemprorary-geopolitics) `beginner`
  - [Understanding International Relations Theory](https://www.coursera.org/learn/international-relations-theory)
-### Princeton University
- - [Paradoxes of War](https://www.coursera.org/learn/war)
 ### Rutgers the State University of New Jersey
  - [Soul Beliefs: Causes and Consequences - Unit 1: Historical Foundations](https://www.coursera.org/learn/soulbeliefs)
 ### Saint Petersburg State University

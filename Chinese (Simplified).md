@@ -41,8 +41,6 @@
  - [《新教伦理与资本主义精神》导读](https://www.coursera.org/learn/max-weber)
 ### Peking University
  - [悖论：思维的魔方](https://www.coursera.org/learn/bei-lun) `beginner`
-### The University of Edinburgh
- - [哲学导论（中文版）](https://www.coursera.org/learn/zhexue-daolun)
 ### Xi'an Jiaotong University
  - [《论语》的智慧](https://www.coursera.org/learn/kongzi)
  - [中国哲学经典著作导读](https://www.coursera.org/learn/chinese-philosophy)
