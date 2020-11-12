@@ -85,9 +85,9 @@
 ### Universidad Nacional Autónoma de México
 #### [Estrategias de Negociación Specialization](https://www.coursera.org/specializations/negociacion)
 1. [Introducción al mundo de las negociaciones](https://www.coursera.org/learn/estrategias-de-negociacion)
-1. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 2. [Habilidades humanas y de negocios para negociar](https://www.coursera.org/learn/habilidades-negociacion)
 3. [Los obstáculos y la conducción en las negociaciones](https://www.coursera.org/learn/negociacion-proceso)
+4. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 5. [Proyecto final sobre negociación para un mejor clima laboral](https://www.coursera.org/learn/proyecto-negociacion)
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
 1. [Introducción a la Estrategia](https://www.coursera.org/learn/introduccionalaestrategia)
@@ -358,7 +358,6 @@
  - [Implementando un motor con Alibaba Cloud y ElasticSearch](https://www.coursera.org/learn/alibabacloud-elastic) `beginner`
  - [Primeros pasos en Python](https://www.coursera.org/learn/primeros-pasos-python) `beginner`
  - [Primeros pasos en SQL](https://www.coursera.org/learn/primeros-pasos-sql) `beginner`
- - [Programando un blockchain básico con Javascript](https://www.coursera.org/learn/blockchain-javascript) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Español Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-es)
 2. [Architecting with Google Kubernetes Engine: Foundations en Español](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-es) `intermediate`
@@ -533,7 +532,6 @@
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
  - [Manejando bases de datos con AWS Aurora](https://www.coursera.org/learn/amazon-aurora) `beginner`
- - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
  - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`

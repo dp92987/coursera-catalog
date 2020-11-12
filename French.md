@@ -84,7 +84,6 @@
 ### Coursera Project Network
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
  - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
- - [Scripting Bash - Découverte du Langage de Programmation](https://www.coursera.org/learn/programmation-bash) `intermediate`
  - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Français Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-fr)
@@ -105,13 +104,11 @@
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
- - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
 ### Coursera Project Network
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
- - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Français Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-fr)

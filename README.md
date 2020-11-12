@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5336` courses. Updated daily.
+Complete list of `5350` courses. Updated daily.
 
 # TOC
 
@@ -152,3 +152,9 @@ Complete list of `5336` courses. Updated daily.
  - [Business](<Ukrainian.md#business>)
  - [Social Sciences](<Ukrainian.md#social-sciences>)
 ### Undefined
+ - [Business](<Undefined.md#business>)
+ - [Computer Science](<Undefined.md#computer-science>)
+ - [Data Science](<Undefined.md#data-science>)
+ - [Information Technology](<Undefined.md#information-technology>)
+ - [Personal Development](<Undefined.md#personal-development>)
+ - [Undefined](<Undefined.md#undefined>)

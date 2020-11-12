@@ -379,8 +379,10 @@
  - [Методологические проблемы психологии](https://www.coursera.org/learn/metodologicheskiye-problemy-psikhologii) `beginner`
  - [Методологические проблемы психологии. Часть 2](https://www.coursera.org/learn/method-psychology-pt2) `beginner`
  - [Нейролингвистика](https://www.coursera.org/learn/neuro-ling-ru)
+ - [Психолингвистика (Psycholinguistics)](https://www.coursera.org/learn/psikholingvistika)
  - [Психология сознания (Psychology of consciousness)](https://www.coursera.org/learn/psikhologiya-soznaniya) `beginner`
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
+3. [Психология карьеры](https://www.coursera.org/learn/psikhologiya-karyery) `beginner`
 4. [Управление людьми и командами](https://www.coursera.org/learn/upravlenie-lyudmi-komandami) `beginner`
 ## Public Health
 ### National Research Tomsk State University, Sechenov University
@@ -602,6 +604,7 @@
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Международные финансы](https://www.coursera.org/learn/mezhdunarodnyye-finansy) `beginner`
 ### National Research University Higher School of Economics
+ - [Корпоративное право для не-юристов](https://www.coursera.org/learn/corporate-law)
  - [Российское предпринимательское право](https://www.coursera.org/learn/rus-business-law) `intermediate`
  - [Юридическое оформление инвестиционных идей](https://www.coursera.org/learn/law-invest-ideas)
 ### Saint Petersburg State University
