@@ -190,8 +190,6 @@
 4. [Building Resilient Streaming Analytics Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/streaming-analytics-systems-gcp-br) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-br) `intermediate`
 ## Networking
-### Coursera Project Network
- - [Introdução a Mapas de Relação com Kumu](https://www.coursera.org/learn/intro-kumu) `beginner`
 ### Cresça com o Google
 #### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
 2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`

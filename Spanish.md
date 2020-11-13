@@ -103,9 +103,6 @@
 #### [Fundamentos Empresariales  Specialization](https://www.coursera.org/specializations/wharton-fundamentos-empresariales)
 5. [Proyecto de Fundamentos Empresariales de Wharton](https://www.coursera.org/learn/wharton-proyecto-final-empresariales)
 ## Business Strategy
-### Coursera Project Network
- - [Creando una presentación con Presentaciones Google](https://www.coursera.org/learn/creando-una-presentacion-con-presentaciones-google) `beginner`
- - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
 ### DeepLearning.AI
  - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es) `beginner`
 ### Google Cloud
@@ -172,8 +169,8 @@
 ### IESE Business School
  - [¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección](https://www.coursera.org/learn/alta-direccion) `beginner`
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
+1. [Finanzas para directivos](https://www.coursera.org/learn/finanzas-operativas) `beginner`
 1. [Introducción a la Contabilidad Financiera](https://www.coursera.org/learn/contabilidad-financiera) `beginner`
-2. [Finanzas para directivos](https://www.coursera.org/learn/finanzas-operativas) `beginner`
 ### Universidad Austral
  - [Finanzas Corporativas](https://www.coursera.org/learn/finanzas-corporativas) `beginner`
  - [La Disrupción del Blockchain](https://www.coursera.org/learn/blockchain-espanol) `beginner`
@@ -330,7 +327,6 @@
 ### Coursera Project Network
  - [Aprendiendo a hacer API con Node.JS](https://www.coursera.org/learn/api-nodejs) `beginner`
  - [Aprendiendo Solidity para hacer Smart Contracts](https://www.coursera.org/learn/solidity-smartcontracts) `beginner`
- - [Fundamentos de React Hooks](https://www.coursera.org/learn/fundamentos-react-hooks) `intermediate`
 ### Universidad Austral
 #### [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol)
 1. [Diseñando páginas web con Bootstrap 4](https://www.coursera.org/learn/disenando-paginas-bootstrap4) `beginner`
@@ -348,16 +344,10 @@
  - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
 ### Coursera Project Network
- - [Análisis de texto en archivos con Azure cognitive search](https://www.coursera.org/learn/analisis-textos-archivos-servicios-cognitivos-azure) `beginner`
  - [Aprendiendo Python con bases de datos](https://www.coursera.org/learn/aprendiendo-python-con-bases-de-datos) `beginner`
- - [Aprendiendo Python con circuitos digitales](https://www.coursera.org/learn/aprendiendo-python-con-circuitos-digitales) `beginner`
- - [Aprendiendo Python con estadística descriptiva](https://www.coursera.org/learn/aprendiendo-python-con-estadistica-descriptiva) `beginner`
- - [Aprendiendo Python con textos, números y ecuaciones](https://www.coursera.org/learn/aprendiendo-python-con-textos-numeros-ecuaciones) `beginner`
- - [Aprendiendo Python con álgebra lineal](https://www.coursera.org/learn/aprendiendo-python-con-algebra-lineal) `beginner`
  - [Creando simulaciones con python](https://www.coursera.org/learn/simulaciones-python) `intermediate`
- - [Implementando un motor con Alibaba Cloud y ElasticSearch](https://www.coursera.org/learn/alibabacloud-elastic) `beginner`
  - [Primeros pasos en Python](https://www.coursera.org/learn/primeros-pasos-python) `beginner`
- - [Primeros pasos en SQL](https://www.coursera.org/learn/primeros-pasos-sql) `beginner`
+ - [Programando un blockchain básico con Javascript](https://www.coursera.org/learn/blockchain-javascript) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Español Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-es)
 2. [Architecting with Google Kubernetes Engine: Foundations en Español](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-es) `intermediate`
@@ -372,8 +362,6 @@
 3. [Programación Orientada a Objetos con Python](https://www.coursera.org/learn/programacion-python-objetos) `beginner`
 4. [Manejo de bases de datos con Python](https://www.coursera.org/learn/python-base-de-datos) `beginner`
 ### Universidad de los Andes
- - [Creación de diagramas de clases UML en GenMyModel](https://www.coursera.org/learn/uml-genmymodel) `intermediate`
- - [Fundamentos de TypeScript](https://www.coursera.org/learn/fundamentos-ts) `intermediate`
  - [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java) `beginner`
  - [Introducción a UML](https://www.coursera.org/learn/uml) `beginner`
 ### Universidad Nacional Autónoma de México
@@ -388,9 +376,7 @@
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
 ### Coursera Project Network
- - [Análisis de documentos con servicios cognitivos de Azure](https://www.coursera.org/learn/analisis-documentos-servicios-cognitivos-azure) `beginner`
  - [Automated Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/automated-machine-learning-powerbi) `intermediate`
- - [Automated Machine Learning en Power BI Clasificación](https://www.coursera.org/learn/automated-machine-learning-powerbi-clasificacion) `intermediate`
  - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Azure Data Engineer con Databricks y Azure Data Factory](https://www.coursera.org/learn/azure-data-engineer-databricks-data-factory) `advanced`
@@ -402,12 +388,9 @@
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
  - [Introducción a Azure Data Factory para Big Data](https://www.coursera.org/learn/introduccion-azure-data-factory-big-data) `advanced`
- - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
  - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure) `beginner`
  - [ML y Power BI para incrementar las ventas en Retail](https://www.coursera.org/learn/ml-powerbi-ventas-retail) `advanced`
  - [Predicción del fraude bancario con autoML y Pycaret](https://www.coursera.org/learn/prediccion-fraude-automl-pycaret) `advanced`
- - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
- - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
 ### IBM
  - [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
@@ -429,7 +412,6 @@
 ### Coursera Project Network
  - [Analizando sentimientos y entidades en textos con Azure](https://www.coursera.org/learn/analisis-sentimientos-azure) `beginner`
  - [Diseñando modelos con Azure Machine Learning Studio](https://www.coursera.org/learn/modelos-azure-ml-studio) `beginner`
- - [Diseñando un bot con Azure LUIS](https://www.coursera.org/learn/bot-luis) `beginner`
  - [Generando modelos con Auto Machine Learning](https://www.coursera.org/learn/generando-modelos-automl) `intermediate`
  - [Predicción de Ventas Pronosticando Tendencias](https://www.coursera.org/learn/prediccion-de-ventas-pronosticando-tendencias-en-google-sheets) `intermediate`
 ### Google Cloud
@@ -529,9 +511,7 @@
 ## Cloud Computing
 ### Coursera Project Network
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
- - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
- - [Manejando bases de datos con AWS Aurora](https://www.coursera.org/learn/amazon-aurora) `beginner`
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
  - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
@@ -550,8 +530,6 @@
 4. [Building Resilient Streaming Analytics Systems on GCP en Español](https://www.coursera.org/learn/streaming-analytics-systems-gcp-es) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP en Español](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-es) `intermediate`
 ## Data Management
-### Coursera Project Network
- - [Mejores prácticas para el procesamiento de datos en Big Data](https://www.coursera.org/learn/mejores-practicas-big-data) `intermediate`
 ### Pontificia Universidad Católica de Chile
  - [Introducción a la Minería de Datos](https://www.coursera.org/learn/mineria-de-datos-introduccion) `beginner`
 ## Networking
@@ -631,7 +609,6 @@
 #### [Liderazgo efectivo para el siglo XXI Specialization](https://www.coursera.org/specializations/liderazgo-efectivo)
 1. [Estilos de Liderazgo: opciones para avanzar en desafíos complejos](https://www.coursera.org/learn/estilos-liderazgo) `intermediate`
 2. [Autoliderazgo y gestión de emociones para avanzar en desafíos complejos](https://www.coursera.org/learn/autoliderazgo-gestion-emociones) `intermediate`
-3. [Comunicación, experimentación y aprendizaje en liderazgo](https://www.coursera.org/learn/comunicacion-experimentacion-aprendizaje) `intermediate`
 4. [Liderazgo para el Siglo XXI: proyecto final](https://www.coursera.org/learn/liderazgo) `intermediate`
 ### Universidad Nacional Autónoma de México
  - [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
