@@ -207,6 +207,7 @@
  - [Chinese Characters for beginner (2)    汉字(2)](https://www.coursera.org/learn/hanzi-2) `intermediate`
  - [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi) `beginner`
  - [Chinese for HSK 4](https://www.coursera.org/learn/hsk-4) `intermediate`
+ - [Chinese for HSK 5](https://www.coursera.org/learn/chinese-for-hsk5) `advanced`
  - [Chinese for HSK 6](https://www.coursera.org/learn/chinese-for-hsk-6) `advanced`
  - [中级商务汉语——商务活动篇](https://www.coursera.org/learn/intermediatechinesebusiness) `intermediate`
  - [中级商务汉语（入职与营销篇）](https://www.coursera.org/learn/business-chinese) `intermediate`
