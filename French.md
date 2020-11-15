@@ -81,7 +81,7 @@
 ## Software Development
 ### Coursera Project Network
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
- - [Scripting Bash - Découverte du Langage de Programmation](https://www.coursera.org/learn/programmation-bash) `intermediate`
+ - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Français Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-fr)
 2. [Architecting with Google Kubernetes Engine: Foundations en Français](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-fr) `intermediate`
@@ -98,11 +98,13 @@
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
 ### Coursera Project Network
- - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
+ - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
 ### Coursera Project Network
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
+ - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
+ - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Français Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-fr)
@@ -131,6 +133,7 @@
  - [Dopage : Sports, Organisations et Sciences](https://www.coursera.org/learn/dopage)
 ## Public Health
 ### University of Geneva
+ - [COVID-19 : à la recherche des contacts](https://www.coursera.org/learn/covid-19-recherche-contacts) `beginner`
  - [Ebola : Vaincre ensemble !](https://www.coursera.org/learn/ebola-vaincre-ensemble)
 # Information Technology
 > - [Cloud Computing](#cloud-computing)
