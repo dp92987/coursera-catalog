@@ -118,8 +118,8 @@
  - [操作系统原理（Operating Systems）](https://www.coursera.org/learn/os-pku) `intermediate`
  - [软件工程](https://www.coursera.org/learn/ruanjian-gongcheng) `intermediate`
 #### [程序设计与算法 Specialization](https://www.coursera.org/specializations/biancheng-suanfa)
-1. [C程序设计进阶](https://www.coursera.org/learn/c-chengxu-sheji)
 1. [计算导论与C语言基础](https://www.coursera.org/learn/jisuanji-biancheng)
+2. [C程序设计进阶](https://www.coursera.org/learn/c-chengxu-sheji)
 3. [C++程序设计](https://www.coursera.org/learn/cpp-chengxu-sheji)
 ### The Chinese University of Hong Kong, The University of Melbourne
  - [离散优化建模基础篇 Basic Modeling for Discrete Optimization](https://www.coursera.org/learn/lisan-youhua-jianmo-jichupian) `intermediate`

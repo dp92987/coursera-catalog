@@ -69,6 +69,7 @@
  - [Логистика](https://www.coursera.org/learn/logist) `intermediate`
 ### Saint Petersburg State University
  - [Бухгалтерский учет и аудит. Продвинутый курс](https://www.coursera.org/learn/buhgalterskij-uchet-i-audit)
+ - [Искусство налогового планирования](https://www.coursera.org/learn/arttax)
  - [Искусство продаж](https://www.coursera.org/learn/iskusstvo-prodazh) `beginner`
 #### [Искусство ведения бизнеса Specialization](https://www.coursera.org/specializations/iskusstvo-vedeniya-biznesa)
 1. [Современный менеджмент](https://www.coursera.org/learn/modernmanagement)
@@ -164,8 +165,11 @@
 ### National Research Tomsk State University, Международная Академия исследования лжи, E-Learning Development Fund
  - [Теория Лжи. Профайлинг](https://www.coursera.org/learn/teoriya-lzhi-profajling) `beginner`
 ### Saint Petersburg State University
+ - [Управление конфликтами и стрессами в организации](https://www.coursera.org/learn/confst)
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 1. [Психотехнологии работы с персоналом (Psychotechnologies of personnel management)](https://www.coursera.org/learn/psikhotekhnologii-raboty) `beginner`
+### University of Toronto
+ - [Стратегии коммуникации в виртуальную эпоху](https://www.coursera.org/learn/communication-strategies-virtual-age-ru) `beginner`
 ## Marketing
 ### IMBA)
  - [Интернет-маркетинг. Лидогенерация (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/imba-internet-marketing-lead-generation) `beginner`
@@ -387,6 +391,8 @@
 ## Public Health
 ### National Research Tomsk State University, Sechenov University
  - [Здоровое сердце, здоровые сосуды](https://www.coursera.org/learn/zdorovoe-serdce) `beginner`
+### Saint Petersburg State University
+ - [Коронавирусы SARS-CoV-2 и возбудители ОРВИ](https://www.coursera.org/learn/-sars-cov-2)
 ## Research
 ### Novosibirsk State University 
  - [Биосенсоры](https://www.coursera.org/learn/biosensory) `beginner`
@@ -405,6 +411,7 @@
 ## Networking
 ### Saint Petersburg State University
  - [Основы и практическое применение блокчейна](https://www.coursera.org/learn/blokcheyna) `beginner`
+ - [Цифровизация в международных отношениях](https://www.coursera.org/learn/digitalint)
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages
@@ -574,6 +581,7 @@
  - [Экономическая социология](https://www.coursera.org/learn/ekonomicheskaya-sociologiya)
 ### Saint Petersburg State University
  - [Международное трудовое право](https://www.coursera.org/learn/int-lab-law-ru)
+ - [Современные финансовые технологии](https://www.coursera.org/learn/financetech)
  - [Управление брендами в цифровой экономике](https://www.coursera.org/learn/digitbrand)
 ## Education
 ### National Research Nuclear University MEPhI
@@ -592,6 +600,8 @@
  - [КПЗС Часть 2](https://www.coursera.org/learn/kpzs2)
  - [КПЗС Часть 3](https://www.coursera.org/learn/kpzs3)
  - [Политическая география](https://www.coursera.org/learn/politicheskaya-geografiya) `beginner`
+### National Research Nuclear University MEPhI
+ - [Эффективная коммуникация в рабочей среде](https://www.coursera.org/learn/effective-communication-in-the-work-environment) `beginner`
 ### National Research University Higher School of Economics
  - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`
  - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
@@ -610,5 +620,6 @@
 ### Saint Petersburg State University
  - [Налоговое право (Tax law)](https://www.coursera.org/learn/nalogovoye-pravo) `intermediate`
  - [Правовое регулирование отношений в Интернете. Российская перспектива](https://www.coursera.org/learn/regulirovaniye-interneta)
+ - [Страховое дело](https://www.coursera.org/learn/insurance)
 ### University of Geneva
  - [Политика и управление водными ресурсами](https://www.coursera.org/learn/russian-water-management)

@@ -31,8 +31,6 @@
 > - [Entrepreneurship](#entrepreneurship)
 > - [Leadership and Management](#leadership-and-management)
 ## Business Essentials
-### Coursera Project Network
- - [Initiation à Google Drive](https://www.coursera.org/learn/initiation-a-google-drive) `beginner`
 ### ESSEC Business School
  - [Innovation publique et pensée design, l'innovation sociale au service des territoires](https://www.coursera.org/learn/innovation-publique-pensee-design) `beginner`
  - [L'entrepreneuriat social: faire son business plan](https://www.coursera.org/learn/monde-action)
@@ -78,11 +76,14 @@
  - [Raison d’être et Entreprise à Mission](https://www.coursera.org/learn/raison-etre-et-entreprise-a-mission) `beginner`
  - [Reporting extra-financier et stratégie RSE](https://www.coursera.org/learn/reporting-extra-financier-strategie-rse) `beginner`
  - [Réussir le Changement](https://www.coursera.org/learn/reussir-le-changement)
+### University of Toronto
+ - [Stratégies de communication à l’ère du virtuel](https://www.coursera.org/learn/communication-strategies-virtual-age-fr) `beginner`
 # Computer Science
 > - [Software Development](#software-development)
 ## Software Development
 ### Coursera Project Network
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
+ - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Français Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-fr)
 2. [Architecting with Google Kubernetes Engine: Foundations en Français](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-fr) `intermediate`
@@ -101,7 +102,6 @@
 ### Coursera Project Network
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
- - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
 ### Coursera Project Network

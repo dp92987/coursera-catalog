@@ -287,10 +287,10 @@
 ## Algorithms
 ### Universidad Nacional Autónoma de México
 #### [Introducción a la inteligencia artificial Specialization](https://www.coursera.org/specializations/inteligencia-artificial)
-1. [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas)
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
 2. [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial) `intermediate`
 3. [Resolución de problemas por búsqueda](https://www.coursera.org/learn/resolucion-busqueda) `beginner`
+4. [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas)
 5. [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo) `intermediate`
 6. [Comportamiento adaptativo](https://www.coursera.org/learn/comportamiento-adapta) `intermediate`
 7. [Creatividad computacional](https://www.coursera.org/learn/creatividad-computacional) `intermediate`
@@ -347,11 +347,12 @@
  - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
 ### Coursera Project Network
- - [Aprendiendo Python con bases de datos](https://www.coursera.org/learn/aprendiendo-python-con-bases-de-datos) `beginner`
- - [Aprendiendo Python con circuitos digitales](https://www.coursera.org/learn/aprendiendo-python-con-circuitos-digitales) `beginner`
  - [Aprendiendo Python con estadística descriptiva](https://www.coursera.org/learn/aprendiendo-python-con-estadistica-descriptiva) `beginner`
  - [Aprendiendo Python con textos, números y ecuaciones](https://www.coursera.org/learn/aprendiendo-python-con-textos-numeros-ecuaciones) `beginner`
+ - [Creando simulaciones con python](https://www.coursera.org/learn/simulaciones-python) `intermediate`
+ - [Graficando con Python](https://www.coursera.org/learn/graficando-con-python) `intermediate`
  - [Primeros pasos en Python](https://www.coursera.org/learn/primeros-pasos-python) `beginner`
+ - [Programando un blockchain básico con Javascript](https://www.coursera.org/learn/blockchain-javascript) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Español Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-es)
 2. [Architecting with Google Kubernetes Engine: Foundations en Español](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-es) `intermediate`
@@ -367,6 +368,7 @@
 4. [Manejo de bases de datos con Python](https://www.coursera.org/learn/python-base-de-datos) `beginner`
 ### Universidad de los Andes
  - [Creación de diagramas de clases UML en GenMyModel](https://www.coursera.org/learn/uml-genmymodel) `intermediate`
+ - [Fundamentos de TypeScript](https://www.coursera.org/learn/fundamentos-ts) `intermediate`
  - [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java) `beginner`
  - [Introducción a UML](https://www.coursera.org/learn/uml) `beginner`
 ### Universidad Nacional Autónoma de México
@@ -381,26 +383,29 @@
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
 ### Coursera Project Network
- - [Automated Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/automated-machine-learning-powerbi) `intermediate`
- - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
+ - [Automated Machine Learning en Power BI Clasificación](https://www.coursera.org/learn/automated-machine-learning-powerbi-clasificacion) `intermediate`
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Azure Data Engineer con Databricks y Azure Data Factory](https://www.coursera.org/learn/azure-data-engineer-databricks-data-factory) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
  - [Curso Completo de Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/curso-completo-machine-learning-microsoft-powerbi) `advanced`
- - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
  - [Curso Completo de Spark con Databricks (Big Data)](https://www.coursera.org/learn/curso-completo-spark-databricks) `advanced`
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
+ - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
  - [Introducción a Azure Data Factory para Big Data](https://www.coursera.org/learn/introduccion-azure-data-factory-big-data) `advanced`
- - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
+ - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure) `beginner`
  - [Machine Learning con Spark (MLlib) en Databricks](https://www.coursera.org/learn/machine-learning-spark-mllib-databricks) `advanced`
  - [ML y Power BI para incrementar las ventas en Retail](https://www.coursera.org/learn/ml-powerbi-ventas-retail) `advanced`
  - [Predicción del fraude bancario con autoML y Pycaret](https://www.coursera.org/learn/prediccion-fraude-automl-pycaret) `advanced`
- - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
 ### IBM
  - [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
+ - [Bases de datos y SQL para ciencia de datos](https://www.coursera.org/learn/sql-para-ciencia-de-datos) `beginner`
  - [Ciencia de Datos Aplicada - Curso Capstone](https://www.coursera.org/learn/ciencia-de-datos-aplicada-cuso-capstone) `intermediate`
+ - [Herramientas para la ciencia de datos](https://www.coursera.org/learn/herramientas-para-la-ciencia-de-datos) `beginner`
+ - [Metodología de la ciencia de datos](https://www.coursera.org/learn/metodologia-de-la-ciencia-de-datos) `beginner`
  - [Python para Data Science y AI](https://www.coursera.org/learn/python-para-data-science-y-ai) `beginner`
+ - [Visualización de Datos con Python](https://www.coursera.org/learn/visualizacion-de-datos-con-python) `intermediate`
+ - [¿Qué es la ciencia de datos?](https://www.coursera.org/learn/que-es-la-ciencia-de-datos) `beginner`
 ### Universidad Austral
  - [Excel aplicado a los negocios (Nivel Avanzado)](https://www.coursera.org/learn/excel-aplicado-negocios-avanzado) `intermediate`
  - [Fundamentos de Excel para Negocios](https://www.coursera.org/learn/excel-para-negocios) `beginner`
@@ -415,8 +420,8 @@
 5. [Big Data: capstone project](https://www.coursera.org/learn/big-data-proyecto) `advanced`
 ## Machine Learning
 ### Coursera Project Network
- - [Analizando sentimientos y entidades en textos con Azure](https://www.coursera.org/learn/analisis-sentimientos-azure) `beginner`
- - [Diseñando modelos con Azure Machine Learning Studio](https://www.coursera.org/learn/modelos-azure-ml-studio) `beginner`
+ - [Diseñando un bot con Azure LUIS](https://www.coursera.org/learn/bot-luis) `beginner`
+ - [Predicción de Ventas Pronosticando Tendencias](https://www.coursera.org/learn/prediccion-de-ventas-pronosticando-tendencias-en-google-sheets) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Español](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Español Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-es)
@@ -515,10 +520,7 @@
 > - [Support and Operations](#support-and-operations)
 ## Cloud Computing
 ### Coursera Project Network
- - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
- - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
- - [Manejando bases de datos con AWS Aurora](https://www.coursera.org/learn/amazon-aurora) `beginner`
- - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
+ - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
  - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
@@ -537,6 +539,8 @@
 4. [Building Resilient Streaming Analytics Systems on GCP en Español](https://www.coursera.org/learn/streaming-analytics-systems-gcp-es) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP en Español](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-es) `intermediate`
 ## Data Management
+### Coursera Project Network
+ - [Mejores prácticas para el procesamiento de datos en Big Data](https://www.coursera.org/learn/mejores-practicas-big-data) `intermediate`
 ### Pontificia Universidad Católica de Chile
  - [Introducción a la Minería de Datos](https://www.coursera.org/learn/mineria-de-datos-introduccion) `beginner`
 ## Networking

@@ -6,6 +6,7 @@
 # Business
 > - [Business Strategy](#business-strategy)
 > - [Finance](#finance)
+> - [Leadership and Management](#leadership-and-management)
 ## Business Strategy
 ### Google Cloud
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
@@ -13,6 +14,9 @@
 ## Finance
 ### University of Zurich
  - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
+## Leadership and Management
+### University of Toronto
+ - [Kommunikationsstrategien für ein virtuelles Zeitalter](https://www.coursera.org/learn/communication-strategies-virtual-age-de) `beginner`
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)

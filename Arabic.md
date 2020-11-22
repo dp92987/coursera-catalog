@@ -68,6 +68,8 @@
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
+### Coursera Project Network
+ - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
 ### Duke University
  - [مقاييس الأعمال للشركات التي تعتمد على البيانات](https://www.coursera.org/learn/analytics-business-metrics-ar)
 ### Johns Hopkins University

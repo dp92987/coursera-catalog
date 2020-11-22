@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5380` courses. Updated weekly.
+Complete list of `5417` courses. Updated daily.
 
 # TOC
 
@@ -156,5 +156,5 @@ Complete list of `5380` courses. Updated weekly.
  - [Computer Science](<Undefined.md#computer-science>)
  - [Data Science](<Undefined.md#data-science>)
  - [Information Technology](<Undefined.md#information-technology>)
- - [Personal Development](<Undefined.md#personal-development>)
+ - [Math and Logic](<Undefined.md#math-and-logic>)
  - [Physical Science and Engineering](<Undefined.md#physical-science-and-engineering>)
