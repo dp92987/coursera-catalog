@@ -26,6 +26,8 @@
  - [Археология. О чём говорят древности?](https://www.coursera.org/learn/archaeology) `beginner`
 ### Saint Petersburg State University
  - [Ислам: история, культура, практика (Islam: history, culture, praxis)](https://www.coursera.org/learn/islam-istoriya-kultura) `beginner`
+#### [Живопись пастелью Specialization](https://www.coursera.org/specializations/pastelpainting)
+4. [Практическое применение техник академической живописи](https://www.coursera.org/learn/acad-paint)
 ## Music and Art
 ### National Research Tomsk State University
  - [Fashion-иллюстрация: Скетчинг](https://www.coursera.org/learn/fashion-illustration-sketching) `beginner`
@@ -36,6 +38,7 @@
  - [Дизайн-методология: управление вдохновением (Design-methodology. Inspiration management)](https://www.coursera.org/learn/dizayn-metodologiya) `intermediate`
  - [Креативная коммуникация: методы и инструменты](https://www.coursera.org/learn/kreativnaya-kommunikatsiya) `advanced`
  - [Современная русская литература](https://www.coursera.org/learn/sovremennaya-russkaya-literatura) `beginner`
+2. [Практическое применение пастели](https://www.coursera.org/learn/pastel-practice)
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 1. [Художественное проектирование сайта](https://www.coursera.org/learn/art-site-engineering) `beginner`
 ## Philosophy
@@ -142,6 +145,8 @@
 4. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
 5. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
 6. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
+### Saint Petersburg State University
+ - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
 ### Sberbank Corporate University
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -355,6 +360,7 @@
  - [Введение в физиологию (Introduction to physiology)](https://www.coursera.org/learn/vvedeniye-fiziologiyu) `intermediate`
  - [Общие вопросы патологии и патологической анатомии (General Issues of Pathology and Pathologic Anatomy)](https://www.coursera.org/learn/voprosy-patologii) `intermediate`
  - [Расстройства аутистического спектра](https://www.coursera.org/learn/rasstrojstva-autisticheskogo-spektra) `beginner`
+ - [Физиология сердца и его дисфункции](https://www.coursera.org/learn/phyheart)
 ## Health Informatics
 ### Saint Petersburg State University
  - [Введение в биоинформатику (Introduction to Bioinformatics)](https://www.coursera.org/learn/bioinformatika) `beginner`
@@ -484,6 +490,9 @@
 ### Novosibirsk State University 
  - [Принципы управления людьми и проектами](https://www.coursera.org/learn/human-project-management) `beginner`
 ### Saint Petersburg State University
+#### [Живопись пастелью Specialization](https://www.coursera.org/specializations/pastelpainting)
+1. [Виды пастели](https://www.coursera.org/learn/pastel-types)
+3. [Изображение натюрмортов разной степени сложности](https://www.coursera.org/learn/still-life-painting)
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 2. [Инструменты позитивной психологии в менеджменте. Курс для руководителей](https://www.coursera.org/learn/instrumenty-pozitivnoy-psikhologii-menedzhmente) `beginner`
 ### Sberbank Corporate University
@@ -601,7 +610,7 @@
  - [КПЗС Часть 3](https://www.coursera.org/learn/kpzs3)
  - [Политическая география](https://www.coursera.org/learn/politicheskaya-geografiya) `beginner`
 ### National Research Nuclear University MEPhI
- - [Эффективная коммуникация в рабочей среде](https://www.coursera.org/learn/effective-communication-in-the-work-environment) `beginner`
+ - [Теория и практика эффективной коммуникации](https://www.coursera.org/learn/effective-communication-in-the-work-environment) `beginner`
 ### National Research University Higher School of Economics
  - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`
  - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
@@ -619,7 +628,9 @@
  - [Юридическое оформление инвестиционных идей](https://www.coursera.org/learn/law-invest-ideas)
 ### Saint Petersburg State University
  - [Налоговое право (Tax law)](https://www.coursera.org/learn/nalogovoye-pravo) `intermediate`
+ - [Охрана труда и безопасность на производстве](https://www.coursera.org/learn/trud)
  - [Правовое регулирование отношений в Интернете. Российская перспектива](https://www.coursera.org/learn/regulirovaniye-interneta)
  - [Страховое дело](https://www.coursera.org/learn/insurance)
+ - [Теория права и государства](https://www.coursera.org/learn/tgp)
 ### University of Geneva
  - [Политика и управление водными ресурсами](https://www.coursera.org/learn/russian-water-management)

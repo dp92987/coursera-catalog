@@ -30,7 +30,10 @@
 > - [Business Strategy](#business-strategy)
 > - [Entrepreneurship](#entrepreneurship)
 > - [Leadership and Management](#leadership-and-management)
+> - [Marketing](#marketing)
 ## Business Essentials
+### Coursera Project Network
+ - [Initiation à Google Drive](https://www.coursera.org/learn/initiation-a-google-drive) `beginner`
 ### ESSEC Business School
  - [Innovation publique et pensée design, l'innovation sociale au service des territoires](https://www.coursera.org/learn/innovation-publique-pensee-design) `beginner`
  - [L'entrepreneuriat social: faire son business plan](https://www.coursera.org/learn/monde-action)
@@ -78,11 +81,17 @@
  - [Réussir le Changement](https://www.coursera.org/learn/reussir-le-changement)
 ### University of Toronto
  - [Stratégies de communication à l’ère du virtuel](https://www.coursera.org/learn/communication-strategies-virtual-age-fr) `beginner`
+## Marketing
+### Coursera Project Network
+ - [L'utilisation optimal de LinkedIn](https://www.coursera.org/learn/utilisation-optimal-linkedin) `beginner`
 # Computer Science
 > - [Software Development](#software-development)
 ## Software Development
 ### Coursera Project Network
+ - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
+ - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
+ - [Scripting Bash - Découverte du Langage de Programmation](https://www.coursera.org/learn/programmation-bash) `intermediate`
  - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`
 ### Google Cloud
 #### [Architecting with Google Kubernetes Engine en Français Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-fr)
@@ -100,8 +109,10 @@
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
 ### Coursera Project Network
+ - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
+ - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
 ### Coursera Project Network
