@@ -1,8 +1,8 @@
-![Hits](https://twentythree.ru/hit-counter/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdp92987%2FCourseraCatalog)
+[![hits](https://hits.twentythree.ru/CourseraCatalog.svg)](https://hits.twentythree.ru/CourseraCatalog.svg)
 
 # Coursera Catalog
 
-Complete list of `5508` courses. Updated weekly.
+Complete list of `5616` courses. Updated weekly.
 
 # TOC
 

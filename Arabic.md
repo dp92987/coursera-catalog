@@ -28,6 +28,8 @@
 ### Yale University
  - [مقدمة عن التفاوض: دليل استراتيجي لتصبح مُفاوضًا ذا مبادئ ومُقنعًا](https://www.coursera.org/learn/negotiation-ar)
 ## Business Strategy
+### Coursera Project Network
+ - [التحول الرقمى لدعم العملاء من الشركات الصغيرة ومتوسطة الحجم](https://www.coursera.org/learn/customer-support-digital-transformation) `beginner`
 ### DeepLearning.AI
  - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar) `beginner`
 ### University of Virginia
@@ -58,8 +60,12 @@
 ### University of Illinois at Urbana-Champaign
  - [التسويق في عالم رقمي](https://www.coursera.org/learn/marketing-digital-ar) `beginner`
 # Computer Science
+> - [Algorithms](#algorithms)
 > - [Mobile and Web Development](#mobile-and-web-development)
 > - [Software Development](#software-development)
+## Algorithms
+### Coursera Project Network
+ - [أساسيات python: برمج لعبة تخمين الرقم من الصفر](https://www.coursera.org/learn/python-basics-guess-the-number-arabic) `beginner`
 ## Mobile and Web Development
 ### University of London, Goldsmiths, University of London
  - [أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript](https://www.coursera.org/learn/website-coding-ar)

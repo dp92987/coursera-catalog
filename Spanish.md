@@ -58,7 +58,7 @@
  - [Introducción al Arte Sonoro](https://www.coursera.org/learn/introduccion-arte-sonoro) `beginner`
 ## Philosophy
 ### Universidad Nacional Autónoma de México
- - [Pensamiento Científico](https://www.coursera.org/learn/ciencia)
+ - [Pensamiento científico](https://www.coursera.org/learn/ciencia)
 ### Universitat Autònoma de Barcelona
  - [Humanidades digitales](https://www.coursera.org/learn/humanidades-digitales) `beginner`
  - [Representaciones culturales de las sexualidades](https://www.coursera.org/learn/representaciones-culturales) `beginner`
@@ -80,6 +80,8 @@
 ### Pontificia Universidad Católica de Chile
 #### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
 3. [Contexto de Negocios en LATAM: Factores Políticos, Sociales y Económicos](https://www.coursera.org/learn/contexto-negocios-latam)
+### Tecnológico de Monterrey
+ - [Introducción a la gestión de proyectos](https://www.coursera.org/learn/gestion-proyectos-c1) `beginner`
 ### Universidad de los Andes
  - [Formulación y evaluación de proyectos complejos](https://www.coursera.org/learn/formulacion-evaluacion-proyectos-ingenieria) `intermediate`
 ### Universidad Nacional Autónoma de México
@@ -90,9 +92,9 @@
 4. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 5. [Proyecto final sobre negociación para un mejor clima laboral](https://www.coursera.org/learn/proyecto-negociacion)
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
-1. [Introducción a la Estrategia](https://www.coursera.org/learn/introduccionalaestrategia)
-2. [Introducción a las Finanzas](https://www.coursera.org/learn/estrategia-financiera)
-3. [Introducción al Mercado](https://www.coursera.org/learn/mercado-investigacion)
+1. [Introducción a la estrategia](https://www.coursera.org/learn/introduccionalaestrategia)
+2. [Introducción a las finanzas](https://www.coursera.org/learn/estrategia-financiera)
+3. [Introducción al mercado](https://www.coursera.org/learn/mercado-investigacion)
 ### University of California, Irvine
 #### [Éxito Profesional Specialization](https://www.coursera.org/specializations/exito-profesional)
 5. [Redacción de documentos empresariales de gran impacto](https://www.coursera.org/learn/escritura-en-negocios)
@@ -105,7 +107,9 @@
 ## Business Strategy
 ### Coursera Project Network
  - [Creando una presentación con Presentaciones Google](https://www.coursera.org/learn/creando-una-presentacion-con-presentaciones-google) `beginner`
+ - [Crear datos de soporte al Cliente con Google Sheets](https://www.coursera.org/learn/crear-datos-soporte-acliente-google-sheets) `beginner`
  - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
+ - [LinkedIn para Principiantes](https://www.coursera.org/learn/linkedin-principiantes) `beginner`
 ### DeepLearning.AI
  - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es) `beginner`
 ### Google Cloud
@@ -127,8 +131,8 @@
  - [E-Business: Negocios Online](https://www.coursera.org/learn/e-business-negocios-online) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
-4. [Introducción a la Calidad](https://www.coursera.org/learn/gestion-de-productividad)
-5. [Estratégicos Empresariales Proyecto Final](https://www.coursera.org/learn/estrategicos-empresariales-proyecto)
+4. [Introducción a la calidad](https://www.coursera.org/learn/gestion-de-productividad)
+5. [Estratégicos empresariales: Proyecto final](https://www.coursera.org/learn/estrategicos-empresariales-proyecto)
 ### University of New Mexico
  - [Negocios Internacionales I](https://www.coursera.org/learn/negocios-internacionales)
  - [Negocios Internacionales II](https://www.coursera.org/learn/negocios-internacionales-2)
@@ -184,6 +188,7 @@
  - [Marketing Gerencial](https://www.coursera.org/learn/marketing-gerencial) `intermediate`
 ### Universidad de los Andes
  - [Fundamentos de Finanzas Empresariales](https://www.coursera.org/learn/finanzas-empresariales) `beginner`
+ - [¿Cómo tomar decisiones financieras que agreguen valor?](https://www.coursera.org/learn/tomar-decisiones-financieras-que-agregan-valor) `intermediate`
 ### Universidad Nacional Autónoma de México
  - [Contabilidad para no contadores](https://www.coursera.org/learn/contabilidad) `beginner`
  - [Finanzas personales](https://www.coursera.org/learn/finanzas-personales)
@@ -193,7 +198,7 @@
 3. [Evaluación de inversiones en Bienes de Capital](https://www.coursera.org/learn/evaluaciondeinversiones) `intermediate`
 4. [Estructura de capital y política de dividendos](https://www.coursera.org/learn/estructura) `intermediate`
 5. [Valuación de empresas](https://www.coursera.org/learn/valuacionempresas) `intermediate`
-6. [Toma de Decisiones Financieras](https://www.coursera.org/learn/proyectofinanzascorporativas) `intermediate`
+6. [Toma de decisiones financieras](https://www.coursera.org/learn/proyectofinanzascorporativas) `intermediate`
 ## Leadership and Management
 ### ESADE Business and Law School
 #### [Empresa familiar: gestión, dirección y sucesión Specialization](https://www.coursera.org/specializations/empresa-familiar-gestion)
@@ -432,6 +437,7 @@
  - [Metodología de la ciencia de datos](https://www.coursera.org/learn/metodologia-de-la-ciencia-de-datos) `beginner`
  - [Python para Data Science y AI](https://www.coursera.org/learn/python-para-data-science-y-ai) `beginner`
  - [Visualización de Datos con Python](https://www.coursera.org/learn/visualizacion-de-datos-con-python) `intermediate`
+ - [Visualización de Datos y Tableros con Excel y Cognos](https://www.coursera.org/learn/visualizacion-de-datos-y-tableros-con-excel-y-cognos) `beginner`
  - [¿Qué es la ciencia de datos?](https://www.coursera.org/learn/que-es-la-ciencia-de-datos) `beginner`
 ### Universidad Austral
  - [Excel aplicado a los negocios (Nivel Avanzado)](https://www.coursera.org/learn/excel-aplicado-negocios-avanzado) `intermediate`
@@ -540,7 +546,7 @@
  - [Inclusión social de personas con discapacidad desde un enfoque de derechos.](https://www.coursera.org/learn/inclusion-social-personas-discapacidad) `beginner`
  - [Seguimiento de casos y contactos COVID-19](https://www.coursera.org/learn/seguimiento-de-casos-y-contactos-covid-19) `beginner`
 ### Universidad Nacional Autónoma de México
- - [La Solución del Conflicto Ético](https://www.coursera.org/learn/etica)
+ - [La solución del conflicto ético](https://www.coursera.org/learn/etica)
 ## Research
 ### Universidad Nacional Autónoma de México
  - [El rol docente del médico residente](https://www.coursera.org/learn/residente) `beginner`
@@ -552,7 +558,9 @@
 > - [Support and Operations](#support-and-operations)
 ## Cloud Computing
 ### Coursera Project Network
+ - [Aprendiendo Infraestructura como código con Terraform](https://www.coursera.org/learn/aprendiendo-terraform) `intermediate`
  - [Bases de Datos NoSQL en Azure](https://www.coursera.org/learn/bases-datos-nosql-azure) `beginner`
+ - [Bases de Datos SQL en Azure](https://www.coursera.org/learn/bases-datos-sql-azure) `intermediate`
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
@@ -560,7 +568,6 @@
  - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
- - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
  - [Essential Cloud Infrastructure: Foundation en Español](https://www.coursera.org/learn/gcp-infrastructure-foundation-es) `intermediate`
  - [Getting Started with Google Kubernetes Engine en Español](https://www.coursera.org/learn/google-kubernetes-engine-es) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Español](https://www.coursera.org/learn/gcp-fundamentals-es) `intermediate`
@@ -570,6 +577,8 @@
  - [Preparing for the Google Cloud Professional Data Engineer Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-es) `advanced`
  - [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es) `intermediate`
  - [Understanding Your Google Cloud Platform Costs en Español](https://www.coursera.org/learn/gcp-cost-management-es) `beginner`
+#### [Architecting with Google Compute Engine en Español Specialization](https://www.coursera.org/specializations/gcp-architecture-es)
+3. [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
 #### [Data Engineering, Big Data and ML on Google Cloud en Español Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-es)
 2. [Modernizing Data Lakes and Data Warehouses with GCP en Español](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-es) `intermediate`
 3. [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`
@@ -577,6 +586,9 @@
 5. [Smart Analytics, Machine Learning, and AI on GCP en Español](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-es) `intermediate`
 ## Data Management
 ### Coursera Project Network
+ - [Introducción a bases de datos NoSQL con MongoDB](https://www.coursera.org/learn/base-datos-nosql) `beginner`
+ - [Introducción a las bases de datos relacionales y SQL](https://www.coursera.org/learn/base-datos-sql) `beginner`
+ - [Introducción a Scala en Big data con Databricks](https://www.coursera.org/learn/scala-big-data) `intermediate`
  - [Mejores prácticas para el procesamiento de datos en Big Data](https://www.coursera.org/learn/mejores-practicas-big-data) `intermediate`
 ### Pontificia Universidad Católica de Chile
  - [Introducción a la Minería de Datos](https://www.coursera.org/learn/mineria-de-datos-introduccion) `beginner`
@@ -588,6 +600,8 @@
 ### Crece con Google
 5. [Seguridad informática: defensa contra las artes oscuras digitales](https://www.coursera.org/learn/seguridad-informatica) `beginner`
 ## Support and Operations
+### Coursera Project Network
+ - [Trabajando de inicio a fin con GIT](https://www.coursera.org/learn/git-inicio-fin) `beginner`
 ### Crece con Google
 1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
 3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
@@ -631,7 +645,7 @@
 ### Universidad Nacional Autónoma de México
  - [Estadística y probabilidad](https://www.coursera.org/learn/estadistica-probabilidad) `beginner`
  - [Funciones algebraicas y trascendentes](https://www.coursera.org/learn/funciones-algebraicas) `beginner`
- - [Álgebra Básica](https://www.coursera.org/learn/algebra-basica)
+ - [Álgebra básica](https://www.coursera.org/learn/algebra-basica)
 ### Universitat Autònoma de Barcelona
  - [Pre-Calculus](https://www.coursera.org/learn/introduccion-al-calculo) `beginner`
 # Personal Development
@@ -660,7 +674,7 @@
 3. [Comunicación, experimentación y aprendizaje en liderazgo](https://www.coursera.org/learn/comunicacion-experimentacion-aprendizaje) `intermediate`
 4. [Liderazgo para el Siglo XXI: proyecto final](https://www.coursera.org/learn/liderazgo) `intermediate`
 ### Universidad Nacional Autónoma de México
- - [Pensamiento Sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
+ - [Pensamiento sistémico](https://www.coursera.org/learn/pensamiento-sistemico)
 #### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
 1. [Ser más creativos](https://www.coursera.org/learn/creatividad)
 #### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
@@ -685,7 +699,7 @@
  - [Iniciándome en la Química](https://www.coursera.org/learn/iniciandome-en-la-qumica) `beginner`
  - [La Química de las Reacciones](https://www.coursera.org/learn/la-qumica-de-las-reacciones) `beginner`
 ### Universidad Nacional Autónoma de México
- - [Una aproximación a la Química del Carbono](https://www.coursera.org/learn/qimica-carbono) `beginner`
+ - [Una aproximación a la química del carbono](https://www.coursera.org/learn/qimica-carbono) `beginner`
  - [¡¿Cómo?! ¿Química en mi casa?](https://www.coursera.org/learn/quimica-en-mi-casa)
 ## Electrical Engineering
 ### Pontificia Universidad Católica de Chile
@@ -711,7 +725,7 @@
  - [Evaluación de peligros y riesgos por fenómenos naturales](https://www.coursera.org/learn/riesgos-fenomenos-naturales) `beginner`
  - [Fundamentos de agrotecnología](https://www.coursera.org/learn/fundamentos-agrotecnologia) `beginner`
  - [Gestión integral del riesgo de desastres](https://www.coursera.org/learn/gestion-riesgo) `beginner`
- - [Introducción a la Geotermia](https://www.coursera.org/learn/geotermia) `beginner`
+ - [Introducción a la geotermia](https://www.coursera.org/learn/geotermia) `beginner`
  - [Las estaciones del año y el clima](https://www.coursera.org/learn/estaciones-clima)
  - [Sistemas agrosilvopastoriles: una alternativa climáticamente inteligente para la ganadería](https://www.coursera.org/learn/sistemas-agrosilvopastoriles) `beginner`
 ### Universitat de Barcelona, Fundació Navegació Oceànica Barcelona
@@ -796,8 +810,8 @@
  - [Atrévete a innovar tu enseñanza con pensamiento de diseño](https://www.coursera.org/learn/innovacioneducativa) `beginner`
  - [Cursos en línea: modelo para armar](https://www.coursera.org/learn/enlinea) `beginner`
  - [Cómo hacer una tesis](https://www.coursera.org/learn/como-hacer-una-tesis) `beginner`
- - [Introducción a la Producción Audiovisual](https://www.coursera.org/learn/intro-produccion-audiovisual) `beginner`
- - [Usos Didácticos del Cine: Introducción al Análisis](https://www.coursera.org/learn/usos-didacticos-del-cine) `intermediate`
+ - [Introducción a la producción audiovisual](https://www.coursera.org/learn/intro-produccion-audiovisual) `beginner`
+ - [Usos didácticos del cine: Introducción al análisis](https://www.coursera.org/learn/usos-didacticos-del-cine) `intermediate`
 #### [Evaluación educativa Specialization](https://www.coursera.org/specializations/evaluacion-educativa)
 1. [Evaluación educativa del y para el aprendizaje en educación superior](https://www.coursera.org/learn/evaluacion-educativa) `beginner`
 2. [Evaluación para el aprendizaje: Enfoque cuantitativo](https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo) `intermediate`

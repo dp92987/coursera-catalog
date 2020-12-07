@@ -79,6 +79,8 @@
  - [Raison d’être et Entreprise à Mission](https://www.coursera.org/learn/raison-etre-et-entreprise-a-mission) `beginner`
  - [Reporting extra-financier et stratégie RSE](https://www.coursera.org/learn/reporting-extra-financier-strategie-rse) `beginner`
  - [Réussir le Changement](https://www.coursera.org/learn/reussir-le-changement)
+### Macquarie University
+ - [Storytelling et influence : Communiquer pour convaincre](https://www.coursera.org/learn/communicate-with-impact-fr)
 ### University of Toronto
  - [Stratégies de communication à l’ère du virtuel](https://www.coursera.org/learn/communication-strategies-virtual-age-fr) `beginner`
 ## Marketing

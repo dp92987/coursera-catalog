@@ -145,8 +145,8 @@
  - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform em Português Brasileiro Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-br)
 1. [How Google does Machine Learning em Português Brasileiro](https://www.coursera.org/learn/google-machine-learning-br) `intermediate`
+1. [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
 2. [Launching into Machine Learning em Português Brasileiro](https://www.coursera.org/learn/launching-machine-learning-br) `intermediate`
-3. [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
 4. [Feature Engineering em Português Brasileiro](https://www.coursera.org/learn/feature-engineering-br) `intermediate`
 5. [Art and Science of Machine Learning em Português Brasileiro](https://www.coursera.org/learn/art-science-ml-br) `intermediate`
 ## Probability and Statistics
@@ -224,6 +224,7 @@
  - [Mapas conceituais para aprender e colaborar](https://www.coursera.org/learn/mapas-conceituais) `beginner`
 # Physical Science and Engineering
 > - [Electrical Engineering](#electrical-engineering)
+> - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
 > - [Physics and Astronomy](#physics-and-astronomy)
 ## Electrical Engineering
 ### Instituto Tecnológico de Aeronáutica
@@ -232,6 +233,9 @@
  - [Controle Usando a Resposta em Frequência](https://www.coursera.org/learn/resposta-frequencia) `intermediate`
  - [Introdução ao Controle de Sistemas](https://www.coursera.org/learn/controle)
  - [Introdução ao Controle Moderno](https://www.coursera.org/learn/controle-moderno) `intermediate`
+## Environmental Science and Sustainability
+### Coursera Project Network
+ - [Modelo de Ecossistema com Insight Maker](https://www.coursera.org/learn/ecossistema-insightmaker) `beginner`
 ## Physics and Astronomy
 ### Universidade de São Paulo
  - [Origens da Vida no Contexto Cósmico](https://www.coursera.org/learn/origensdavida) `beginner`

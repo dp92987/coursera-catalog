@@ -99,6 +99,8 @@
 1. [Мировая экономика. Основы](https://www.coursera.org/learn/mirovaya-ekonomika-osnovy) `beginner`
 2. [Мировая экономика. Субъекты и ресурсы.](https://www.coursera.org/learn/mirovaya-ekonomika-subyekty-resursy) `beginner`
 3. [Мировая экономика. Ведущие страны - участники](https://www.coursera.org/learn/uchastniki-mirovaya-ekonomika-vedushchiye-strany) `beginner`
+### National Research Tomsk State University, Финансовый университет при Правительстве Российской Федерации
+ - [Стратегический менеджмент](https://www.coursera.org/learn/strategichesky-menegment) `beginner`
 ### Saint Petersburg State University
 #### [Стартап versus Цифровая трансформация Specialization](https://www.coursera.org/specializations/startup-vs-digtrans)
 2. [Стартап в условиях открытых инноваций](https://www.coursera.org/learn/startupinn) `beginner`
@@ -152,12 +154,16 @@
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
  - [Финансы компаний: взгляд инвестора и кредитора](https://www.coursera.org/learn/finansy-companiy) `beginner`
 ## Leadership and Management
+### Macquarie University
+ - [Повествование и влияние: Эффектная коммуникация](https://www.coursera.org/learn/communicate-with-impact-ru)
 ### Moscow Institute of Physics and Technology
  - [Бизнес-процессы, организационное проектирование, механизмы и системы управления](https://www.coursera.org/learn/systems-engineering-4) `intermediate`
  - [Гибкие методологии разработки высокотехнологичных продуктов](https://www.coursera.org/learn/gibkie-metodologii-razrabotki-produktov) `intermediate`
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Правовые формы ведения бизнеса в России](https://www.coursera.org/learn/pravovyye-formy-vedeniya-biznesa-rossii) `beginner`
 ### National Research Nuclear University MEPhI
+ - [Основные аспекты инновационного процесса предприятия](https://www.coursera.org/learn/creating-an-innovative-enterprise) `beginner`
+ - [Основы управления проектами в современной бизнес-среде](https://www.coursera.org/learn/mephi-project-management) `beginner`
 #### [ИТ-кризисология. Антикризисная разработка программных систем Specialization](https://www.coursera.org/specializations/it-crisis-management)
 6. [Человеческий фактор в разработке корпоративных систем](https://www.coursera.org/learn/chelovecheskiy-faktor-razrabotke-korporativnykh-sistem)
 ### National Research Tomsk State University
@@ -360,6 +366,7 @@
  - [Введение в физиологию (Introduction to physiology)](https://www.coursera.org/learn/vvedeniye-fiziologiyu) `intermediate`
  - [Общие вопросы патологии и патологической анатомии (General Issues of Pathology and Pathologic Anatomy)](https://www.coursera.org/learn/voprosy-patologii) `intermediate`
  - [Расстройства аутистического спектра](https://www.coursera.org/learn/rasstrojstva-autisticheskogo-spektra) `beginner`
+ - [Транскрипция и мир РНК](https://www.coursera.org/learn/rna)
  - [Физиология сердца и его дисфункции](https://www.coursera.org/learn/phyheart)
 ## Health Informatics
 ### Saint Petersburg State University
@@ -582,6 +589,7 @@
  - [Институциональная экономика (Institutional economics)](https://www.coursera.org/learn/institutional-economics) `beginner`
  - [История экономической мысли (History of Economic Thought)](https://www.coursera.org/learn/istoriya-ekonomicheskoy-mysli) `beginner`
  - [Макроэкономика (Macroeconomics)](https://www.coursera.org/learn/makrojekonomika) `beginner`
+ - [Неформальная экономика: социальный анализ](https://www.coursera.org/learn/informal-economy-social-analysis)
  - [Основы микроэкономики (Microeconomics Principles)](https://www.coursera.org/learn/mikroekonomika) `beginner`
  - [Теория отраслевых рынков (Industrial Organization)](https://www.coursera.org/learn/otraslevye-rynki) `intermediate`
  - [Финансовые рынки и институты (Financial Markets and Institutions)](https://www.coursera.org/learn/finansovye-rynki)
