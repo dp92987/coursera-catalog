@@ -1,4 +1,4 @@
-[![hits](https://hits.twentythree.ru/CourseraCatalog.svg)](https://hits.twentythree.ru/CourseraCatalog.svg)
+[![hits](https://hits.twentythree.ru/coursera-catalog.svg)](https://github.com/dp92987/hits-badge)
 
 # Coursera Catalog
 
