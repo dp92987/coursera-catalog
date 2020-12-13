@@ -85,6 +85,9 @@
  - [Stratégies de communication à l’ère du virtuel](https://www.coursera.org/learn/communication-strategies-virtual-age-fr) `beginner`
 ## Marketing
 ### Coursera Project Network
+ - [Création D'Identité Visuelle En Utilisant Canva](https://www.coursera.org/learn/creation-identite-visuelle-impressionnant-utilisant-canva) `intermediate`
+ - [Création de Designs Marketing avec Canva](https://www.coursera.org/learn/creation-designs-marketing-avec-canva) `beginner`
+ - [Introduction au CRM avec HubSpot](https://www.coursera.org/learn/introduction-crm-hubspot) `beginner`
  - [L'utilisation optimal de LinkedIn](https://www.coursera.org/learn/utilisation-optimal-linkedin) `beginner`
 # Computer Science
 > - [Software Development](#software-development)

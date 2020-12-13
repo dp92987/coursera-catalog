@@ -1,8 +1,8 @@
-[![hits](https://hits.twentythree.ru/coursera-catalog.svg)](https://github.com/dp92987/hits-badge)
+[![hits](https://hits.deltapapa.io/coursera-catalog.svg)](https://github.com/dp92987/hits-badge)
 
 # Coursera Catalog
 
-Complete list of `5616` courses. Updated weekly.
+Complete list of `5675` courses. Updated weekly.
 
 # TOC
 

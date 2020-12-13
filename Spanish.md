@@ -108,6 +108,7 @@
 ### Coursera Project Network
  - [Creando una presentación con Presentaciones Google](https://www.coursera.org/learn/creando-una-presentacion-con-presentaciones-google) `beginner`
  - [Crear datos de soporte al Cliente con Google Sheets](https://www.coursera.org/learn/crear-datos-soporte-acliente-google-sheets) `beginner`
+ - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
  - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
  - [LinkedIn para Principiantes](https://www.coursera.org/learn/linkedin-principiantes) `beginner`
 ### DeepLearning.AI
@@ -419,6 +420,8 @@
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
  - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure) `beginner`
  - [Machine Learning con Pyspark aplicado al campo sanitario](https://www.coursera.org/learn/machine-learning-pyspark-aplicado-campo-sanitario) `advanced`
+ - [Machine Learning con Python. Nivel Avanzado](https://www.coursera.org/learn/machine-learning-python-nivel-avanzado) `intermediate`
+ - [Machine Learning con Python. Nivel intermedio](https://www.coursera.org/learn/machine-learning-python-nivel-intermedio) `beginner`
  - [Machine Learning con Spark (MLlib) en Databricks](https://www.coursera.org/learn/machine-learning-spark-mllib-databricks) `advanced`
  - [Machine Learning y Regresión con PySpark. Guía paso a paso](https://www.coursera.org/learn/machine-learning-regresion-pyspark) `beginner`
  - [ML y Big Data con PySpark para la retención de clientes](https://www.coursera.org/learn/ml-bigdata-pyspark-retencion-clientes) `advanced`
@@ -442,6 +445,8 @@
 ### Universidad Austral
  - [Excel aplicado a los negocios (Nivel Avanzado)](https://www.coursera.org/learn/excel-aplicado-negocios-avanzado) `intermediate`
  - [Fundamentos de Excel para Negocios](https://www.coursera.org/learn/excel-para-negocios) `beginner`
+ - [Fundamentos de la visualización de datos con Tableau](https://www.coursera.org/learn/fundamentos-de-la-visualizacion-de-datos-con-tableau) `beginner`
+ - [Introducción al Aprendizaje Profundo](https://www.coursera.org/learn/introduccion-al-aprendizaje-profundo) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Introducción a Data Science: Programación Estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r) `beginner`
 ### Universitat Autònoma de Barcelona
@@ -507,6 +512,8 @@
  - [Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles](https://www.coursera.org/learn/enfermedades-no-transmisibles) `intermediate`
 ### Rice University
  - [Spanish for Successful Communication in Healthcare Settings](https://www.coursera.org/learn/spanish-in-healthcare-settings) `intermediate`
+### Stanford University
+ - [Capacitación sobre COVID-19 para trabajadores de salud](https://www.coursera.org/learn/covid-19-capacitacion-trabajadores-de-la-salud)
 ### Tecnológico de Monterrey
  - [Evaluación del Aprendizaje en Escenarios Clínicos](https://www.coursera.org/learn/evaluacion-aprendizaje-escenarios-clinicos) `intermediate`
 ### Universidad de los Andes
@@ -528,6 +535,8 @@
 ## Psychology
 ### Tecnológico de Monterrey
  - [Principios de Psicología](https://www.coursera.org/learn/psicologia-principios) `beginner`
+### Universidad Austral
+ - [Introducción a la Psicología](https://www.coursera.org/learn/introduccion-a-la-psicologia) `beginner`
 ### Universidad de los Andes
  - [Bienestar, equidad y derechos humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos) `beginner`
  - [Diseño de proyectos para promover el bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar) `intermediate`
@@ -564,10 +573,12 @@
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
+ - [Introducción a computación serverless con Azure Functions](https://www.coursera.org/learn/serverless-azure) `intermediate`
  - [Manejando bases de datos con AWS Aurora](https://www.coursera.org/learn/amazon-aurora) `beginner`
  - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
+ - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
  - [Essential Cloud Infrastructure: Foundation en Español](https://www.coursera.org/learn/gcp-infrastructure-foundation-es) `intermediate`
  - [Getting Started with Google Kubernetes Engine en Español](https://www.coursera.org/learn/google-kubernetes-engine-es) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Español](https://www.coursera.org/learn/gcp-fundamentals-es) `intermediate`
@@ -577,8 +588,6 @@
  - [Preparing for the Google Cloud Professional Data Engineer Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-es) `advanced`
  - [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es) `intermediate`
  - [Understanding Your Google Cloud Platform Costs en Español](https://www.coursera.org/learn/gcp-cost-management-es) `beginner`
-#### [Architecting with Google Compute Engine en Español Specialization](https://www.coursera.org/specializations/gcp-architecture-es)
-3. [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
 #### [Data Engineering, Big Data and ML on Google Cloud en Español Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-es)
 2. [Modernizing Data Lakes and Data Warehouses with GCP en Español](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-es) `intermediate`
 3. [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`

@@ -18,7 +18,7 @@
  - [Google Cloud Product Fundamentals 日本語版](https://www.coursera.org/learn/google-cloud-product-fundamentals-jp) `beginner`
 ## Entrepreneurship
 ### The University of Tokyo
- - [FoundX Startup School Beta Course](https://www.coursera.org/learn/foundx-beta-course) `beginner`
+ - [FoundX Startup School Course](https://www.coursera.org/learn/foundx-beta-course) `beginner`
 # Computer Science
 > - [Computer Security and Networks](#computer-security-and-networks)
 > - [Software Development](#software-development)

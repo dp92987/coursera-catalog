@@ -71,7 +71,9 @@
  - [أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript](https://www.coursera.org/learn/website-coding-ar)
 ## Software Development
 ### Coursera Project Network
+ - [Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python-in-arabic) `intermediate`
  - [تعلم Java و JavaFX من خلال عمل آلة حاسبة](https://www.coursera.org/learn/learn-java-and-javafx-graphical-calculator-arabic) `beginner`
+ - [تعلّم أساسيات البرمجة بلغة بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/introduction-to-python-arabic) `beginner`
  - [من خلال التطبيق العملي GitHub و Git تعلّم أساسيات](https://www.coursera.org/learn/introduction-to-git-and-github-arabic) `beginner`
 ### The University of Edinburgh, Universidad ORT Uruguay
  - [برمج بنفسك! مقدمة حول البرمجة](https://www.coursera.org/learn/intro-programming-ar)

@@ -145,8 +145,8 @@
  - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform em Português Brasileiro Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-br)
 1. [How Google does Machine Learning em Português Brasileiro](https://www.coursera.org/learn/google-machine-learning-br) `intermediate`
-1. [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
 2. [Launching into Machine Learning em Português Brasileiro](https://www.coursera.org/learn/launching-machine-learning-br) `intermediate`
+3. [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
 4. [Feature Engineering em Português Brasileiro](https://www.coursera.org/learn/feature-engineering-br) `intermediate`
 5. [Art and Science of Machine Learning em Português Brasileiro](https://www.coursera.org/learn/art-science-ml-br) `intermediate`
 ## Probability and Statistics

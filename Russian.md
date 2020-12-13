@@ -26,6 +26,8 @@
  - [Археология. О чём говорят древности?](https://www.coursera.org/learn/archaeology) `beginner`
 ### Saint Petersburg State University
  - [Ислам: история, культура, практика (Islam: history, culture, praxis)](https://www.coursera.org/learn/islam-istoriya-kultura) `beginner`
+ - [История и культура Санкт-Петербурга и ЛО. Часть 1](https://www.coursera.org/learn/hisspb1)
+ - [История и культура Санкт-Петербурга и ЛО. Часть 2](https://www.coursera.org/learn/hisspb2)
 #### [Живопись пастелью Specialization](https://www.coursera.org/specializations/pastelpainting)
 4. [Практическое применение техник академической живописи](https://www.coursera.org/learn/acad-paint)
 ## Music and Art
@@ -149,6 +151,8 @@
 6. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
 ### Saint Petersburg State University
  - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
+ - [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
+ - [Финансовая грамота](https://www.coursera.org/learn/finlit1)
 ### Sberbank Corporate University
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -287,8 +291,9 @@
 4. [Модели антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem)
 5. [Методологии антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/korporativnye-antikrizisnye-methodology)
 7. [ИТ-кризисология. Модернизация системы автоматизации управления воздушным движением](https://www.coursera.org/learn/project-it-crisis-management)
-### National Research Tomsk State University
- - [Введение в параллельное программирование с использованием OpenMP и MPI](https://www.coursera.org/learn/parallelnoye-programmirovaniye)
+### National Research University Higher School of Economics
+#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
+3. [Проектирование и реализация систем машинного обучения](https://www.coursera.org/learn/machine-learning-design) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Введение в язык Котлин](https://www.coursera.org/learn/vvedenie-v-yazyk-kotlin) `beginner`
  - [Математическая логика. Политехнический взгляд](https://www.coursera.org/learn/matematicheskaya-logika-politekhnicheskiy-vzglyad) `beginner`
@@ -311,6 +316,8 @@
 4. [Python для анализа данных](https://www.coursera.org/learn/python-for-data-science) `intermediate`
 ### National Research University Higher School of Economics
  - [Инструментальная фонетика: компьютерные методы сбора и анализа данных](https://www.coursera.org/learn/instrumental-phonetics)
+#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
+1. [Обработка больших данных](https://www.coursera.org/learn/big-data-processing) `intermediate`
 ### Novosibirsk State University 
 #### [Анализ данных Specialization](https://www.coursera.org/specializations/analiz-dannykh)
 1. [Введение в данные](https://www.coursera.org/learn/vvedeniye-dannyye) `intermediate`
@@ -331,6 +338,12 @@
 3. [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Машинное обучение и большие данные](https://www.coursera.org/learn/machine-learning-and-big-data) `beginner`
+### National Research University Higher School of Economics
+#### [ Машинное обучение: от статистики до нейросетей Specialization](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)
+1. [Основы машинного обучения](https://www.coursera.org/learn/machine-learning-foundations) `intermediate`
+2. [Продвинутые методы машинного обучения](https://www.coursera.org/learn/advanced-machine-learning-methods) `intermediate`
+#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
+2. [Машинное обучение на больших данных](https://www.coursera.org/learn/machine-learning-on-big-data) `intermediate`
 ### National Research University Higher School of Economics, Yandex School of Data Analysis
  - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
 ### Sberbank Corporate University
@@ -342,6 +355,10 @@
  - [Методология научных исследований и котики](https://www.coursera.org/learn/metodologiya-nauchnyh-issledovanij-kotiki) `beginner`
 ### National Research University Higher School of Economics
  - [Введение в теорию построения процедур множественной проверки гипотез](https://www.coursera.org/learn/multiple-hypotheses-testing) `intermediate`
+#### [ Машинное обучение: от статистики до нейросетей Specialization](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)
+3. [Сбор и анализ данных в Python](https://www.coursera.org/learn/data-collection-and-analysis-in-python) `intermediate`
+4. [Статистические методы анализа данных](https://www.coursera.org/learn/data-analysis-statistical-methods) `intermediate`
+5. [Математическая статистика и А/В тестирование](https://www.coursera.org/learn/mathematical-statistics-and-ab-testing) `intermediate`
 ### Saint Petersburg State University
 #### [Просто о статистике (с использованием R) Specialization](https://www.coursera.org/specializations/prosto-o-statistike)
 1. [Знакомство с R и базовая статистика](https://www.coursera.org/learn/znakomstvo-r-bazovaya-statistika) `beginner`
@@ -463,6 +480,11 @@
  - [Введение в математические методы физики](https://www.coursera.org/learn/vvedenie-v-mat-metody) `intermediate`
  - [Линейная алгебра (Linear Algebra)](https://www.coursera.org/learn/algebra-lineynaya) `beginner`
  - [Теория игр (Game Theory)](https://www.coursera.org/learn/game-theory)
+#### [Математика для анализа данных Specialization](https://www.coursera.org/specializations/maths-for-data-analysis)
+1. [Дискретная математика: подсчеты, графы, случайные блуждания](https://www.coursera.org/learn/discrete-math) `beginner`
+2. [Линейная алгебра: от идеи к формуле](https://www.coursera.org/learn/lineinaya-algebra) `beginner`
+3. [Математический анализ для работы с данными](https://www.coursera.org/learn/mathematics-for-big-data) `beginner`
+4. [Теория вероятностей и ее приложения](https://www.coursera.org/learn/prob-theory) `beginner`
 ### Novosibirsk State University 
  - [Алгебраическая теория графов](https://www.coursera.org/learn/algebraicheskaya-teoriya-grafov) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
@@ -488,7 +510,6 @@
  - [Деловой этикет: от Слов к Делу](https://www.coursera.org/learn/delovoy-etiket-ot-slov-k-delu)
  - [Практика разрешения конфликтов. Я - семья - работа - общество](https://www.coursera.org/learn/conflict-resolution) `beginner`
  - [Психология призвания](https://www.coursera.org/learn/psykhologiya-prizvaniya) `intermediate`
- - [Психология признания и самозанятости](https://www.coursera.org/learn/psihologiya-priznaniya-i-samozanyatosti) `beginner`
  - [Эксподизайн: проектирование музейной экспозиции в диалогах дизайнера и музеолога](https://www.coursera.org/learn/ekspodizayn) `beginner`
  - [Этикет на все случаи жизни](https://www.coursera.org/learn/etiket) `beginner`
 ### National Research University Higher School of Economics
@@ -518,6 +539,7 @@
  - [Физическая химия](https://www.coursera.org/learn/fizicheskaya-khimiya) `intermediate`
 ### Saint Petersburg State University
  - [Неорганическая химия: Введение в химию элементов (Inorganic chemistry: Introduction to chemistry of the elements)](https://www.coursera.org/learn/neorganicheskaya-khimiya) `intermediate`
+ - [Основы рационального использования агроландшафтов](https://www.coursera.org/learn/agrland)
 ## Electrical Engineering
 ### Moscow Institute of Physics and Technology
  - [Строим роботов и другие устройства на Arduino. От светофора до 3D-принтера](https://www.coursera.org/learn/roboty-arduino)
@@ -571,6 +593,7 @@
  - [Промышленность, инженерное образование и наука: история и перспективы](https://www.coursera.org/learn/promyshlennost) `intermediate`
 ### National Research Nuclear University MEPhI
  - [История изобретений и открытий — Вторая история человечества](https://www.coursera.org/learn/istoriya-izobretenii-i-otkritii) `beginner`
+ - [Строение биологических тканей для моделирования в биомедицинской физике](https://www.coursera.org/learn/structure-of-biological-tissues) `intermediate`
 ### Novosibirsk State University 
  - [Драгоценные камни: диагностика и экспертиза](https://www.coursera.org/learn/kamni) `beginner`
 # Social Sciences
