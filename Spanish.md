@@ -82,6 +82,8 @@
 3. [Contexto de Negocios en LATAM: Factores Políticos, Sociales y Económicos](https://www.coursera.org/learn/contexto-negocios-latam)
 ### Tecnológico de Monterrey
  - [Introducción a la gestión de proyectos](https://www.coursera.org/learn/gestion-proyectos-c1) `beginner`
+### UBITS
+ - [Fundamentos de la gestión del talento humano](https://www.coursera.org/learn/fundamentos-de-la-gestion-del-talento-humano) `beginner`
 ### Universidad de los Andes
  - [Formulación y evaluación de proyectos complejos](https://www.coursera.org/learn/formulacion-evaluacion-proyectos-ingenieria) `intermediate`
 ### Universidad Nacional Autónoma de México
@@ -111,6 +113,7 @@
  - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
  - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
  - [LinkedIn para Principiantes](https://www.coursera.org/learn/linkedin-principiantes) `beginner`
+ - [Mejora del Rendimiento Empresarial con Google Forms](https://www.coursera.org/learn/mejora-rendimiento-empresarial-google-forms) `beginner`
 ### DeepLearning.AI
  - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es) `beginner`
 ### Google Cloud
@@ -123,6 +126,7 @@
 #### [Marketing Digital Specialization](https://www.coursera.org/specializations/marketing-digital)
 2. [Estrategias de  Redes Sociales](https://www.coursera.org/learn/redes-sociales-estrategias) `beginner`
 ### Universidad de los Andes
+ - [Doing Business in Latin America](https://www.coursera.org/learn/business-latam) `beginner`
  - [Estimación de la línea base de tiempos y costos](https://www.coursera.org/learn/estimacion-tiempos-costos) `intermediate`
  - [Los Objetivos de Desarrollo Sostenible para las empresas](https://www.coursera.org/learn/objetivos-desarrollo-sostenible-empresas) `beginner`
  - [Proyectos complejos: éxitos o fracasos](https://www.coursera.org/learn/proyectos-complejos-exitosos-fracasados) `beginner`
@@ -209,7 +213,6 @@
 ### IESE Business School
  - [Claves para Gestionar Personas](https://www.coursera.org/learn/gestionar-personas)
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
-4. [La gestión de personas y equipos](https://www.coursera.org/learn/gestion-personas-equipos) `beginner`
 5. [Análisis de situaciones de negocio](https://www.coursera.org/learn/analisis-situaciones-negocio) `beginner`
 ### Pontificia Universidad Católica de Chile
  - [Buenas Prácticas en Libre Competencia](https://www.coursera.org/learn/libre-competencia)
@@ -275,7 +278,6 @@
 1. [Introducción a las redes sociales. Sus objetivos y métricas.](https://www.coursera.org/learn/intro-redes-sociales) `beginner`
 2. [Beneficios y características de las redes sociales más significativas](https://www.coursera.org/learn/redes-sociales-caracteristicas)
 3. [Requerimientos, planeación, ejecución y medición de estrategias para redes sociales](https://www.coursera.org/learn/mercadotecnia-sociales)
-4. [Las redes sociales en acción](https://www.coursera.org/learn/red-social)
 5. [Marketing en Redes Sociales Proyecto Final](https://www.coursera.org/learn/redes-sociales-proyecto)
 ### Universidad Austral
  - [Coberturas de riesgo con futuros y opciones para agrobusiness](https://www.coursera.org/learn/coberturas-de-riesgo) `beginner`
@@ -593,6 +595,9 @@
 3. [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`
 4. [Building Resilient Streaming Analytics Systems on GCP en Español](https://www.coursera.org/learn/streaming-analytics-systems-gcp-es) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP en Español](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-es) `intermediate`
+### IBM
+ - [Conceptos Básicos de IBM Cloud](https://www.coursera.org/learn/conceptos-basicos-de-ibm-cloud)
+ - [Introducción a Contenedores con Docker y Kubernetes](https://www.coursera.org/learn/introduccion-a-contenedores-con-docker) `beginner`
 ## Data Management
 ### Coursera Project Network
  - [Introducción a bases de datos NoSQL con MongoDB](https://www.coursera.org/learn/base-datos-nosql) `beginner`
@@ -669,6 +674,9 @@
 ### Pontificia Universidad Católica de Chile
  - [Introducción al Aprendizaje Universitario](https://www.coursera.org/learn/aprendizaje-universitario-introduccion) `intermediate`
  - [Liderazgo Instruccional: Perspectiva Global y Prácticas Locales](https://www.coursera.org/learn/liderazgo-educativo)
+### UBITS
+ - [Accountability y gestión del desempeño](https://www.coursera.org/learn/accountability) `beginner`
+ - [Introducción a la inteligencia emocional](https://www.coursera.org/learn/introduccion-a-la-inteligencia-emocional) `beginner`
 ### Universidad Austral
  - [Trabajar para ser feliz](https://www.coursera.org/learn/familia-trabajo-sociedad) `beginner`
 ### Universidad de Chile
@@ -798,6 +806,7 @@
 3. [Proyecto de diseño instruccional para el aprendizaje activo en ambientes digitales](https://www.coursera.org/learn/proyect) `beginner`
 ### Universidad Austral
  - [Competencias para la empleabilidad](https://www.coursera.org/learn/competencias-empleabilidad-linkyou) `beginner`
+ - [Educación ambiental para la biodiversidad](https://www.coursera.org/learn/educacion-ambiental-para-la-biodiversidad) `beginner`
  - [El trabajo por proyectos en escuelas de contextos rurales](https://www.coursera.org/learn/trabajo-proyectos-escuelas-rurales) `beginner`
  - [Jugar y Aprender Matemática en aulas heterogéneas](https://www.coursera.org/learn/matematica-aulas-heterogeneas) `beginner`
  - [La alfabetización temprana en contextos rurales](https://www.coursera.org/learn/alfabetizacion-temprana-contextos-rurales) `beginner`

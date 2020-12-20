@@ -26,8 +26,10 @@
  - [Археология. О чём говорят древности?](https://www.coursera.org/learn/archaeology) `beginner`
 ### Saint Petersburg State University
  - [Ислам: история, культура, практика (Islam: history, culture, praxis)](https://www.coursera.org/learn/islam-istoriya-kultura) `beginner`
+ - [История древнего мира](https://www.coursera.org/learn/hisant)
  - [История и культура Санкт-Петербурга и ЛО. Часть 1](https://www.coursera.org/learn/hisspb1)
  - [История и культура Санкт-Петербурга и ЛО. Часть 2](https://www.coursera.org/learn/hisspb2)
+ - [История средних веков](https://www.coursera.org/learn/hismedi)
 #### [Живопись пастелью Specialization](https://www.coursera.org/specializations/pastelpainting)
 4. [Практическое применение техник академической живописи](https://www.coursera.org/learn/acad-paint)
 ## Music and Art
@@ -291,6 +293,8 @@
 4. [Модели антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem)
 5. [Методологии антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/korporativnye-antikrizisnye-methodology)
 7. [ИТ-кризисология. Модернизация системы автоматизации управления воздушным движением](https://www.coursera.org/learn/project-it-crisis-management)
+### National Research Tomsk State University
+ - [Введение в параллельное программирование с использованием OpenMP и MPI](https://www.coursera.org/learn/parallelnoye-programmirovaniye)
 ### National Research University Higher School of Economics
 #### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
 3. [Проектирование и реализация систем машинного обучения](https://www.coursera.org/learn/machine-learning-design) `intermediate`
@@ -452,6 +456,8 @@
  - [Русский язык как инструмент успешной коммуникации](https://www.coursera.org/learn/russian)
  - [Читаем русскую классику вместе.  М. Булгаков «Мастер и Маргарита»](https://www.coursera.org/learn/bulgakov-master-i-margarita)
  - [Я говорю по-русски/ I speak Russian](https://www.coursera.org/learn/ya-govoryu-po-russki) `intermediate`
+### National Research University Higher School of Economics
+ - [Преподавание иностранного языка в вузе: современные подходы и их практическая реализация](https://www.coursera.org/learn/teaching-foreign-language)
 ### Saint Petersburg State University
  - [Китайский для начинающих (Chinese for beginners)](https://www.coursera.org/learn/kitayskiy-dlya-nachinayushchikh) `beginner`
 #### [Русский как иностранный Specialization](https://www.coursera.org/specializations/russkiy-kak-inostrannyy)
@@ -510,6 +516,7 @@
  - [Деловой этикет: от Слов к Делу](https://www.coursera.org/learn/delovoy-etiket-ot-slov-k-delu)
  - [Практика разрешения конфликтов. Я - семья - работа - общество](https://www.coursera.org/learn/conflict-resolution) `beginner`
  - [Психология призвания](https://www.coursera.org/learn/psykhologiya-prizvaniya) `intermediate`
+ - [Психология признания и самозанятости](https://www.coursera.org/learn/psihologiya-priznaniya-i-samozanyatosti) `beginner`
  - [Эксподизайн: проектирование музейной экспозиции в диалогах дизайнера и музеолога](https://www.coursera.org/learn/ekspodizayn) `beginner`
  - [Этикет на все случаи жизни](https://www.coursera.org/learn/etiket) `beginner`
 ### National Research University Higher School of Economics
@@ -559,6 +566,8 @@
 ### Moscow Institute of Physics and Technology
  - [Динамика](https://www.coursera.org/learn/dynamics1) `beginner`
  - [Кинематика](https://www.coursera.org/learn/kinematics) `beginner`
+### National Research Nuclear University MEPhI
+ - [Основные технологии машиностроительных производств](https://www.coursera.org/learn/machine-building-equipment) `beginner`
 ### National Research Tomsk State University
  - [Инновации в промышленности: мехатроника и робототехника](https://www.coursera.org/learn/innovations-in-industry-robotics)
 ### Peter the Great St. Petersburg Polytechnic University
@@ -581,6 +590,8 @@
  - [Физика тяжелых ионов](https://www.coursera.org/learn/physics-of-heavy-ions)
  - [Элементы атомной и ядерной физики](https://www.coursera.org/learn/elementy-atomnoj-i-yadernoj-fiziki)
  - [Ядерное нераспространение: правовые аспекты, основы национальных гарантий](https://www.coursera.org/learn/nuclear-non-proliferation) `beginner`
+### National Research Nuclear University MEPhI, Joint Institute for Nuclear Research
+ - [Ускорительный комплекс NICA — проект класса мегасайенс](https://www.coursera.org/learn/megascience-project-nica) `intermediate`
 ### National Research University Higher School of Economics
  - [Теория функций комплексного переменного](https://www.coursera.org/learn/complex-variable) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
@@ -594,6 +605,7 @@
 ### National Research Nuclear University MEPhI
  - [История изобретений и открытий — Вторая история человечества](https://www.coursera.org/learn/istoriya-izobretenii-i-otkritii) `beginner`
  - [Строение биологических тканей для моделирования в биомедицинской физике](https://www.coursera.org/learn/structure-of-biological-tissues) `intermediate`
+ - [Ядерные данные. Система иллюстрации ядерных данных JANIS](https://www.coursera.org/learn/nuclear-data-janis) `beginner`
 ### Novosibirsk State University 
  - [Драгоценные камни: диагностика и экспертиза](https://www.coursera.org/learn/kamni) `beginner`
 # Social Sciences
@@ -622,6 +634,7 @@
 ### Saint Petersburg State University
  - [Международное трудовое право](https://www.coursera.org/learn/int-lab-law-ru)
  - [Современные финансовые технологии](https://www.coursera.org/learn/financetech)
+ - [Страховое дело](https://www.coursera.org/learn/insurance)
  - [Управление брендами в цифровой экономике](https://www.coursera.org/learn/digitbrand)
 ## Education
 ### National Research Nuclear University MEPhI
@@ -661,7 +674,6 @@
  - [Налоговое право (Tax law)](https://www.coursera.org/learn/nalogovoye-pravo) `intermediate`
  - [Охрана труда и безопасность на производстве](https://www.coursera.org/learn/trud)
  - [Правовое регулирование отношений в Интернете. Российская перспектива](https://www.coursera.org/learn/regulirovaniye-interneta)
- - [Страховое дело](https://www.coursera.org/learn/insurance)
  - [Теория права и государства](https://www.coursera.org/learn/tgp)
 ### University of Geneva
  - [Политика и управление водными ресурсами](https://www.coursera.org/learn/russian-water-management)

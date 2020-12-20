@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5675` courses. Updated weekly.
+Complete list of `5720` courses. Updated weekly.
 
 # TOC
 
@@ -89,9 +89,7 @@ Complete list of `5675` courses. Updated weekly.
  - [Physical Science and Engineering](<German.md#physical-science-and-engineering>)
 ### Hebrew
  - [Arts and Humanities](<Hebrew.md#arts-and-humanities>)
- - [Health](<Hebrew.md#health>)
  - [Math and Logic](<Hebrew.md#math-and-logic>)
- - [Physical Science and Engineering](<Hebrew.md#physical-science-and-engineering>)
 ### Hungarian
  - [Personal Development](<Hungarian.md#personal-development>)
 ### Indonesian

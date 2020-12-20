@@ -33,6 +33,7 @@
 > - [Marketing](#marketing)
 ## Business Essentials
 ### Coursera Project Network
+ - [Google Docs - Créer des Documents Professionnels](https://www.coursera.org/learn/google-docs-professionnels) `beginner`
  - [Initiation à Google Drive](https://www.coursera.org/learn/initiation-a-google-drive) `beginner`
 ### ESSEC Business School
  - [Innovation publique et pensée design, l'innovation sociale au service des territoires](https://www.coursera.org/learn/innovation-publique-pensee-design) `beginner`
@@ -116,7 +117,6 @@
 ### Coursera Project Network
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
- - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
@@ -156,6 +156,7 @@
  - [Ebola : Vaincre ensemble !](https://www.coursera.org/learn/ebola-vaincre-ensemble)
 # Information Technology
 > - [Cloud Computing](#cloud-computing)
+> - [Data Management](#data-management)
 ## Cloud Computing
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation en Français](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-fr) `intermediate`
@@ -171,6 +172,9 @@
 3. [Building Batch Data Pipelines on GCP en Français](https://www.coursera.org/learn/batch-data-pipelines-gcp-fr) `intermediate`
 4. [Building Resilient Streaming Analytics Systems on GCP en Français](https://www.coursera.org/learn/streaming-analytics-systems-gcp-fr) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP en Français](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-fr) `intermediate`
+## Data Management
+### Coursera Project Network
+ - [Introduction Pratique à YAML](https://www.coursera.org/learn/instroduction-pratique-a-yaml) `intermediate`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages
@@ -193,8 +197,6 @@
 ## Personal Development
 ### McMaster University, University of California San Diego
  - [Apprendre comment apprendre (ACA) : Des outils mentaux puissants qui vous aideront à maîtriser des sujets difficiles](https://www.coursera.org/learn/apprendre-comment-apprendre) `beginner`
-### École Polytechnique
- - [La recherche documentaire](https://www.coursera.org/learn/recherche-documentaire) `beginner`
 # Physical Science and Engineering
 > - [Electrical Engineering](#electrical-engineering)
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)

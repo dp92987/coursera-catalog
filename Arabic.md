@@ -14,6 +14,7 @@
 > - [Marketing](#marketing)
 ## Business Essentials
 ### Coursera Project Network
+ - [إنشاء تصاميم على موقع بيكتو شارت](https://www.coursera.org/learn/create-digital-designs-on-piktochart) `beginner`
  - [خدمات غوغل المتقدمة](https://www.coursera.org/learn/advanced-google-services-arabic) `beginner`
  - [فصول غوغل الدراسية - للطلاب](https://www.coursera.org/learn/google-classroom-for-students-arabic) `beginner`
  - [مقدمة لخدمات غوغل](https://www.coursera.org/learn/intro-to-google-services-arabic) `beginner`
@@ -72,6 +73,7 @@
 ## Software Development
 ### Coursera Project Network
  - [Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python-in-arabic) `intermediate`
+ - [تعرَف على هياكل البيانات في بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/python-data-structures-arabic) `beginner`
  - [تعلم Java و JavaFX من خلال عمل آلة حاسبة](https://www.coursera.org/learn/learn-java-and-javafx-graphical-calculator-arabic) `beginner`
  - [تعلّم أساسيات البرمجة بلغة بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/introduction-to-python-arabic) `beginner`
  - [من خلال التطبيق العملي GitHub و Git تعلّم أساسيات](https://www.coursera.org/learn/introduction-to-git-and-github-arabic) `beginner`
@@ -86,6 +88,7 @@
 ### Coursera Project Network
  - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
+ - [نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد](https://www.coursera.org/learn/genome-analysis-z-curve-arabic) `intermediate`
 ### Duke University
  - [مقاييس الأعمال للشركات التي تعتمد على البيانات](https://www.coursera.org/learn/analytics-business-metrics-ar)
 ### Johns Hopkins University

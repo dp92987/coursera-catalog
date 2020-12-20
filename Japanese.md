@@ -6,7 +6,6 @@
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
-> - [Entrepreneurship](#entrepreneurship)
 ## Business Essentials
 ### University of California, Irvine
  - [業務効率や生産性向上につながる時間管理](https://www.coursera.org/learn/work-smarter-not-harder-ja)
@@ -16,9 +15,6 @@
 ### Google Cloud
  - [Business Transformation with Google Cloud 日本語版](https://www.coursera.org/learn/business-transformation-google-cloud-jp) `beginner`
  - [Google Cloud Product Fundamentals 日本語版](https://www.coursera.org/learn/google-cloud-product-fundamentals-jp) `beginner`
-## Entrepreneurship
-### The University of Tokyo
- - [FoundX Startup School Course](https://www.coursera.org/learn/foundx-beta-course) `beginner`
 # Computer Science
 > - [Computer Security and Networks](#computer-security-and-networks)
 > - [Software Development](#software-development)
