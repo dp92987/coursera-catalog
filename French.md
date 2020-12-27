@@ -117,6 +117,7 @@
 ### Coursera Project Network
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
+ - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
 ## Machine Learning
@@ -197,6 +198,8 @@
 ## Personal Development
 ### McMaster University, University of California San Diego
  - [Apprendre comment apprendre (ACA) : Des outils mentaux puissants qui vous aideront à maîtriser des sujets difficiles](https://www.coursera.org/learn/apprendre-comment-apprendre) `beginner`
+### École Polytechnique
+ - [La recherche documentaire](https://www.coursera.org/learn/recherche-documentaire) `beginner`
 # Physical Science and Engineering
 > - [Electrical Engineering](#electrical-engineering)
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)

@@ -8,6 +8,8 @@
 > - [Finance](#finance)
 > - [Leadership and Management](#leadership-and-management)
 ## Business Strategy
+### DeepLearning.AI
+ - [KI für alle](https://www.coursera.org/learn/ai-for-everyone-de) `beginner`
 ### Google Cloud
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
  - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`

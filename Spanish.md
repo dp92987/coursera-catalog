@@ -128,6 +128,7 @@
 ### Universidad de los Andes
  - [Doing Business in Latin America](https://www.coursera.org/learn/business-latam) `beginner`
  - [Estimación de la línea base de tiempos y costos](https://www.coursera.org/learn/estimacion-tiempos-costos) `intermediate`
+ - [Herramientas de la Economía Circular](https://www.coursera.org/learn/herramientas-de-la-economa-circular) `beginner`
  - [Los Objetivos de Desarrollo Sostenible para las empresas](https://www.coursera.org/learn/objetivos-desarrollo-sostenible-empresas) `beginner`
  - [Proyectos complejos: éxitos o fracasos](https://www.coursera.org/learn/proyectos-complejos-exitosos-fracasados) `beginner`
 #### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
@@ -213,6 +214,7 @@
 ### IESE Business School
  - [Claves para Gestionar Personas](https://www.coursera.org/learn/gestionar-personas)
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
+4. [La gestión de personas y equipos](https://www.coursera.org/learn/gestion-personas-equipos) `beginner`
 5. [Análisis de situaciones de negocio](https://www.coursera.org/learn/analisis-situaciones-negocio) `beginner`
 ### Pontificia Universidad Católica de Chile
  - [Buenas Prácticas en Libre Competencia](https://www.coursera.org/learn/libre-competencia)
@@ -231,6 +233,7 @@
 ### Universidad de los Andes
  - [Gestión del alcance: el qué de la triple restricción](https://www.coursera.org/learn/gestion-alcance-proyectos) `intermediate`
  - [Liderazgo y gestión de empresas familiares](https://www.coursera.org/learn/liderazgo-en-empresas-familiares) `intermediate`
+ - [Recuperación de proyectos en crisis](https://www.coursera.org/learn/recuperacion-de-proyectos-en-crisis) `intermediate`
 ### Universidad Nacional Autónoma de México
 #### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
 1. [Autoridad, dirección y liderazgo](https://www.coursera.org/learn/autoridad) `beginner`
@@ -278,6 +281,7 @@
 1. [Introducción a las redes sociales. Sus objetivos y métricas.](https://www.coursera.org/learn/intro-redes-sociales) `beginner`
 2. [Beneficios y características de las redes sociales más significativas](https://www.coursera.org/learn/redes-sociales-caracteristicas)
 3. [Requerimientos, planeación, ejecución y medición de estrategias para redes sociales](https://www.coursera.org/learn/mercadotecnia-sociales)
+4. [Las redes sociales en acción](https://www.coursera.org/learn/red-social)
 5. [Marketing en Redes Sociales Proyecto Final](https://www.coursera.org/learn/redes-sociales-proyecto)
 ### Universidad Austral
  - [Coberturas de riesgo con futuros y opciones para agrobusiness](https://www.coursera.org/learn/coberturas-de-riesgo) `beginner`
@@ -485,6 +489,7 @@
 ### Universidad Austral
  - [Estadística aplicada a los negocios](https://www.coursera.org/learn/estadistica-aplicada-negocios) `beginner`
 ### Universidad de los Andes
+ - [Fundamentos de estadística aplicada](https://www.coursera.org/learn/estadistica-aplicada-fundamentos) `intermediate`
  - [Fundamentos de probabilidad y aplicaciones](https://www.coursera.org/learn/probabilidad) `intermediate`
 # Health
 > - [Basic Science](#basic-science)
@@ -537,8 +542,6 @@
 ## Psychology
 ### Tecnológico de Monterrey
  - [Principios de Psicología](https://www.coursera.org/learn/psicologia-principios) `beginner`
-### Universidad Austral
- - [Introducción a la Psicología](https://www.coursera.org/learn/introduccion-a-la-psicologia) `beginner`
 ### Universidad de los Andes
  - [Bienestar, equidad y derechos humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos) `beginner`
  - [Diseño de proyectos para promover el bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar) `intermediate`
@@ -682,6 +685,7 @@
 ### Universidad de Chile
  - [Mi Primer Empleo (MPE)](https://www.coursera.org/learn/mi-primer-empleo) `beginner`
 ### Universidad de los Andes
+ - [Compreender as dimensões interculturais na vida cotidiana](https://www.coursera.org/learn/interculturalidade) `intermediate`
  - [Comprender las dimensiones interculturales en la cotidianidad](https://www.coursera.org/learn/interculturalidad) `intermediate`
  - [Constructores de Paz](https://www.coursera.org/learn/constructores-de-paz) `beginner`
  - [PlanU: escoge la mejor carrera y universidad para ti](https://www.coursera.org/learn/escoger-carrera-y-universidad) `beginner`

@@ -179,6 +179,7 @@
  - [Essential Cloud Infrastructure: Foundation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-foundation-br) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure em Português Brasileiro](https://www.coursera.org/learn/gcp-fundamentals-br) `intermediate`
  - [Managing Change when Moving to Google Cloud em Português](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-br) `beginner`
+ - [Migrating to Google Cloud em Português Brasileiro](https://www.coursera.org/learn/migrating-to-gcp-br) `beginner`
  - [Optimizing Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-optimization-br) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-br) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-br) `advanced`

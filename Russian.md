@@ -91,6 +91,8 @@
 3. [Практики работы с данными средствами Power Query и Power Pivot](https://www.coursera.org/learn/praktiki-raboty-dannymi-sredstvami-power-query-pivot) `advanced`
 4. [Практики создания аналитических панелей в среде Microsoft Power BI](https://www.coursera.org/learn/praktiki-sozdaniya-analiticheskikh-paneley-power-bi) `advanced`
 ## Business Strategy
+### DeepLearning.AI
+ - [Искусственный Интеллект (ИИ) для всехin](https://www.coursera.org/learn/ai-for-everyone-ru) `beginner`
 ### E-Learning Development Fund
  - [Современные практики бирюзового управления](https://www.coursera.org/learn/teal-management-practices)
 ### Moscow Institute of Physics and Technology
@@ -408,8 +410,6 @@
  - [Психология труда, инженерная психология и эргономика](https://www.coursera.org/learn/psykhologiya-truda) `intermediate`
 ### National Research Tomsk State University, Moscow Institute of Psychoanalysis
  - [Зоопсихология](https://www.coursera.org/learn/zoopsikhologiya) `beginner`
-### Novosibirsk State University 
- - [Учимся понимать ребёнка: руководство для взрослых](https://www.coursera.org/learn/ponimat-rebenka) `beginner`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Управление человеческими ресурсами](https://www.coursera.org/learn/upravleniye-chelovecheskimi-resursami) `beginner`
 ### Saint Petersburg State University
@@ -545,6 +545,7 @@
  - [Органическая химия](https://www.coursera.org/learn/organicheskaya-khimiya) `intermediate`
  - [Физическая химия](https://www.coursera.org/learn/fizicheskaya-khimiya) `intermediate`
 ### Saint Petersburg State University
+ - [Генетика развития растений](https://www.coursera.org/learn/plantgen) `advanced`
  - [Неорганическая химия: Введение в химию элементов (Inorganic chemistry: Introduction to chemistry of the elements)](https://www.coursera.org/learn/neorganicheskaya-khimiya) `intermediate`
  - [Основы рационального использования агроландшафтов](https://www.coursera.org/learn/agrland)
 ## Electrical Engineering
@@ -589,7 +590,8 @@
  - [Физика как глобальный проект](https://www.coursera.org/learn/physics-global-project)
  - [Физика тяжелых ионов](https://www.coursera.org/learn/physics-of-heavy-ions)
  - [Элементы атомной и ядерной физики](https://www.coursera.org/learn/elementy-atomnoj-i-yadernoj-fiziki)
- - [Ядерное нераспространение: правовые аспекты, основы национальных гарантий](https://www.coursera.org/learn/nuclear-non-proliferation) `beginner`
+#### [Правовые основы и базы данных в ядерной отрасли Specialization](https://www.coursera.org/specializations/nuclear-legal-framework-and-databases)
+4. [Ядерное нераспространение: правовые аспекты, основы национальных гарантий](https://www.coursera.org/learn/nuclear-non-proliferation) `beginner`
 ### National Research Nuclear University MEPhI, Joint Institute for Nuclear Research
  - [Ускорительный комплекс NICA — проект класса мегасайенс](https://www.coursera.org/learn/megascience-project-nica) `intermediate`
 ### National Research University Higher School of Economics
@@ -605,7 +607,7 @@
 ### National Research Nuclear University MEPhI
  - [История изобретений и открытий — Вторая история человечества](https://www.coursera.org/learn/istoriya-izobretenii-i-otkritii) `beginner`
  - [Строение биологических тканей для моделирования в биомедицинской физике](https://www.coursera.org/learn/structure-of-biological-tissues) `intermediate`
- - [Ядерные данные. Система иллюстрации ядерных данных JANIS](https://www.coursera.org/learn/nuclear-data-janis) `beginner`
+5. [Ядерные данные. Система иллюстрации ядерных данных JANIS](https://www.coursera.org/learn/nuclear-data-janis) `beginner`
 ### Novosibirsk State University 
  - [Драгоценные камни: диагностика и экспертиза](https://www.coursera.org/learn/kamni) `beginner`
 # Social Sciences
@@ -671,7 +673,9 @@
  - [Российское предпринимательское право](https://www.coursera.org/learn/rus-business-law) `intermediate`
  - [Юридическое оформление инвестиционных идей](https://www.coursera.org/learn/law-invest-ideas)
 ### Saint Petersburg State University
+ - [Индустрия компьютерных игр: ключевые правовые проблемы](https://www.coursera.org/learn/gamind)
  - [Налоговое право (Tax law)](https://www.coursera.org/learn/nalogovoye-pravo) `intermediate`
+ - [Основы конституции и конституционного права](https://www.coursera.org/learn/fundcons) `intermediate`
  - [Охрана труда и безопасность на производстве](https://www.coursera.org/learn/trud)
  - [Правовое регулирование отношений в Интернете. Российская перспектива](https://www.coursera.org/learn/regulirovaniye-interneta)
  - [Теория права и государства](https://www.coursera.org/learn/tgp)
