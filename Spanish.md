@@ -542,6 +542,8 @@
 ## Psychology
 ### Tecnológico de Monterrey
  - [Principios de Psicología](https://www.coursera.org/learn/psicologia-principios) `beginner`
+### Universidad Austral
+ - [Introducción a la Psicología](https://www.coursera.org/learn/introduccion-a-la-psicologia) `beginner`
 ### Universidad de los Andes
  - [Bienestar, equidad y derechos humanos](https://www.coursera.org/learn/bienestar-equidad-derechos-humanos) `beginner`
  - [Diseño de proyectos para promover el bienestar](https://www.coursera.org/learn/diseno-proyectos-promocion-bienestar) `intermediate`
@@ -578,6 +580,7 @@
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
+ - [Introducción a computación serverless con AWS Lambda](https://www.coursera.org/learn/serverless-aws) `intermediate`
  - [Introducción a computación serverless con Azure Functions](https://www.coursera.org/learn/serverless-azure) `intermediate`
  - [Manejando bases de datos con AWS Aurora](https://www.coursera.org/learn/amazon-aurora) `beginner`
  - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
@@ -621,7 +624,6 @@
  - [Trabajando de inicio a fin con GIT](https://www.coursera.org/learn/git-inicio-fin) `beginner`
 ### Crece con Google
 1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
-3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
 4. [Administración de sistemas y servicios de infraestructura de TI](https://www.coursera.org/learn/administracion-de-sistema-y-servicios-de-infraestructura) `beginner`
 # Language Learning
 > - [Learning English](#learning-english)
@@ -732,8 +734,6 @@
 ### Universidad Nacional Autónoma de México
  - [Control automático: La tecnología invisible](https://www.coursera.org/learn/control-automatico) `beginner`
  - [Cómo autoconstruir tu vivienda. Segunda etapa](https://www.coursera.org/learn/como-autoconstruir-tu-vivienda-segunda-etapa) `beginner`
-### Universitat Autònoma de Barcelona
- - [Sistemas Digitales: De las puertas lógicas al procesador](https://www.coursera.org/learn/sistemas-digitales)
 ## Environmental Science and Sustainability
 ### Pontificia Universidad Católica de Chile
  - [Análisis de Sistemas de Transporte](https://www.coursera.org/learn/analisis-sistemas-de-transporte)

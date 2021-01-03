@@ -4,22 +4,21 @@
 > - [Undefined](#undefined)
 ## Undefined
 ### Coursera Project Network
- - [Analyzing Product Opportunities with Creately](https://www.coursera.org/learn/product-strategy)
- - [Build a mobile app with Google Sheets on Glide and no coding](https://www.coursera.org/learn/build-a-mobile-app-with-google-sheets-on-glide-and-no-coding)
- - [Build a Table Layout App in Android Studio](https://www.coursera.org/learn/build-table-layout-app-android-studio)
- - [Create your own Sudoku Solver using AI and Python](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python)
- - [Creating Dashboards in Google Spreadsheets](https://www.coursera.org/learn/creating-dashboards-in-google-spreadsheets)
- - [Promote your Brand with Social Media Marketing using Befunky](https://www.coursera.org/learn/promote-your-brand-with-social-media-marketing-using-befunky)
- - [University Admission Prediction Using Multiple Linear Regression](https://www.coursera.org/learn/machine-learning-university-admission)
- - [Website Styling](https://www.coursera.org/learn/website-styling)
-### National University of Singapore
- - [Becoming Part of the Globalised Workplace](https://www.coursera.org/learn/intercultural-communications)
-### Sciences Po
- - [Cities are back in town : sociologie urbaine pour un monde globalisé](https://www.coursera.org/learn/developpement-urbain)
- - [Cities are back in town : urban sociology for a globalizing urban world](https://www.coursera.org/learn/urban-development)
-### Universidad Austral
- - [Introducción a la Psicología](https://www.coursera.org/learn/introduccion-a-la-psicologia)
-### University of Pennsylvania
- - [Wharton Business Foundations Capstone](https://www.coursera.org/learn/wharton-capstone)
-### Yonsei University
- - [Valuation for Startups Using Discounted Cash Flows Approach](https://www.coursera.org/learn/discounted-cash-flow)
+ - [AWS Elastic Beanstalk: Build & Deploy a Node.js RESTful API](https://www.coursera.org/learn/nodejs-api-aws-elastic-beanstalk)
+ - [Build a Simple App in Android Studio with Java](https://www.coursera.org/learn/build-app-android-studio-java)
+ - [Building an Ecosystem model with Insight Maker](https://www.coursera.org/learn/ecosystem-insight-maker)
+ - [Building and analyzing linear regression model in R](https://www.coursera.org/learn/build-analyze-linear-regression-model-r)
+ - [Create a Memory Puzzle Game in Python Using Pygame](https://www.coursera.org/learn/create-memory-puzzle-game-in-python-using-pygame)
+ - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio)
+ - [Create a Stock Dashboard Using Google Sheets](https://www.coursera.org/learn/create-a-stock-dashboard-using-google-sheets)
+ - [Database Design with SQL Server Management Studio (SSMS)](https://www.coursera.org/learn/database-design-with-sql-server-management-studio)
+ - [Quick resumeCreator with JavaScript](https://www.coursera.org/learn/resume-creator-javascript)
+ - [Scrum Team Building Using Games and Interactive Tools](https://www.coursera.org/learn/scrum-team-building-using-games-interactive-tools)
+### Crece con Google
+ - [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos)
+### Universitat Autònoma de Barcelona
+ - [Sistemas Digitales: De las puertas lógicas al procesador](https://www.coursera.org/learn/sistemas-digitales)
+### University of Minnesota
+ - [Introduction to Human Behavioral Genetics](https://www.coursera.org/learn/behavioralgenetics)
+### École Polytechnique
+ - [Silicon Thin Film Solar Cells](https://www.coursera.org/learn/silicon-thin-film-solar-cells)

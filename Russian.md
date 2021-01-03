@@ -298,6 +298,7 @@
 ### National Research Tomsk State University
  - [Введение в параллельное программирование с использованием OpenMP и MPI](https://www.coursera.org/learn/parallelnoye-programmirovaniye)
 ### National Research University Higher School of Economics
+ - [Python как иностранный](https://www.coursera.org/learn/python-kak-inostrannyj) `beginner`
 #### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
 3. [Проектирование и реализация систем машинного обучения](https://www.coursera.org/learn/machine-learning-design) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
@@ -410,6 +411,8 @@
  - [Психология труда, инженерная психология и эргономика](https://www.coursera.org/learn/psykhologiya-truda) `intermediate`
 ### National Research Tomsk State University, Moscow Institute of Psychoanalysis
  - [Зоопсихология](https://www.coursera.org/learn/zoopsikhologiya) `beginner`
+### Novosibirsk State University 
+ - [Учимся понимать ребёнка: руководство для взрослых](https://www.coursera.org/learn/ponimat-rebenka) `beginner`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Управление человеческими ресурсами](https://www.coursera.org/learn/upravleniye-chelovecheskimi-resursami) `beginner`
 ### Saint Petersburg State University
@@ -659,6 +662,7 @@
  - [Теория и практика эффективной коммуникации](https://www.coursera.org/learn/effective-communication-in-the-work-environment) `beginner`
 ### National Research University Higher School of Economics
  - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`
+ - [Общая социологическая теория](https://www.coursera.org/learn/soc-theory) `beginner`
  - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
  - [Психология межгрупповых отношений](https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii)
  - [Социология медиа](https://www.coursera.org/learn/sociologiya-media) `beginner`
