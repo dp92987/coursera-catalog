@@ -14,7 +14,10 @@
 > - [Marketing](#marketing)
 ## Business Essentials
 ### Coursera Project Network
+ - [إدارة مخاطر الاستثمار](https://www.coursera.org/learn/investment-risk-management-arabic) `beginner`
  - [إنشاء تصاميم على موقع بيكتو شارت](https://www.coursera.org/learn/create-digital-designs-on-piktochart) `beginner`
+ - [إنشاء رسوم بيانية على جداول بيانات غوغل](https://www.coursera.org/learn/google-sheets-plots-arabic) `beginner`
+ - [خدمات عروض غوغل التقديمية](https://www.coursera.org/learn/google-slides-arabic) `beginner`
  - [خدمات غوغل المتقدمة](https://www.coursera.org/learn/advanced-google-services-arabic) `beginner`
  - [فصول غوغل الدراسية - للطلاب](https://www.coursera.org/learn/google-classroom-for-students-arabic) `beginner`
  - [مقدمة لخدمات غوغل](https://www.coursera.org/learn/intro-to-google-services-arabic) `beginner`
@@ -68,6 +71,9 @@
 ### Coursera Project Network
  - [أساسيات python: برمج لعبة تخمين الرقم من الصفر](https://www.coursera.org/learn/python-basics-guess-the-number-arabic) `beginner`
 ## Mobile and Web Development
+### Coursera Project Network
+ - [بناء Backend لنسخة من Twitter](https://www.coursera.org/learn/twitter-clone-backend-arabic) `beginner`
+ - [صمم موقعك الشخصي وتعلم برمجة المواقع من خلال التطبيق العملي](https://www.coursera.org/learn/build-your-website-html-css-arabic) `beginner`
 ### University of London, Goldsmiths, University of London
  - [أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript](https://www.coursera.org/learn/website-coding-ar)
 ## Software Development
@@ -76,6 +82,7 @@
  - [تعرَف على هياكل البيانات في بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/python-data-structures-arabic) `beginner`
  - [تعلم Java و JavaFX من خلال عمل آلة حاسبة](https://www.coursera.org/learn/learn-java-and-javafx-graphical-calculator-arabic) `beginner`
  - [تعلّم أساسيات البرمجة بلغة بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/introduction-to-python-arabic) `beginner`
+ - [لعبة الثعبان عن طريق python:استخدم pygame لتصنع لعبتك الخاصة](https://www.coursera.org/learn/snakegame-python-pygame-arabic) `intermediate`
  - [من خلال التطبيق العملي GitHub و Git تعلّم أساسيات](https://www.coursera.org/learn/introduction-to-git-and-github-arabic) `beginner`
 ### The University of Edinburgh, Universidad ORT Uruguay
  - [برمج بنفسك! مقدمة حول البرمجة](https://www.coursera.org/learn/intro-programming-ar)
@@ -86,6 +93,7 @@
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
 ### Coursera Project Network
+ - [MYSQL Workbench إنشاء و تصميم قواعد البيانات باستخدام](https://www.coursera.org/learn/database-creation-and-modeling-using-mysqlworkbench) `beginner`
  - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
  - [نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد](https://www.coursera.org/learn/genome-analysis-z-curve-arabic) `intermediate`

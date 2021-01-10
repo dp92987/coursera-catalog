@@ -3,22 +3,32 @@
 # Undefined
 > - [Undefined](#undefined)
 ## Undefined
+### Arizona State University, Universidad Nacional Autónoma de México
+ - [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final)
 ### Coursera Project Network
- - [AWS Elastic Beanstalk: Build & Deploy a Node.js RESTful API](https://www.coursera.org/learn/nodejs-api-aws-elastic-beanstalk)
- - [Build a Simple App in Android Studio with Java](https://www.coursera.org/learn/build-app-android-studio-java)
- - [Building an Ecosystem model with Insight Maker](https://www.coursera.org/learn/ecosystem-insight-maker)
- - [Building and analyzing linear regression model in R](https://www.coursera.org/learn/build-analyze-linear-regression-model-r)
- - [Create a Memory Puzzle Game in Python Using Pygame](https://www.coursera.org/learn/create-memory-puzzle-game-in-python-using-pygame)
- - [Create a Space Shooter Game with Scratch Studio](https://www.coursera.org/learn/create-space-shooter-game-scratch-studio)
- - [Create a Stock Dashboard Using Google Sheets](https://www.coursera.org/learn/create-a-stock-dashboard-using-google-sheets)
- - [Database Design with SQL Server Management Studio (SSMS)](https://www.coursera.org/learn/database-design-with-sql-server-management-studio)
- - [Quick resumeCreator with JavaScript](https://www.coursera.org/learn/resume-creator-javascript)
- - [Scrum Team Building Using Games and Interactive Tools](https://www.coursera.org/learn/scrum-team-building-using-games-interactive-tools)
-### Crece con Google
- - [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos)
-### Universitat Autònoma de Barcelona
- - [Sistemas Digitales: De las puertas lógicas al procesador](https://www.coursera.org/learn/sistemas-digitales)
+ - [Build a Product Management Plan Framework in Trello](https://www.coursera.org/learn/build-product-management-plan-framework-trello)
+ - [Build a Professional Resume using Canva](https://www.coursera.org/learn/build-a-professional-resume-using-canva)
+ - [Build a Python application(API) on AWS(Lambda+API Gateway)](https://www.coursera.org/learn/aws-lambda-api-gateway-python)
+ - [Build a Twitter Clone Backend](https://www.coursera.org/learn/twitter-clone-backend)
+ - [Create a Financial Statement using Google Sheets](https://www.coursera.org/learn/create-financial-statement-google-sheets)
+ - [Create a Google Chrome extension](https://www.coursera.org/learn/create-a-google-chrome-extension)
+ - [Create a Mortgage Payment Calculator in Google Sheets](https://www.coursera.org/learn/create-mortgage-payment-calculator-in-google-sheets)
+ - [Create a Process Map using a Canva Template](https://www.coursera.org/learn/create-process-map-using-canva)
+ - [Create basic behavior with C# in Unity](https://www.coursera.org/learn/create-basic-behavior-csharp-unity)
+ - [Create online classes with Google Classroom](https://www.coursera.org/learn/create-online-classes-with-google-classroom)
+ - [Create the 5 Whys Root Cause Analysis in Google Sheets](https://www.coursera.org/learn/create-5-whys-root-cause-analysis-google-sheets)
+ - [Create your personal career development plan](https://www.coursera.org/learn/create-your-personal-career-development-plan)
+### Cresça com o Google
+ - [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores)
+### IE Business School
+ - [Estrategia de precios](https://www.coursera.org/learn/estrategia-precios)
+### Korea Advanced Institute of Science and Technology(KAIST)
+ - [Electrodynamics: An Introduction](https://www.coursera.org/learn/electrodynamics-introduction)
+### The University of Sydney
+ - [Using clinical health data for better healthcare](https://www.coursera.org/learn/healthcare-data)
+### Universidad Austral
+ - [Estructuras de datos en Python](https://www.coursera.org/learn/estructura-de-datos-python)
+### University of Illinois at Urbana-Champaign
+ - [VLSI CAD Part II: Layout](https://www.coursera.org/learn/vlsi-cad-layout)
 ### University of Minnesota
- - [Introduction to Human Behavioral Genetics](https://www.coursera.org/learn/behavioralgenetics)
-### École Polytechnique
- - [Silicon Thin Film Solar Cells](https://www.coursera.org/learn/silicon-thin-film-solar-cells)
+ - [Agile Software Development](https://www.coursera.org/learn/agile-software-development)

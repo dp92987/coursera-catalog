@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `5764` courses. Updated weekly.
+Complete list of `5889` courses. Updated weekly.
 
 # TOC
 

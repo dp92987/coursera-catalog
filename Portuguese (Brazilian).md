@@ -173,6 +173,8 @@
 > - [Security](#security)
 > - [Support and Operations](#support-and-operations)
 ## Cloud Computing
+### Coursera Project Network
+ - [Hospedando Website Estático (HTML/CSS/Javascript) no AWS S3](https://www.coursera.org/learn/website-estatico-aws-s3) `beginner`
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-br) `intermediate`
  - [Essential Cloud Infrastructure: Core Services em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-core-services-br) `intermediate`
@@ -193,11 +195,9 @@
 ## Networking
 ### Coursera Project Network
  - [Introdução a Mapas de Relação com Kumu](https://www.coursera.org/learn/intro-kumu) `beginner`
-### Cresça com o Google
-#### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
-2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
 ## Security
 ### Cresça com o Google
+#### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
 5. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
 ## Support and Operations
 ### Cresça com o Google
@@ -227,6 +227,7 @@
 > - [Electrical Engineering](#electrical-engineering)
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
 > - [Physics and Astronomy](#physics-and-astronomy)
+> - [Research Methods](#research-methods)
 ## Electrical Engineering
 ### Instituto Tecnológico de Aeronáutica
  - [Controle a Tempo Discreto](https://www.coursera.org/learn/controle-tempo-discreto) `intermediate`
@@ -240,6 +241,9 @@
 ## Physics and Astronomy
 ### Universidade de São Paulo
  - [Origens da Vida no Contexto Cósmico](https://www.coursera.org/learn/origensdavida) `beginner`
+## Research Methods
+### Coursera Project Network
+ - [Modelo de Disseminação de Vírus com NetLogo](https://www.coursera.org/learn/introducao-netlogo) `beginner`
 # Social Sciences
 > - [Economics](#economics)
 > - [Education](#education)

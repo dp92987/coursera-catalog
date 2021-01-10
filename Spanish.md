@@ -84,6 +84,8 @@
  - [Introducción a la gestión de proyectos](https://www.coursera.org/learn/gestion-proyectos-c1) `beginner`
 ### UBITS
  - [Fundamentos de la gestión del talento humano](https://www.coursera.org/learn/fundamentos-de-la-gestion-del-talento-humano) `beginner`
+ - [Herramientas ofimáticas básicas para el trabajo](https://www.coursera.org/learn/herramientas-ofimaticas-basicas-para-el-trabajo) `beginner`
+ - [Innovación en el mundo corporativo](https://www.coursera.org/learn/innovacion-en-el-mundo-corporativo) `beginner`
 ### Universidad de los Andes
  - [Formulación y evaluación de proyectos complejos](https://www.coursera.org/learn/formulacion-evaluacion-proyectos-ingenieria) `intermediate`
 ### Universidad Nacional Autónoma de México
@@ -108,9 +110,11 @@
 5. [Proyecto de Fundamentos Empresariales de Wharton](https://www.coursera.org/learn/wharton-proyecto-final-empresariales)
 ## Business Strategy
 ### Coursera Project Network
+ - [Análisis de Variación con Google Sheets](https://www.coursera.org/learn/analisis-variacion-google-sheets) `beginner`
  - [Creando una presentación con Presentaciones Google](https://www.coursera.org/learn/creando-una-presentacion-con-presentaciones-google) `beginner`
  - [Crear datos de soporte al Cliente con Google Sheets](https://www.coursera.org/learn/crear-datos-soporte-acliente-google-sheets) `beginner`
  - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
+ - [Crear una matriz RACI con Hojas de cálculo Google](https://www.coursera.org/learn/crear-matriz-raci-hojas-calculo-google) `beginner`
  - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
  - [LinkedIn para Principiantes](https://www.coursera.org/learn/linkedin-principiantes) `beginner`
  - [Mejora del Rendimiento Empresarial con Google Forms](https://www.coursera.org/learn/mejora-rendimiento-empresarial-google-forms) `beginner`
@@ -256,6 +260,7 @@
  - [Gestión de las empresas de alimentación y bebidas](https://www.coursera.org/learn/empresas-alimentos-bebidas)
 ## Marketing
 ### Coursera Project Network
+ - [Crear un Kit de Bienvenida para el Cliente con Canva](https://www.coursera.org/learn/kit-bienvenida-canva) `intermediate`
  - [Introducción a CRM con HubSpot](https://www.coursera.org/learn/introduccion-crm-con-hubspot) `beginner`
 ### IE Business School
 #### [Estrategia de marketing Specialization](https://www.coursera.org/specializations/estrategia-de-marketing)
@@ -266,7 +271,6 @@
 5. [Proyecto capstone estrategia de marketing](https://www.coursera.org/learn/capstone-estrategia) `beginner`
 #### [Implementación del Marketing Mix Specialization](https://www.coursera.org/specializations/implementacion-marketing-mix)
 1. [Gestión de marca y producto](https://www.coursera.org/learn/gestion-marca-producto)
-2. [Estrategia de precios](https://www.coursera.org/learn/estrategia-precios)
 3. [Gestión del canal de distribución y retailing](https://www.coursera.org/learn/canal-distribucion)
 4. [Comunicaciones integradas de marketing: Publicidad, Relaciones Públicas, Marketing Digital y más](https://www.coursera.org/learn/comunicaciones-integradas-marketing)
 5. [Implementación del Marketing Mix Proyecto Capstone](https://www.coursera.org/learn/proyecto-capstone-ie)
@@ -319,9 +323,6 @@
  - [Clasificación de imágenes: ¿cómo reconocer el contenido de una imagen?](https://www.coursera.org/learn/clasificacion-imagenes)
  - [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 ## Design and Product
-### Arizona State University, Universidad Nacional Autónoma de México
-#### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
-4. [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final) `intermediate`
 ### IBM
  - [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
 ### Universidad Autónoma Metropolitana
@@ -389,7 +390,6 @@
 ### Universidad Austral
 #### [Aprende a programar con Python Specialization](https://www.coursera.org/specializations/python-espanol)
 1. [Introducción a la programación con Python](https://www.coursera.org/learn/introduccion-python) `beginner`
-2. [Estructuras de datos en Python](https://www.coursera.org/learn/estructura-de-datos-python) `beginner`
 3. [Programación Orientada a Objetos con Python](https://www.coursera.org/learn/programacion-python-objetos) `beginner`
 4. [Manejo de bases de datos con Python](https://www.coursera.org/learn/python-base-de-datos) `beginner`
 ### Universidad de los Andes
@@ -440,14 +440,16 @@
  - [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
  - [Bases de datos y SQL para ciencia de datos](https://www.coursera.org/learn/sql-para-ciencia-de-datos) `beginner`
  - [Ciencia de Datos Aplicada - Curso Capstone](https://www.coursera.org/learn/ciencia-de-datos-aplicada-cuso-capstone) `intermediate`
- - [Conceptos Básicos de Excel para el Análisis de Datos](https://www.coursera.org/learn/conceptos-basicos-de-excel-para-el-analisis-de-datos) `beginner`
  - [Herramientas para la ciencia de datos](https://www.coursera.org/learn/herramientas-para-la-ciencia-de-datos) `beginner`
- - [Introducción al Análisis de Datos](https://www.coursera.org/learn/introduction-al-analisis-de-datos) `beginner`
  - [Metodología de la ciencia de datos](https://www.coursera.org/learn/metodologia-de-la-ciencia-de-datos) `beginner`
  - [Python para Data Science y AI](https://www.coursera.org/learn/python-para-data-science-y-ai) `beginner`
  - [Visualización de Datos con Python](https://www.coursera.org/learn/visualizacion-de-datos-con-python) `intermediate`
- - [Visualización de Datos y Tableros con Excel y Cognos](https://www.coursera.org/learn/visualizacion-de-datos-y-tableros-con-excel-y-cognos) `beginner`
  - [¿Qué es la ciencia de datos?](https://www.coursera.org/learn/que-es-la-ciencia-de-datos) `beginner`
+#### [Analista de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-analista-de-datos-de-ibm)
+1. [Introducción al Análisis de Datos](https://www.coursera.org/learn/introduction-al-analisis-de-datos) `beginner`
+2. [Conceptos Básicos de Excel para el Análisis de Datos](https://www.coursera.org/learn/conceptos-basicos-de-excel-para-el-analisis-de-datos) `beginner`
+3. [Visualización de Datos y Tableros con Excel y Cognos](https://www.coursera.org/learn/visualizacion-de-datos-y-tableros-con-excel-y-cognos) `beginner`
+8. [Proyecto Final de Analítica de Datos](https://www.coursera.org/learn/proyecto-final-de-analitica-de-datos) `intermediate`
 ### Universidad Austral
  - [Excel aplicado a los negocios (Nivel Avanzado)](https://www.coursera.org/learn/excel-aplicado-negocios-avanzado) `intermediate`
  - [Fundamentos de Excel para Negocios](https://www.coursera.org/learn/excel-para-negocios) `beginner`
@@ -485,6 +487,8 @@
 6. [Introducción a la Visión Artificial con Watson y OpenCV](https://www.coursera.org/learn/introduccion-a-la-vision-artificial-con-watson-y-opencv) `beginner`
 #### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
 8. [Aprendizaje Automático con Python](https://www.coursera.org/learn/aprendizaje-automatico-con-python) `intermediate`
+### Universidad Austral
+ - [Introducción al procesamiento de lenguaje natural](https://www.coursera.org/learn/introduccion-al-procesamiento-de-lenguaje-natural) `beginner`
 ## Probability and Statistics
 ### Universidad Austral
  - [Estadística aplicada a los negocios](https://www.coursera.org/learn/estadistica-aplicada-negocios) `beginner`
@@ -577,6 +581,7 @@
  - [Aprendiendo Infraestructura como código con Terraform](https://www.coursera.org/learn/aprendiendo-terraform) `intermediate`
  - [Bases de Datos NoSQL en Azure](https://www.coursera.org/learn/bases-datos-nosql-azure) `beginner`
  - [Bases de Datos SQL en Azure](https://www.coursera.org/learn/bases-datos-sql-azure) `intermediate`
+ - [Crea un app de Machine Learning con Spark, Synapse Analytics](https://www.coursera.org/learn/app-machine-learning-spark-synapse-analytics) `advanced`
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
@@ -591,6 +596,7 @@
  - [Getting Started with Google Kubernetes Engine en Español](https://www.coursera.org/learn/google-kubernetes-engine-es) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Español](https://www.coursera.org/learn/gcp-fundamentals-es) `intermediate`
  - [Managing Change when Moving to Google Cloud en Español](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-es) `beginner`
+ - [Migrating to Google Cloud en Español](https://www.coursera.org/learn/migrating-to-gcp-es) `beginner`
  - [Optimizing Your Google Cloud Platform (GCP) Costs en Español](https://www.coursera.org/learn/gcp-cost-optimization-es) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-es) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-es) `advanced`
@@ -607,6 +613,7 @@
 ## Data Management
 ### Coursera Project Network
  - [Introducción a bases de datos NoSQL con MongoDB](https://www.coursera.org/learn/base-datos-nosql) `beginner`
+ - [Introducción a la aplicación Google Docs](https://www.coursera.org/learn/introduccion-google-docs) `beginner`
  - [Introducción a las bases de datos relacionales y SQL](https://www.coursera.org/learn/base-datos-sql) `beginner`
  - [Introducción a Scala en Big data con Databricks](https://www.coursera.org/learn/scala-big-data) `intermediate`
  - [Mejores prácticas para el procesamiento de datos en Big Data](https://www.coursera.org/learn/mejores-practicas-big-data) `intermediate`
@@ -624,6 +631,7 @@
  - [Trabajando de inicio a fin con GIT](https://www.coursera.org/learn/git-inicio-fin) `beginner`
 ### Crece con Google
 1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
+3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
 4. [Administración de sistemas y servicios de infraestructura de TI](https://www.coursera.org/learn/administracion-de-sistema-y-servicios-de-infraestructura) `beginner`
 # Language Learning
 > - [Learning English](#learning-english)
@@ -682,6 +690,7 @@
 ### UBITS
  - [Accountability y gestión del desempeño](https://www.coursera.org/learn/accountability) `beginner`
  - [Introducción a la inteligencia emocional](https://www.coursera.org/learn/introduccion-a-la-inteligencia-emocional) `beginner`
+ - [Mindfulness para ser más efectivo](https://www.coursera.org/learn/mindfulness-para-ser-mas-efectivo) `beginner`
 ### Universidad Austral
  - [Trabajar para ser feliz](https://www.coursera.org/learn/familia-trabajo-sociedad) `beginner`
 ### Universidad de Chile
@@ -734,6 +743,8 @@
 ### Universidad Nacional Autónoma de México
  - [Control automático: La tecnología invisible](https://www.coursera.org/learn/control-automatico) `beginner`
  - [Cómo autoconstruir tu vivienda. Segunda etapa](https://www.coursera.org/learn/como-autoconstruir-tu-vivienda-segunda-etapa) `beginner`
+### Universitat Autònoma de Barcelona
+ - [Sistemas Digitales: De las puertas lógicas al procesador](https://www.coursera.org/learn/sistemas-digitales)
 ## Environmental Science and Sustainability
 ### Pontificia Universidad Católica de Chile
  - [Análisis de Sistemas de Transporte](https://www.coursera.org/learn/analisis-sistemas-de-transporte)

@@ -683,5 +683,6 @@
  - [Охрана труда и безопасность на производстве](https://www.coursera.org/learn/trud)
  - [Правовое регулирование отношений в Интернете. Российская перспектива](https://www.coursera.org/learn/regulirovaniye-interneta)
  - [Теория права и государства](https://www.coursera.org/learn/tgp)
+ - [Уголовный процесс](https://www.coursera.org/learn/crimproc) `intermediate`
 ### University of Geneva
  - [Политика и управление водными ресурсами](https://www.coursera.org/learn/russian-water-management)
