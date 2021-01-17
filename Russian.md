@@ -270,6 +270,8 @@
 4. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 5. [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt) `advanced`
 ## Software Development
+### E-Learning Development Fund, RUDN University
+ - [Fundamentals of digital management](https://www.coursera.org/learn/fundamentals-of-digital-management) `intermediate`
 ### Moscow Institute of Physics and Technology
  - [Основы проектирования приложений интернета вещей](https://www.coursera.org/learn/proektirovaniya-prilozhenij-interneta-veshchej) `intermediate`
 ### Moscow Institute of Physics and Technology, Mail.Ru Group, ФРОО
@@ -312,6 +314,8 @@
 > - [Machine Learning](#machine-learning)
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
+### Moscow Institute of Physics and Technology
+ - [Анализ и обработка данных в Microsoft Power BI](https://www.coursera.org/learn/microsoft-power-bi) `beginner`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 1. [Математика и Python для анализа данных](https://www.coursera.org/learn/mathematics-and-python) `beginner`

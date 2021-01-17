@@ -195,9 +195,11 @@
 ## Networking
 ### Coursera Project Network
  - [Introdução a Mapas de Relação com Kumu](https://www.coursera.org/learn/intro-kumu) `beginner`
-## Security
 ### Cresça com o Google
 #### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
+2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
+## Security
+### Cresça com o Google
 5. [Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital](https://www.coursera.org/learn/seguranca-de-it) `beginner`
 ## Support and Operations
 ### Cresça com o Google

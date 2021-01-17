@@ -42,6 +42,8 @@
 ### University of Colorado Boulder
  - [Donner un feedback utile](https://www.coursera.org/learn/feedback-fr)
 ## Business Strategy
+### DeepLearning.AI
+ - [L’IA pour tous](https://www.coursera.org/learn/ai-for-everyone-fr) `beginner`
 ### ESSEC Business School
  - [Nouveaux modèles économiques des associations](https://www.coursera.org/learn/nouveaux-modeles-economiques-associations) `beginner`
 ### Google Cloud

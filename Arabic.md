@@ -9,7 +9,6 @@
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
-> - [Entrepreneurship](#entrepreneurship)
 > - [Leadership and Management](#leadership-and-management)
 > - [Marketing](#marketing)
 ## Business Essentials
@@ -39,9 +38,6 @@
 ### University of Virginia
  - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar) `beginner`
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar) `beginner`
-## Entrepreneurship
-### Coursera Project Network
- - [مقدمة الى تطوير المنتجات الجديدة للشركات الصغيرة والمتوسطة](https://www.coursera.org/learn/new-product-dev-sme-arabic) `beginner`
 ## Leadership and Management
 ### BCG, University of Virginia
  - [التحوّل الرقمي](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-ar) `beginner`
@@ -82,6 +78,7 @@
  - [تعرَف على هياكل البيانات في بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/python-data-structures-arabic) `beginner`
  - [تعلم Java و JavaFX من خلال عمل آلة حاسبة](https://www.coursera.org/learn/learn-java-and-javafx-graphical-calculator-arabic) `beginner`
  - [تعلّم أساسيات البرمجة بلغة بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/introduction-to-python-arabic) `beginner`
+ - [تعلّم أساسيات نظام التشغيل لينكس](https://www.coursera.org/learn/intro-to-linux-arabic) `beginner`
  - [لعبة الثعبان عن طريق python:استخدم pygame لتصنع لعبتك الخاصة](https://www.coursera.org/learn/snakegame-python-pygame-arabic) `intermediate`
  - [من خلال التطبيق العملي GitHub و Git تعلّم أساسيات](https://www.coursera.org/learn/introduction-to-git-and-github-arabic) `beginner`
 ### The University of Edinburgh, Universidad ORT Uruguay
@@ -97,8 +94,6 @@
  - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
  - [نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد](https://www.coursera.org/learn/genome-analysis-z-curve-arabic) `intermediate`
-### Duke University
- - [مقاييس الأعمال للشركات التي تعتمد على البيانات](https://www.coursera.org/learn/analytics-business-metrics-ar)
 ### Johns Hopkins University
  - [مجموعة أدوات عالم البيانات](https://www.coursera.org/learn/data-scientists-tools-ar)
 ### University of California San Diego

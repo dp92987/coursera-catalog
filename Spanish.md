@@ -57,8 +57,6 @@
 ### Universitat de Barcelona
  - [Introducción al Arte Sonoro](https://www.coursera.org/learn/introduccion-arte-sonoro) `beginner`
 ## Philosophy
-### Universidad Nacional Autónoma de México
- - [Pensamiento científico](https://www.coursera.org/learn/ciencia)
 ### Universitat Autònoma de Barcelona
  - [Humanidades digitales](https://www.coursera.org/learn/humanidades-digitales) `beginner`
  - [Representaciones culturales de las sexualidades](https://www.coursera.org/learn/representaciones-culturales) `beginner`
@@ -111,13 +109,17 @@
 ## Business Strategy
 ### Coursera Project Network
  - [Análisis de Variación con Google Sheets](https://www.coursera.org/learn/analisis-variacion-google-sheets) `beginner`
+ - [Crea un mapa mental interactivo usando Canva](https://www.coursera.org/learn/crea-mapa-mental-interactivo-canva) `beginner`
+ - [Crea y diseña productos digitales en Canva](https://www.coursera.org/learn/crea-disena-productos-digitales-canva) `intermediate`
  - [Creando una presentación con Presentaciones Google](https://www.coursera.org/learn/creando-una-presentacion-con-presentaciones-google) `beginner`
  - [Crear datos de soporte al Cliente con Google Sheets](https://www.coursera.org/learn/crear-datos-soporte-acliente-google-sheets) `beginner`
  - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
+ - [Crear una cronología de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-cronologia-proyecto-hojas-calculo-google) `beginner`
  - [Crear una matriz RACI con Hojas de cálculo Google](https://www.coursera.org/learn/crear-matriz-raci-hojas-calculo-google) `beginner`
  - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
  - [LinkedIn para Principiantes](https://www.coursera.org/learn/linkedin-principiantes) `beginner`
  - [Mejora del Rendimiento Empresarial con Google Forms](https://www.coursera.org/learn/mejora-rendimiento-empresarial-google-forms) `beginner`
+ - [Use vídeos en sus posts de redes sociales con Canva](https://www.coursera.org/learn/use-videos-posts-redes-sociales-canva) `intermediate`
 ### DeepLearning.AI
  - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es) `beginner`
 ### Google Cloud
@@ -234,6 +236,7 @@
  - [Diseño de Experiencia en Servicios](https://www.coursera.org/learn/diseno-experiencia-servicios) `beginner`
  - [El Abogado del Futuro: Legaltech y la Transformación Digital del Derecho](https://www.coursera.org/learn/legaltech) `beginner`
  - [Estrategia Empresarial](https://www.coursera.org/learn/estrategia-empresarial) `beginner`
+ - [Metodología Scrum](https://www.coursera.org/learn/metodologia-scrum) `beginner`
 ### Universidad de los Andes
  - [Gestión del alcance: el qué de la triple restricción](https://www.coursera.org/learn/gestion-alcance-proyectos) `intermediate`
  - [Liderazgo y gestión de empresas familiares](https://www.coursera.org/learn/liderazgo-en-empresas-familiares) `intermediate`
@@ -271,6 +274,7 @@
 5. [Proyecto capstone estrategia de marketing](https://www.coursera.org/learn/capstone-estrategia) `beginner`
 #### [Implementación del Marketing Mix Specialization](https://www.coursera.org/specializations/implementacion-marketing-mix)
 1. [Gestión de marca y producto](https://www.coursera.org/learn/gestion-marca-producto)
+2. [Estrategia de precios](https://www.coursera.org/learn/estrategia-precios)
 3. [Gestión del canal de distribución y retailing](https://www.coursera.org/learn/canal-distribucion)
 4. [Comunicaciones integradas de marketing: Publicidad, Relaciones Públicas, Marketing Digital y más](https://www.coursera.org/learn/comunicaciones-integradas-marketing)
 5. [Implementación del Marketing Mix Proyecto Capstone](https://www.coursera.org/learn/proyecto-capstone-ie)
@@ -323,6 +327,9 @@
  - [Clasificación de imágenes: ¿cómo reconocer el contenido de una imagen?](https://www.coursera.org/learn/clasificacion-imagenes)
  - [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 ## Design and Product
+### Arizona State University, Universidad Nacional Autónoma de México
+#### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
+4. [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final) `intermediate`
 ### IBM
  - [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
 ### Universidad Autónoma Metropolitana
@@ -390,6 +397,7 @@
 ### Universidad Austral
 #### [Aprende a programar con Python Specialization](https://www.coursera.org/specializations/python-espanol)
 1. [Introducción a la programación con Python](https://www.coursera.org/learn/introduccion-python) `beginner`
+2. [Estructuras de datos en Python](https://www.coursera.org/learn/estructura-de-datos-python) `beginner`
 3. [Programación Orientada a Objetos con Python](https://www.coursera.org/learn/programacion-python-objetos) `beginner`
 4. [Manejo de bases de datos con Python](https://www.coursera.org/learn/python-base-de-datos) `beginner`
 ### Universidad de los Andes
@@ -425,9 +433,7 @@
  - [Introducción a Azure Data Factory para Big Data](https://www.coursera.org/learn/introduccion-azure-data-factory-big-data) `advanced`
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
  - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure) `beginner`
- - [Machine Learning con Pyspark aplicado al campo sanitario](https://www.coursera.org/learn/machine-learning-pyspark-aplicado-campo-sanitario) `advanced`
  - [Machine Learning con Python. Nivel Avanzado](https://www.coursera.org/learn/machine-learning-python-nivel-avanzado) `intermediate`
- - [Machine Learning con Python. Nivel intermedio](https://www.coursera.org/learn/machine-learning-python-nivel-intermedio) `beginner`
  - [Machine Learning con Spark (MLlib) en Databricks](https://www.coursera.org/learn/machine-learning-spark-mllib-databricks) `advanced`
  - [Machine Learning y Regresión con PySpark. Guía paso a paso](https://www.coursera.org/learn/machine-learning-regresion-pyspark) `beginner`
  - [ML y Big Data con PySpark para la retención de clientes](https://www.coursera.org/learn/ml-bigdata-pyspark-retencion-clientes) `advanced`
@@ -579,6 +585,7 @@
 ## Cloud Computing
 ### Coursera Project Network
  - [Aprendiendo Infraestructura como código con Terraform](https://www.coursera.org/learn/aprendiendo-terraform) `intermediate`
+ - [Azure Synapse Analytics: desde el DWH, hasta PowerBI y Spark](https://www.coursera.org/learn/synapse-analytics-dwh-powerbi-spark) `intermediate`
  - [Bases de Datos NoSQL en Azure](https://www.coursera.org/learn/bases-datos-nosql-azure) `beginner`
  - [Bases de Datos SQL en Azure](https://www.coursera.org/learn/bases-datos-sql-azure) `intermediate`
  - [Crea un app de Machine Learning con Spark, Synapse Analytics](https://www.coursera.org/learn/app-machine-learning-spark-synapse-analytics) `advanced`
@@ -760,8 +767,6 @@
  - [Introducción a la geotermia](https://www.coursera.org/learn/geotermia) `beginner`
  - [Las estaciones del año y el clima](https://www.coursera.org/learn/estaciones-clima)
  - [Sistemas agrosilvopastoriles: una alternativa climáticamente inteligente para la ganadería](https://www.coursera.org/learn/sistemas-agrosilvopastoriles) `beginner`
-### Universitat de Barcelona, Fundació Navegació Oceànica Barcelona
- - [Oceanografía: una clave para entender mejor nuestro mundo](https://www.coursera.org/learn/oceanografia)
 ## Mechanical Engineering
 ### Pontificia Universidad Católica de Chile
  - [Equilibrio, ¿por qué se caen las cosas?](https://www.coursera.org/learn/equilibrio) `beginner`
@@ -801,15 +806,12 @@
 ### Universidad Nacional Autónoma de México
  - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios) `beginner`
  - [¿Cómo llegamos aquí? Una historia del poder en México](https://www.coursera.org/learn/historia-de-mexico) `beginner`
-### Universitat Autònoma de Barcelona
- - [Kit básico (para evitar los errores más frecuentes) de finanzas](https://www.coursera.org/learn/finanzas-basicas) `beginner`
 ### École normale supérieure
  - [Transiciones energéticas y ecológicas en los países del Sur](https://www.coursera.org/learn/transiciones-energeticas-y-ecologicas-en-los-paises-del-sur) `intermediate`
 ## Education
 ### IE Business School
  - [Aprendiendo a Aprender](https://www.coursera.org/learn/aprendiendo-a-aprender-ie) `beginner`
 ### Pontificia Universidad Católica de Chile
- - [Formación docente basada en la práctica para desarrollar habilidades del siglo XXI](https://www.coursera.org/learn/formacion-docente-habilidades-siglo-veintiuno)
  - [Hacia una práctica constructivista en el aula](https://www.coursera.org/learn/aulaconstructivista)
  - [Niños y Adolescentes en la cultura audiovisual y digital](https://www.coursera.org/learn/ninosaudiovisualdigital) `beginner`
 ### Tecnológico de Monterrey
