@@ -490,6 +490,7 @@
  - [Математика в тестировании дискретных систем](https://www.coursera.org/learn/math-in-testing-of-discrete-systems)
  - [Теория вероятностей - наука о случайности](https://www.coursera.org/learn/theory-of-chances) `beginner`
 ### National Research University Higher School of Economics
+ - [Введение в гладкие многообразия](https://www.coursera.org/learn/vvedenie-v-gladkie-mnogoobraziya)
  - [Введение в математические методы физики](https://www.coursera.org/learn/vvedenie-v-mat-metody) `intermediate`
  - [Линейная алгебра (Linear Algebra)](https://www.coursera.org/learn/algebra-lineynaya) `beginner`
  - [Теория игр (Game Theory)](https://www.coursera.org/learn/game-theory)
@@ -625,6 +626,8 @@
 ## Economics
 ### Moscow Institute of Physics and Technology
  - [Теория игр](https://www.coursera.org/learn/gametheory) `intermediate`
+### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
+ - [История экономики и экономических учений](https://www.coursera.org/learn/ieeu)
 ### National Research Nuclear University MEPhI
  - [Математические методы и модели в экономике](https://www.coursera.org/learn/mathematical-methods-models-in-economics) `beginner`
 ### National Research Tomsk State University
@@ -633,7 +636,7 @@
  - [Институциональная экономика (Institutional economics)](https://www.coursera.org/learn/institutional-economics) `beginner`
  - [История экономической мысли (History of Economic Thought)](https://www.coursera.org/learn/istoriya-ekonomicheskoy-mysli) `beginner`
  - [Макроэкономика (Macroeconomics)](https://www.coursera.org/learn/makrojekonomika) `beginner`
- - [Неформальная экономика: социальный анализ](https://www.coursera.org/learn/informal-economy-social-analysis)
+ - [Неформальная экономика: социальный анализ](https://www.coursera.org/learn/informal-economy-social-analysis) `beginner`
  - [Основы микроэкономики (Microeconomics Principles)](https://www.coursera.org/learn/mikroekonomika) `beginner`
  - [Теория отраслевых рынков (Industrial Organization)](https://www.coursera.org/learn/otraslevye-rynki) `intermediate`
  - [Финансовые рынки и институты (Financial Markets and Institutions)](https://www.coursera.org/learn/finansovye-rynki)

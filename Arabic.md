@@ -9,6 +9,7 @@
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
+> - [Entrepreneurship](#entrepreneurship)
 > - [Leadership and Management](#leadership-and-management)
 > - [Marketing](#marketing)
 ## Business Essentials
@@ -38,6 +39,9 @@
 ### University of Virginia
  - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar) `beginner`
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar) `beginner`
+## Entrepreneurship
+### Coursera Project Network
+ - [مقدمة الى تطوير المنتجات الجديدة للشركات الصغيرة والمتوسطة](https://www.coursera.org/learn/new-product-dev-sme-arabic) `beginner`
 ## Leadership and Management
 ### BCG, University of Virginia
  - [التحوّل الرقمي](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-ar) `beginner`
@@ -94,6 +98,8 @@
  - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
  - [نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد](https://www.coursera.org/learn/genome-analysis-z-curve-arabic) `intermediate`
+### Duke University
+ - [مقاييس الأعمال للشركات التي تعتمد على البيانات](https://www.coursera.org/learn/analytics-business-metrics-ar)
 ### Johns Hopkins University
  - [مجموعة أدوات عالم البيانات](https://www.coursera.org/learn/data-scientists-tools-ar)
 ### University of California San Diego

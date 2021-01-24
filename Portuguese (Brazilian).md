@@ -140,6 +140,8 @@
  - [Building Resilient Streaming Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp-br) `intermediate`
  - [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br) `intermediate`
 ## Machine Learning
+### Coursera Project Network
+ - [Introdução a Machine Learning em uma Competição do Kaggle](https://www.coursera.org/learn/ml-basics-kaggle-competition-pt-br) `beginner`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-br) `intermediate`
  - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br) `intermediate`

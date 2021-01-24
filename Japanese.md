@@ -64,6 +64,7 @@
  - [Getting Started with Google Kubernetes Engine 日本語版](https://www.coursera.org/learn/google-kubernetes-engine-jp) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure 日本語版](https://www.coursera.org/learn/gcp-fundamentals-jp) `intermediate`
  - [Managing Change when Moving to Google Cloud 日本語版](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-jp) `beginner`
+ - [Migrating to Google Cloud 日本語版](https://www.coursera.org/learn/migrating-to-gcp-jp) `beginner`
  - [Modernizing Data Lakes and Data Warehouses with GCP 日本語版](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-jp) `intermediate`
  - [Optimizing Your Google Cloud Platform (GCP) Costs 日本語版](https://www.coursera.org/learn/gcp-cost-optimization-jp) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process 日本語版](https://www.coursera.org/learn/cloud-infrastructure-design-process-jp) `intermediate`
@@ -77,5 +78,6 @@
 ### Google Cloud
 #### [From Data to Insights with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform-jp)
 1. [Exploring ​and ​Preparing ​your ​Data with BigQuery 日本語版](https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery-jp) `beginner`
+2. [Creating New BigQuery Datasets and Visualizing Insights 日本語版](https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights-jp) `beginner`
 3. [Achieving Advanced Insights with BigQuery 日本語版](https://www.coursera.org/learn/gcp-advanced-insights-bigquery-jp) `beginner`
 4. [Applying Machine Learning to your Data with GCP 日本語版](https://www.coursera.org/learn/data-insights-gcp-apply-ml-jp) `intermediate`
