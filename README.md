@@ -1,4 +1,4 @@
-[![hits](https://hits.deltapapa.io/coursera-catalog.svg)](https://github.com/dp92987/hits-badge)
+[![hits](https://hits.deltapapa.io/github/dp92987/coursera-catalog.svg)](https://hits.deltapapa.io)
 
 # Coursera Catalog
 
