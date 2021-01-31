@@ -15,13 +15,13 @@
 > - [Music and Art](#music-and-art)
 > - [Philosophy](#philosophy)
 ## History
-### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
- - [Диаспоры в глобальной политике](https://www.coursera.org/learn/diaspori-v-globalnoi-politike) `beginner`
-### National Research University Higher School of Economics
+### HSE University
  - [История и теория медиа (History and theory of media)](https://www.coursera.org/learn/teoriya-smi) `beginner`
  - [История международных отношений](https://www.coursera.org/learn/int-relations-history) `beginner`
  - [Речевой этикет: вежливость и коммуникативные стратегии](https://www.coursera.org/learn/rechevoj-etiket) `beginner`
  - [Санкт-Петербург – столица империи Петра I](https://www.coursera.org/learn/sankt-peterburg-petr) `beginner`
+### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
+ - [Диаспоры в глобальной политике](https://www.coursera.org/learn/diaspori-v-globalnoi-politike) `beginner`
 ### Novosibirsk State University 
  - [Археология. О чём говорят древности?](https://www.coursera.org/learn/archaeology) `beginner`
 ### Saint Petersburg State University
@@ -46,9 +46,7 @@
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 1. [Художественное проектирование сайта](https://www.coursera.org/learn/art-site-engineering) `beginner`
 ## Philosophy
-### National Research Tomsk State University
- - [Мой друг - робот: введение в социальную робототехнику / My Friend is a Robot: Introduction to Social Robotics](https://www.coursera.org/learn/moy-drug-robot) `beginner`
-### National Research University Higher School of Economics
+### HSE University
  - [Основы философии: о чем спорят философы сегодня](https://www.coursera.org/learn/osnovy-filosofii) `beginner`
  - [Семантика (Московская семантическая школа и близкие теории)](https://www.coursera.org/learn/moscow-semantic-school)
  - [Философия культуры (Philosophy of Culture)](https://www.coursera.org/learn/filosofiya-kultury) `beginner`
@@ -125,18 +123,7 @@
  - [Правовое регулирование налога на прибыль в Российской Федерации](https://www.coursera.org/learn/pravovoe-regulirovanie-naloga-na-pribyl) `beginner`
 1. [«Стартап: как вырасти в успешный бизнес»](https://www.coursera.org/learn/startup-spbu)
 ## Finance
-### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
- - [Государственное регулирование финансовых рынков на современном этапе](https://www.coursera.org/learn/gosudarstve-regulirovaniye-finansovykh-rynkov)
- - [Налоги и налогообложение: специальные налоговые режимы](https://www.coursera.org/learn/specialnye-nalogovye-rezhimy) `beginner`
- - [Пути выхода на фондовый рынок для частных инвесторов сегмента Mass Retail](https://www.coursera.org/learn/vyhoda-na-fondovyj-rynok-mass-retail) `beginner`
- - [Цифровые технологии в международных финансах](https://www.coursera.org/learn/cifrovye-tekhnologii-v-mezhdunarodnyh-finansah) `beginner`
-### National Research Nuclear University MEPhI
- - [Коммерциализация технологий в промышленном комплексе](https://www.coursera.org/learn/commercialization-of-technology) `beginner`
-### National Research Tomsk State University
- - [Целевые капиталы - территория финансовой стабильности в некоммерческом секторе](https://www.coursera.org/learn/tselevyye-kapitaly) `beginner`
-### National Research Tomsk State University, Финансовый университет при Правительстве Российской Федерации
- - [Вводная в блокчейн](https://www.coursera.org/learn/blockchain) `beginner`
-### National Research University Higher School of Economics
+### HSE University
  - [Основы корпоративных финансов (Fundamentals of Corporate Finance)](https://www.coursera.org/learn/osnovy-korporativnykh-finansov) `beginner`
  - [Ценные бумаги: правовое регулирование](https://www.coursera.org/learn/cennye-bumagi-pravovoe-regulirovanie)
 #### [Корпоративные финансы и стоимость компании Specialization](https://www.coursera.org/specializations/korporativnyye-finansy)
@@ -153,11 +140,22 @@
 4. [Портфельные инвестиции: активные и пассивные стратегии](https://www.coursera.org/learn/portfelnyye-investitsii)
 5. [Инфраструктура рынка, методы и технологии инвестирования](https://www.coursera.org/learn/infrastruktura-rynka)
 6. [Итоговый проект специализации "Финансовые инструменты для частного инвестора"](https://www.coursera.org/learn/financial-instruments-capstone)
+### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
+ - [Государственное регулирование финансовых рынков на современном этапе](https://www.coursera.org/learn/gosudarstve-regulirovaniye-finansovykh-rynkov)
+ - [Налоги и налогообложение: специальные налоговые режимы](https://www.coursera.org/learn/specialnye-nalogovye-rezhimy) `beginner`
+ - [Пути выхода на фондовый рынок для частных инвесторов сегмента Mass Retail](https://www.coursera.org/learn/vyhoda-na-fondovyj-rynok-mass-retail) `beginner`
+ - [Цифровые технологии в международных финансах](https://www.coursera.org/learn/cifrovye-tekhnologii-v-mezhdunarodnyh-finansah) `beginner`
+### National Research Nuclear University MEPhI
+ - [Коммерциализация технологий в промышленном комплексе](https://www.coursera.org/learn/commercialization-of-technology) `beginner`
+### National Research Tomsk State University
+ - [Целевые капиталы - территория финансовой стабильности в некоммерческом секторе](https://www.coursera.org/learn/tselevyye-kapitaly) `beginner`
+### National Research Tomsk State University, Финансовый университет при Правительстве Российской Федерации
+ - [Вводная в блокчейн](https://www.coursera.org/learn/blockchain) `beginner`
 ### Saint Petersburg State University
  - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
  - [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
  - [Финансовая грамота](https://www.coursera.org/learn/finlit1)
-### Sberbank Corporate University
+### SberUniversity
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
  - [Финансы компаний: взгляд инвестора и кредитора](https://www.coursera.org/learn/finansy-companiy) `beginner`
@@ -190,6 +188,12 @@
 ### University of Toronto
  - [Стратегии коммуникации в виртуальную эпоху](https://www.coursera.org/learn/communication-strategies-virtual-age-ru) `beginner`
 ## Marketing
+### HSE University
+#### [Основы Digital Маркетинга Specialization](https://www.coursera.org/specializations/fundamentals-digital-marketing)
+1. [Маркетинговая стратегия в digital среде (Digital marketing strategy)](https://www.coursera.org/learn/digital-marketing-strategy) `intermediate`
+2. [Контекстная реклама. Google AdWords](https://www.coursera.org/learn/kontextnaya-reklama-google-adwords) `intermediate`
+3. [Работа с клиентской базой и входящий маркетинг](https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing) `intermediate`
+4. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
 ### IMBA)
  - [Интернет-маркетинг. Лидогенерация (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/imba-internet-marketing-lead-generation) `beginner`
 ### Moscow Institute of Physics and Technology
@@ -204,12 +208,6 @@
 1. [Основы SMM: тренды, аудитории, платформы](https://www.coursera.org/learn/tsu-smm-osnovy) `beginner`
 2. [Социальные медиа: маркетинговые инструменты, сервисы и SMM-активности](https://www.coursera.org/learn/tsu-sotsialnie-media) `beginner`
 3. [SMM-кампания: цели, стратегия, алгоритмы и маркетинговый потенциал](https://www.coursera.org/learn/tsu-smm-campaniya) `beginner`
-### National Research University Higher School of Economics
-#### [Основы Digital Маркетинга Specialization](https://www.coursera.org/specializations/fundamentals-digital-marketing)
-1. [Маркетинговая стратегия в digital среде (Digital marketing strategy)](https://www.coursera.org/learn/digital-marketing-strategy) `intermediate`
-2. [Контекстная реклама. Google AdWords](https://www.coursera.org/learn/kontextnaya-reklama-google-adwords) `intermediate`
-3. [Работа с клиентской базой и входящий маркетинг](https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing) `intermediate`
-4. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Маркетинг. Часть 1. Основные категории, принципы и подходы](https://www.coursera.org/learn/marketing-printsipy) `beginner`
  - [Маркетинг. Часть 2. Инструментарий маркетинга](https://www.coursera.org/learn/marketing-instrumentarij) `intermediate`
@@ -224,34 +222,33 @@
 > - [Mobile and Web Development](#mobile-and-web-development)
 > - [Software Development](#software-development)
 ## Algorithms
-### National Research Tomsk State University, Samara University
- - [Спортивное программирование](https://www.coursera.org/learn/sportivnoe-programmirovanie) `beginner`
-### National Research University Higher School of Economics
+### HSE University
  - [Алгоритмизация вычислений (Algorithmic computation)](https://www.coursera.org/learn/algoritmizacija-vychislenij) `beginner`
  - [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) `beginner`
+### National Research Tomsk State University, Samara University
+ - [Спортивное программирование](https://www.coursera.org/learn/sportivnoe-programmirovanie) `beginner`
 ### Saint Petersburg State University
  - [Квантовые вычисления (Quantum computing)](https://www.coursera.org/learn/kvantovyye-vychisleniya)
 ## Computer Security and Networks
+### HSE University
+ - [Менеджмент информационной безопасности](https://www.coursera.org/learn/management-informacionnoi-bezopasnosti) `intermediate`
+ - [Методы и средства защиты информации](https://www.coursera.org/learn/metody-i-sredstva-zashity-informacii) `beginner`
 ### Moscow Institute of Physics and Technology, ФРОО
  - [Введение в технологию блокчейн](https://www.coursera.org/learn/introduction-to-blockchain) `intermediate`
 ### National Research Tomsk State University
  - [Сетевое администрирование: от теории к практике](https://www.coursera.org/learn/network-administration) `intermediate`
 ### National Research Tomsk State University, E-Learning Development Fund
  - [Введение в искусственный интеллект](https://www.coursera.org/learn/vvedenie-v-iskusstvennyi-intellekt) `beginner`
-### National Research University Higher School of Economics
- - [Менеджмент информационной безопасности](https://www.coursera.org/learn/management-informacionnoi-bezopasnosti) `intermediate`
- - [Методы и средства защиты информации](https://www.coursera.org/learn/metody-i-sredstva-zashity-informacii) `beginner`
 ## Design and Product
+### HSE University
+ - [Документы и презентации в LaTeX (Introduction to LaTeX)](https://www.coursera.org/learn/latex)
 ### National Research Tomsk State University
  - [3D-печать для всех и каждого](https://www.coursera.org/learn/3d-printing)
-### National Research University Higher School of Economics
- - [Документы и презентации в LaTeX (Introduction to LaTeX)](https://www.coursera.org/learn/latex)
 ### Peter the Great St. Petersburg Polytechnic University
  - [Векторная графика. Adobe Illustrator CC](https://www.coursera.org/learn/adobe-illustrator-cc) `beginner`
  - [Растровая графика. Adobe Photoshop CC](https://www.coursera.org/learn/rastrovaya-grafika-adobe-photoshop) `beginner`
 ### Saint Petersburg State University
  - [Технология аэрофотосъемки с использованием БЛА](https://www.coursera.org/learn/bla)
- - [Фотограмметрическая обработка материалов аэрофотосъемки с БПЛА](https://www.coursera.org/learn/fotogrammetricheskaya-obrabotka-bpla) `intermediate`
 ## Mobile and Web Development
 ### Moscow Institute of Physics and Technology, e-legion, ФРОО
 #### [Android-разработка: основы, многопоточность, архитектура Specialization](https://www.coursera.org/specializations/android-developer)
@@ -272,6 +269,10 @@
 ## Software Development
 ### E-Learning Development Fund, RUDN University
  - [Fundamentals of digital management](https://www.coursera.org/learn/fundamentals-of-digital-management) `intermediate`
+### HSE University
+ - [Python как иностранный](https://www.coursera.org/learn/python-kak-inostrannyj) `beginner`
+#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
+3. [Проектирование и реализация систем машинного обучения](https://www.coursera.org/learn/machine-learning-design) `intermediate`
 ### Moscow Institute of Physics and Technology
  - [Основы проектирования приложений интернета вещей](https://www.coursera.org/learn/proektirovaniya-prilozhenij-interneta-veshchej) `intermediate`
 ### Moscow Institute of Physics and Technology, Mail.Ru Group, ФРОО
@@ -294,15 +295,10 @@
 1. [Разработка корпоративных систем. Часть 1. Модели жизненного цикла](https://www.coursera.org/learn/razrabotka-korporativnih-sistem-modeli-jiznennogo-cikla)
 2. [Разработка корпоративных систем. Часть 2. Строгие методологии разработки](https://www.coursera.org/learn/strogie-metodologii-razrabotki)
 3. [Разработка корпоративных систем. Часть 3. Гибкие методологии разработки](https://www.coursera.org/learn/gibkie-metodologii-razrabotki)
-4. [Модели антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem)
 5. [Методологии антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/korporativnye-antikrizisnye-methodology)
 7. [ИТ-кризисология. Модернизация системы автоматизации управления воздушным движением](https://www.coursera.org/learn/project-it-crisis-management)
 ### National Research Tomsk State University
  - [Введение в параллельное программирование с использованием OpenMP и MPI](https://www.coursera.org/learn/parallelnoye-programmirovaniye)
-### National Research University Higher School of Economics
- - [Python как иностранный](https://www.coursera.org/learn/python-kak-inostrannyj) `beginner`
-#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
-3. [Проектирование и реализация систем машинного обучения](https://www.coursera.org/learn/machine-learning-design) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Введение в язык Котлин](https://www.coursera.org/learn/vvedenie-v-yazyk-kotlin) `beginner`
  - [Математическая логика. Политехнический взгляд](https://www.coursera.org/learn/matematicheskaya-logika-politekhnicheskiy-vzglyad) `beginner`
@@ -314,6 +310,10 @@
 > - [Machine Learning](#machine-learning)
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
+### HSE University
+ - [Инструментальная фонетика: компьютерные методы сбора и анализа данных](https://www.coursera.org/learn/instrumental-phonetics)
+#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
+1. [Обработка больших данных](https://www.coursera.org/learn/big-data-processing) `intermediate`
 ### Moscow Institute of Physics and Technology
  - [Анализ и обработка данных в Microsoft Power BI](https://www.coursera.org/learn/microsoft-power-bi) `beginner`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
@@ -325,10 +325,6 @@
 ### Moscow Institute of Physics and Technology, ФРОО, Mail.Ru Group
 #### [Программирование на Python Specialization](https://www.coursera.org/specializations/programming-in-python)
 4. [Python для анализа данных](https://www.coursera.org/learn/python-for-data-science) `intermediate`
-### National Research University Higher School of Economics
- - [Инструментальная фонетика: компьютерные методы сбора и анализа данных](https://www.coursera.org/learn/instrumental-phonetics)
-#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
-1. [Обработка больших данных](https://www.coursera.org/learn/big-data-processing) `intermediate`
 ### Novosibirsk State University 
 #### [Анализ данных Specialization](https://www.coursera.org/specializations/analiz-dannykh)
 1. [Введение в данные](https://www.coursera.org/learn/vvedeniye-dannyye) `intermediate`
@@ -343,33 +339,33 @@
 ## Machine Learning
 ### E-Learning Development Fund
  - [Машинное обучение для руководителей](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley) `beginner`
+### HSE University
+#### [ Машинное обучение: от статистики до нейросетей Specialization](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)
+1. [Основы машинного обучения](https://www.coursera.org/learn/machine-learning-foundations) `intermediate`
+2. [Продвинутые методы машинного обучения](https://www.coursera.org/learn/advanced-machine-learning-methods) `intermediate`
+#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
+2. [Машинное обучение на больших данных](https://www.coursera.org/learn/machine-learning-on-big-data) `intermediate`
+### HSE University, Yandex School of Data Analysis
+ - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 2. [Обучение на размеченных данных](https://www.coursera.org/learn/supervised-learning) `intermediate`
 3. [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Машинное обучение и большие данные](https://www.coursera.org/learn/machine-learning-and-big-data) `beginner`
-### National Research University Higher School of Economics
-#### [ Машинное обучение: от статистики до нейросетей Specialization](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)
-1. [Основы машинного обучения](https://www.coursera.org/learn/machine-learning-foundations) `intermediate`
-2. [Продвинутые методы машинного обучения](https://www.coursera.org/learn/advanced-machine-learning-methods) `intermediate`
-#### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
-2. [Машинное обучение на больших данных](https://www.coursera.org/learn/machine-learning-on-big-data) `intermediate`
-### National Research University Higher School of Economics, Yandex School of Data Analysis
- - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
-### Sberbank Corporate University
+### SberUniversity
  - [Машинное обучение в финансах](https://www.coursera.org/learn/machinnoe-obuchenie-v-finansah) `intermediate`
 ## Probability and Statistics
-### National Research Tomsk State University
- - [Статистические методы в гуманитарных исследованиях](https://www.coursera.org/learn/statistics-for-humanities) `intermediate`
-### National Research Tomsk State University, E-Learning Development Fund
- - [Методология научных исследований и котики](https://www.coursera.org/learn/metodologiya-nauchnyh-issledovanij-kotiki) `beginner`
-### National Research University Higher School of Economics
+### HSE University
  - [Введение в теорию построения процедур множественной проверки гипотез](https://www.coursera.org/learn/multiple-hypotheses-testing) `intermediate`
 #### [ Машинное обучение: от статистики до нейросетей Specialization](https://www.coursera.org/specializations/machine-learning-from-statistics-to-neural-networks)
 3. [Сбор и анализ данных в Python](https://www.coursera.org/learn/data-collection-and-analysis-in-python) `intermediate`
 4. [Статистические методы анализа данных](https://www.coursera.org/learn/data-analysis-statistical-methods) `intermediate`
 5. [Математическая статистика и А/В тестирование](https://www.coursera.org/learn/mathematical-statistics-and-ab-testing) `intermediate`
+### National Research Tomsk State University
+ - [Статистические методы в гуманитарных исследованиях](https://www.coursera.org/learn/statistics-for-humanities) `intermediate`
+### National Research Tomsk State University, E-Learning Development Fund
+ - [Методология научных исследований и котики](https://www.coursera.org/learn/metodologiya-nauchnyh-issledovanij-kotiki) `beginner`
 ### Saint Petersburg State University
 #### [Просто о статистике (с использованием R) Specialization](https://www.coursera.org/specializations/prosto-o-statistike)
 1. [Знакомство с R и базовая статистика](https://www.coursera.org/learn/znakomstvo-r-bazovaya-statistika) `beginner`
@@ -456,6 +452,8 @@
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages
+### HSE University
+ - [Преподавание иностранного языка в вузе: современные подходы и их практическая реализация](https://www.coursera.org/learn/teaching-foreign-language)
 ### National Research Tomsk State University
  - [Активные процессы в современном русском языке](https://www.coursera.org/learn/aktivnyye-protsessy-sovremennom-russkom-yazyke) `intermediate`
  - [Взаимодействие языков и культур: сохраняем и расширяем свою идентичность (на примере изучения татарского языка как родного и иностранного)](https://www.coursera.org/learn/tatar-language-and-culture) `beginner`
@@ -463,8 +461,6 @@
  - [Русский язык как инструмент успешной коммуникации](https://www.coursera.org/learn/russian)
  - [Читаем русскую классику вместе.  М. Булгаков «Мастер и Маргарита»](https://www.coursera.org/learn/bulgakov-master-i-margarita)
  - [Я говорю по-русски/ I speak Russian](https://www.coursera.org/learn/ya-govoryu-po-russki) `intermediate`
-### National Research University Higher School of Economics
- - [Преподавание иностранного языка в вузе: современные подходы и их практическая реализация](https://www.coursera.org/learn/teaching-foreign-language)
 ### Saint Petersburg State University
  - [Китайский для начинающих (Chinese for beginners)](https://www.coursera.org/learn/kitayskiy-dlya-nachinayushchikh) `beginner`
 #### [Русский как иностранный Specialization](https://www.coursera.org/specializations/russkiy-kak-inostrannyy)
@@ -475,6 +471,16 @@
 # Math and Logic
 > - [Math and Logic](#math-and-logic)
 ## Math and Logic
+### HSE University
+ - [Введение в гладкие многообразия](https://www.coursera.org/learn/vvedenie-v-gladkie-mnogoobraziya)
+ - [Введение в математические методы физики](https://www.coursera.org/learn/vvedenie-v-mat-metody) `intermediate`
+ - [Линейная алгебра (Linear Algebra)](https://www.coursera.org/learn/algebra-lineynaya) `beginner`
+ - [Теория игр (Game Theory)](https://www.coursera.org/learn/game-theory)
+#### [Математика для анализа данных Specialization](https://www.coursera.org/specializations/maths-for-data-analysis)
+1. [Дискретная математика: подсчеты, графы, случайные блуждания](https://www.coursera.org/learn/discrete-math) `beginner`
+2. [Линейная алгебра: от идеи к формуле](https://www.coursera.org/learn/lineinaya-algebra) `beginner`
+3. [Математический анализ для работы с данными](https://www.coursera.org/learn/calculus-for-data-analysis) `beginner`
+4. [Теория вероятностей и ее приложения](https://www.coursera.org/learn/prob-theory) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Комбинаторика для начинающих](https://www.coursera.org/learn/kombinatorika-dlya-nachinayushchikh)
  - [Математика для всех](https://www.coursera.org/learn/matematika-dlya-vseh) `beginner`
@@ -489,16 +495,6 @@
 ### National Research Tomsk State University
  - [Математика в тестировании дискретных систем](https://www.coursera.org/learn/math-in-testing-of-discrete-systems)
  - [Теория вероятностей - наука о случайности](https://www.coursera.org/learn/theory-of-chances) `beginner`
-### National Research University Higher School of Economics
- - [Введение в гладкие многообразия](https://www.coursera.org/learn/vvedenie-v-gladkie-mnogoobraziya)
- - [Введение в математические методы физики](https://www.coursera.org/learn/vvedenie-v-mat-metody) `intermediate`
- - [Линейная алгебра (Linear Algebra)](https://www.coursera.org/learn/algebra-lineynaya) `beginner`
- - [Теория игр (Game Theory)](https://www.coursera.org/learn/game-theory)
-#### [Математика для анализа данных Specialization](https://www.coursera.org/specializations/maths-for-data-analysis)
-1. [Дискретная математика: подсчеты, графы, случайные блуждания](https://www.coursera.org/learn/discrete-math) `beginner`
-2. [Линейная алгебра: от идеи к формуле](https://www.coursera.org/learn/lineinaya-algebra) `beginner`
-3. [Математический анализ для работы с данными](https://www.coursera.org/learn/mathematics-for-big-data) `beginner`
-4. [Теория вероятностей и ее приложения](https://www.coursera.org/learn/prob-theory) `beginner`
 ### Novosibirsk State University 
  - [Алгебраическая теория графов](https://www.coursera.org/learn/algebraicheskaya-teoriya-grafov) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
@@ -513,6 +509,9 @@
 ### E-Learning Development Fund
  - [Дизайн презентаций](https://www.coursera.org/learn/presentation-designs)
  - [Основы управления личными финансами](https://www.coursera.org/learn/osnovy-upravleniya-lichnymi-finansami) `beginner`
+### HSE University
+ - [Как найти свою первую работу? Практический курс для студентов вузов](https://www.coursera.org/learn/findjob) `beginner`
+ - [Учимся учиться. Как преуспеть в школе, не тратя всё время на учёбу](https://www.coursera.org/learn/learnhow) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Предприми себя!](https://www.coursera.org/learn/nudge-yourself) `beginner`
  - [Теория и практика создания онлайн-курсов](https://www.coursera.org/learn/howtomooc) `beginner`
@@ -527,9 +526,6 @@
  - [Психология признания и самозанятости](https://www.coursera.org/learn/psihologiya-priznaniya-i-samozanyatosti) `beginner`
  - [Эксподизайн: проектирование музейной экспозиции в диалогах дизайнера и музеолога](https://www.coursera.org/learn/ekspodizayn) `beginner`
  - [Этикет на все случаи жизни](https://www.coursera.org/learn/etiket) `beginner`
-### National Research University Higher School of Economics
- - [Как найти свою первую работу? Практический курс для студентов вузов](https://www.coursera.org/learn/findjob) `beginner`
- - [Учимся учиться. Как преуспеть в школе, не тратя всё время на учёбу](https://www.coursera.org/learn/learnhow) `beginner`
 ### Novosibirsk State University 
  - [Принципы управления людьми и проектами](https://www.coursera.org/learn/human-project-management) `beginner`
 ### Saint Petersburg State University
@@ -538,7 +534,7 @@
 3. [Изображение натюрмортов разной степени сложности](https://www.coursera.org/learn/still-life-painting)
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 2. [Инструменты позитивной психологии в менеджменте. Курс для руководителей](https://www.coursera.org/learn/instrumenty-pozitivnoy-psikhologii-menedzhmente) `beginner`
-### Sberbank Corporate University
+### SberUniversity
  - [Развитие карьеры в 50+](https://www.coursera.org/learn/razvitiya-karyery-pyatdesyat) `beginner`
 # Physical Science and Engineering
 > - [Chemistry](#chemistry)
@@ -551,7 +547,6 @@
 ### Novosibirsk State University 
  - [Неорганическая химия](https://www.coursera.org/learn/neorganicheskayakhimiya) `intermediate`
  - [Органическая химия](https://www.coursera.org/learn/organicheskaya-khimiya) `intermediate`
- - [Физическая химия](https://www.coursera.org/learn/fizicheskaya-khimiya) `intermediate`
 ### Saint Petersburg State University
  - [Генетика развития растений](https://www.coursera.org/learn/plantgen) `advanced`
  - [Неорганическая химия: Введение в химию элементов (Inorganic chemistry: Introduction to chemistry of the elements)](https://www.coursera.org/learn/neorganicheskaya-khimiya) `intermediate`
@@ -584,6 +579,8 @@
 ### Saint Petersburg State University
  - [Введение в механику деформируемого твёрдого тела (Introduction to the mechanics of deformable solids)](https://www.coursera.org/learn/mekhanika-tvordogo-tela) `advanced`
 ## Physics and Astronomy
+### HSE University
+ - [Теория функций комплексного переменного](https://www.coursera.org/learn/complex-variable) `intermediate`
 ### Moscow Institute of Physics and Technology
  - [Переходные процессы в электрических цепях](https://www.coursera.org/learn/electrical-circuits)
  - [Электростатика и магнитостатика](https://www.coursera.org/learn/electrostatica)
@@ -602,8 +599,6 @@
 4. [Ядерное нераспространение: правовые аспекты, основы национальных гарантий](https://www.coursera.org/learn/nuclear-non-proliferation) `beginner`
 ### National Research Nuclear University MEPhI, Joint Institute for Nuclear Research
  - [Ускорительный комплекс NICA — проект класса мегасайенс](https://www.coursera.org/learn/megascience-project-nica) `intermediate`
-### National Research University Higher School of Economics
- - [Теория функций комплексного переменного](https://www.coursera.org/learn/complex-variable) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Астрофизика: от звезд до границ Вселенной](https://www.coursera.org/learn/astrofizika)
 ## Research Methods
@@ -624,15 +619,7 @@
 > - [Governance and Society](#governance-and-society)
 > - [Law](#law)
 ## Economics
-### Moscow Institute of Physics and Technology
- - [Теория игр](https://www.coursera.org/learn/gametheory) `intermediate`
-### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
- - [История экономики и экономических учений](https://www.coursera.org/learn/ieeu)
-### National Research Nuclear University MEPhI
- - [Математические методы и модели в экономике](https://www.coursera.org/learn/mathematical-methods-models-in-economics) `beginner`
-### National Research Tomsk State University
- - [«Ловцы человеков» или социальные сети в медиа, бизнесе, рекрутинге и образовании](https://www.coursera.org/learn/sotsialnaya-set)
-### National Research University Higher School of Economics
+### HSE University
  - [Институциональная экономика (Institutional economics)](https://www.coursera.org/learn/institutional-economics) `beginner`
  - [История экономической мысли (History of Economic Thought)](https://www.coursera.org/learn/istoriya-ekonomicheskoy-mysli) `beginner`
  - [Макроэкономика (Macroeconomics)](https://www.coursera.org/learn/makrojekonomika) `beginner`
@@ -643,23 +630,37 @@
  - [Эконометрика (Econometrics)](https://www.coursera.org/learn/ekonometrika)
  - [Экономика для неэкономистов (Economics for non-economists)](https://www.coursera.org/learn/ekonomika-dlya-neekonomistov) `beginner`
  - [Экономическая социология](https://www.coursera.org/learn/ekonomicheskaya-sociologiya)
+### Moscow Institute of Physics and Technology
+ - [Теория игр](https://www.coursera.org/learn/gametheory) `intermediate`
+### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
+ - [История экономики и экономических учений](https://www.coursera.org/learn/ieeu)
+### National Research Nuclear University MEPhI
+ - [Математические методы и модели в экономике](https://www.coursera.org/learn/mathematical-methods-models-in-economics) `beginner`
+### National Research Tomsk State University
+ - [«Ловцы человеков» или социальные сети в медиа, бизнесе, рекрутинге и образовании](https://www.coursera.org/learn/sotsialnaya-set)
 ### Saint Petersburg State University
  - [Международное трудовое право](https://www.coursera.org/learn/int-lab-law-ru)
  - [Современные финансовые технологии](https://www.coursera.org/learn/financetech)
  - [Страховое дело](https://www.coursera.org/learn/insurance)
  - [Управление брендами в цифровой экономике](https://www.coursera.org/learn/digitbrand)
 ## Education
+### HSE University
+ - [Авторские школы](https://www.coursera.org/learn/authorschools) `beginner`
+ - [Организационные практики и инструменты в работе лидера образовательной организации](https://www.coursera.org/learn/organizational-practices-and-instruments) `intermediate`
+ - [Умная аналитика в управлении образованием](https://www.coursera.org/learn/smart-analytics-education) `intermediate`
 ### National Research Nuclear University MEPhI
  - [Научные тексты — учимся писать на русском и английском](https://www.coursera.org/learn/naychnie-teksti) `beginner`
 ### National Research Tomsk State University
  - [Открытые образовательные ресурсы:шведский стол преподавателя](https://www.coursera.org/learn/open-educational-resources) `beginner`
 ### National Research Tomsk State University, Samara University
  - [Как читать фотографию](https://www.coursera.org/learn/kak-chitat-fotografiyu) `intermediate`
-### National Research University Higher School of Economics
- - [Авторские школы](https://www.coursera.org/learn/authorschools) `beginner`
- - [Организационные практики и инструменты в работе лидера образовательной организации](https://www.coursera.org/learn/organizational-practices-and-instruments) `intermediate`
- - [Умная аналитика в управлении образованием](https://www.coursera.org/learn/smart-analytics-education) `intermediate`
 ## Governance and Society
+### HSE University
+ - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`
+ - [Общая социологическая теория](https://www.coursera.org/learn/soc-theory) `beginner`
+ - [Психология межгрупповых отношений](https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii)
+ - [Социология медиа](https://www.coursera.org/learn/sociologiya-media) `beginner`
+ - [Сравнительная политика (Comparative Politics)](https://www.coursera.org/learn/politika-sravnitelnaja)
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [КПЗС Часть 1](https://www.coursera.org/learn/kpzs1)
  - [КПЗС Часть 2](https://www.coursera.org/learn/kpzs2)
@@ -667,22 +668,14 @@
  - [Политическая география](https://www.coursera.org/learn/politicheskaya-geografiya) `beginner`
 ### National Research Nuclear University MEPhI
  - [Теория и практика эффективной коммуникации](https://www.coursera.org/learn/effective-communication-in-the-work-environment) `beginner`
-### National Research University Higher School of Economics
- - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`
- - [Общая социологическая теория](https://www.coursera.org/learn/soc-theory) `beginner`
- - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
- - [Психология межгрупповых отношений](https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii)
- - [Социология медиа](https://www.coursera.org/learn/sociologiya-media) `beginner`
- - [Сравнительная политика (Comparative Politics)](https://www.coursera.org/learn/politika-sravnitelnaja)
 ### Saint Petersburg State University
  - [Введение в гендерную социологию (Introduction to the Sociology of Gender)](https://www.coursera.org/learn/vvedeniye-gendernuyu-sotsiologiyu) `beginner`
 ## Law
+### HSE University
+ - [Корпоративное право для не-юристов](https://www.coursera.org/learn/corporate-law)
+ - [Юридическое оформление инвестиционных идей](https://www.coursera.org/learn/law-invest-ideas)
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Международные финансы](https://www.coursera.org/learn/mezhdunarodnyye-finansy) `beginner`
-### National Research University Higher School of Economics
- - [Корпоративное право для не-юристов](https://www.coursera.org/learn/corporate-law)
- - [Российское предпринимательское право](https://www.coursera.org/learn/rus-business-law) `intermediate`
- - [Юридическое оформление инвестиционных идей](https://www.coursera.org/learn/law-invest-ideas)
 ### Saint Petersburg State University
  - [Индустрия компьютерных игр: ключевые правовые проблемы](https://www.coursera.org/learn/gamind)
  - [Налоговое право (Tax law)](https://www.coursera.org/learn/nalogovoye-pravo) `intermediate`

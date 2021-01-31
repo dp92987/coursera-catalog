@@ -5,7 +5,6 @@
  - [Physical Science and Engineering](#physical-science-and-engineering)
 # Business
 > - [Business Strategy](#business-strategy)
-> - [Finance](#finance)
 > - [Leadership and Management](#leadership-and-management)
 ## Business Strategy
 ### DeepLearning.AI
@@ -13,9 +12,6 @@
 ### Google Cloud
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
  - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`
-## Finance
-### University of Zurich
- - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
 ## Leadership and Management
 ### University of Toronto
  - [Kommunikationsstrategien für ein virtuelles Zeitalter](https://www.coursera.org/learn/communication-strategies-virtual-age-de) `beginner`

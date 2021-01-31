@@ -18,13 +18,11 @@
 ### Shanghai Jiao Tong University, 上海中医药大学
  - [杏林探宝——认知中药](https://www.coursera.org/learn/zhong-yao-zhi-shi)
 ### Yale University
- - [Thomas Berry的世界观：地球社区的繁荣 (The Worldview of Thomas Berry: The Flourishing of the Earth Community)](https://www.coursera.org/learn/diqiu-fanrong)
  - [宇宙之旅：展现生命 (Journey of the Universe: The Unfolding of Life)](https://www.coursera.org/learn/yuzhou-zhi-lu)
 ## Music and Art
 ### Fudan University
  - [微影人的自我修养](https://www.coursera.org/learn/wei-dian-ying)
 #### [微电影创作：从观念、思维到制作 Specialization](https://www.coursera.org/specializations/wei-dian-ying)
-1. [导演思维：微影人的自我修养](https://www.coursera.org/learn/daoyan-siwei-weiyingren)
 2. [剪辑：像编剧一样剪辑](https://www.coursera.org/learn/jian-ji) `beginner`
 3. [编剧：像导演一样编剧](https://www.coursera.org/learn/bian-ju)
 4. [拍摄：像剪辑师一样拍摄](https://www.coursera.org/learn/pai-she)
@@ -56,6 +54,8 @@
 #### [商务基础 (中文版) Specialization](https://www.coursera.org/specializations/wharton-shangwu-jichu)
 5. [沃顿商务基础毕业项目 (中文版)](https://www.coursera.org/learn/wharton-shangwu-jichu-xiangmu) `beginner`
 ## Business Strategy
+### Google Cloud
+ - [Business Transformation with Google Cloud 中文](https://www.coursera.org/learn/business-transformation-google-cloud-cn) `beginner`
 ### Ludwig-Maximilians-Universität München (LMU)
  - [竞争策略（中文版）](https://www.coursera.org/learn/competitivestrategyzh)
  - [高阶竞争策略（中文版）](https://www.coursera.org/learn/advanced-competitive-strategy-zh)
@@ -81,7 +81,6 @@
 #### [程序设计与算法 Specialization](https://www.coursera.org/specializations/biancheng-suanfa)
 4. [算法基础](https://www.coursera.org/learn/suanfa-jichu)
 5. [数据结构基础](https://www.coursera.org/learn/shuju-jiegou-suanfa)
-6. [高级数据结构与算法](https://www.coursera.org/learn/gaoji-shuju-jiegou)
 7. [程序开发项目实践](https://www.coursera.org/learn/biancheng-suanfa-biye-xiangmu) `intermediate`
 ### Shanghai Jiao Tong University
  - [离散数学](https://www.coursera.org/learn/discrete-mathematics-ch) `beginner`
@@ -130,7 +129,6 @@
 #### [.Net平台下的软件开发技术 Specialization](https://www.coursera.org/specializations/netpingtai-ruanjian-kaifa)
 1. [系统平台与C#程序基础](https://www.coursera.org/learn/xitong-pingtai-csharp-chengxu-jichu)
 2. [c#高级编程](https://www.coursera.org/learn/csharp-gaoji-biancheng) `intermediate`
-3. [Windows可视化程序设计](https://www.coursera.org/learn/windows-keshihua-chengxu-sheji)
 4. [SQL Server数据库技术](https://www.coursera.org/learn/sql-server-shujuku-jishu) `beginner`
 5. [基于.Net的Web开发技术](https://www.coursera.org/learn/dot-net-kaifa-jishu)
 6. [.Net平台下的软件开发技术毕业项目](https://www.coursera.org/learn/net-ruanjian-kaifa-biye)
@@ -270,7 +268,6 @@
  - [理解马克思](https://www.coursera.org/learn/ma-ke-si)
 ### Peking University
  - [人群与网络](https://www.coursera.org/learn/renqun-wangluo)
- - [家庭社会学导论](https://www.coursera.org/learn/jiating-shehui-xue) `beginner`
 ### Sciences Po
  - [世界空间、法国视角下的国际研究](https://www.coursera.org/learn/espace-mondial-cn) `beginner`
 ## Law

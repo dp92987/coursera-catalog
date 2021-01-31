@@ -168,7 +168,6 @@
  - [Essential Cloud Infrastructure: Core Services en Français](https://www.coursera.org/learn/gcp-infrastructure-core-services-fr) `intermediate`
  - [Essential Cloud Infrastructure: Foundation en Français](https://www.coursera.org/learn/gcp-infrastructure-foundation-fr) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Français](https://www.coursera.org/learn/gcp-fundamentals-fr) `intermediate`
- - [Managing Change when Moving to Google Cloud en Français](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-fr) `beginner`
  - [Migrating to Google Cloud en Français](https://www.coursera.org/learn/migrating-to-gcp-fr) `beginner`
  - [Optimizing Your Google Cloud Platform Costs en Français](https://www.coursera.org/learn/gcp-cost-optimization-fr) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process en Français](https://www.coursera.org/learn/cloud-infrastructure-design-process-fr) `intermediate`
@@ -245,7 +244,6 @@
  - [Mécanique de Newton](https://www.coursera.org/learn/mecanique-newton)
  - [Mécanique du point matériel](https://www.coursera.org/learn/mecanique-point-materiel)
  - [Thermodynamique : applications](https://www.coursera.org/learn/thermo-apps)
- - [Thermodynamique : fondements](https://www.coursera.org/learn/thermo-base)
 # Social Sciences
 > - [Economics](#economics)
 > - [Education](#education)

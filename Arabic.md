@@ -19,7 +19,6 @@
  - [إنشاء رسوم بيانية على جداول بيانات غوغل](https://www.coursera.org/learn/google-sheets-plots-arabic) `beginner`
  - [خدمات عروض غوغل التقديمية](https://www.coursera.org/learn/google-slides-arabic) `beginner`
  - [خدمات غوغل المتقدمة](https://www.coursera.org/learn/advanced-google-services-arabic) `beginner`
- - [فصول غوغل الدراسية - للطلاب](https://www.coursera.org/learn/google-classroom-for-students-arabic) `beginner`
  - [مقدمة لخدمات غوغل](https://www.coursera.org/learn/intro-to-google-services-arabic) `beginner`
 ### Macquarie University
  - [مهارات برنامج Excel للعمل: المبادئ الأساسية](https://www.coursera.org/learn/excel-essentials-ar) `beginner`
@@ -72,7 +71,6 @@
  - [أساسيات python: برمج لعبة تخمين الرقم من الصفر](https://www.coursera.org/learn/python-basics-guess-the-number-arabic) `beginner`
 ## Mobile and Web Development
 ### Coursera Project Network
- - [بناء Backend لنسخة من Twitter](https://www.coursera.org/learn/twitter-clone-backend-arabic) `beginner`
  - [صمم موقعك الشخصي وتعلم برمجة المواقع من خلال التطبيق العملي](https://www.coursera.org/learn/build-your-website-html-css-arabic) `beginner`
 ### University of London, Goldsmiths, University of London
  - [أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript](https://www.coursera.org/learn/website-coding-ar)
