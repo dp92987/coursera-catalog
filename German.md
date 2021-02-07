@@ -1,20 +1,34 @@
 # German Courses
  - [Business](#business)
+ - [Computer Science](#computer-science)
  - [Data Science](#data-science)
  - [Health](#health)
  - [Physical Science and Engineering](#physical-science-and-engineering)
 # Business
+> - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
+> - [Finance](#finance)
 > - [Leadership and Management](#leadership-and-management)
+## Business Essentials
+### University of Michigan
+ - [Erfolgreich Verhandeln: Strategien und Fähigkeiten](https://www.coursera.org/learn/negotiation-skills-de)
 ## Business Strategy
 ### DeepLearning.AI
  - [KI für alle](https://www.coursera.org/learn/ai-for-everyone-de) `beginner`
 ### Google Cloud
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
  - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`
+## Finance
+### University of Zurich
+ - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
 ## Leadership and Management
 ### University of Toronto
  - [Kommunikationsstrategien für ein virtuelles Zeitalter](https://www.coursera.org/learn/communication-strategies-virtual-age-de) `beginner`
+# Computer Science
+> - [Design and Product](#design-and-product)
+## Design and Product
+### University of Virginia
+ - [Agiles Arbeiten trifft auf Design Thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile-de) `beginner`
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)

@@ -29,6 +29,7 @@
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
 > - [Entrepreneurship](#entrepreneurship)
+> - [Finance](#finance)
 > - [Leadership and Management](#leadership-and-management)
 > - [Marketing](#marketing)
 ## Business Essentials
@@ -41,6 +42,8 @@
  - [Originalité et modernité du mutualisme](https://www.coursera.org/learn/originalite-et-modernite-du-mutualisme) `beginner`
 ### University of Colorado Boulder
  - [Donner un feedback utile](https://www.coursera.org/learn/feedback-fr)
+### University of Michigan
+ - [Réussir une négociation : Stratégies et compétences clés](https://www.coursera.org/learn/negotiation-skills-fr)
 ## Business Strategy
 ### DeepLearning.AI
  - [L’IA pour tous](https://www.coursera.org/learn/ai-for-everyone-fr) `beginner`
@@ -69,6 +72,11 @@
  - [Entreprendre dans les Industries Culturelles à l'ère du numérique](https://www.coursera.org/learn/entreprendre-culture) `beginner`
 ### École Polytechnique, HEC Paris
  - [Créer et développer une startup technologique](https://www.coursera.org/learn/startup-technologique)
+## Finance
+### Rice University
+ - [Finances pour les professionnels non financiers](https://www.coursera.org/learn/finance-for-non-finance-fr) `beginner`
+### Yale University
+ - [Marchés financiers](https://www.coursera.org/learn/financial-markets-global-fr) `beginner`
 ## Leadership and Management
 ### ESSEC Business School
  - [Animer une séance collaborative](https://www.coursera.org/learn/animer-seance-collaborative) `beginner`
@@ -93,9 +101,14 @@
  - [Introduction au CRM avec HubSpot](https://www.coursera.org/learn/introduction-crm-hubspot) `beginner`
  - [L'utilisation optimal de LinkedIn](https://www.coursera.org/learn/utilisation-optimal-linkedin) `beginner`
 # Computer Science
+> - [Design and Product](#design-and-product)
 > - [Software Development](#software-development)
+## Design and Product
+### University of Virginia
+ - [Approche agile et design thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile-fr) `beginner`
 ## Software Development
 ### Coursera Project Network
+ - [Créer une instance Amazon EC2 dans la console AWS](https://www.coursera.org/learn/creer-une-instance-amazon-ec2-dans-la-console-aws) `beginner`
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
  - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
@@ -122,6 +135,7 @@
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
+ - [Transformer les Données avec R](https://www.coursera.org/learn/transformer-donnees-avec-r) `intermediate`
 ## Machine Learning
 ### Coursera Project Network
  - [Affectation de variable en Python](https://www.coursera.org/learn/affectation-de-variable-en-python) `beginner`
@@ -168,6 +182,7 @@
  - [Essential Cloud Infrastructure: Core Services en Français](https://www.coursera.org/learn/gcp-infrastructure-core-services-fr) `intermediate`
  - [Essential Cloud Infrastructure: Foundation en Français](https://www.coursera.org/learn/gcp-infrastructure-foundation-fr) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure en Français](https://www.coursera.org/learn/gcp-fundamentals-fr) `intermediate`
+ - [Managing Change when Moving to Google Cloud en Français](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-fr) `beginner`
  - [Migrating to Google Cloud en Français](https://www.coursera.org/learn/migrating-to-gcp-fr) `beginner`
  - [Optimizing Your Google Cloud Platform Costs en Français](https://www.coursera.org/learn/gcp-cost-optimization-fr) `intermediate`
  - [Reliable Cloud Infrastructure: Design and Process en Français](https://www.coursera.org/learn/cloud-infrastructure-design-process-fr) `intermediate`
@@ -244,6 +259,7 @@
  - [Mécanique de Newton](https://www.coursera.org/learn/mecanique-newton)
  - [Mécanique du point matériel](https://www.coursera.org/learn/mecanique-point-materiel)
  - [Thermodynamique : applications](https://www.coursera.org/learn/thermo-apps)
+ - [Thermodynamique : fondements](https://www.coursera.org/learn/thermo-base)
 # Social Sciences
 > - [Economics](#economics)
 > - [Education](#education)

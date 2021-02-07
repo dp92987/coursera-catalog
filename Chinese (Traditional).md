@@ -67,6 +67,8 @@
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
+### National Taiwan University
+ - [大數據分析：商業應用與策略管理 (Big Data Analytics: Business Applications and Strategic Decisions)](https://www.coursera.org/learn/bigdataanalysis) `beginner`
 ### The Chinese University of Hong Kong
  - [Structural Equation Model and its Applications | 结构方程模型及其应用 (粤语)](https://www.coursera.org/learn/structural-equation-model-cantonese)
 ## Machine Learning

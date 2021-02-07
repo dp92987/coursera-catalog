@@ -76,6 +76,8 @@
 ## Finance
 ### Insper
  - [Administração Financeira](https://www.coursera.org/learn/administracao-financeira) `beginner`
+### Yale University
+ - [Mercados financeiros](https://www.coursera.org/learn/financial-markets-global-pt) `beginner`
 ## Leadership and Management
 ### Fundação Instituto de Administração
  - [A prática da gestão de clubes e federações esportivas](https://www.coursera.org/learn/fia-gestao-clubes-federacoes-esportivas) `beginner`
@@ -97,15 +99,21 @@
 ### Universidade de São Paulo
  - [Marketing Digital](https://www.coursera.org/learn/estrategia-marketing-digital) `beginner`
 # Computer Science
+> - [Algorithms](#algorithms)
 > - [Design and Product](#design-and-product)
 > - [Mobile and Web Development](#mobile-and-web-development)
 > - [Software Development](#software-development)
+## Algorithms
+### Fundação Lemann, Fundação Telefônica
+ - [Aprenda a ensinar programação com o Programaê!](https://www.coursera.org/learn/programae)
 ## Design and Product
 ### Universidade de São Paulo
  - [UX / UI: Fundamentos para o design de interface](https://www.coursera.org/learn/ux-ui-design-de-interface) `beginner`
 ### Universidade Estadual de Campinas
  - [Processamento Digital de Sinais - Amostragem](https://www.coursera.org/learn/pds)
 ## Mobile and Web Development
+### Coursera Project Network
+ - [Crie sua página pessoal usando React e Github Pages](https://www.coursera.org/learn/build-your-personal-webpage-pt-br) `beginner`
 ### Universidade Estadual de Campinas
  - [Introdução ao Desenvolvimento de Aplicativos Android](https://www.coursera.org/learn/introducao-aplicativos-android) `intermediate`
 ## Software Development
@@ -143,6 +151,7 @@
  - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform em Português Brasileiro Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-br)
 1. [How Google does Machine Learning em Português Brasileiro](https://www.coursera.org/learn/google-machine-learning-br) `intermediate`
+2. [Launching into Machine Learning em Português Brasileiro](https://www.coursera.org/learn/launching-machine-learning-br) `intermediate`
 3. [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
 4. [Feature Engineering em Português Brasileiro](https://www.coursera.org/learn/feature-engineering-br) `intermediate`
 5. [Art and Science of Machine Learning em Português Brasileiro](https://www.coursera.org/learn/art-science-ml-br) `intermediate`
@@ -159,6 +168,8 @@
 ## Public Health
 ### Johns Hopkins University
  - [Rastreamento de contato da COVID-19](https://www.coursera.org/learn/rastreamento-contatos-covid-19) `beginner`
+### Universidade de São Paulo
+ - [Compreendendo o Zika e doenças emergentes](https://www.coursera.org/learn/zika-e-doencas-emergentes) `intermediate`
 ## Research
 ### Universidade Estadual de Campinas
  - [Revisão Sistemática e Meta-análise](https://www.coursera.org/learn/revisao-sistematica) `intermediate`
@@ -248,6 +259,7 @@
 ## Economics
 ### Universidade de São Paulo
  - [Econometria Básica Aplicada](https://www.coursera.org/learn/econometria-basica-aplicada) `intermediate`
+ - [Introdução à Análise Macroeconômica](https://www.coursera.org/learn/introducao-analise-macroeconomica) `intermediate`
 ### Universidade Estadual de Campinas
  - [Introdução à Economia do Trabalho: Teorias e Políticas](https://www.coursera.org/learn/economia-do-trabalho) `beginner`
 ### University of California, Irvine
@@ -257,6 +269,8 @@
  - [Gestão para a Aprendizagem: Módulo Gestão Estratégica](https://www.coursera.org/learn/gestao-escolar)
 ### Fundação Lemann, Foreducation, Google for Education
  - [Fundamentos do Google para o Ensino](https://www.coursera.org/learn/fundamentosgoogle)
+### Fundação Lemann, Instituto Península 
+ - [Ensino Híbrido: Personalização e Tecnologia na Educação](https://www.coursera.org/learn/ensino-hibrido) `beginner`
 ## Governance and Society
 ### Sciences Po
  - [Espaço Mundial: Perspectivas França-Brasil](https://www.coursera.org/learn/espaco-mundial) `beginner`

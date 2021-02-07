@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `6022` courses. Updated weekly.
+Complete list of `6146` courses. Updated weekly.
 
 # TOC
 
@@ -34,6 +34,7 @@ Complete list of `6022` courses. Updated weekly.
  - [Business](<Arabic.md#business>)
  - [Computer Science](<Arabic.md#computer-science>)
  - [Data Science](<Arabic.md#data-science>)
+ - [Information Technology](<Arabic.md#information-technology>)
  - [Language Learning](<Arabic.md#language-learning>)
  - [Personal Development](<Arabic.md#personal-development>)
  - [Physical Science and Engineering](<Arabic.md#physical-science-and-engineering>)
@@ -84,6 +85,7 @@ Complete list of `6022` courses. Updated weekly.
  - [Social Sciences](<French.md#social-sciences>)
 ### German
  - [Business](<German.md#business>)
+ - [Computer Science](<German.md#computer-science>)
  - [Data Science](<German.md#data-science>)
  - [Health](<German.md#health>)
  - [Physical Science and Engineering](<German.md#physical-science-and-engineering>)
@@ -105,7 +107,9 @@ Complete list of `6022` courses. Updated weekly.
  - [Information Technology](<Japanese.md#information-technology>)
 ### Korean
  - [Arts and Humanities](<Korean.md#arts-and-humanities>)
+ - [Data Science](<Korean.md#data-science>)
 ### Portuguese (Brazilian)
+ - [Arts and Humanities](<Portuguese (Brazilian).md#arts-and-humanities>)
  - [Business](<Portuguese (Brazilian).md#business>)
  - [Computer Science](<Portuguese (Brazilian).md#computer-science>)
  - [Data Science](<Portuguese (Brazilian).md#data-science>)

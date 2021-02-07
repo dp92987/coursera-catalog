@@ -50,6 +50,8 @@
  - [Основы философии: о чем спорят философы сегодня](https://www.coursera.org/learn/osnovy-filosofii) `beginner`
  - [Семантика (Московская семантическая школа и близкие теории)](https://www.coursera.org/learn/moscow-semantic-school)
  - [Философия культуры (Philosophy of Culture)](https://www.coursera.org/learn/filosofiya-kultury) `beginner`
+### National Research Tomsk State University
+ - [Мой друг - робот: введение в социальную робототехнику / My Friend is a Robot: Introduction to Social Robotics](https://www.coursera.org/learn/moy-drug-robot) `beginner`
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
@@ -110,6 +112,8 @@
 2. [Стартап в условиях открытых инноваций](https://www.coursera.org/learn/startupinn) `beginner`
 3. [Коммерциализация результатов инновационной деятельности](https://www.coursera.org/learn/krid) `intermediate`
 4. [Цифровая трансформация бизнеса](https://www.coursera.org/learn/digital-transformation-rus) `beginner`
+### University of Virginia
+ - [Дизайн-мышление в инновационной деятельности](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ru) `beginner`
 ## Entrepreneurship
 ### Moscow Institute of Physics and Technology
  - [Закон стартапа: юридические основы технологического бизнеса](https://www.coursera.org/learn/zakon-startapa-tekhnologicheskogo-biznesa) `intermediate`
@@ -151,6 +155,8 @@
  - [Целевые капиталы - территория финансовой стабильности в некоммерческом секторе](https://www.coursera.org/learn/tselevyye-kapitaly) `beginner`
 ### National Research Tomsk State University, Финансовый университет при Правительстве Российской Федерации
  - [Вводная в блокчейн](https://www.coursera.org/learn/blockchain) `beginner`
+### Rice University
+ - [Финансы для нефинансистов](https://www.coursera.org/learn/finance-for-non-finance-ru) `beginner`
 ### Saint Petersburg State University
  - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
  - [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
@@ -159,6 +165,8 @@
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
  - [Финансы компаний: взгляд инвестора и кредитора](https://www.coursera.org/learn/finansy-companiy) `beginner`
+### Yale University
+ - [Финансовые рынки](https://www.coursera.org/learn/financial-markets-global-ru) `beginner`
 ## Leadership and Management
 ### Macquarie University
  - [Повествование и влияние: Эффектная коммуникация](https://www.coursera.org/learn/communicate-with-impact-ru)
@@ -249,6 +257,9 @@
  - [Растровая графика. Adobe Photoshop CC](https://www.coursera.org/learn/rastrovaya-grafika-adobe-photoshop) `beginner`
 ### Saint Petersburg State University
  - [Технология аэрофотосъемки с использованием БЛА](https://www.coursera.org/learn/bla)
+ - [Фотограмметрическая обработка материалов аэрофотосъемки с БПЛА](https://www.coursera.org/learn/fotogrammetricheskaya-obrabotka-bpla) `intermediate`
+### University of Virginia
+ - [Agile и дизайн-мышление](https://www.coursera.org/learn/uva-darden-getting-started-agile-ru) `beginner`
 ## Mobile and Web Development
 ### Moscow Institute of Physics and Technology, e-legion, ФРОО
 #### [Android-разработка: основы, многопоточность, архитектура Specialization](https://www.coursera.org/specializations/android-developer)
@@ -295,6 +306,7 @@
 1. [Разработка корпоративных систем. Часть 1. Модели жизненного цикла](https://www.coursera.org/learn/razrabotka-korporativnih-sistem-modeli-jiznennogo-cikla)
 2. [Разработка корпоративных систем. Часть 2. Строгие методологии разработки](https://www.coursera.org/learn/strogie-metodologii-razrabotki)
 3. [Разработка корпоративных систем. Часть 3. Гибкие методологии разработки](https://www.coursera.org/learn/gibkie-metodologii-razrabotki)
+4. [Модели антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/modeli-antikrizisnogo-jiznennogo-cikla-korporativnyh-sistem)
 5. [Методологии антикризисного жизненного цикла корпоративных систем](https://www.coursera.org/learn/korporativnye-antikrizisnye-methodology)
 7. [ИТ-кризисология. Модернизация системы автоматизации управления воздушным движением](https://www.coursera.org/learn/project-it-crisis-management)
 ### National Research Tomsk State University
@@ -305,6 +317,8 @@
 ### Saint Petersburg State University
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 2. [Разработка сайта на WordPress](https://www.coursera.org/learn/wordpress) `beginner`
+### University of Michigan
+ - [Программирование для всех (начало работы с Python)](https://www.coursera.org/learn/python-ru)
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
@@ -405,6 +419,8 @@
 ### National Research Tomsk State University, Sechenov University
  - [Репродуктивное здоровье женщины и безопасная беременность](https://www.coursera.org/learn/reproduktivnoe-zdorove-zhenshchiny) `beginner`
 ## Psychology
+### HSE University
+ - [Психология профессиональной успешности](https://www.coursera.org/learn/psychology-prof)
 ### National Research Tomsk State University
  - [Здоровье семьи: загадки родословной](https://www.coursera.org/learn/zdorovye-semi-zagadki-rodoslovnoy) `beginner`
  - [Психодиагностика](https://www.coursera.org/learn/psykhodyahnostyka)
@@ -547,6 +563,7 @@
 ### Novosibirsk State University 
  - [Неорганическая химия](https://www.coursera.org/learn/neorganicheskayakhimiya) `intermediate`
  - [Органическая химия](https://www.coursera.org/learn/organicheskaya-khimiya) `intermediate`
+ - [Физическая химия](https://www.coursera.org/learn/fizicheskaya-khimiya) `intermediate`
 ### Saint Petersburg State University
  - [Генетика развития растений](https://www.coursera.org/learn/plantgen) `advanced`
  - [Неорганическая химия: Введение в химию элементов (Inorganic chemistry: Introduction to chemistry of the elements)](https://www.coursera.org/learn/neorganicheskaya-khimiya) `intermediate`
@@ -658,6 +675,7 @@
 ### HSE University
  - [Возможно ли воспитать детей «правильно»?](https://www.coursera.org/learn/vospitat-detei-pravilno) `beginner`
  - [Общая социологическая теория](https://www.coursera.org/learn/soc-theory) `beginner`
+ - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
  - [Психология межгрупповых отношений](https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii)
  - [Социология медиа](https://www.coursera.org/learn/sociologiya-media) `beginner`
  - [Сравнительная политика (Comparative Politics)](https://www.coursera.org/learn/politika-sravnitelnaja)
@@ -673,6 +691,7 @@
 ## Law
 ### HSE University
  - [Корпоративное право для не-юристов](https://www.coursera.org/learn/corporate-law)
+ - [Российское предпринимательское право](https://www.coursera.org/learn/rus-business-law) `intermediate`
  - [Юридическое оформление инвестиционных идей](https://www.coursera.org/learn/law-invest-ideas)
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Международные финансы](https://www.coursera.org/learn/mezhdunarodnyye-finansy) `beginner`
