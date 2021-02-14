@@ -77,6 +77,8 @@
 3. [Entender el diseño](https://www.coursera.org/learn/entender-diseno)
 ### Coursera Project Network
  - [Hojas de cálculo para principiantes con Google Sheets](https://www.coursera.org/learn/hojas-calculo-principiantes-sheets) `beginner`
+### Macquarie University
+ - [Habilidades de Excel para el negocio: Conceptos básicos](https://www.coursera.org/learn/excel-essentials-es) `beginner`
 ### Pontificia Universidad Católica de Chile
 #### [Hacer negocios en América Latina Specialization](https://www.coursera.org/specializations/business-latin-america)
 3. [Contexto de Negocios en LATAM: Factores Políticos, Sociales y Económicos](https://www.coursera.org/learn/contexto-negocios-latam)
@@ -111,24 +113,13 @@
 ## Business Strategy
 ### Coursera Project Network
  - [Análisis de Variación con Google Sheets](https://www.coursera.org/learn/analisis-variacion-google-sheets) `beginner`
- - [Aprenda cómo buscar trabajo con Indeed](https://www.coursera.org/learn/aprenda-como-buscar-trabajo-indeed) `beginner`
- - [Crea logos para comercializar tu negocio con Canva](https://www.coursera.org/learn/crea-logo-comercializar-negocio-canva) `intermediate`
- - [Crea un mapa mental interactivo usando Canva](https://www.coursera.org/learn/crea-mapa-mental-interactivo-canva) `beginner`
- - [Crea un perfil para un trabajo soñado con Indeed](https://www.coursera.org/learn/crea-perfil-trabajo-sonado-indeed) `beginner`
- - [Crea y diseña productos digitales en Canva](https://www.coursera.org/learn/crea-disena-productos-digitales-canva) `intermediate`
- - [Creando una presentación con Presentaciones Google](https://www.coursera.org/learn/creando-una-presentacion-con-presentaciones-google) `beginner`
- - [Crear datos de soporte al Cliente con Google Sheets](https://www.coursera.org/learn/crear-datos-soporte-acliente-google-sheets) `beginner`
- - [Crear encuestas con Formularios Google](https://www.coursera.org/learn/crear-encuestas-formularios-google) `beginner`
+ - [Crea un mapa de proceso con Canva](https://www.coursera.org/learn/crea-mapa-proceso-canva) `intermediate`
  - [Crear encuestas de mercadeo con Formularios Google](https://www.coursera.org/learn/crear-encuestas-mercadeo-formularios-google) `beginner`
  - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
  - [Crear una cronología de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-cronologia-proyecto-hojas-calculo-google) `beginner`
- - [Crear una hoja para la Gestión de Proyectos en Google Sheets](https://www.coursera.org/learn/crear-hoja-gestion-proyectos-google-sheets) `beginner`
  - [Crear una matriz RACI con Hojas de cálculo Google](https://www.coursera.org/learn/crear-matriz-raci-hojas-calculo-google) `beginner`
- - [Cree Increíbles Diseños de Mercadeo usando Canva](https://www.coursera.org/learn/cree-increibles-disenos-de-mercadeo-usando-canva) `beginner`
- - [Diseña imprimibles para cursos en línea usando Canva](https://www.coursera.org/learn/disena-imprimibles-cursos-linea-canva) `intermediate`
- - [LinkedIn para Principiantes](https://www.coursera.org/learn/linkedin-principiantes) `beginner`
  - [Mejora del Rendimiento Empresarial con Google Forms](https://www.coursera.org/learn/mejora-rendimiento-empresarial-google-forms) `beginner`
- - [Use vídeos en sus posts de redes sociales con Canva](https://www.coursera.org/learn/use-videos-posts-redes-sociales-canva) `intermediate`
+ - [Presenta datos y gráficos con Canva](https://www.coursera.org/learn/presenta-datos-graficos-canva) `intermediate`
 ### DeepLearning.AI
  - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-es) `beginner`
 ### Google Cloud
@@ -197,9 +188,6 @@
 ### University of New Mexico
  - [Administración Estratégica y Emprendedora](https://www.coursera.org/learn/administracion-estrategica)
 ## Finance
-### Coursera Project Network
- - [Creando un Presupuesto en Google Sheets](https://www.coursera.org/learn/creando-presupuesto-google-sheets) `beginner`
- - [Crear una hoja de asequilibilidad del hogar en Google Sheets](https://www.coursera.org/learn/crear-hoja-asequibilidad-hogar-google-sheets) `intermediate`
 ### IESE Business School
  - [¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección](https://www.coursera.org/learn/alta-direccion) `beginner`
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
@@ -278,9 +266,8 @@
  - [Gestión de las empresas de alimentación y bebidas](https://www.coursera.org/learn/empresas-alimentos-bebidas)
 ## Marketing
 ### Coursera Project Network
- - [Crear un Kit de Bienvenida para el Cliente con Canva](https://www.coursera.org/learn/kit-bienvenida-canva) `intermediate`
- - [Introducción a CRM con HubSpot](https://www.coursera.org/learn/introduccion-crm-con-hubspot) `beginner`
- - [Introducción al diseño de Mercadeo con Canva](https://www.coursera.org/learn/introduccion-diseno-mercadeo-canva) `intermediate`
+ - [Crea imprimibles digitales de enseñanza con Canva](https://www.coursera.org/learn/crea-imprimibles-digitales-ensenanza-canva) `intermediate`
+ - [Crea piezas para redes sociales usando Canva](https://www.coursera.org/learn/crea-piezas-redes-sociales-usando-canva) `beginner`
  - [Introducción de Contenido de Marketing en Google Docs](https://www.coursera.org/learn/introduccion-contenido-marketing-google-docs) `beginner`
 ### IE Business School
 #### [Estrategia de marketing Specialization](https://www.coursera.org/specializations/estrategia-de-marketing)
@@ -374,6 +361,7 @@
 ### Coursera Project Network
  - [Aprendiendo a hacer API con Node.JS](https://www.coursera.org/learn/api-nodejs) `beginner`
  - [Aprendiendo Solidity para hacer Smart Contracts](https://www.coursera.org/learn/solidity-smartcontracts) `beginner`
+ - [Crea tu primera página web en HTML](https://www.coursera.org/learn/crea-primera-pagina-web-html) `beginner`
  - [Fundamentos de React Hooks](https://www.coursera.org/learn/fundamentos-react-hooks) `intermediate`
 ### Universidad Austral
 #### [Full Stack Web Development en Español Specialization](https://www.coursera.org/specializations/fullstack-web-development-espanol)
@@ -392,12 +380,13 @@
  - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
 ### Coursera Project Network
- - [Análisis de texto en archivos con Azure cognitive search](https://www.coursera.org/learn/analisis-textos-archivos-servicios-cognitivos-azure) `beginner`
+ - [Aprendiendo a programar en Go](https://www.coursera.org/learn/aprendiendo-go) `beginner`
  - [Aprendiendo Python con bases de datos](https://www.coursera.org/learn/aprendiendo-python-con-bases-de-datos) `beginner`
  - [Aprendiendo Python con circuitos digitales](https://www.coursera.org/learn/aprendiendo-python-con-circuitos-digitales) `beginner`
  - [Aprendiendo Python con estadística descriptiva](https://www.coursera.org/learn/aprendiendo-python-con-estadistica-descriptiva) `beginner`
  - [Aprendiendo Python con textos, números y ecuaciones](https://www.coursera.org/learn/aprendiendo-python-con-textos-numeros-ecuaciones) `beginner`
  - [Aprendiendo Python con álgebra lineal](https://www.coursera.org/learn/aprendiendo-python-con-algebra-lineal) `beginner`
+ - [Crea tu primer juego de adivinanza con Python](https://www.coursera.org/learn/crea-tu-primer-juego-de-adivinanza-con-python) `beginner`
  - [Creando simulaciones con python](https://www.coursera.org/learn/simulaciones-python) `intermediate`
  - [Graficando con Python](https://www.coursera.org/learn/graficando-con-python) `intermediate`
  - [Implementando un motor con Alibaba Cloud y ElasticSearch](https://www.coursera.org/learn/alibabacloud-elastic) `beginner`
@@ -431,6 +420,8 @@
 ### Universidad ORT Uruguay, The University of Edinburgh
  - [¡A Programar! Una introducción a la programación](https://www.coursera.org/learn/a-programar) `beginner`
 ### University of Michigan
+ - [Estructuras de datos de Python](https://www.coursera.org/learn/python-data-es)
+ - [Programación para todos (Introducción a Python)](https://www.coursera.org/learn/python-es)
  - [Uso de bases de datos con Python](https://www.coursera.org/learn/python-databases-es)
 # Data Science
 > - [Data Analysis](#data-analysis)
@@ -438,7 +429,6 @@
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
 ### Coursera Project Network
- - [Análisis de documentos con servicios cognitivos de Azure](https://www.coursera.org/learn/analisis-documentos-servicios-cognitivos-azure) `beginner`
  - [Automated Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/automated-machine-learning-powerbi) `intermediate`
  - [Automated Machine Learning en Power BI Clasificación](https://www.coursera.org/learn/automated-machine-learning-powerbi-clasificacion) `intermediate`
  - [AutoML con AutoSklearn y Google Colab](https://www.coursera.org/learn/automl-autosklearn-googlecolab) `intermediate`
@@ -454,7 +444,6 @@
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
  - [Introducción a Azure Data Factory para Big Data](https://www.coursera.org/learn/introduccion-azure-data-factory-big-data) `advanced`
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
- - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure) `beginner`
  - [Machine Learning con Pyspark aplicado al campo sanitario](https://www.coursera.org/learn/machine-learning-pyspark-aplicado-campo-sanitario) `advanced`
  - [Machine Learning con Python. Nivel Avanzado](https://www.coursera.org/learn/machine-learning-python-nivel-avanzado) `intermediate`
  - [Machine Learning con Python. Nivel intermedio](https://www.coursera.org/learn/machine-learning-python-nivel-intermedio) `beginner`
@@ -468,6 +457,7 @@
  - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
+ - [Visualización Avanzada de datos con Python](https://www.coursera.org/learn/visualizacion-avanzada-datos-python) `intermediate`
  - [Visualización de datos con Seaborn](https://www.coursera.org/learn/visualizacion-datos-seaborn) `beginner`
 ### IBM
  - [Análisis de datos con Python](https://www.coursera.org/learn/analisis-de-datos-con-python) `beginner`
@@ -500,10 +490,10 @@
 ## Machine Learning
 ### Coursera Project Network
  - [Analizando sentimientos y entidades en textos con Azure](https://www.coursera.org/learn/analisis-sentimientos-azure) `beginner`
+ - [Desarrollando modelos con Azure Custom Vision](https://www.coursera.org/learn/modelos-azurecustomvision) `intermediate`
  - [Diseñando modelos con Azure Machine Learning Studio](https://www.coursera.org/learn/modelos-azure-ml-studio) `beginner`
  - [Diseñando un bot con Azure LUIS](https://www.coursera.org/learn/bot-luis) `beginner`
  - [Generando modelos con Auto Machine Learning](https://www.coursera.org/learn/generando-modelos-automl) `intermediate`
- - [Predicción de Ventas Pronosticando Tendencias](https://www.coursera.org/learn/prediccion-de-ventas-pronosticando-tendencias-en-google-sheets) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Español](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Español Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-es)
@@ -633,6 +623,7 @@
  - [Managing Change when Moving to Google Cloud en Español](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-es) `beginner`
  - [Migrating to Google Cloud en Español](https://www.coursera.org/learn/migrating-to-gcp-es) `beginner`
  - [Optimizing Your Google Cloud Platform (GCP) Costs en Español](https://www.coursera.org/learn/gcp-cost-optimization-es) `intermediate`
+ - [Preparing for Google Associate Cloud Engineer Exam Español](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam-es) `beginner`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-es) `advanced`
  - [Preparing for the Google Cloud Professional Data Engineer Exam en Español](https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam-es) `advanced`
  - [Reliable Cloud Infrastructure: Design and Process en Español](https://www.coursera.org/learn/cloud-infrastructure-design-process-es) `intermediate`
@@ -646,6 +637,8 @@
  - [Conceptos Básicos de IBM Cloud](https://www.coursera.org/learn/conceptos-basicos-de-ibm-cloud)
  - [Introducción a Contenedores con Docker y Kubernetes](https://www.coursera.org/learn/introduccion-a-contenedores-con-docker) `beginner`
 ## Data Management
+### Amazon Web Services
+ - [Aspectos básicos de AWS: Migración a la nube](https://www.coursera.org/learn/aws-fundamentals-cloud-migration-es) `intermediate`
 ### Coursera Project Network
  - [Análisis serverless de data en Amazon S3 usando Athena](https://www.coursera.org/learn/amazon-athena) `beginner`
  - [Introducción a bases de datos NoSQL con MongoDB](https://www.coursera.org/learn/base-datos-nosql) `beginner`
@@ -765,6 +758,8 @@
 > - [Physics and Astronomy](#physics-and-astronomy)
 > - [Research Methods](#research-methods)
 ## Chemistry
+### Pontificia Universidad Católica de Chile
+ - [Introducción a la Ingeniería Gastronómica - ¡Ciencia en la Cocina!](https://www.coursera.org/learn/ingenieria-gastronomica-ciencia-cocina)
 ### Universidad Autónoma Metropolitana
  - [Iniciándome en la Química](https://www.coursera.org/learn/iniciandome-en-la-qumica) `beginner`
  - [La Química de las Reacciones](https://www.coursera.org/learn/la-qumica-de-las-reacciones) `beginner`

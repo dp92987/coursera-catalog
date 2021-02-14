@@ -20,6 +20,7 @@
  - [現代文學導讀：詩、散文、小說](https://www.coursera.org/learn/poetry-prose-novel) `beginner`
 ## Music and Art
 ### National Taiwan University
+ - [又見大觀：《紅樓夢》中的烏托邦 (The Red Chamber Dream (3): Daguan Garden)](https://www.coursera.org/learn/the-red-chamber-dream-daguan-garden) `beginner`
  - [唐詩新思路 (Tang Poetry)](https://www.coursera.org/learn/tang-poems) `beginner`
  - [東坡詞 (Ci Poetry of Su Dong Po)](https://www.coursera.org/learn/su-dongpo) `beginner`
 ### The Chinese University of Hong Kong
@@ -32,6 +33,7 @@
  - [東亞儒家：人文精神一(East Asian Confucianisms: Humanism (1))](https://www.coursera.org/learn/east-asian-confucianisms-humanism1)
  - [東亞儒家：人文精神二(East Asian Confucianisms: Humanism (2))](https://www.coursera.org/learn/east-asian-confucianisms-humanism2) `intermediate`
  - [活用希臘哲學 (Understanding the Greek Philosophy)](https://www.coursera.org/learn/xila-zhexue) `beginner`
+ - [深扣孔孟 (An Inquiry into Confucius and Mencius)](https://www.coursera.org/learn/inquiry-into-confucius-and-mencius) `beginner`
  - [紅樓夢(The Red Chamber Dream)](https://www.coursera.org/learn/the-red-chamber-dream)
  - [紅樓夢-母神崇拜 (The Red Chamber Dream (2))](https://www.coursera.org/learn/rcd2) `beginner`
  - [莊子─人情 (Zhuangzi─Between People)](https://www.coursera.org/learn/zhuangzi2) `beginner`

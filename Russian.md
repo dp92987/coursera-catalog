@@ -33,6 +33,8 @@
 #### [Живопись пастелью Specialization](https://www.coursera.org/specializations/pastelpainting)
 4. [Практическое применение техник академической живописи](https://www.coursera.org/learn/acad-paint)
 ## Music and Art
+### California Institute of the Arts
+ - [Основы графического дизайна](https://www.coursera.org/learn/fundamentals-of-graphic-design-ru) `beginner`
 ### National Research Tomsk State University
  - [Fashion-иллюстрация: Скетчинг](https://www.coursera.org/learn/fashion-illustration-sketching) `beginner`
  - [Fashion-иллюстрация: технический рисунок](https://www.coursera.org/learn/modnaya-illyustratsiya) `beginner`
@@ -50,6 +52,7 @@
  - [Основы философии: о чем спорят философы сегодня](https://www.coursera.org/learn/osnovy-filosofii) `beginner`
  - [Семантика (Московская семантическая школа и близкие теории)](https://www.coursera.org/learn/moscow-semantic-school)
  - [Философия культуры (Philosophy of Culture)](https://www.coursera.org/learn/filosofiya-kultury) `beginner`
+ - [Философия сознания](https://www.coursera.org/learn/philosophy-of-mind) `intermediate`
 ### National Research Tomsk State University
  - [Мой друг - робот: введение в социальную робототехнику / My Friend is a Robot: Introduction to Social Robotics](https://www.coursera.org/learn/moy-drug-robot) `beginner`
 # Business
@@ -60,6 +63,8 @@
 > - [Leadership and Management](#leadership-and-management)
 > - [Marketing](#marketing)
 ## Business Essentials
+### Macquarie University
+ - [Умения работы с Excel для бизнеса: уровень Intermediate I](https://www.coursera.org/learn/excel-intermediate-1-ru) `intermediate`
 ### Moscow Institute of Physics and Technology
  - [Коммерциализация результатов НИОКР](https://www.coursera.org/learn/kommercializaciya-niokr) `beginner`
  - [Управление инновационными проектами](https://www.coursera.org/learn/innovacionnye-proekty) `intermediate`
@@ -127,6 +132,9 @@
  - [Правовое регулирование налога на прибыль в Российской Федерации](https://www.coursera.org/learn/pravovoe-regulirovanie-naloga-na-pribyl) `beginner`
 1. [«Стартап: как вырасти в успешный бизнес»](https://www.coursera.org/learn/startup-spbu)
 ## Finance
+### Coursera Project Network
+ - [Используем функции Google Finance в Google Sheets](https://www.coursera.org/learn/google-finance-functions-google-sheets-ru) `intermediate`
+ - [Сравниваем доходность акций с Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets-ru) `intermediate`
 ### HSE University
  - [Основы корпоративных финансов (Fundamentals of Corporate Finance)](https://www.coursera.org/learn/osnovy-korporativnykh-finansov) `beginner`
  - [Ценные бумаги: правовое регулирование](https://www.coursera.org/learn/cennye-bumagi-pravovoe-regulirovanie)
@@ -168,6 +176,8 @@
 ### Yale University
  - [Финансовые рынки](https://www.coursera.org/learn/financial-markets-global-ru) `beginner`
 ## Leadership and Management
+### Indian School of Business
+ - [Лидерство и эмоциональный интеллект](https://www.coursera.org/learn/emotional-intelligence-in-leadership-ru) `beginner`
 ### Macquarie University
  - [Повествование и влияние: Эффектная коммуникация](https://www.coursera.org/learn/communicate-with-impact-ru)
 ### Moscow Institute of Physics and Technology
@@ -193,6 +203,8 @@
  - [Управление конфликтами и стрессами в организации](https://www.coursera.org/learn/confst)
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 1. [Психотехнологии работы с персоналом (Psychotechnologies of personnel management)](https://www.coursera.org/learn/psikhotekhnologii-raboty) `beginner`
+### University of California, Irvine
+ - [Управление рисками проекта и изменениями](https://www.coursera.org/learn/project-risk-management-ru)
 ### University of Toronto
  - [Стратегии коммуникации в виртуальную эпоху](https://www.coursera.org/learn/communication-strategies-virtual-age-ru) `beginner`
 ## Marketing
@@ -351,6 +363,8 @@
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 3. [Введение в анализ данных сайтов](https://www.coursera.org/learn/site-analysis-introduction) `beginner`
 ## Machine Learning
+### DeepLearning.AI
+ - [Нейронные сети и глубокое обучение](https://www.coursera.org/learn/neural-networks-deep-learning-ru) `intermediate`
 ### E-Learning Development Fund
  - [Машинное обучение для руководителей](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley) `beginner`
 ### HSE University
@@ -456,6 +470,8 @@
 ## Data Management
 ### Moscow Institute of Physics and Technology, Mail.Ru Group
  - [Введение в информационный поиск](https://www.coursera.org/learn/vvedeniye-informatsionnyy-poisk) `intermediate`
+### Moscow Institute of Physics and Technology, Мастерская цифрового образовательного контента «Кеды профессора»
+ - [Цифровая экономика – современная промышленная революция](https://www.coursera.org/learn/tsifrovaya-ekonomika-sovremennaya-promyshlennaya-revolyutsiya) `beginner`
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Цифровые аспекты современных международных отношений](https://www.coursera.org/learn/casmo)
 ### Saint Petersburg State University

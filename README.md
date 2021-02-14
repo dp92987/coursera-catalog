@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `6146` courses. Updated weekly.
+Complete list of `6244` courses. Updated weekly.
 
 # TOC
 
@@ -84,6 +84,7 @@ Complete list of `6146` courses. Updated weekly.
  - [Physical Science and Engineering](<French.md#physical-science-and-engineering>)
  - [Social Sciences](<French.md#social-sciences>)
 ### German
+ - [Arts and Humanities](<German.md#arts-and-humanities>)
  - [Business](<German.md#business>)
  - [Computer Science](<German.md#computer-science>)
  - [Data Science](<German.md#data-science>)
@@ -108,6 +109,7 @@ Complete list of `6146` courses. Updated weekly.
 ### Korean
  - [Arts and Humanities](<Korean.md#arts-and-humanities>)
  - [Data Science](<Korean.md#data-science>)
+ - [Language Learning](<Korean.md#language-learning>)
 ### Portuguese (Brazilian)
  - [Arts and Humanities](<Portuguese (Brazilian).md#arts-and-humanities>)
  - [Business](<Portuguese (Brazilian).md#business>)
@@ -154,4 +156,12 @@ Complete list of `6146` courses. Updated weekly.
  - [Business](<Ukrainian.md#business>)
  - [Social Sciences](<Ukrainian.md#social-sciences>)
 ### Undefined
+ - [Business](<Undefined.md#business>)
+ - [Computer Science](<Undefined.md#computer-science>)
+ - [Data Science](<Undefined.md#data-science>)
+ - [Information Technology](<Undefined.md#information-technology>)
+ - [Math and Logic](<Undefined.md#math-and-logic>)
+ - [Personal Development](<Undefined.md#personal-development>)
+ - [Physical Science and Engineering](<Undefined.md#physical-science-and-engineering>)
+ - [Social Sciences](<Undefined.md#social-sciences>)
  - [Undefined](<Undefined.md#undefined>)

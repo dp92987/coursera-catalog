@@ -12,6 +12,7 @@
  - [Social Sciences](#social-sciences)
 # Arts and Humanities
 > - [History](#history)
+> - [Music and Art](#music-and-art)
 > - [Philosophy](#philosophy)
 ## History
 ### University of Geneva
@@ -20,6 +21,9 @@
  - [Violences et religions](https://www.coursera.org/learn/violences-religions) `beginner`
 ### Yad Vashem 
  - [L’antisémitisme : De ses origines à nos jours](https://www.coursera.org/learn/antisemitisme) `beginner`
+## Music and Art
+### California Institute of the Arts
+ - [Fondamentaux de l’infographie](https://www.coursera.org/learn/fundamentals-of-graphic-design-fr) `beginner`
 ## Philosophy
 ### University of Geneva
  - [Le Bien, le Juste, l'Utile. Introduction aux éthiques philosophiques](https://www.coursera.org/learn/ethique)
@@ -35,7 +39,6 @@
 ## Business Essentials
 ### Coursera Project Network
  - [Google Docs - Créer des Documents Professionnels](https://www.coursera.org/learn/google-docs-professionnels) `beginner`
- - [Initiation à Google Drive](https://www.coursera.org/learn/initiation-a-google-drive) `beginner`
 ### ESSEC Business School
  - [Innovation publique et pensée design, l'innovation sociale au service des territoires](https://www.coursera.org/learn/innovation-publique-pensee-design) `beginner`
  - [L'entrepreneuriat social: faire son business plan](https://www.coursera.org/learn/monde-action)
@@ -90,8 +93,13 @@
  - [Raison d’être et Entreprise à Mission](https://www.coursera.org/learn/raison-etre-et-entreprise-a-mission) `beginner`
  - [Reporting extra-financier et stratégie RSE](https://www.coursera.org/learn/reporting-extra-financier-strategie-rse) `beginner`
  - [Réussir le Changement](https://www.coursera.org/learn/reussir-le-changement)
+### Indian School of Business
+ - [Leadership et intelligence émotionnelle](https://www.coursera.org/learn/emotional-intelligence-in-leadership-fr) `beginner`
 ### Macquarie University
  - [Storytelling et influence : Communiquer pour convaincre](https://www.coursera.org/learn/communicate-with-impact-fr)
+### University of California, Irvine
+ - [Budgétisation et planification de projets](https://www.coursera.org/learn/schedule-projects-fr)
+ - [Gérer les risques et les modifications d’un projet](https://www.coursera.org/learn/project-risk-management-fr)
 ### University of Toronto
  - [Stratégies de communication à l’ère du virtuel](https://www.coursera.org/learn/communication-strategies-virtual-age-fr) `beginner`
 ## Marketing
@@ -108,6 +116,7 @@
  - [Approche agile et design thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile-fr) `beginner`
 ## Software Development
 ### Coursera Project Network
+ - [Créer un Groupe Auto Scaling Amazon EC2 avec Load Balancer](https://www.coursera.org/learn/creer-un-groupe-auto-scaling-ec2-dans-la-console-amazon-aws) `intermediate`
  - [Créer une instance Amazon EC2 dans la console AWS](https://www.coursera.org/learn/creer-une-instance-amazon-ec2-dans-la-console-aws) `beginner`
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
@@ -119,6 +128,8 @@
 2. [Architecting with Google Kubernetes Engine: Foundations en Français](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-fr) `intermediate`
 3. [Architecting with Google Kubernetes Engine: Workloads en Français](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-fr) `intermediate`
 4. [Architecting with Google Kubernetes Engine: Production en Français](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-fr) `intermediate`
+### University of Michigan
+ - [Programmation pour tous (mise en route de Python)](https://www.coursera.org/learn/python-fr)
 ### École Polytechnique Fédérale de Lausanne
  - [Initiation à la programmation (en C++)](https://www.coursera.org/learn/initiation-programmation-cpp) `beginner`
  - [Initiation à la programmation (en Java)](https://www.coursera.org/learn/initiation-programmation-java) `beginner`
@@ -130,8 +141,9 @@
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
 ### Coursera Project Network
+ - [Analyser vos données avec Python](https://www.coursera.org/learn/analyser-donnees-python) `beginner`
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
- - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport) `intermediate`
+ - [DataViz - Grammaire des Graphiques avec Python](https://www.coursera.org/learn/dataviz-grammaire-des-graphiques-avec-python) `intermediate`
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
@@ -142,6 +154,7 @@
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
  - [Création de chaînes en Python](https://www.coursera.org/learn/creation-de-chaines-en-python) `beginner`
+ - [Introduction A L’HTML](https://www.coursera.org/learn/introduction-a-l-html) `beginner`
  - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr) `intermediate`

@@ -1,9 +1,15 @@
 # German Courses
+ - [Arts and Humanities](#arts-and-humanities)
  - [Business](#business)
  - [Computer Science](#computer-science)
  - [Data Science](#data-science)
  - [Health](#health)
  - [Physical Science and Engineering](#physical-science-and-engineering)
+# Arts and Humanities
+> - [Music and Art](#music-and-art)
+## Music and Art
+### California Institute of the Arts
+ - [Grundlagen des Grafikdesigns](https://www.coursera.org/learn/fundamentals-of-graphic-design-de) `beginner`
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
@@ -22,6 +28,11 @@
 ### University of Zurich
  - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
 ## Leadership and Management
+### Indian School of Business
+ - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de) `beginner`
+### University of California, Irvine
+ - [Budget- und Terminplanung von Projekten](https://www.coursera.org/learn/schedule-projects-de)
+ - [Projektrisiken und -änderungen managen](https://www.coursera.org/learn/project-risk-management-de)
 ### University of Toronto
  - [Kommunikationsstrategien für ein virtuelles Zeitalter](https://www.coursera.org/learn/communication-strategies-virtual-age-de) `beginner`
 # Computer Science

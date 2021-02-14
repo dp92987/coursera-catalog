@@ -38,7 +38,6 @@
 ## Business Strategy
 ### Coursera Project Network
  - [التحول الرقمى لدعم العملاء من الشركات الصغيرة ومتوسطة الحجم](https://www.coursera.org/learn/customer-support-digital-transformation) `beginner`
- - [مقدمة لجداول بيانات جوجل](https://www.coursera.org/learn/introduction-google-sheets-ar) `beginner`
 ### DeepLearning.AI
  - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar) `beginner`
 ### University of Virginia
@@ -46,6 +45,7 @@
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar) `beginner`
 ## Entrepreneurship
 ### Coursera Project Network
+ - [Business Model Canvas للشركات الناشئه](https://www.coursera.org/learn/bmc-arabic) `beginner`
  - [مقدمة الى تطوير المنتجات الجديدة للشركات الصغيرة والمتوسطة](https://www.coursera.org/learn/new-product-dev-sme-arabic) `beginner`
 ## Finance
 ### Yale University
@@ -106,6 +106,7 @@
 ### The University of Edinburgh, Universidad ORT Uruguay
  - [برمج بنفسك! مقدمة حول البرمجة](https://www.coursera.org/learn/intro-programming-ar)
 ### University of Michigan
+ - [Python استخدام قواعد البيانات مع](https://www.coursera.org/learn/python-databases-ar)
  - [البرمجة للجميع - بدء استخدام بايثون](https://www.coursera.org/learn/python-ar)
 # Data Science
 > - [Data Analysis](#data-analysis)

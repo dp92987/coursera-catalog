@@ -45,6 +45,7 @@
 ### Universidade de São Paulo
  - [Marketing e vendas B2B: Fechando novos negócios](https://www.coursera.org/learn/marketing-vendas-b2b) `beginner`
 ### University of Michigan
+ - [Como influenciar pessoas](https://www.coursera.org/learn/influencing-people-pt)
  - [Negociações de sucesso: estratégias e habilidades essenciais (em Português)](https://www.coursera.org/learn/negociacao)
 ## Business Strategy
 ### Google Cloud
@@ -133,6 +134,9 @@
  - [Introdução ao Teste de Software](https://www.coursera.org/learn/intro-teste-de-software) `beginner`
  - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) `beginner`
  - [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) `beginner`
+### University of Michigan
+ - [Programação para todos (Conceitos básicos de Python)](https://www.coursera.org/learn/python-pt)
+ - [Uso de bancos de dados com Python](https://www.coursera.org/learn/python-databases-pt)
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
@@ -199,8 +203,6 @@
 4. [Building Resilient Streaming Analytics Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/streaming-analytics-systems-gcp-br) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-br) `intermediate`
 ## Networking
-### Coursera Project Network
- - [Introdução a Mapas de Relação com Kumu](https://www.coursera.org/learn/intro-kumu) `beginner`
 ### Cresça com o Google
 #### [Suporte em TI do Google Professional Certificate](https://www.coursera.org/specializations/suporte-em-ti-do-google)
 2. [Estrutura e Funcionamento das Redes de Computadores](https://www.coursera.org/learn/redes-computadores) `beginner`
@@ -233,7 +235,6 @@
  - [Mapas conceituais para aprender e colaborar](https://www.coursera.org/learn/mapas-conceituais) `beginner`
 # Physical Science and Engineering
 > - [Electrical Engineering](#electrical-engineering)
-> - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
 > - [Physics and Astronomy](#physics-and-astronomy)
 > - [Research Methods](#research-methods)
 ## Electrical Engineering
@@ -243,9 +244,6 @@
  - [Controle Usando a Resposta em Frequência](https://www.coursera.org/learn/resposta-frequencia) `intermediate`
  - [Introdução ao Controle de Sistemas](https://www.coursera.org/learn/controle)
  - [Introdução ao Controle Moderno](https://www.coursera.org/learn/controle-moderno) `intermediate`
-## Environmental Science and Sustainability
-### Coursera Project Network
- - [Modelo de Ecossistema com Insight Maker](https://www.coursera.org/learn/ecossistema-insightmaker) `beginner`
 ## Physics and Astronomy
 ### Universidade de São Paulo
  - [Origens da Vida no Contexto Cósmico](https://www.coursera.org/learn/origensdavida) `beginner`
