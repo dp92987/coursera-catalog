@@ -28,7 +28,6 @@
  - [Initiation à Google Drive](https://www.coursera.org/learn/initiation-a-google-drive)
  - [Introduction to Google Docs](https://www.coursera.org/learn/intro-to-google-docs)
  - [Onboarding New Employees with Typeform](https://www.coursera.org/learn/onboarding-new-employees-typeform)
- - [Uncover the Survey Data Story with Charts in Google Sheets](https://www.coursera.org/learn/survey-data-story-bar-charts-in-google-sheets)
  - [Utilize CareerBuilder to Find Employment](https://www.coursera.org/learn/utilize-careerbuilder-find-employment)
 ## Business Strategy
 ### Coursera Project Network
@@ -117,7 +116,6 @@
  - [Analyze NPS Survey Data in Google Sheets](https://www.coursera.org/learn/analyze-nps-survey-data-in-google-sheets)
  - [Analyze Survey Data using Principal Component Analysis](https://www.coursera.org/learn/analyze-survey-data-pca)
  - [Boost Accuracy by Weighting Variables in Google Sheets](https://www.coursera.org/learn/boost-accuracy-by-weighting-variables-in-google-sheets)
- - [Brand Marketing and SEO Tools using Wix](https://www.coursera.org/learn/brand-marketing-seo-tools-using-wix)
  - [Building a Business Presence With Facebook Marketing](https://www.coursera.org/learn/facebook-marketing)
  - [Calculate Basic Descriptive Statistics in Google Sheets](https://www.coursera.org/learn/calculate-basic-descriptive-statistics-in-google-sheets)
  - [Collect Data with Google Forms](https://www.coursera.org/learn/collect-data-google-forms)
@@ -125,7 +123,6 @@
  - [Create a beautiful eBook using Google Slides](https://www.coursera.org/learn/create-ebook-using-google-slides)
  - [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/learn/create-business-marketing-brand-kit-using-canva)
  - [Create a Facebook Business Page](https://www.coursera.org/learn/how-to-create-facebook-business-page)
- - [Create a Landing Page using Mailchimp](https://www.coursera.org/learn/create-landing-page-using-mailchimp)
  - [Create a Process Map using a Canva Template](https://www.coursera.org/learn/create-process-map-using-canva)
  - [Create a Project Management Dashboard using Bitrix24](https://www.coursera.org/learn/create-project-management-dashboard-using-bitrix24)
  - [Create a Project Management Tracker using Google Sheets](https://www.coursera.org/learn/create-a-project-management-tracker-using-google-sheets)
@@ -137,7 +134,6 @@
  - [Create an Email Autoresponder Using Mailchimp](https://www.coursera.org/learn/create-email-autoresponder-mailchimp)
  - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides)
  - [Create an Invitation to your Open House using Google Forms](https://www.coursera.org/learn/create-invitation-open-house-google-forms)
- - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva)
  - [Create Cross Tabulation Reports in Google Sheets](https://www.coursera.org/learn/cross-tabulation-reports-google-sheets)
  - [Design a Client Welcome Kit using Canva](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva)
  - [Design a Factor Analysis Using Survey Data in Google Sheets](https://www.coursera.org/learn/design-a-factor-analysis-using-survey-data-in-google-sheets)
@@ -163,7 +159,6 @@
  - [Small Business Marketing Using LinkedIn](https://www.coursera.org/learn/small-business-marketing-linkedin)
  - [Small Business Marketing Using YouTube](https://www.coursera.org/learn/youtube-small-business-marketing)
  - [Use Canva to Create an Interactive Mind Map](https://www.coursera.org/learn/canva-create-an-interactive-mind-map)
- - [Use Canva to Create Desktop and Mobile-friendly Web Pages.](https://www.coursera.org/learn/use-canva-to-create-desktop-and-mobile-friendly-webpages)
  - [Use Canva to Create Mobile-friendly Webpages.](https://www.coursera.org/learn/use-canvaa-to-create-mobile-friendly-webpages)
  - [Use Canva to Create Social Media Visuals for Business](https://www.coursera.org/learn/use-canva-to-create-social-media-visuals-for-business)
  - [Use Google Forms for Marketing Surveys](https://www.coursera.org/learn/use-google-forms-marketing-surveys)
@@ -244,7 +239,6 @@
 ### Coursera Project Network
  - [Access an EC2 instance shell from the AWS console](https://www.coursera.org/learn/accessing-ec2-instance-aws-console)
  - [AWS Cloudfront: Serve content from multiple S3 buckets](https://www.coursera.org/learn/aws-cloudfront-s3)
- - [AWS S3 Basics](https://www.coursera.org/learn/aws-s3-basics)
  - [Build a Business Architecture using AWS Organization](https://www.coursera.org/learn/build-a-business-architecture-using-aws-organization)
  - [Building Smart Business Assistants with IBM Watson](https://www.coursera.org/learn/building-smart-business-assistants-ibm-watson)
  - [Creating Routing Policies to Handle Traffic with AWS Route53](https://www.coursera.org/learn/creating-routing-policies-handle-traffic-aws-route53)
@@ -264,7 +258,6 @@
  - [Build a Professional Resume using Canva](https://www.coursera.org/learn/build-a-professional-resume-using-canva)
  - [Create a Departure and Personal Statement for Interviews](https://www.coursera.org/learn/departure-personal-statement-interviews)
  - [Facilitate Online Discussions with Eduflow](https://www.coursera.org/learn/facilitate-online-discussions-with-eduflow)
- - [Gmail para Principiantes: bases a las aplicaciones de Google](https://www.coursera.org/learn/gmail-principiantes-bases-aplicaciones-google)
  - [Teaching with Peer Review Using Eduflow](https://www.coursera.org/learn/teaching-with-peer-review-using-eduflow)
 # Physical Science and Engineering
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
@@ -284,7 +277,213 @@
 # Undefined
 > - [Undefined](#undefined)
 ## Undefined
+### Amazon Web Services
+ - [AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications)
 ### Arizona State University
+ - [Assessing Achievement with the ELL in Mind](https://www.coursera.org/learn/ell-assessment)
  - [Data in Database](https://www.coursera.org/learn/data-in-database)
+### Berklee College of Music
+ - [Creativity And Entrepreneurship](https://www.coursera.org/learn/creativity-entrepreneurship)
+### California Institute of the Arts
+ - [Brand New Brand](https://www.coursera.org/learn/brand-new-brand)
+### CertNexus
+ - [Create and Lead an Ethical Data-Driven Organization](https://www.coursera.org/learn/ethical-data-driven-technology-leader)
+### Coursera Project Network
+ - [Access CSV in an Android Studio Project](https://www.coursera.org/learn/access-csv-android-studio-project)
+ - [AWS S3 Basics](https://www.coursera.org/learn/aws-s3-basics)
+ - [Basic Artificial Neural Networks in Python](https://www.coursera.org/learn/basic-artificial-neural-networks-in-python)
+ - [Basic Statistics in Python (ANOVA)](https://www.coursera.org/learn/basic-statistics-python-anova)
+ - [Basic User Interface Design for Web Developers](https://www.coursera.org/learn/basic-user-interface-design-web-developers)
+ - [Brand Marketing and SEO Tools using Wix](https://www.coursera.org/learn/brand-marketing-seo-tools-using-wix)
+ - [Build a Firebase Android Application](https://www.coursera.org/learn/firebase-android-app)
+ - [Build a Flywheel Infographic with Inkscape](https://www.coursera.org/learn/build-a-flywheel-infographic-with-inkscape)
+ - [Build a Lean Workflow with Kanban Frameworks in Miro](https://www.coursera.org/learn/build-lean-workflow-kanban-framework-miro)
+ - [Building Digital Media using Graphic Design in Google Slides](https://www.coursera.org/learn/digital-media-with-graphic-design)
+ - [Building Globally Distributed Databases with Cosmos DB](https://www.coursera.org/learn/building-globally-distributed-databases-with-cosmos)
+ - [Cleaning, Reshaping, and Expanding Datasets in Python](https://www.coursera.org/learn/cleaning-reshaping-and-expanding-data-in-python)
+ - [Climate Change Forecasting Using Deep Learning](https://www.coursera.org/learn/climate-change-forecasting-using-deep-learning)
+ - [Create a First-Person Camera (VM-Compatible!) in Unity](https://www.coursera.org/learn/create-first-person-camera-c-sharp-unity)
+ - [Create a Landing Page using Mailchimp](https://www.coursera.org/learn/create-landing-page-using-mailchimp)
+ - [Create a Point of Sale (POS) with Java Basics](https://www.coursera.org/learn/pos-java)
+ - [Create an FPS Weapon in Unity (Part 4 - Ammunition)](https://www.coursera.org/learn/create-fps-weapon-unity-ammunition)
+ - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva)
+ - [Create basic behavior with C# in Unity](https://www.coursera.org/learn/create-basic-behavior-csharp-unity)
+ - [Create Process Flowchart using LibreOffice Draw](https://www.coursera.org/learn/flowchart-process-libreoffice-draw)
+ - [Create User Directory and Files with Linux Commands](https://www.coursera.org/learn/user-directory-files-linux-commands)
+ - [Create your e-commerce store with Ecwid](https://www.coursera.org/learn/create-your-ecommerce-store-with-ecwid)
+ - [Create Your First Application with Java Using Networking](https://www.coursera.org/learn/create-your-first-java-application-with-networking)
+ - [Create Your First Automation Script Using Selenium and Java](https://www.coursera.org/learn/create-automation-script-using-selenium-java)
+ - [Deep Learning Inference with Azure ML Studio](https://www.coursera.org/learn/azure-machine-learning-studio-deep-learning-inference)
+ - [Design and Develop a Website using Figma and CSS](https://www.coursera.org/learn/design-and-develop-website-using-figma-and-css)
+ - [Design and Simulate Smart Home Networks in Packet Tracer](https://www.coursera.org/learn/design-simulate-smart-home-networks-packet-tracer)
+ - [Exploring and Analyzing Fifa's Datasets Using Python](https://www.coursera.org/learn/analyzing-fifa-datasets-using-pandas)
+ - [Getting Started With Game Development Using PyGame](https://www.coursera.org/learn/getting-started-with-game-development-using-pygame)
+ - [Gmail para Principiantes: bases a las aplicaciones de Google](https://www.coursera.org/learn/gmail-principiantes-bases-aplicaciones-google)
+ - [Image Super Resolution Using Autoencoders in Keras](https://www.coursera.org/learn/image-super-resolution-autoencoders-keras)
+ - [Introducción a computación serverless con Azure Functions](https://www.coursera.org/learn/serverless-azure)
+ - [Introducción a Scala en Big data con Databricks](https://www.coursera.org/learn/scala-big-data)
+ - [Learn Object-Oriented Programming with Scala](https://www.coursera.org/learn/oop-scala)
+ - [Object Detection with Amazon Sagemaker](https://www.coursera.org/learn/object-detection-sagemaker)
+ - [Principal Component Analysis with NumPy](https://www.coursera.org/learn/principal-component-analysis-numpy)
+ - [Project Management: Creating the WBS](https://www.coursera.org/learn/project-management-creating-the-wbs)
+ - [RStudio for Six Sigma - Process Capability](https://www.coursera.org/learn/rstudio-six-sigma-process-capability)
+ - [Set up Google Analytics for a single page website](https://www.coursera.org/learn/set-up-google-analytics-on-single-page-applications)
+ - [Uncover the Survey Data Story with Charts in Google Sheets](https://www.coursera.org/learn/survey-data-story-bar-charts-in-google-sheets)
+ - [Use Canva to Create Desktop and Mobile-friendly Web Pages.](https://www.coursera.org/learn/use-canva-to-create-desktop-and-mobile-friendly-webpages)
+ - [Use WordPress to Create a Blog for your Business](https://www.coursera.org/learn/wordpress-create-blog-business)
+ - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic)
+### Curtis Institute of Music
+ - [Exploring Beethoven's Piano Sonatas Part 6](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-6)
+### Duke University
+ - [Introduction to Chemistry:  Structures and Solutions](https://www.coursera.org/learn/basic-chemistry)
+### Emory University
+ - [The Bible's Prehistory, Purpose, and Political Future](https://www.coursera.org/learn/bible-history)
+### Erasmus University Rotterdam
+ - [Cross-border road transport in EU law context](https://www.coursera.org/learn/transport-eu-law)
+### Goldman Sachs
+ - [Fundamentos de la Negociación con Goldman Sachs 10,000 Women](https://www.coursera.org/learn/10k-women-esp-10)
+ - [Fundamentos de las Operaciones con Goldman Sachs 10,000 Women](https://www.coursera.org/learn/10k-women-esp-7)
 ### Google Cloud
+ - [Application Deployment, Debug, Performance 日本語版](https://www.coursera.org/learn/app-deployment-debugging-performance-jp)
+ - [Applying Machine Learning to your Data with GCP 日本語版](https://www.coursera.org/learn/data-insights-gcp-apply-ml-jp)
+ - [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br)
+ - [Building Batch Data Pipelines on GCP 日本語版](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp)
  - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
+ - [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/learn/streaming-analytics-systems-gcp)
+ - [Building Resilient Streaming Analytics Systems on GCP 日本語版](https://www.coursera.org/learn/streaming-analytics-systems-gcp-jp)
+ - [Building Resilient Streaming Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp-br)
+ - [Business Transformation with Google Cloud 日本語版](https://www.coursera.org/learn/business-transformation-google-cloud-jp)
+ - [Exploring ​and ​Preparing ​your ​Data with BigQuery 日本語版](https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery-jp)
+ - [Getting Started With Application Development](https://www.coursera.org/learn/getting-started-app-development)
+ - [On Premises Installation and Fundamentals with Google Cloud's Apigee API Platform](https://www.coursera.org/learn/onprem-fundamentals-apigee-gcp)
+### IBM
+ - [Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots)
+ - [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion)
+ - [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
+ - [Getting Started with AI using IBM Watson](https://www.coursera.org/learn/ai-with-ibm-watson)
+ - [ما علم البيانات؟](https://www.coursera.org/learn/what-is-datascience-ar)
+### IESE Business School
+ - [Analysis of Business Problems](https://www.coursera.org/learn/analysis-business-problem-iese)
+### Imperial College London
+ - [Applying Participatory Approaches in Public Health Settings](https://www.coursera.org/learn/applying-participatory-approaches-in-public-health-settings)
+ - [Creative Thinking: Techniques and Tools for Success](https://www.coursera.org/learn/creative-thinking-techniques-and-tools-for-success)
+### Johns Hopkins University
+ - [Building Data Visualization Tools](https://www.coursera.org/learn/r-data-visualization)
+ - [Measuring and Maximizing Impact of COVID-19 Contact Tracing](https://www.coursera.org/learn/measuring-and-maximizing-impact-of-covid-19-contact-tracing)
+### Korea Advanced Institute of Science and Technology(KAIST)
+ - [Introduction to Basic Vibrations](https://www.coursera.org/learn/introduction-basic-vibrations)
+### LearnQuest
+ - [Artificial Intelligence Privacy and Convenience](https://www.coursera.org/learn/ai-privacy-and-convenience)
+### Ludwig-Maximilians-Universität München (LMU)
+ - [Competitive Strategy and Organization Design Project](https://www.coursera.org/learn/organization-strategy-project)
+### MathWorks
+ - [Exploratory Data Analysis with MATLAB](https://www.coursera.org/learn/exploratory-data-analysis-matlab)
+### Michigan State University
+ - [Design and Make Infographics (Project-Centered Course)](https://www.coursera.org/learn/infographic-design)
+### Moscow Institute of Physics and Technology
+ - [Брендинг в инновациях - новая коммуникационная реальность](https://www.coursera.org/learn/brending-v-innovaciyah)
+### Moscow Institute of Physics and Technology, American Institute of Business and Economics
+ - [Principles of Corporate Finance –  A Tale of Value](https://www.coursera.org/learn/principles-of-corporate-finance)
+### Novosibirsk State University 
+ - [Биосенсоры](https://www.coursera.org/learn/biosensory)
+### Saint Petersburg State University
+ - [Методологические проблемы психологии. Часть 2](https://www.coursera.org/learn/method-psychology-pt2)
+### Salesforce, SV Academy
+ - [Boosting Productivity through the Tech Stack](https://www.coursera.org/learn/sales-enablement-tools-productivity)
+### Tecnológico de Monterrey
+ - [Física: Vectores, Trabajo y Energía](https://www.coursera.org/learn/fisica-vectores-trabajo-energia)
+### The Hong Kong University of Science and Technology
+ - [English for Effective Business Speaking](https://www.coursera.org/learn/business-english-vocabulary)
+ - [Social Science Approaches to the Study of Chinese Society Part 1](https://www.coursera.org/learn/social-science-study-chinese-society)
+### The Linux Foundation
+ - [Linux Tools for Developers](https://www.coursera.org/learn/linux-tools-for-developers)
+### The State University of New York
+ - [Exploring Emerging Technologies for Lifelong Learning and Success](https://www.coursera.org/learn/emerging-technologies-lifelong-learning)
+### The University of North Carolina at Chapel Hill
+ - [Reasoning Across the Disciplines](https://www.coursera.org/learn/critical-reasoning)
+### The University of Sydney
+ - [Blockchain Scalability and its Foundations in Distributed Systems](https://www.coursera.org/learn/blockchain-scalability)
+ - [Critical Thinking Skills for University Success](https://www.coursera.org/learn/critical-thinking-skills)
+### Universidad de los Andes
+ - [DDHH y democracia: una visión desde América Latina](https://www.coursera.org/learn/derechos-humanos-democracia-america-latina)
+ - [Fundamentos de estadística aplicada](https://www.coursera.org/learn/estadistica-aplicada-fundamentos)
+### Universidad Nacional Autónoma de México
+ - [Creatividad computacional](https://www.coursera.org/learn/creatividad-computacional)
+ - [Gestión integral del riesgo de desastres](https://www.coursera.org/learn/gestion-riesgo)
+ - [Una aproximación a la química del carbono](https://www.coursera.org/learn/qimica-carbono)
+### Universitat de Barcelona
+ - [Claves para la innovación en la docencia universitaria](https://www.coursera.org/learn/innovacion-docencia-universitaria)
+### Universitat de Barcelona, Fundació Navegació Oceànica Barcelona
+ - [Oceanography: a key to better understand our world](https://www.coursera.org/learn/oceanography)
+### University at Buffalo, The State University of New York
+ - [Data Analysis and Visualization](https://www.coursera.org/learn/data-analyze-visualize)
+### University of Amsterdam
+ - [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory)
+### University of California, Davis
+ - [Designing and Implementing Your Coaching Strategy](https://www.coursera.org/learn/design-coaching-strategy)
+### University of California, Irvine
+ - [Academic Listening and Note-Taking](https://www.coursera.org/learn/note-taking)
+ - [Project Execution](https://www.coursera.org/learn/project-execution)
+ - [The Blockchain](https://www.coursera.org/learn/uciblockchain)
+### University of Colorado Boulder
+ - [Basic Elements of Design: Design Principles and Software Overview](https://www.coursera.org/learn/basic-elements-design)
+### University of Colorado Boulder, University of Colorado System
+ - [Battery State-of-Charge (SOC) Estimation](https://www.coursera.org/learn/battery-state-of-charge)
+ - [Battery State-of-Health (SOH) Estimation](https://www.coursera.org/learn/battery-state-of-health)
+### University of Colorado System
+ - [Clinical Data Models and Data Quality Assessments](https://www.coursera.org/learn/clinical-data-models-and-data-quality-assessments)
+ - [Cryptographic Hash and Integrity Protection](https://www.coursera.org/learn/cryptographic-hash-integrity-protection)
+ - [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory)
+ - [Data Analysis and Representation, Selection and Iteration](https://www.coursera.org/learn/data-analysis-representation-selection-iteration)
+ - [Intermediate Object-Oriented Programming for Unity Games](https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games)
+### University of Copenhagen, Technical University of Denmark (DTU)
+ - [Academic Information Seeking](https://www.coursera.org/learn/academicinfoseek)
+### University of Illinois at Urbana-Champaign
+ - [Applications of Everyday Leadership](https://www.coursera.org/learn/everyday-leadership-application)
+ - [Data Analytics Foundations for Accountancy II](https://www.coursera.org/learn/data-analytics-accountancy-2)
+ - [Designing the Organization](https://www.coursera.org/learn/designing-organization)
+ - [Project Initiation and Planning](https://www.coursera.org/learn/project-initiation-planning)
+### University of London
+ - [International Business Environment](https://www.coursera.org/learn/global-business-environment)
+ - [Probability and Statistics: To p or not to p?](https://www.coursera.org/learn/probability-statistics)
+### University of London, Goldsmiths, University of London
+ - [Building Interactive 3D Characters and Social VR](https://www.coursera.org/learn/interactive-3d-characters-social-virtual-reality)
+### University of London, London Business School
+ - [Brand Management: Aligning Business, Brand and Behaviour](https://www.coursera.org/learn/brand)
+### University of Maryland, College Park
+ - [Programming Mobile Applications for Android Handheld Systems: Part 2](https://www.coursera.org/learn/android-programming-2)
+### University of Michigan
+ - [Building Database Applications in PHP](https://www.coursera.org/learn/database-applications-php)
+ - [Decision Criteria & Applications](https://www.coursera.org/learn/decision-criteria-and-applications)
+### University of Minnesota
+ - [Creative Problem Solving](https://www.coursera.org/learn/creative-problem-solving)
+ - [Introduction to Integrative Therapies and Healing Practices](https://www.coursera.org/learn/integrative-therapies-and-healing-practices)
+ - [Matrix Methods](https://www.coursera.org/learn/matrix-methods)
+### University of Pennsylvania
+ - [Applying to U.S. Universities](https://www.coursera.org/learn/study-in-usa)
+ - [Crowdfunding](https://www.coursera.org/learn/wharton-crowdfunding)
+ - [Design: Creation of Artifacts in Society](https://www.coursera.org/learn/design)
+ - [Exploring Renewable Energy Schemes](https://www.coursera.org/learn/exploring-renewable-energy)
+ - [Introducción a la Gestión de Operaciones](https://www.coursera.org/learn/wharton-gestion-operaciones)
+ - [Privacy Law and Data Protection](https://www.coursera.org/learn/privacy-law-data-protection)
+ - [U.S. Health Law Fundamentals](https://www.coursera.org/learn/health-law-fundamentals)
+### University of Pennsylvania, Unicef
+ - [Social Norms, Social Change II](https://www.coursera.org/learn/change)
+### University of Pittsburgh
+ - [Clinical Terminology for International and U.S. Students](https://www.coursera.org/learn/clinical-terminology)
+### University of Rochester
+ - [The Blues: Understanding and Performing an American Art Form](https://www.coursera.org/learn/the-blues)
+ - [The Music of the Rolling Stones, 1962-1974](https://www.coursera.org/learn/rolling-stones)
+### University of Virginia
+ - [The Modern World, Part Two: Global History since 1910](https://www.coursera.org/learn/modern-world-2)
+### University of Washington
+ - [Machine Learning: Clustering & Retrieval](https://www.coursera.org/learn/ml-clustering-and-retrieval)
+### University System of Georgia
+ - [The Business of Cybersecurity Capstone](https://www.coursera.org/learn/business-of-cybersecurity-capstone)
+### Wesleyan University
+ - [Designing and Building Institutional Anti-Racist Spaces](https://www.coursera.org/learn/designing-building-antiracist-spaces)
+ - [Social Psychology](https://www.coursera.org/learn/social-psychology)
+### Yale University
+ - [Climate Adaptation for Human Health](https://www.coursera.org/learn/climateadaptation)
+### Yonsei University
+ - [International B2B (Business to Business) Marketing](https://www.coursera.org/learn/b2b-marketing)

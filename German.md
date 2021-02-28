@@ -16,6 +16,8 @@
 > - [Finance](#finance)
 > - [Leadership and Management](#leadership-and-management)
 ## Business Essentials
+### Macquarie University
+ - [Excel-Kenntnisse für Unternehmen: Grundlagen](https://www.coursera.org/learn/excel-essentials-de) `beginner`
 ### University of Michigan
  - [Erfolgreich Verhandeln: Strategien und Fähigkeiten](https://www.coursera.org/learn/negotiation-skills-de)
 ## Business Strategy

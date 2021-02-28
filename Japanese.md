@@ -13,7 +13,6 @@
 ### DeepLearning.AI
  - [すべての人のためのAI【日本語版】](https://www.coursera.org/learn/ai-for-everyone-ja) `beginner`
 ### Google Cloud
- - [Business Transformation with Google Cloud 日本語版](https://www.coursera.org/learn/business-transformation-google-cloud-jp) `beginner`
  - [Google Cloud Product Fundamentals 日本語版](https://www.coursera.org/learn/google-cloud-product-fundamentals-jp) `beginner`
 # Computer Science
 > - [Computer Security and Networks](#computer-security-and-networks)
@@ -35,7 +34,6 @@
 3. [Architecting with Google Kubernetes Engine: Workloads 日本語版](https://www.coursera.org/learn/deploying-workloads-google-kubernetes-engine-gke-jp) `intermediate`
 4. [Architecting with Google Kubernetes Engine: Production 日本語版](https://www.coursera.org/learn/deploying-secure-kubernetes-containers-in-production-jp) `intermediate`
 #### [Developing Applications with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/developing-apps-gcp-jp)
-2. [Application Deployment, Debug, Performance 日本語版](https://www.coursera.org/learn/app-deployment-debugging-performance-jp) `intermediate`
 3. [Securing and Integrating Components of your Application 日本語版](https://www.coursera.org/learn/securing-integrating-components-app-jp) `intermediate`
 4. [Getting Started with Application Development 日本語版](https://www.coursera.org/learn/getting-started-app-development-jp) `intermediate`
 # Data Science
@@ -56,8 +54,6 @@
 > - [Data Management](#data-management)
 ## Cloud Computing
 ### Google Cloud
- - [Building Batch Data Pipelines on GCP 日本語版](https://www.coursera.org/learn/batch-data-pipelines-gcp-jp) `intermediate`
- - [Building Resilient Streaming Analytics Systems on GCP 日本語版](https://www.coursera.org/learn/streaming-analytics-systems-gcp-jp) `intermediate`
  - [Elastic Cloud Infrastructure: Scaling and Automation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-jp) `intermediate`
  - [Essential Cloud Infrastructure: Core Services 日本語版](https://www.coursera.org/learn/gcp-infrastructure-core-services-jp) `intermediate`
  - [Essential Cloud Infrastructure: Foundation 日本語版](https://www.coursera.org/learn/gcp-infrastructure-foundation-jp) `intermediate`
@@ -77,7 +73,5 @@
 ## Data Management
 ### Google Cloud
 #### [From Data to Insights with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform-jp)
-1. [Exploring ​and ​Preparing ​your ​Data with BigQuery 日本語版](https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery-jp) `beginner`
 2. [Creating New BigQuery Datasets and Visualizing Insights 日本語版](https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights-jp) `beginner`
 3. [Achieving Advanced Insights with BigQuery 日本語版](https://www.coursera.org/learn/gcp-advanced-insights-bigquery-jp) `beginner`
-4. [Applying Machine Learning to your Data with GCP 日本語版](https://www.coursera.org/learn/data-insights-gcp-apply-ml-jp) `intermediate`

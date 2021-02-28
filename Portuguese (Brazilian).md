@@ -42,12 +42,16 @@
 #### [Blockchain Para a Empresa Specialization](https://www.coursera.org/specializations/blockchain-para-a-empresa)
 1. [Introdução às Tecnologias Blockchain](https://www.coursera.org/learn/introducao-tecnologias-blockchain) `beginner`
 3. [Blockchain e Negócios: Aplicativos e Implicações](https://www.coursera.org/learn/blockchain-negocios)
+### Macquarie University
+ - [Habilidades de Excel para negócios: Fundamentos](https://www.coursera.org/learn/excel-essentials-pt) `beginner`
 ### Universidade de São Paulo
  - [Marketing e vendas B2B: Fechando novos negócios](https://www.coursera.org/learn/marketing-vendas-b2b) `beginner`
 ### University of Michigan
  - [Como influenciar pessoas](https://www.coursera.org/learn/influencing-people-pt)
  - [Negociações de sucesso: estratégias e habilidades essenciais (em Português)](https://www.coursera.org/learn/negociacao)
 ## Business Strategy
+### DeepLearning.AI
+ - [IA para todos](https://www.coursera.org/learn/ai-for-everyone-pt) `beginner`
 ### Google Cloud
  - [Business Transformation with Google Cloud em Português](https://www.coursera.org/learn/business-transformation-google-cloud-br) `beginner`
  - [Google Cloud Product Fundamentals em Português Brasileiro](https://www.coursera.org/learn/google-cloud-product-fundamentals-br) `beginner`
@@ -57,6 +61,8 @@
 ### Insper
  - [Capitalismo Consciente](https://www.coursera.org/learn/capitalismo-consciente)
  - [Gestão de Operações](https://www.coursera.org/learn/gestao-de-operacoes) `beginner`
+### University of Virginia
+ - [Design Thinking para Inovação](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-pt) `beginner`
 ## Entrepreneurship
 ### Goldman Sachs
  - [Expanda Seus Negócios com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-1)
@@ -80,6 +86,8 @@
 ### Yale University
  - [Mercados financeiros](https://www.coursera.org/learn/financial-markets-global-pt) `beginner`
 ## Leadership and Management
+### BCG, University of Virginia
+ - [Transformação digital](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-pt) `beginner`
 ### Fundação Instituto de Administração
  - [A prática da gestão de clubes e federações esportivas](https://www.coursera.org/learn/fia-gestao-clubes-federacoes-esportivas) `beginner`
 ### Universidade de São Paulo
@@ -92,6 +100,11 @@
 4. [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
 ### Universidade Estadual de Campinas
  - [Conceitos Básicos de Logística e Supply Chain](https://www.coursera.org/learn/conceitos-basicos-logistica) `beginner`
+### University of Michigan
+ - [Inspiração e motivação de indivíduos](https://www.coursera.org/learn/motivate-people-teams-pt)
+ - [Liderar equipes](https://www.coursera.org/learn/leading-teams-pt)
+### University of Virginia
+ - [Gestão de produtos digitais: Princípios básicos modernos](https://www.coursera.org/learn/uva-darden-digital-product-management-pt) `beginner`
 ## Marketing
 ### Fundação Instituto de Administração
  - [Gestão de Marca & Crise de Imagem](https://www.coursera.org/learn/gestao-de-marca-crise-imagem) `intermediate`
@@ -112,6 +125,8 @@
  - [UX / UI: Fundamentos para o design de interface](https://www.coursera.org/learn/ux-ui-design-de-interface) `beginner`
 ### Universidade Estadual de Campinas
  - [Processamento Digital de Sinais - Amostragem](https://www.coursera.org/learn/pds)
+### University of Alberta
+ - [Introdução ao Gerenciamento de produtos de software](https://www.coursera.org/learn/introduction-to-software-product-management-pt)
 ## Mobile and Web Development
 ### Coursera Project Network
  - [Crie sua página pessoal usando React e Github Pages](https://www.coursera.org/learn/build-your-personal-webpage-pt-br) `beginner`
@@ -134,7 +149,9 @@
  - [Introdução ao Teste de Software](https://www.coursera.org/learn/intro-teste-de-software) `beginner`
  - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) `beginner`
  - [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) `beginner`
+ - [Laboratório de Programação Orientada a Objetos - Parte 1](https://www.coursera.org/learn/lab-poo-parte-1) `intermediate`
 ### University of Michigan
+ - [Estruturas de dados Python](https://www.coursera.org/learn/python-data-pt)
  - [Programação para todos (Conceitos básicos de Python)](https://www.coursera.org/learn/python-pt)
  - [Uso de bancos de dados com Python](https://www.coursera.org/learn/python-databases-pt)
 # Data Science
@@ -145,8 +162,13 @@
 ### Fundação Instituto de Administração
  - [Introdução ao Big Data](https://www.coursera.org/learn/introducao-big-data) `beginner`
 ### Google Cloud
- - [Building Resilient Streaming Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp-br) `intermediate`
  - [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br) `intermediate`
+### IBM
+ - [Análise de dados com Python](https://www.coursera.org/learn/data-analysis-with-python-pt) `beginner`
+ - [Metodologia de Ciência de Dados](https://www.coursera.org/learn/data-science-methodology-pt) `beginner`
+ - [O que é ciência de dados?](https://www.coursera.org/learn/what-is-datascience-pt) `beginner`
+ - [Python para a Ciência de Dados e IA](https://www.coursera.org/learn/python-for-applied-data-science-ai-pt) `beginner`
+ - [Trabalho de conclusão de Ciência de Dados Aplicada](https://www.coursera.org/learn/applied-data-science-capstone-pt) `intermediate`
 ## Machine Learning
 ### Coursera Project Network
  - [Introdução a Machine Learning em uma Competição do Kaggle](https://www.coursera.org/learn/ml-basics-kaggle-competition-pt-br) `beginner`
@@ -159,6 +181,8 @@
 3. [Intro to TensorFlow em Português Brasileiro](https://www.coursera.org/learn/intro-tensorflow-br) `intermediate`
 4. [Feature Engineering em Português Brasileiro](https://www.coursera.org/learn/feature-engineering-br) `intermediate`
 5. [Art and Science of Machine Learning em Português Brasileiro](https://www.coursera.org/learn/art-science-ml-br) `intermediate`
+### IBM
+ - [Aprendizado de máquina com Python](https://www.coursera.org/learn/machine-learning-with-python-pt) `intermediate`
 ## Probability and Statistics
 ### Universidade de São Paulo
  - [Estatística não-paramétrica para a tomada de decisão](https://www.coursera.org/learn/estatistica-nao-parametrica) `intermediate`
@@ -199,7 +223,6 @@
  - [Understanding Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-management-br) `beginner`
 #### [Data Engineer, Big Data and ML on Google Cloud em Português Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-br)
 2. [Modernizing Data Lakes and Data Warehouses with GCP em Português Brasileiro](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-br) `intermediate`
-3. [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br) `intermediate`
 4. [Building Resilient Streaming Analytics Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/streaming-analytics-systems-gcp-br) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-br) `intermediate`
 ## Networking
@@ -260,8 +283,6 @@
  - [Introdução à Análise Macroeconômica](https://www.coursera.org/learn/introducao-analise-macroeconomica) `intermediate`
 ### Universidade Estadual de Campinas
  - [Introdução à Economia do Trabalho: Teorias e Políticas](https://www.coursera.org/learn/economia-do-trabalho) `beginner`
-### University of California, Irvine
- - [O Poder da Macroeconomia: princípios da economia no mundo real (em Português)](https://www.coursera.org/learn/macroeconomia-pt)
 ## Education
 ### Fundação Lemann, Elos Educacional
  - [Gestão para a Aprendizagem: Módulo Gestão Estratégica](https://www.coursera.org/learn/gestao-escolar)

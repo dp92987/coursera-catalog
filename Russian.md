@@ -64,6 +64,7 @@
 > - [Marketing](#marketing)
 ## Business Essentials
 ### Macquarie University
+ - [Навыки Excel для бизнеса: Основы](https://www.coursera.org/learn/excel-essentials-ru) `beginner`
  - [Умения работы с Excel для бизнеса: уровень Intermediate I](https://www.coursera.org/learn/excel-intermediate-1-ru) `intermediate`
 ### Moscow Institute of Physics and Technology
  - [Коммерциализация результатов НИОКР](https://www.coursera.org/learn/kommercializaciya-niokr) `beginner`
@@ -101,6 +102,7 @@
 ### E-Learning Development Fund
  - [Современные практики бирюзового управления](https://www.coursera.org/learn/teal-management-practices)
 ### Moscow Institute of Physics and Technology
+ - [PropTech: теория и практика](https://www.coursera.org/learn/proptech) `beginner`
  - [Инженер - менеджер настоящего, системный архитектор будущего](https://www.coursera.org/learn/systems-engineering-5) `intermediate`
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Государственно-частное партнерство в инфраструктурном развитии России](https://www.coursera.org/learn/gosudarstvenno-chastnoye-partnerstvo) `beginner`
@@ -134,7 +136,9 @@
 ## Finance
 ### Coursera Project Network
  - [Используем функции Google Finance в Google Sheets](https://www.coursera.org/learn/google-finance-functions-google-sheets-ru) `intermediate`
+ - [Оценка облигаций](https://www.coursera.org/learn/bonds-fixed-income-mathematics-ru) `intermediate`
  - [Сравниваем доходность акций с Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets-ru) `intermediate`
+ - [Управление инвестиционными рисками](https://www.coursera.org/learn/investment-risk-management-ru) `intermediate`
 ### HSE University
  - [Основы корпоративных финансов (Fundamentals of Corporate Finance)](https://www.coursera.org/learn/osnovy-korporativnykh-finansov) `beginner`
  - [Ценные бумаги: правовое регулирование](https://www.coursera.org/learn/cennye-bumagi-pravovoe-regulirovanie)
@@ -168,7 +172,7 @@
 ### Saint Petersburg State University
  - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
  - [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
- - [Финансовая грамота](https://www.coursera.org/learn/finlit1)
+ - [Финансовая грамота](https://www.coursera.org/learn/finlit1) `beginner`
 ### SberUniversity
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -176,6 +180,8 @@
 ### Yale University
  - [Финансовые рынки](https://www.coursera.org/learn/financial-markets-global-ru) `beginner`
 ## Leadership and Management
+### Coursera Project Network
+ - [Введение в приложение Google Docs](https://www.coursera.org/learn/introduction-google-docs-ru) `beginner`
 ### Indian School of Business
  - [Лидерство и эмоциональный интеллект](https://www.coursera.org/learn/emotional-intelligence-in-leadership-ru) `beginner`
 ### Macquarie University
@@ -217,7 +223,6 @@
 ### IMBA)
  - [Интернет-маркетинг. Лидогенерация (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/imba-internet-marketing-lead-generation) `beginner`
 ### Moscow Institute of Physics and Technology
- - [Брендинг в инновациях - новая коммуникационная реальность](https://www.coursera.org/learn/brending-v-innovaciyah)
  - [Маркетинг инновационных продуктов](https://www.coursera.org/learn/marketing-innov-produktov) `beginner`
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Комплекс маркетинга: 5Р](https://www.coursera.org/learn/kompleks-marketinga-5p) `beginner`
@@ -249,6 +254,7 @@
  - [Спортивное программирование](https://www.coursera.org/learn/sportivnoe-programmirovanie) `beginner`
 ### Saint Petersburg State University
  - [Квантовые вычисления (Quantum computing)](https://www.coursera.org/learn/kvantovyye-vychisleniya)
+ - [Основы олимпиадного программирования](https://www.coursera.org/learn/competitive-programming-basics-ru) `intermediate`
 ## Computer Security and Networks
 ### HSE University
  - [Менеджмент информационной безопасности](https://www.coursera.org/learn/management-informacionnoi-bezopasnosti) `intermediate`
@@ -290,6 +296,8 @@
 4. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 5. [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt) `advanced`
 ## Software Development
+### E-Learning Development Fund
+ - [Продвижение в поиске](https://www.coursera.org/learn/search-promotion) `beginner`
 ### E-Learning Development Fund, RUDN University
  - [Fundamentals of digital management](https://www.coursera.org/learn/fundamentals-of-digital-management) `intermediate`
 ### HSE University
@@ -340,6 +348,15 @@
  - [Инструментальная фонетика: компьютерные методы сбора и анализа данных](https://www.coursera.org/learn/instrumental-phonetics)
 #### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
 1. [Обработка больших данных](https://www.coursera.org/learn/big-data-processing) `intermediate`
+### IBM
+ - [Python: обработка и анализ данных и ИИ](https://www.coursera.org/learn/python-for-applied-data-science-ai-ru) `beginner`
+ - [Анализ данных с использованием Python](https://www.coursera.org/learn/data-analysis-with-python-ru) `beginner`
+ - [Заключительный курс по теме «Прикладная наука о данных»](https://www.coursera.org/learn/applied-data-science-capstone-ru) `intermediate`
+ - [Методология обработки и анализа данных](https://www.coursera.org/learn/data-science-methodology-ru) `beginner`
+ - [Что такое обработка и анализ данных?](https://www.coursera.org/learn/what-is-datascience-ru) `beginner`
+### Mail.Ru Group, ФРОО, Moscow Institute of Physics and Technology
+#### [Программирование на Python Specialization](https://www.coursera.org/specializations/programming-in-python)
+4. [Python для анализа данных](https://www.coursera.org/learn/python-for-data-science) `intermediate`
 ### Moscow Institute of Physics and Technology
  - [Анализ и обработка данных в Microsoft Power BI](https://www.coursera.org/learn/microsoft-power-bi) `beginner`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
@@ -348,9 +365,6 @@
 4. [Построение выводов по данным](https://www.coursera.org/learn/stats-for-data-analysis) `advanced`
 5. [Прикладные задачи анализа данных](https://www.coursera.org/learn/data-analysis-applications) `intermediate`
 6. [Анализ данных: финальный проект](https://www.coursera.org/learn/data-analysis-project) `advanced`
-### Moscow Institute of Physics and Technology, ФРОО, Mail.Ru Group
-#### [Программирование на Python Specialization](https://www.coursera.org/specializations/programming-in-python)
-4. [Python для анализа данных](https://www.coursera.org/learn/python-for-data-science) `intermediate`
 ### Novosibirsk State University 
 #### [Анализ данных Specialization](https://www.coursera.org/specializations/analiz-dannykh)
 1. [Введение в данные](https://www.coursera.org/learn/vvedeniye-dannyye) `intermediate`
@@ -375,6 +389,8 @@
 2. [Машинное обучение на больших данных](https://www.coursera.org/learn/machine-learning-on-big-data) `intermediate`
 ### HSE University, Yandex School of Data Analysis
  - [Введение в машинное обучение](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie)
+### IBM
+ - [Машинное обучение с использованием Python](https://www.coursera.org/learn/machine-learning-with-python-ru) `intermediate`
 ### Moscow Institute of Physics and Technology, Yandex, E-Learning Development Fund
 #### [Машинное обучение и анализ данных Specialization](https://www.coursera.org/specializations/machine-learning-data-analysis)
 2. [Обучение на размеченных данных](https://www.coursera.org/learn/supervised-learning) `intermediate`
@@ -448,7 +464,6 @@
 ### Saint Petersburg State University
  - [Математические методы в психологии. Основы применения (Mathematical Methods in Psychology: Basics of Applying)](https://www.coursera.org/learn/matematicheskiye-metody-v-psikhologii)
  - [Методологические проблемы психологии](https://www.coursera.org/learn/metodologicheskiye-problemy-psikhologii) `beginner`
- - [Методологические проблемы психологии. Часть 2](https://www.coursera.org/learn/method-psychology-pt2) `beginner`
  - [Нейролингвистика](https://www.coursera.org/learn/neuro-ling-ru)
  - [Психолингвистика (Psycholinguistics)](https://www.coursera.org/learn/psikholingvistika)
  - [Психология сознания (Psychology of consciousness)](https://www.coursera.org/learn/psikhologiya-soznaniya) `beginner`
@@ -462,7 +477,6 @@
  - [Коронавирусы SARS-CoV-2 и возбудители ОРВИ](https://www.coursera.org/learn/-sars-cov-2)
 ## Research
 ### Novosibirsk State University 
- - [Биосенсоры](https://www.coursera.org/learn/biosensory) `beginner`
  - [Эпигенетика. Краткий курс по управлению генами](https://www.coursera.org/learn/epigenetika) `intermediate`
 # Information Technology
 > - [Data Management](#data-management)
@@ -494,7 +508,8 @@
  - [Читаем русскую классику вместе.  М. Булгаков «Мастер и Маргарита»](https://www.coursera.org/learn/bulgakov-master-i-margarita)
  - [Я говорю по-русски/ I speak Russian](https://www.coursera.org/learn/ya-govoryu-po-russki) `intermediate`
 ### Saint Petersburg State University
- - [Китайский для начинающих (Chinese for beginners)](https://www.coursera.org/learn/kitayskiy-dlya-nachinayushchikh) `beginner`
+ - [Китайский язык: пять шагов к успеху. Часть 1](https://www.coursera.org/learn/kit-step1) `beginner`
+ - [Китайский язык: пять шагов к успеху. Часть 2](https://www.coursera.org/learn/kit-step2) `beginner`
 #### [Русский как иностранный Specialization](https://www.coursera.org/specializations/russkiy-kak-inostrannyy)
 1. [Русский как иностранный: B1+. Russian as a foreign language: B1+](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1) `intermediate`
 2. [Русский как иностранный: B1+. Часть 2. Russian as a foreign language. B1+. Part 2.](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1-2) `intermediate`

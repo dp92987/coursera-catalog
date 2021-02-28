@@ -43,6 +43,8 @@
  - [Innovation publique et pensée design, l'innovation sociale au service des territoires](https://www.coursera.org/learn/innovation-publique-pensee-design) `beginner`
  - [L'entrepreneuriat social: faire son business plan](https://www.coursera.org/learn/monde-action)
  - [Originalité et modernité du mutualisme](https://www.coursera.org/learn/originalite-et-modernite-du-mutualisme) `beginner`
+### Macquarie University
+ - [Compétences Excel pour l’entreprise : les notions clés](https://www.coursera.org/learn/excel-essentials-fr) `beginner`
 ### University of Colorado Boulder
  - [Donner un feedback utile](https://www.coursera.org/learn/feedback-fr)
 ### University of Michigan
@@ -118,6 +120,7 @@
 ### Coursera Project Network
  - [Créer un Groupe Auto Scaling Amazon EC2 avec Load Balancer](https://www.coursera.org/learn/creer-un-groupe-auto-scaling-ec2-dans-la-console-amazon-aws) `intermediate`
  - [Créer une instance Amazon EC2 dans la console AWS](https://www.coursera.org/learn/creer-une-instance-amazon-ec2-dans-la-console-aws) `beginner`
+ - [Initiation aux conteneurs avec Docker](https://www.coursera.org/learn/initiation-conteneurs-docker) `intermediate`
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
  - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
@@ -154,6 +157,7 @@
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
  - [Création de chaînes en Python](https://www.coursera.org/learn/creation-de-chaines-en-python) `beginner`
+ - [Des nombres et plus en Python](https://www.coursera.org/learn/des-nombres-et-plus-en-python) `beginner`
  - [Introduction A L’HTML](https://www.coursera.org/learn/introduction-a-l-html) `beginner`
  - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
 ### Google Cloud
