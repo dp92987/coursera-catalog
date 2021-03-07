@@ -65,6 +65,8 @@
  - [القيادة والذكاء العاطفي](https://www.coursera.org/learn/emotional-intelligence-in-leadership-ar) `beginner`
 ### University of California, Davis
  - [ممارسات التدريب](https://www.coursera.org/learn/coaching-practices-ar)
+### University of California, Irvine
+ - [إدارة مخاطر المشروعات والتغييرات التي تطرأ عليها](https://www.coursera.org/learn/project-risk-management-ar)
 ### University of London, London Business School
  - [إدارة شركات المستقبل](https://www.coursera.org/learn/company-future-management-ar)
 ### University of Michigan
@@ -77,12 +79,16 @@
  - [القيادة الدولية والسلوك التنظيمي](https://www.coursera.org/learn/organizational-behavior-ar)
 ## Marketing
 ### Coursera Project Network
+ - [إنشاء تصاميم تسويقية مذهلة باستخدام كانفا](https://www.coursera.org/learn/create-amazing-designs-using-canva-ar) `beginner`
  - [إنشاء صفحة أعمال مجانية باستخدام Blogger](https://www.coursera.org/learn/creating-a-free-business-page-with-blogger-ar) `beginner`
  - [إنشاء صفحة لنكدين إحترافية](https://www.coursera.org/learn/create-a-professional-linkedin-account-ar) `beginner`
  - [التسويق للشركات  والمشاريع الصغيرة عبر موقع يوتيوب](https://www.coursera.org/learn/youtube-for-small-businesses-ar) `beginner`
  - [التسويق للمشاريع الصغيرة عبر موقع التواصل الإجتماعي فيسبوك](https://www.coursera.org/learn/facebook-marketing-for-small-businesses-ar) `beginner`
 ### University of Illinois at Urbana-Champaign
  - [التسويق في عالم رقمي](https://www.coursera.org/learn/marketing-digital-ar) `beginner`
+ - [لوسائط الرقمية واستراتيجيات التسويق](https://www.coursera.org/learn/marketing-plan-ar)
+### University of Virginia
+ - [تحليلات التسويق](https://www.coursera.org/learn/uva-darden-market-analytics-ar) `beginner`
 # Computer Science
 > - [Algorithms](#algorithms)
 > - [Design and Product](#design-and-product)
@@ -104,19 +110,25 @@
 ## Software Development
 ### Coursera Project Network
  - [Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python-in-arabic) `intermediate`
+ - [SQL تحسين أداء وضبط أوامر](https://www.coursera.org/learn/optimization-of-sql-query-performance) `intermediate`
  - [برنامج تنبيه سطح المكتب باستخدام Python: إشعارات Covid-19](https://www.coursera.org/learn/personal-desktop-notification-python-arabic) `intermediate`
  - [بناء Neural Network مكونه من 3 طبقات  بأستخدام لغة Python](https://www.coursera.org/learn/build-neural-network) `beginner`
  - [تصميم قاعدة البيانات باستخدام SQL Server Management Studio](https://www.coursera.org/learn/database-design-using-sql-server-management-studio) `beginner`
  - [تعرَف على هياكل البيانات في بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/python-data-structures-arabic) `beginner`
+ - [تعلم C عن طريق عمل Array-based Stack](https://www.coursera.org/learn/implement-array-based-stack-in-c-ar) `beginner`
  - [تعلم C عن طريق عمل function تقوم برسم شكل شجرة](https://www.coursera.org/learn/tree-project) `beginner`
  - [تعلم Java و JavaFX من خلال عمل آلة حاسبة](https://www.coursera.org/learn/learn-java-and-javafx-graphical-calculator-arabic) `beginner`
  - [تعلّم أساسيات البرمجة بلغة بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/introduction-to-python-arabic) `beginner`
  - [تعلّم أساسيات نظام التشغيل لينكس](https://www.coursera.org/learn/intro-to-linux-arabic) `beginner`
  - [لعبة الثعبان عن طريق python:استخدم pygame لتصنع لعبتك الخاصة](https://www.coursera.org/learn/snakegame-python-pygame-arabic) `intermediate`
  - [من خلال التطبيق العملي GitHub و Git تعلّم أساسيات](https://www.coursera.org/learn/introduction-to-git-and-github-arabic) `beginner`
+### Duke University
+ - [برمجة Java: المصفوفات، والقوائم، والبيانات المصنفة](https://www.coursera.org/learn/java-programming-arrays-lists-data-ar) `beginner`
+ - [برمجة Java: حل المشكلات باستخدام البرامج](https://www.coursera.org/learn/java-programming-ar) `beginner`
 ### The University of Edinburgh, Universidad ORT Uruguay
  - [برمج بنفسك! مقدمة حول البرمجة](https://www.coursera.org/learn/intro-programming-ar)
 ### University of California, Santa Cruz
+ - [لغة البرمجة C++ لمبرمجي C، الجزء (ب)](https://www.coursera.org/learn/c-plus-plus-b-ar)
  - [لغة البرمجة C++ لمبرمجي اللغة C، الجزء (أ)](https://www.coursera.org/learn/c-plus-plus-a-ar)
 ### University of Michigan
  - [Python استخدام قواعد البيانات مع](https://www.coursera.org/learn/python-databases-ar)
@@ -131,6 +143,7 @@
  - [MYSQL Workbench إنشاء و تصميم قواعد البيانات باستخدام](https://www.coursera.org/learn/database-creation-and-modeling-using-mysqlworkbench) `beginner`
  - [Power BI  الحصول على البيانات وشكلها ودمجها باستخدام](https://www.coursera.org/learn/manipulate-data-using-power-bi-desktop) `beginner`
  - [Python معالجة مسبقة للبيانات و تحليلها بواسطة](https://www.coursera.org/learn/data-wrangling-using-python) `beginner`
+ - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
  - [نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد](https://www.coursera.org/learn/genome-analysis-z-curve-arabic) `intermediate`
  - [و تحميل البيانات و إخراجهاPandas شرح أساسيات استخدام](https://www.coursera.org/learn/explain-pandas-load-and-export-data) `beginner`
@@ -141,11 +154,14 @@
  - [تحليل البيانات باستخدام بايثون](https://www.coursera.org/learn/data-analysis-with-python-ar) `beginner`
  - [قواعد البيانات وSQL (لغة الاستعلام البنيوية) لعلم البيانات](https://www.coursera.org/learn/sql-data-science-ar) `beginner`
  - [كابستون علوم البيانات التطبيقية](https://www.coursera.org/learn/applied-data-science-capstone-ar) `intermediate`
+ - [ما علم البيانات؟](https://www.coursera.org/learn/what-is-datascience-ar) `beginner`
  - [منهجية علم البيانات](https://www.coursera.org/learn/data-science-methodology-ar) `beginner`
 ### Johns Hopkins University
  - [مجموعة أدوات عالم البيانات](https://www.coursera.org/learn/data-scientists-tools-ar)
 ### University of California San Diego
  - [مقدمة عن البيانات الضخمة](https://www.coursera.org/learn/big-data-introduction-ar)
+### University of California, Davis
+ - [‏SQL لعلوم البيانات](https://www.coursera.org/learn/sql-for-data-science-ar) `beginner`
 ## Machine Learning
 ### DeepLearning.AI
  - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar) `intermediate`
@@ -161,6 +177,7 @@
 ### Coursera Project Network
  - [إداره مستخدمي Linux وصلاحيات الملف (Access Control List (ACL](https://www.coursera.org/learn/managing-linux-users-and-access-control-list-file-permissions-ar) `beginner`
  - [معالجة الملفات والمجلدات بإستخدام Linux لمهندسي الكمبيوتر](https://www.coursera.org/learn/manipulate-files-and-folders-with-linux-for-it-engineers) `beginner`
+ - [مقدمة إلي Bash shell & Linux processes &  Job scheduling](https://www.coursera.org/learn/introduction-to-bash-shell-and-linux-processes-and-job-scheduling-ar) `beginner`
 # Language Learning
 > - [Learning English](#learning-english)
 ## Learning English

@@ -98,8 +98,6 @@
 2. [Orçamento e Cronograma de Projetos](https://www.coursera.org/learn/orcamento-cronograma-de-projetos) `beginner`
 3. [Gestão de Riscos e de Mudanças em Projetos](https://www.coursera.org/learn/riscos-mudancas-em-projetos)
 4. [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
-### Universidade Estadual de Campinas
- - [Conceitos Básicos de Logística e Supply Chain](https://www.coursera.org/learn/conceitos-basicos-logistica) `beginner`
 ### University of Michigan
  - [Inspiração e motivação de indivíduos](https://www.coursera.org/learn/motivate-people-teams-pt)
  - [Liderar equipes](https://www.coursera.org/learn/leading-teams-pt)
@@ -110,8 +108,6 @@
  - [Gestão de Marca & Crise de Imagem](https://www.coursera.org/learn/gestao-de-marca-crise-imagem) `intermediate`
 ### Insper
  - [Introdução ao Marketing Analítico](https://www.coursera.org/learn/marketing-analitico)
-### Universidade de São Paulo
- - [Marketing Digital](https://www.coursera.org/learn/estrategia-marketing-digital) `beginner`
 # Computer Science
 > - [Algorithms](#algorithms)
 > - [Design and Product](#design-and-product)
@@ -130,8 +126,6 @@
 ## Mobile and Web Development
 ### Coursera Project Network
  - [Crie sua página pessoal usando React e Github Pages](https://www.coursera.org/learn/build-your-personal-webpage-pt-br) `beginner`
-### Universidade Estadual de Campinas
- - [Introdução ao Desenvolvimento de Aplicativos Android](https://www.coursera.org/learn/introducao-aplicativos-android) `intermediate`
 ## Software Development
 ### Google Cloud
  - [Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro](https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-br) `intermediate`
@@ -146,7 +140,6 @@
  - [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) `intermediate`
  - [TDD – Desenvolvimento de Software Guiado por Testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) `intermediate`
 ### Universidade de São Paulo
- - [Introdução ao Teste de Software](https://www.coursera.org/learn/intro-teste-de-software) `beginner`
  - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos) `beginner`
  - [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2) `beginner`
  - [Laboratório de Programação Orientada a Objetos - Parte 1](https://www.coursera.org/learn/lab-poo-parte-1) `intermediate`
@@ -159,9 +152,8 @@
 > - [Machine Learning](#machine-learning)
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
-### Fundação Instituto de Administração
- - [Introdução ao Big Data](https://www.coursera.org/learn/introducao-big-data) `beginner`
 ### Google Cloud
+ - [Building Resilient Streaming Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp-br) `intermediate`
  - [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br) `intermediate`
 ### IBM
  - [Análise de dados com Python](https://www.coursera.org/learn/data-analysis-with-python-pt) `beginner`
@@ -174,7 +166,6 @@
  - [Introdução a Machine Learning em uma Competição do Kaggle](https://www.coursera.org/learn/ml-basics-kaggle-competition-pt-br) `beginner`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-br) `intermediate`
- - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform em Português Brasileiro Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-br)
 1. [How Google does Machine Learning em Português Brasileiro](https://www.coursera.org/learn/google-machine-learning-br) `intermediate`
 2. [Launching into Machine Learning em Português Brasileiro](https://www.coursera.org/learn/launching-machine-learning-br) `intermediate`
@@ -194,8 +185,6 @@
 ### Universidade Estadual de Campinas
  - [Saúde Baseada em Evidências](https://www.coursera.org/learn/sbe) `beginner`
 ## Public Health
-### Johns Hopkins University
- - [Rastreamento de contato da COVID-19](https://www.coursera.org/learn/rastreamento-contatos-covid-19) `beginner`
 ### Universidade de São Paulo
  - [Compreendendo o Zika e doenças emergentes](https://www.coursera.org/learn/zika-e-doencas-emergentes) `intermediate`
 ## Research
@@ -223,6 +212,7 @@
  - [Understanding Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-management-br) `beginner`
 #### [Data Engineer, Big Data and ML on Google Cloud em Português Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning-br)
 2. [Modernizing Data Lakes and Data Warehouses with GCP em Português Brasileiro](https://www.coursera.org/learn/data-lakes-data-warehouses-gcp-br) `intermediate`
+3. [Building Batch Data Pipelines on GCP em Português Brasileiro](https://www.coursera.org/learn/batch-data-pipelines-gcp-br) `intermediate`
 4. [Building Resilient Streaming Analytics Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/streaming-analytics-systems-gcp-br) `intermediate`
 5. [Smart Analytics, Machine Learning, and AI on GCP em Português Brasileiro](https://www.coursera.org/learn/smart-analytics-machine-learning-ai-gcp-br) `intermediate`
 ## Networking
@@ -236,7 +226,6 @@
 ### Cresça com o Google
 1. [Fundamentos do Suporte Técnico](https://www.coursera.org/learn/fundamentos-do-suporte-tecnico) `beginner`
 3. [Sistemas Operacionais e Você: Tornando-se um Usuário Avançado](https://www.coursera.org/learn/sistemas-operacionais) `beginner`
-4. [Administração de Sistemas e Serviços de Infraestrutura de TI](https://www.coursera.org/learn/administracao-de-sistemas-servicos-infraestrutura-ti) `beginner`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages
@@ -266,12 +255,12 @@
  - [Controle de Sistemas no Plano-s](https://www.coursera.org/learn/controle-s) `intermediate`
  - [Controle Usando a Resposta em Frequência](https://www.coursera.org/learn/resposta-frequencia) `intermediate`
  - [Introdução ao Controle de Sistemas](https://www.coursera.org/learn/controle)
- - [Introdução ao Controle Moderno](https://www.coursera.org/learn/controle-moderno) `intermediate`
 ## Physics and Astronomy
 ### Universidade de São Paulo
  - [Origens da Vida no Contexto Cósmico](https://www.coursera.org/learn/origensdavida) `beginner`
 ## Research Methods
 ### Coursera Project Network
+ - [Análises de Rede com Kumu](https://www.coursera.org/learn/analises-rede) `intermediate`
  - [Modelo de Disseminação de Vírus com NetLogo](https://www.coursera.org/learn/introducao-netlogo) `beginner`
 # Social Sciences
 > - [Economics](#economics)

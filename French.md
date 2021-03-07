@@ -110,6 +110,8 @@
  - [Création de Designs Marketing avec Canva](https://www.coursera.org/learn/creation-designs-marketing-avec-canva) `beginner`
  - [Introduction au CRM avec HubSpot](https://www.coursera.org/learn/introduction-crm-hubspot) `beginner`
  - [L'utilisation optimal de LinkedIn](https://www.coursera.org/learn/utilisation-optimal-linkedin) `beginner`
+### University of Virginia
+ - [L'analyse marketing](https://www.coursera.org/learn/uva-darden-market-analytics-fr) `beginner`
 # Computer Science
 > - [Design and Product](#design-and-product)
 > - [Software Development](#software-development)
@@ -118,8 +120,10 @@
  - [Approche agile et design thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile-fr) `beginner`
 ## Software Development
 ### Coursera Project Network
+ - [Créer et manipuler un cluster Kubernetes avec Minikube](https://www.coursera.org/learn/creer-manipuler-cluster-kubernetes-minikube) `intermediate`
  - [Créer un Groupe Auto Scaling Amazon EC2 avec Load Balancer](https://www.coursera.org/learn/creer-un-groupe-auto-scaling-ec2-dans-la-console-amazon-aws) `intermediate`
  - [Créer une instance Amazon EC2 dans la console AWS](https://www.coursera.org/learn/creer-une-instance-amazon-ec2-dans-la-console-aws) `beginner`
+ - [Créér une plateforme d'aprentissage avec SQL, C# et ASP.net](https://www.coursera.org/learn/creer-une-plateforme-daprentissage) `intermediate`
  - [Initiation aux conteneurs avec Docker](https://www.coursera.org/learn/initiation-conteneurs-docker) `intermediate`
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
@@ -148,6 +152,7 @@
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [DataViz - Grammaire des Graphiques avec Python](https://www.coursera.org/learn/dataviz-grammaire-des-graphiques-avec-python) `intermediate`
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
+ - [Les Statistiques Descriptives et Inférentielles en R](https://www.coursera.org/learn/statistiques-descriptives-et-inferentielles-en-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
  - [Transformer les Données avec R](https://www.coursera.org/learn/transformer-donnees-avec-r) `intermediate`
@@ -166,7 +171,6 @@
 1. [How Google does Machine Learning en Français](https://www.coursera.org/learn/google-machine-learning-fr) `intermediate`
 2. [Launching into Machine Learning en Français](https://www.coursera.org/learn/launching-machine-learning-fr) `intermediate`
 3. [Intro to TensorFlow en Français](https://www.coursera.org/learn/intro-tensorflow-fr) `intermediate`
-4. [Feature Engineering en Français](https://www.coursera.org/learn/feature-engineering-fr) `intermediate`
 5. [Art and Science of Machine Learning en Français](https://www.coursera.org/learn/art-science-ml-fr) `intermediate`
 # Health
 > - [Healthcare Management](#healthcare-management)
@@ -188,7 +192,6 @@
  - [Dopage : Sports, Organisations et Sciences](https://www.coursera.org/learn/dopage)
 ## Public Health
 ### University of Geneva
- - [COVID-19 : à la recherche des contacts](https://www.coursera.org/learn/covid-19-recherche-contacts) `beginner`
  - [Ebola : Vaincre ensemble !](https://www.coursera.org/learn/ebola-vaincre-ensemble)
 # Information Technology
 > - [Cloud Computing](#cloud-computing)

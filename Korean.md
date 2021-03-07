@@ -16,4 +16,5 @@
 > - [Other Languages](#other-languages)
 ## Other Languages
 ### Sungkyunkwan University
+ - [A Bridge to the World: Korean Language for Advanced Ⅰ](https://www.coursera.org/learn/korean-advanced1) `advanced`
  - [A Bridge to the World: Korean Language for Intermediate1](https://www.coursera.org/learn/korean-language-intermediate) `intermediate`

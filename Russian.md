@@ -36,7 +36,6 @@
 ### California Institute of the Arts
  - [Основы графического дизайна](https://www.coursera.org/learn/fundamentals-of-graphic-design-ru) `beginner`
 ### National Research Tomsk State University
- - [Fashion-иллюстрация: Скетчинг](https://www.coursera.org/learn/fashion-illustration-sketching) `beginner`
  - [Fashion-иллюстрация: технический рисунок](https://www.coursera.org/learn/modnaya-illyustratsiya) `beginner`
 ### Novosibirsk State University 
  - [Основы фотографии](https://www.coursera.org/learn/photo) `beginner`
@@ -63,6 +62,8 @@
 > - [Leadership and Management](#leadership-and-management)
 > - [Marketing](#marketing)
 ## Business Essentials
+### Coursera Project Network
+ - [Как создать Google Презентацию](https://www.coursera.org/learn/create-presentation-google-slides-ru) `intermediate`
 ### Macquarie University
  - [Навыки Excel для бизнеса: Основы](https://www.coursera.org/learn/excel-essentials-ru) `beginner`
  - [Умения работы с Excel для бизнеса: уровень Intermediate I](https://www.coursera.org/learn/excel-intermediate-1-ru) `intermediate`
@@ -116,7 +117,6 @@
  - [Стратегический менеджмент](https://www.coursera.org/learn/strategichesky-menegment) `beginner`
 ### Saint Petersburg State University
 #### [Стартап versus Цифровая трансформация Specialization](https://www.coursera.org/specializations/startup-vs-digtrans)
-2. [Стартап в условиях открытых инноваций](https://www.coursera.org/learn/startupinn) `beginner`
 3. [Коммерциализация результатов инновационной деятельности](https://www.coursera.org/learn/krid) `intermediate`
 4. [Цифровая трансформация бизнеса](https://www.coursera.org/learn/digital-transformation-rus) `beginner`
 ### University of Virginia
@@ -170,9 +170,11 @@
 ### Rice University
  - [Финансы для нефинансистов](https://www.coursera.org/learn/finance-for-non-finance-ru) `beginner`
 ### Saint Petersburg State University
- - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
- - [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
- - [Финансовая грамота](https://www.coursera.org/learn/finlit1) `beginner`
+#### [Финансовая грамотность  Specialization](https://www.coursera.org/specializations/fingramota)
+1. [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
+2. [Финансовая грамота](https://www.coursera.org/learn/finlit1) `beginner`
+3. [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
+4. [Финансовая грамотность. Проект](https://www.coursera.org/learn/proekt) `beginner`
 ### SberUniversity
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -203,6 +205,8 @@
  - [Универсальные практики влияния](https://www.coursera.org/learn/praktiki-vliyaniya) `intermediate`
 ### National Research Tomsk State University, ScrumTrek, E-Learning Development Fund
  - [Agile и Scrum в работе над проектами и продуктами](https://www.coursera.org/learn/upravleniya-proektami-agile-scrum) `beginner`
+### National Research Tomsk State University, Ассоциация Тройной Спирали
+ - [Инновации и предпринимательство: Тройная спираль](https://www.coursera.org/learn/triple-helix) `beginner`
 ### National Research Tomsk State University, Международная Академия исследования лжи, E-Learning Development Fund
  - [Теория Лжи. Профайлинг](https://www.coursera.org/learn/teoriya-lzhi-profajling) `beginner`
 ### Saint Petersburg State University
@@ -223,6 +227,7 @@
 ### IMBA)
  - [Интернет-маркетинг. Лидогенерация (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/imba-internet-marketing-lead-generation) `beginner`
 ### Moscow Institute of Physics and Technology
+ - [Брендинг в инновациях - новая коммуникационная реальность](https://www.coursera.org/learn/brending-v-innovaciyah)
  - [Маркетинг инновационных продуктов](https://www.coursera.org/learn/marketing-innov-produktov) `beginner`
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [Комплекс маркетинга: 5Р](https://www.coursera.org/learn/kompleks-marketinga-5p) `beginner`
@@ -296,14 +301,14 @@
 4. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 5. [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt) `advanced`
 ## Software Development
-### E-Learning Development Fund
- - [Продвижение в поиске](https://www.coursera.org/learn/search-promotion) `beginner`
 ### E-Learning Development Fund, RUDN University
  - [Fundamentals of digital management](https://www.coursera.org/learn/fundamentals-of-digital-management) `intermediate`
 ### HSE University
  - [Python как иностранный](https://www.coursera.org/learn/python-kak-inostrannyj) `beginner`
 #### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
 3. [Проектирование и реализация систем машинного обучения](https://www.coursera.org/learn/machine-learning-design) `intermediate`
+### IMBA)
+ - [Продвижение в поиске (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/search-promotion) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Основы проектирования приложений интернета вещей](https://www.coursera.org/learn/proektirovaniya-prilozhenij-interneta-veshchej) `intermediate`
 ### Moscow Institute of Physics and Technology, Mail.Ru Group, ФРОО
@@ -339,6 +344,7 @@
 2. [Разработка сайта на WordPress](https://www.coursera.org/learn/wordpress) `beginner`
 ### University of Michigan
  - [Программирование для всех (начало работы с Python)](https://www.coursera.org/learn/python-ru)
+ - [Работа с базами данных в Python](https://www.coursera.org/learn/python-databases-ru)
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
@@ -464,6 +470,7 @@
 ### Saint Petersburg State University
  - [Математические методы в психологии. Основы применения (Mathematical Methods in Psychology: Basics of Applying)](https://www.coursera.org/learn/matematicheskiye-metody-v-psikhologii)
  - [Методологические проблемы психологии](https://www.coursera.org/learn/metodologicheskiye-problemy-psikhologii) `beginner`
+ - [Методологические проблемы психологии. Часть 2](https://www.coursera.org/learn/method-psychology-pt2) `beginner`
  - [Нейролингвистика](https://www.coursera.org/learn/neuro-ling-ru)
  - [Психолингвистика (Psycholinguistics)](https://www.coursera.org/learn/psikholingvistika)
  - [Психология сознания (Psychology of consciousness)](https://www.coursera.org/learn/psikhologiya-soznaniya) `beginner`
@@ -473,10 +480,13 @@
 ## Public Health
 ### National Research Tomsk State University, Sechenov University
  - [Здоровое сердце, здоровые сосуды](https://www.coursera.org/learn/zdorovoe-serdce) `beginner`
+### Novosibirsk State University 
+ - [COVID-19. Отслеживание контактов](https://www.coursera.org/learn/covid19-contact-tracing) `beginner`
 ### Saint Petersburg State University
  - [Коронавирусы SARS-CoV-2 и возбудители ОРВИ](https://www.coursera.org/learn/-sars-cov-2)
 ## Research
 ### Novosibirsk State University 
+ - [Биосенсоры](https://www.coursera.org/learn/biosensory) `beginner`
  - [Эпигенетика. Краткий курс по управлению генами](https://www.coursera.org/learn/epigenetika) `intermediate`
 # Information Technology
 > - [Data Management](#data-management)
@@ -606,7 +616,6 @@
  - [Введение в лазерные технологии](https://www.coursera.org/learn/vveedenie-v-lasernie-tehnologii) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Цифровая обработка сигналов Часть 1. Сигналы и системы дискретного времени](https://www.coursera.org/learn/cifrovaya-obrabotka-signalov-chast1) `intermediate`
- - [Цифровая обработка сигналов Часть 2. Дискретные и цифровые фильтры](https://www.coursera.org/learn/cifrovaya-obrabotka-signalov-chast2) `intermediate`
 ## Environmental Science and Sustainability
 ### National Research Tomsk State University
  - [Жизнь в почве](https://www.coursera.org/learn/life-in-soil)
@@ -657,7 +666,6 @@
  - [Промышленность, инженерное образование и наука: история и перспективы](https://www.coursera.org/learn/promyshlennost) `intermediate`
 ### National Research Nuclear University MEPhI
  - [История изобретений и открытий — Вторая история человечества](https://www.coursera.org/learn/istoriya-izobretenii-i-otkritii) `beginner`
- - [Строение биологических тканей для моделирования в биомедицинской физике](https://www.coursera.org/learn/structure-of-biological-tissues) `intermediate`
 5. [Ядерные данные. Система иллюстрации ядерных данных JANIS](https://www.coursera.org/learn/nuclear-data-janis) `beginner`
 ### Novosibirsk State University 
  - [Драгоценные камни: диагностика и экспертиза](https://www.coursera.org/learn/kamni) `beginner`
@@ -686,6 +694,8 @@
  - [Математические методы и модели в экономике](https://www.coursera.org/learn/mathematical-methods-models-in-economics) `beginner`
 ### National Research Tomsk State University
  - [«Ловцы человеков» или социальные сети в медиа, бизнесе, рекрутинге и образовании](https://www.coursera.org/learn/sotsialnaya-set)
+### National Research Tomsk State University, Financial University
+ - [Гендерная социология](https://www.coursera.org/learn/gendernaya-sociologia) `beginner`
 ### Saint Petersburg State University
  - [Международное трудовое право](https://www.coursera.org/learn/int-lab-law-ru)
  - [Современные финансовые технологии](https://www.coursera.org/learn/financetech)
@@ -708,8 +718,6 @@
  - [Общая социологическая теория](https://www.coursera.org/learn/soc-theory) `beginner`
  - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
  - [Психология межгрупповых отношений](https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii)
- - [Социология медиа](https://www.coursera.org/learn/sociologiya-media) `beginner`
- - [Сравнительная политика (Comparative Politics)](https://www.coursera.org/learn/politika-sravnitelnaja)
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [КПЗС Часть 1](https://www.coursera.org/learn/kpzs1)
  - [КПЗС Часть 2](https://www.coursera.org/learn/kpzs2)

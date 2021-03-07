@@ -48,13 +48,8 @@
  - [中国哲学经典著作导读](https://www.coursera.org/learn/chinese-philosophy)
  - [品读道家的智慧](https://www.coursera.org/learn/daojiao) `advanced`
 # Business
-> - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
 > - [Entrepreneurship](#entrepreneurship)
-## Business Essentials
-### University of Pennsylvania
-#### [商务基础 (中文版) Specialization](https://www.coursera.org/specializations/wharton-shangwu-jichu)
-5. [沃顿商务基础毕业项目 (中文版)](https://www.coursera.org/learn/wharton-shangwu-jichu-xiangmu) `beginner`
 ## Business Strategy
 ### Google Cloud
  - [Business Transformation with Google Cloud 中文](https://www.coursera.org/learn/business-transformation-google-cloud-cn) `beginner`
@@ -62,6 +57,7 @@
  - [竞争策略（中文版）](https://www.coursera.org/learn/competitivestrategyzh)
  - [高阶竞争策略（中文版）](https://www.coursera.org/learn/advanced-competitive-strategy-zh)
 ### University of Pennsylvania
+#### [商务基础 (中文版) Specialization](https://www.coursera.org/specializations/wharton-shangwu-jichu)
 1. [市场营销概论 (中文版）](https://www.coursera.org/learn/wharton-shichang-ying-xiao) `beginner`
 2. [财务会计概论（中文版）](https://www.coursera.org/learn/wharton-kuaiji)
 3. [运营管理概论（中文版）](https://www.coursera.org/learn/wharton-yunying-guanli)
