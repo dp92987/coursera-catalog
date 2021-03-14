@@ -61,6 +61,7 @@
  - [人工智慧：搜尋方法與邏輯推論 (Artificial Intelligence - Search & Logic)](https://www.coursera.org/learn/rengong-zhineng) `beginner`
 ## Software Development
 ### National Taiwan University
+ - [用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1))](https://www.coursera.org/learn/pbc1) `beginner`
  - [用 Python 做商管程式設計（三）(Programming for Business Computing in Python (3))](https://www.coursera.org/learn/pbc3)
  - [用 Python 做商管程式設計（二）(Programming for Business Computing in Python (2))](https://www.coursera.org/learn/pbc2) `intermediate`
  - [計算機程式設計 (Computer Programming)](https://www.coursera.org/learn/c-bian-cheng)

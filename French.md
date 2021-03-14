@@ -142,7 +142,6 @@
  - [Initiation à la programmation (en Java)](https://www.coursera.org/learn/initiation-programmation-java) `beginner`
  - [Introduction à la programmation orientée objet (en C++)](https://www.coursera.org/learn/programmation-orientee-objet-cpp) `intermediate`
  - [Introduction à la programmation orientée objet (en Java)](https://www.coursera.org/learn/programmation-orientee-objet-java) `intermediate`
- - [Projet de programmation (en Java)](https://www.coursera.org/learn/projet-programmation-java) `intermediate`
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
@@ -163,14 +162,19 @@
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
  - [Création de chaînes en Python](https://www.coursera.org/learn/creation-de-chaines-en-python) `beginner`
  - [Des nombres et plus en Python](https://www.coursera.org/learn/des-nombres-et-plus-en-python) `beginner`
+ - [Formulaire HTML](https://www.coursera.org/learn/formulaire-html) `beginner`
  - [Introduction A L’HTML](https://www.coursera.org/learn/introduction-a-l-html) `beginner`
+ - [Styles HTML - CSS](https://www.coursera.org/learn/styles-html-css) `beginner`
  - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
+### DeepLearning.AI
+ - [Réseaux neuronaux et Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning-fr) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr) `intermediate`
 #### [Machine Learning with TensorFlow on Google Cloud Platform en Français Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp-fr)
 1. [How Google does Machine Learning en Français](https://www.coursera.org/learn/google-machine-learning-fr) `intermediate`
 2. [Launching into Machine Learning en Français](https://www.coursera.org/learn/launching-machine-learning-fr) `intermediate`
 3. [Intro to TensorFlow en Français](https://www.coursera.org/learn/intro-tensorflow-fr) `intermediate`
+4. [Feature Engineering en Français](https://www.coursera.org/learn/feature-engineering-fr) `intermediate`
 5. [Art and Science of Machine Learning en Français](https://www.coursera.org/learn/art-science-ml-fr) `intermediate`
 # Health
 > - [Healthcare Management](#healthcare-management)
@@ -192,6 +196,7 @@
  - [Dopage : Sports, Organisations et Sciences](https://www.coursera.org/learn/dopage)
 ## Public Health
 ### University of Geneva
+ - [COVID-19 : à la recherche des contacts](https://www.coursera.org/learn/covid-19-recherche-contacts) `beginner`
  - [Ebola : Vaincre ensemble !](https://www.coursera.org/learn/ebola-vaincre-ensemble)
 # Information Technology
 > - [Cloud Computing](#cloud-computing)
@@ -237,8 +242,6 @@
 ## Personal Development
 ### McMaster University, University of California San Diego
  - [Apprendre comment apprendre (ACA) : Des outils mentaux puissants qui vous aideront à maîtriser des sujets difficiles](https://www.coursera.org/learn/apprendre-comment-apprendre) `beginner`
-### École Polytechnique
- - [La recherche documentaire](https://www.coursera.org/learn/recherche-documentaire) `beginner`
 # Physical Science and Engineering
 > - [Electrical Engineering](#electrical-engineering)
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
@@ -295,6 +298,7 @@
  - [Economie du sol et de l'immobilier II](https://www.coursera.org/learn/economie-sol-immobilier-2) `intermediate`
 ## Education
 ### University of Geneva
+ - [Exercer son esprit critique à l’ère informationnelle](https://www.coursera.org/learn/esprit-critique) `beginner`
  - [Frontières en tous genres](https://www.coursera.org/learn/geographie-politique-culturelle-frontieres) `beginner`
 ### École Polytechnique
  - [Comment rédiger et publier un article scientifique (Enseignement par projet)](https://www.coursera.org/learn/rediger-publier-article-scientifique) `intermediate`

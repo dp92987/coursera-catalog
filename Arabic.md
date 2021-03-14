@@ -21,8 +21,10 @@
  - [إنشاء تصاميم على موقع بيكتو شارت](https://www.coursera.org/learn/create-digital-designs-on-piktochart) `beginner`
  - [إنشاء رسوم بيانية على جداول بيانات غوغل](https://www.coursera.org/learn/google-sheets-plots-arabic) `beginner`
  - [انشاء عرضً تقديميً باستخدام مشروع العروض التقديمية من جوجل](https://www.coursera.org/learn/create-a-presentation-using-google-slides-project-ar) `beginner`
+ - [تحسين أداء العمل باستخدام نماذج غوغل](https://www.coursera.org/learn/improve-business-performance-with-google-forms-ar) `beginner`
  - [خدمات عروض غوغل التقديمية](https://www.coursera.org/learn/google-slides-arabic) `beginner`
  - [خدمات غوغل المتقدمة](https://www.coursera.org/learn/advanced-google-services-arabic) `beginner`
+ - [خدمة مدونة غوغل](https://www.coursera.org/learn/google-blogger-ar) `beginner`
  - [خدمة مستندات جوجل](https://www.coursera.org/learn/google-docs-arabic) `beginner`
  - [فصول غوغل الدراسية - للأساتذة](https://www.coursera.org/learn/google-classroom-arabic) `beginner`
  - [فصول غوغل الدراسية - للطلاب](https://www.coursera.org/learn/google-classroom-for-students-arabic) `beginner`
@@ -67,6 +69,8 @@
  - [ممارسات التدريب](https://www.coursera.org/learn/coaching-practices-ar)
 ### University of California, Irvine
  - [إدارة مخاطر المشروعات والتغييرات التي تطرأ عليها](https://www.coursera.org/learn/project-risk-management-ar)
+### University of Colorado Boulder
+ - [مهارات العمل الجماعي: التواصل الفعّال في مجموعات](https://www.coursera.org/learn/teamwork-skills-effective-communication-ar) `beginner`
 ### University of London, London Business School
  - [إدارة شركات المستقبل](https://www.coursera.org/learn/company-future-management-ar)
 ### University of Michigan
@@ -82,11 +86,13 @@
  - [إنشاء تصاميم تسويقية مذهلة باستخدام كانفا](https://www.coursera.org/learn/create-amazing-designs-using-canva-ar) `beginner`
  - [إنشاء صفحة أعمال مجانية باستخدام Blogger](https://www.coursera.org/learn/creating-a-free-business-page-with-blogger-ar) `beginner`
  - [إنشاء صفحة لنكدين إحترافية](https://www.coursera.org/learn/create-a-professional-linkedin-account-ar) `beginner`
+ - [استخدام كانفا لتصاميم التسويق على وسائل التواصل](https://www.coursera.org/learn/canva-platform-arabic) `beginner`
  - [التسويق للشركات  والمشاريع الصغيرة عبر موقع يوتيوب](https://www.coursera.org/learn/youtube-for-small-businesses-ar) `beginner`
  - [التسويق للمشاريع الصغيرة عبر موقع التواصل الإجتماعي فيسبوك](https://www.coursera.org/learn/facebook-marketing-for-small-businesses-ar) `beginner`
 ### University of Illinois at Urbana-Champaign
  - [التسويق في عالم رقمي](https://www.coursera.org/learn/marketing-digital-ar) `beginner`
  - [لوسائط الرقمية واستراتيجيات التسويق](https://www.coursera.org/learn/marketing-plan-ar)
+ - [مبادئ الإعلام والتسويق الرقمي](https://www.coursera.org/learn/marketing-channels-ar)
 ### University of Virginia
  - [تحليلات التسويق](https://www.coursera.org/learn/uva-darden-market-analytics-ar) `beginner`
 # Computer Science

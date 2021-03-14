@@ -36,6 +36,7 @@
 ### California Institute of the Arts
  - [Основы графического дизайна](https://www.coursera.org/learn/fundamentals-of-graphic-design-ru) `beginner`
 ### National Research Tomsk State University
+ - [Fashion-иллюстрация: Скетчинг](https://www.coursera.org/learn/fashion-illustration-sketching) `beginner`
  - [Fashion-иллюстрация: технический рисунок](https://www.coursera.org/learn/modnaya-illyustratsiya) `beginner`
 ### Novosibirsk State University 
  - [Основы фотографии](https://www.coursera.org/learn/photo) `beginner`
@@ -117,6 +118,7 @@
  - [Стратегический менеджмент](https://www.coursera.org/learn/strategichesky-menegment) `beginner`
 ### Saint Petersburg State University
 #### [Стартап versus Цифровая трансформация Specialization](https://www.coursera.org/specializations/startup-vs-digtrans)
+2. [Стартап в условиях открытых инноваций](https://www.coursera.org/learn/startupinn) `beginner`
 3. [Коммерциализация результатов инновационной деятельности](https://www.coursera.org/learn/krid) `intermediate`
 4. [Цифровая трансформация бизнеса](https://www.coursera.org/learn/digital-transformation-rus) `beginner`
 ### University of Virginia
@@ -170,11 +172,10 @@
 ### Rice University
  - [Финансы для нефинансистов](https://www.coursera.org/learn/finance-for-non-finance-ru) `beginner`
 ### Saint Petersburg State University
-#### [Финансовая грамотность  Specialization](https://www.coursera.org/specializations/fingramota)
-1. [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
-2. [Финансовая грамота](https://www.coursera.org/learn/finlit1) `beginner`
-3. [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
-4. [Финансовая грамотность. Проект](https://www.coursera.org/learn/proekt) `beginner`
+ - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
+ - [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
+ - [Финансовая грамота](https://www.coursera.org/learn/finlit1) `beginner`
+ - [Финансовая грамотность. Проект](https://www.coursera.org/learn/proekt) `beginner`
 ### SberUniversity
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -245,6 +246,8 @@
 ### Saint Petersburg State University
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 4. [Продвижение веб-сайтов](https://www.coursera.org/learn/prodvizheniye-veb-saytov) `beginner`
+### University of Illinois at Urbana-Champaign
+ - [Маркетинг в цифровом мире](https://www.coursera.org/learn/marketing-digital-ru) `beginner`
 # Computer Science
 > - [Algorithms](#algorithms)
 > - [Computer Security and Networks](#computer-security-and-networks)
@@ -616,6 +619,7 @@
  - [Введение в лазерные технологии](https://www.coursera.org/learn/vveedenie-v-lasernie-tehnologii) `intermediate`
 ### Peter the Great St. Petersburg Polytechnic University
  - [Цифровая обработка сигналов Часть 1. Сигналы и системы дискретного времени](https://www.coursera.org/learn/cifrovaya-obrabotka-signalov-chast1) `intermediate`
+ - [Цифровая обработка сигналов Часть 2. Дискретные и цифровые фильтры](https://www.coursera.org/learn/cifrovaya-obrabotka-signalov-chast2) `intermediate`
 ## Environmental Science and Sustainability
 ### National Research Tomsk State University
  - [Жизнь в почве](https://www.coursera.org/learn/life-in-soil)
@@ -666,6 +670,7 @@
  - [Промышленность, инженерное образование и наука: история и перспективы](https://www.coursera.org/learn/promyshlennost) `intermediate`
 ### National Research Nuclear University MEPhI
  - [История изобретений и открытий — Вторая история человечества](https://www.coursera.org/learn/istoriya-izobretenii-i-otkritii) `beginner`
+ - [Строение биологических тканей для моделирования в биомедицинской физике](https://www.coursera.org/learn/structure-of-biological-tissues) `intermediate`
 5. [Ядерные данные. Система иллюстрации ядерных данных JANIS](https://www.coursera.org/learn/nuclear-data-janis) `beginner`
 ### Novosibirsk State University 
  - [Драгоценные камни: диагностика и экспертиза](https://www.coursera.org/learn/kamni) `beginner`
@@ -718,6 +723,8 @@
  - [Общая социологическая теория](https://www.coursera.org/learn/soc-theory) `beginner`
  - [Психология коммуникации](https://www.coursera.org/learn/psikhologiya-kommunikacii) `beginner`
  - [Психология межгрупповых отношений](https://www.coursera.org/learn/psikhologiya-mejgruppovykh-otnoshenii)
+ - [Социология медиа](https://www.coursera.org/learn/sociologiya-media) `beginner`
+ - [Сравнительная политика (Comparative Politics)](https://www.coursera.org/learn/politika-sravnitelnaja)
 ### Moscow State Institute of International Relations (MGIMO) / МГИМО (Московский государственный институт международных отношений МИД России)
  - [КПЗС Часть 1](https://www.coursera.org/learn/kpzs1)
  - [КПЗС Часть 2](https://www.coursera.org/learn/kpzs2)
