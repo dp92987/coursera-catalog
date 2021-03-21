@@ -40,13 +40,11 @@
  - [Crea un perfil para un trabajo soñado con Indeed](https://www.coursera.org/learn/crea-perfil-trabajo-sonado-indeed)
  - [Crea y diseña productos digitales en Canva](https://www.coursera.org/learn/crea-disena-productos-digitales-canva)
  - [Creando una presentación con Presentaciones Google](https://www.coursera.org/learn/creando-una-presentacion-con-presentaciones-google)
- - [Crear datos de soporte al Cliente con Google Sheets](https://www.coursera.org/learn/crear-datos-soporte-acliente-google-sheets)
  - [Crear encuestas con Formularios Google](https://www.coursera.org/learn/crear-encuestas-formularios-google)
  - [Crear una hoja para la Gestión de Proyectos en Google Sheets](https://www.coursera.org/learn/crear-hoja-gestion-proyectos-google-sheets)
  - [Create a Branded Presentation Template Using Google Slides](https://www.coursera.org/learn/create-branded-presentation-template-google-slides)
  - [Create a Debt-Reduced Worksheet in Google Sheets](https://www.coursera.org/learn/create-a-debt-reduced-worksheet-in-google-sheets)
  - [Create a Home Affordability Worksheet in Google Sheets](https://www.coursera.org/learn/create-a-home-affordability-worksheet-in-google-sheets)
- - [Create a Kanban Board in Google Sheets](https://www.coursera.org/learn/create-a-kanban-board-in-google-sheets)
  - [Create a Mortgage Payment Calculator in Google Sheets](https://www.coursera.org/learn/create-mortgage-payment-calculator-in-google-sheets)
  - [Create a Profile and Network on LinkedIn](https://www.coursera.org/learn/create-a-profile-and-network-on-linkedin)
  - [Create a Project Charter in Google Sheets](https://www.coursera.org/learn/create-project-charter-google-sheets)
@@ -85,7 +83,6 @@
  - [Investment Risk Management](https://www.coursera.org/learn/investment-risk-management)
  - [Portfolio Diversification using Correlation Matrix](https://www.coursera.org/learn/portfolio-diversification-correlation-matrix)
  - [Portfolio Optimization using Markowitz Model](https://www.coursera.org/learn/portfolio-optimization-markowitz-model)
- - [Predict Performance Using MA Forecasting in Google Sheets](https://www.coursera.org/learn/predict-performance-using-ma-forecasting-in-google-sheets)
 ## Leadership and Management
 ### Coursera Project Network
  - [Build a Product Management Plan Framework in Trello](https://www.coursera.org/learn/build-product-management-plan-framework-trello)
@@ -122,7 +119,6 @@
  - [Calculate Basic Descriptive Statistics in Google Sheets](https://www.coursera.org/learn/calculate-basic-descriptive-statistics-in-google-sheets)
  - [Collect Data with Google Forms](https://www.coursera.org/learn/collect-data-google-forms)
  - [Crear un Kit de Bienvenida para el Cliente con Canva](https://www.coursera.org/learn/kit-bienvenida-canva)
- - [Create a beautiful eBook using Google Slides](https://www.coursera.org/learn/create-ebook-using-google-slides)
  - [Create a Business Marketing Brand Kit Using Canva](https://www.coursera.org/learn/create-business-marketing-brand-kit-using-canva)
  - [Create a Facebook Business Page](https://www.coursera.org/learn/how-to-create-facebook-business-page)
  - [Create a Landing Page using Mailchimp](https://www.coursera.org/learn/create-landing-page-using-mailchimp)
@@ -131,8 +127,9 @@
  - [Create a Project Management Tracker using Google Sheets](https://www.coursera.org/learn/create-a-project-management-tracker-using-google-sheets)
  - [Create a Promotional Video using Canva](https://www.coursera.org/learn/create-a-promotional-video-using-canva)
  - [Create a Storyboard using Canva](https://www.coursera.org/learn/create-storyboard-canva)
- - [Create a Target Market Presentation using Canva](https://www.coursera.org/learn/create-target-market-presentation)
  - [Create an A/B web page marketing test with Google Optimize](https://www.coursera.org/learn/create-an-a-b-web-page-and-marketing-test-with-google-optimize)
+ - [Create an Editorial Content Calendar in Google Sheets](https://www.coursera.org/learn/create-editorial-content-calendar)
+ - [Create an Email Autoresponder Using Mailchimp](https://www.coursera.org/learn/create-email-autoresponder-mailchimp)
  - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides)
  - [Create an Invitation to your Open House using Google Forms](https://www.coursera.org/learn/create-invitation-open-house-google-forms)
  - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva)
@@ -204,7 +201,6 @@
  - [Custom Reports in Google Analytics](https://www.coursera.org/learn/custom-reports-in-google-analytics)
  - [Data Manipulation and Business Analysis using Spreadsheets](https://www.coursera.org/learn/data-manipulation-and-business-analysis-using-spreadsheets)
  - [Data Visualization in Google Slides](https://www.coursera.org/learn/data-visualization-in-google-slides)
- - [Digging Deeper into Audience Reports in Google Analytics](https://www.coursera.org/learn/digging-deeper-into-audience-reports-in-google-analytics)
  - [Getting Started in Google Analytics](https://www.coursera.org/learn/getting-started-in-google-analytics)
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport)
  - [Handle Missing Survey Data Values in Google Sheets](https://www.coursera.org/learn/handle-missing-survey-data-values-in-google-sheets)
@@ -284,77 +280,113 @@
 ## Undefined
 ### Arizona State University
  - [Data in Database](https://www.coursera.org/learn/data-in-database)
-### Automation Anywhere
- - [Cognitive Solutions and RPA Analytics](https://www.coursera.org/learn/cognitive-solutions-rpa-analytics)
-### Cloudera
- - [Analyzing Big Data with SQL](https://www.coursera.org/learn/cloudera-big-data-analysis-sql-queries)
 ### Coursera Project Network
- - [Analyzing Product Opportunities with Creately](https://www.coursera.org/learn/product-strategy)
- - [Build a simple company expense tracker with Typescript](https://www.coursera.org/learn/build-a-simple-company-expense-tracker-with-typescript)
- - [Build a Twitter Clone Backend](https://www.coursera.org/learn/twitter-clone-backend)
- - [Build a Working Chatbot in Python](https://www.coursera.org/learn/build-working-chatbot-python)
- - [Build an App in Android Studio using onTouch](https://www.coursera.org/learn/build-an-app-in-android-studio-using-ontouch)
- - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure)
- - [Create an A3 Problem-Solving Diagram in Google Slides](https://www.coursera.org/learn/create-a3-problem-solving-diagram-google-slides)
- - [Create an Editorial Content Calendar in Google Sheets](https://www.coursera.org/learn/create-editorial-content-calendar)
- - [Create an Email Autoresponder Using Mailchimp](https://www.coursera.org/learn/create-email-autoresponder-mailchimp)
- - [Create User Journey Maps with Loops in Miro](https://www.coursera.org/learn/create-user-journey-maps-loops-miro)
- - [Create Your First Game with Python](https://www.coursera.org/learn/python-game)
- - [Creating a Virtual Bookstore using Java Basics](https://www.coursera.org/learn/virtual-book-store-using-java-basics)
- - [Deep Learning with PyTorch : Build an AutoEncoder](https://www.coursera.org/learn/deep-learning-with-pytorch-build-an-autoencoder)
- - [Deep Learning with PyTorch : Convolutional Neural Network](https://www.coursera.org/learn/deep-learning-with-pytorch-build-a-convolutional-neural-network)
- - [Encryption and Decryption using C++](https://www.coursera.org/learn/encryption-decryption-cpp)
- - [Establish Company Training Initiatives with Canvas](https://www.coursera.org/learn/establish-company-training-initiatives-canvas)
- - [Perform Feature Analysis with Yellowbrick](https://www.coursera.org/learn/feature-analysis-yellowbrick)
- - [Perform Sentiment Analysis with scikit-learn](https://www.coursera.org/learn/scikit-learn-logistic-regression-sentiment-analysis)
- - [Portfolio Building for Beginners using Bootstrap](https://www.coursera.org/learn/bootstrap-portfolio-building)
- - [Python for Data Visualization: Matplotlib & Seaborn](https://www.coursera.org/learn/python-for-data-visualization-seaborn)
-### Duke University
- - [Bayesian Statistics](https://www.coursera.org/learn/bayesian)
-### ESADE Business and Law School
- - [La gestión en la empresa familiar](https://www.coursera.org/learn/gestion-empresa-familiar)
+ - [Build a Full-Stack Server for API Requests - NodeJS and Pug](https://www.coursera.org/learn/basic-server-nodejs)
+ - [Build a Linear Layout App in Android Studio](https://www.coursera.org/learn/build-linear-layout-app-android-studio)
+ - [Crear datos de soporte al Cliente con Google Sheets](https://www.coursera.org/learn/crear-datos-soporte-acliente-google-sheets)
+ - [Create a beautiful eBook using Google Slides](https://www.coursera.org/learn/create-ebook-using-google-slides)
+ - [Create a branding search campaign with Google Ads](https://www.coursera.org/learn/create-a-branding-search-campaign-with-google-ads)
+ - [Create a Kanban Board in Google Sheets](https://www.coursera.org/learn/create-a-kanban-board-in-google-sheets)
+ - [Create a Target Market Presentation using Canva](https://www.coursera.org/learn/create-target-market-presentation)
+ - [Creating a Budget in Libre Calc for a Small Business](https://www.coursera.org/learn/creating-budget-libre-calc-small-business)
+ - [DataViz - Grammaire des Graphiques avec Python](https://www.coursera.org/learn/dataviz-grammaire-des-graphiques-avec-python)
+ - [Debugging Projects Manually](https://www.coursera.org/learn/debugging-manually-nodejs)
+ - [Deep Learning Inference with Azure ML Studio](https://www.coursera.org/learn/azure-machine-learning-studio-deep-learning-inference)
+ - [Design a Remote Sprint to Test Prototypes in Miro](https://www.coursera.org/learn/design-remote-sprint-test-prototypes-miro)
+ - [Digging Deeper into Audience Reports in Google Analytics](https://www.coursera.org/learn/digging-deeper-into-audience-reports-in-google-analytics)
+ - [FIFA20 Data Exploration using Python](https://www.coursera.org/learn/fifa20-data-exploration-using-python)
+ - [Image Colorization using TensorFlow 2 and Keras](https://www.coursera.org/learn/image-colorization-tensorflow-2-keras)
+ - [Introduction to Javascript: The Basics](https://www.coursera.org/learn/intro-to-javascript-the-basics)
+ - [Introduction to Kotlin 1](https://www.coursera.org/learn/introduction-to-kotlin-1)
+ - [Manipulating Data with SQL](https://www.coursera.org/learn/manipulating-data-with-sql)
+ - [Predict Performance Using MA Forecasting in Google Sheets](https://www.coursera.org/learn/predict-performance-using-ma-forecasting-in-google-sheets)
+ - [Program Management Benefits Planning in ClickUp](https://www.coursera.org/learn/program-management-benefits-planning-clickup)
+ - [Traffic Sign Classification Using Deep Learning in Python/Keras](https://www.coursera.org/learn/traffic-sign-classification-deep-learning)
+ - [Using Descriptive Statistics to Analyze Data in R](https://www.coursera.org/learn/descriptive-statistics-analyze-data-r)
+ - [Visual Communication through zines using Scribus & Issuu.com](https://www.coursera.org/learn/visual-communication-through-zines)
+### Curtis Institute of Music
+ - [Exploring Beethoven's Piano Sonatas Part 5](https://www.coursera.org/learn/exploring-beethoven-piano-sonatas-5)
+### EIT Digital 
+ - [Embedded Hardware and Operating Systems](https://www.coursera.org/learn/embedded-operating-system)
+### Emory University
+ - [Extinctions: Past, Present, & Future](https://www.coursera.org/learn/extinctions-past-present-and-future)
+ - [Meaningful Marketing Insights](https://www.coursera.org/learn/meaningful-marketing-insights)
+### ESSEC Business School
+ - [L'entrepreneuriat social : de l'envie au projet](https://www.coursera.org/learn/entrepreneuriatquichangelemonde)
+ - [L'impact investing : comprendre les fondamentaux](https://www.coursera.org/learn/investing-fondamentaux)
+### Exploratorium
+ - [Exploring Light: Hands-on Activities and Strategies for Teachers](https://www.coursera.org/learn/teach-light-color)
 ### Google Cloud
+ - [Art and Science of Machine Learning](https://www.coursera.org/learn/art-science-ml)
  - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
- - [Essential Cloud Infrastructure: Foundation en Español](https://www.coursera.org/learn/gcp-infrastructure-foundation-es)
- - [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation)
-### HSE University
- - [Calculus and Optimization for Machine Learning](https://www.coursera.org/learn/calculus-and-optimization-for-machine-learning)
-### IE Business School
- - [Aprendiendo a Aprender](https://www.coursera.org/learn/aprendiendo-a-aprender-ie)
-### New York Institute of Finance, Google Cloud
- - [Using Machine Learning in Trading and Finance](https://www.coursera.org/learn/machine-learning-trading-finance)
-### Pohang University of Science and Technology
- - [Ferrous Technology II](https://www.coursera.org/learn/ferrous-technology-2)
-### Rice University
- - [English and Academic Preparation - Pre-Collegiate](https://www.coursera.org/learn/glasscock)
-### Rutgers the State University of New Jersey
- - [Demand Analytics](https://www.coursera.org/learn/demand-analytics)
+ - [Creating New BigQuery Datasets and Visualizing Insights 日本語版](https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights-jp)
+ - [Hands-On Labs in Google Cloud for Networking Engineers](https://www.coursera.org/learn/hands-on-labs-google-cloud-networking-engineer)
+ - [On Premises Capacity Upgrade and Monitoring with Google Cloud's Apigee API Platform](https://www.coursera.org/learn/onprem-upgrade-apigee-gcp)
+### Hebrew University of Jerusalem
+ - [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer)
+### Indian School of Business
+ - [Trading Basics](https://www.coursera.org/learn/trading-basics)
+### Korea Advanced Institute of Science and Technology(KAIST)
+ - [Intro to Acoustics (Part 1)](https://www.coursera.org/learn/intro-to-acoustics)
+### Peking University
+ - [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi)
+### Saint Petersburg State University
+ - [Visual Perception and Visual Illusions](https://www.coursera.org/learn/visualperception)
+### Technion - Israel Institute of Technology
+ - [التقانة والمستشعرات النانوية - الجزء الثاني](https://www.coursera.org/learn/taknulujia-alnnanu2)
 ### The Hong Kong University of Science and Technology
- - [Fibonacci Numbers and the Golden Ratio](https://www.coursera.org/learn/fibonacci)
-### The University of Edinburgh, Universidad ORT Uruguay
- - [Code Yourself! An Introduction to Programming](https://www.coursera.org/learn/intro-programming)
-### Universiteit Leiden
- - [Population Health: Panel Management Next Level](https://www.coursera.org/learn/panel-management)
-### University of California San Diego
- - [Designing, Running, and Analyzing Experiments](https://www.coursera.org/learn/designexperiments)
+ - [Chinese Politics Part 2 – China and the World](https://www.coursera.org/learn/chinese-politics-2)
+ - [Front-End JavaScript Frameworks: Angular](https://www.coursera.org/learn/angular)
+ - [Intimacy of Creativity: Entering the Minds of Composers](https://www.coursera.org/learn/intimacy-creativity-entering-minds-composers)
+### The World Bank Group
+ - [From Climate Science to Action](https://www.coursera.org/learn/climate-science)
+### Unity
+ - [Creating Cutscenes in Unity](https://www.coursera.org/learn/creating-cutscenes-unity)
+### Universidad Nacional Autónoma de México
+ - [Introducción al estudio de los bienes comunes](https://www.coursera.org/learn/estudio-bienes-comunes)
+ - [Química, guerra y ética](https://www.coursera.org/learn/quimica-etica)
+### Universitat de Barcelona
+ - [Magic in the Middle Ages](https://www.coursera.org/learn/magic-middle-ages)
+### Universitat de Barcelona, Fundació Navegació Oceànica Barcelona
+ - [Oceanografía: una clave para entender mejor nuestro mundo](https://www.coursera.org/learn/oceanografia)
+### University at Buffalo, The State University of New York
+ - [Digital Manufacturing & Design](https://www.coursera.org/learn/digital-manufacturing-design)
 ### University of California, Irvine
- - [Project: Writing a Research Paper](https://www.coursera.org/learn/academic-writing-capstone)
-### University of California, Santa Cruz
- - [Feminism and Social Justice](https://www.coursera.org/learn/feminism-social-justice)
+ - [Intro to Analytic Thinking, Data Science, and Data Mining](https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining)
+ - [La comunicación laboral en el siglo XXI](https://www.coursera.org/learn/comunicacion-trabajo)
 ### University of Colorado Boulder
- - [Be Your Best Creative Self](https://www.coursera.org/learn/be-your-best-creative-self)
- - [Dense Gases, Liquids and Solids](https://www.coursera.org/learn/dense-gases-liquids-solids)
+ - [Interpersonal, Developmental, and Evolutionary Perspectives of the Mind](https://www.coursera.org/learn/mind-machine-perspectives)
+ - [The Big Stuff: Evolution and Ecology](https://www.coursera.org/learn/the-big-stuff-evolution-and-ecology)
 ### University of Colorado System
- - [Coexistence in Medieval Spain: Jews, Christians, and Muslims](https://www.coursera.org/learn/coexistence-in-medieval-spain)
+ - [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory)
+ - [Identifying Patient Populations](https://www.coursera.org/learn/computational-phenotyping)
 ### University of Geneva
- - [Particle Physics: an Introduction](https://www.coursera.org/learn/particle-physics)
+ - [Violence Against Healthcare](https://www.coursera.org/learn/violence-against-healthcare)
+### University of Houston
+ - [The Bilingual Brain](https://www.coursera.org/learn/bilingual)
 ### University of Illinois at Urbana-Champaign
- - [Project Initiation and Planning](https://www.coursera.org/learn/project-initiation-planning)
+ - [Digital Marketing Analytics in Theory](https://www.coursera.org/learn/marketing-analytics)
+### University of Leeds
+ - [Training and Learning Online](https://www.coursera.org/learn/training-and-learning-online)
+### University of Maryland, College Park
+ - [Dealing With Missing Data](https://www.coursera.org/learn/missing-data)
+ - [Interview Research and Preparation](https://www.coursera.org/learn/interview-preparation)
+### University of Michigan
+ - [Data Collection and Processing with Python](https://www.coursera.org/learn/data-collection-processing-python)
+ - [Free Speech on Campus Teach-Out](https://www.coursera.org/learn/free-speech-on-campus)
+ - [LGBTQ Pride: From Origins to Evolution Teach-Out](https://www.coursera.org/learn/lgbtq-pride)
+ - [Programação para todos (Conceitos básicos de Python)](https://www.coursera.org/learn/python-pt)
+### University of Minnesota
+ - [Matrix Methods](https://www.coursera.org/learn/matrix-methods)
+### University of New Mexico
+ - [Curanderismo: Global & Cultural Influences of Traditional Healing](https://www.coursera.org/learn/curanderismo-global-traditional-healing)
+ - [Curanderismo: Traditional Healing Using Plants](https://www.coursera.org/learn/curanderismo-plants)
 ### University of Pennsylvania
- - [Creating a Team Culture of Continuous Learning](https://www.coursera.org/learn/continuous-learning-culture)
-### University of Virginia, BCG
- - [Customer Value in Pricing Strategy](https://www.coursera.org/learn/uva-darden-bcg-pricing-strategy-customer-value)
-### École Polytechnique
- - [La recherche documentaire](https://www.coursera.org/learn/recherche-documentaire)
-### École Polytechnique Fédérale de Lausanne
- - [Projet de programmation (en Java)](https://www.coursera.org/learn/projet-programmation-java)
+ - [Culture-Driven Team Building Capstone](https://www.coursera.org/learn/team-building-capstone)
+ - [Introduction to Java and Object-Oriented Programming](https://www.coursera.org/learn/java-object-oriented-programming)
+ - [Introduction to Key Constitutional Concepts and Supreme Court Cases](https://www.coursera.org/learn/constitution)
+ - [Viral Marketing and How to Craft Contagious Content](https://www.coursera.org/learn/wharton-contagious-viral-marketing)
+### University of Toronto
+ - [Kommunikationsstrategien für ein virtuelles Zeitalter](https://www.coursera.org/learn/communication-strategies-virtual-age-de)
+### Wesleyan University
+ - [Data Analysis Tools](https://www.coursera.org/learn/data-analysis-tools)

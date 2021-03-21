@@ -100,6 +100,8 @@
 4. [Projeto Aplicado - Introdução a Gestão de Projetos](https://www.coursera.org/learn/iniciacao-planejamento-de-projetos)
 ### Universidade Estadual de Campinas
  - [Conceitos Básicos de Logística e Supply Chain](https://www.coursera.org/learn/conceitos-basicos-logistica) `beginner`
+### University of California, Irvine
+ - [Iniciando e planejando projetos](https://www.coursera.org/learn/project-planning-pt)
 ### University of Michigan
  - [Inspiração e motivação de indivíduos](https://www.coursera.org/learn/motivate-people-teams-pt)
  - [Liderar equipes](https://www.coursera.org/learn/leading-teams-pt)
@@ -154,7 +156,6 @@
  - [Laboratório de Programação Orientada a Objetos - Parte 1](https://www.coursera.org/learn/lab-poo-parte-1) `intermediate`
 ### University of Michigan
  - [Estruturas de dados Python](https://www.coursera.org/learn/python-data-pt)
- - [Programação para todos (Conceitos básicos de Python)](https://www.coursera.org/learn/python-pt)
  - [Uso de bancos de dados com Python](https://www.coursera.org/learn/python-databases-pt)
 # Data Science
 > - [Data Analysis](#data-analysis)
@@ -168,6 +169,7 @@
  - [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br) `intermediate`
 ### IBM
  - [Análise de dados com Python](https://www.coursera.org/learn/data-analysis-with-python-pt) `beginner`
+ - [Bancos de dados e SQL para Ciência de Dados](https://www.coursera.org/learn/sql-data-science-pt) `beginner`
  - [Metodologia de Ciência de Dados](https://www.coursera.org/learn/data-science-methodology-pt) `beginner`
  - [O que é ciência de dados?](https://www.coursera.org/learn/what-is-datascience-pt) `beginner`
  - [Python para a Ciência de Dados e IA](https://www.coursera.org/learn/python-for-applied-data-science-ai-pt) `beginner`

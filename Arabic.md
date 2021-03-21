@@ -46,6 +46,7 @@
 ## Business Strategy
 ### Coursera Project Network
  - [التحول الرقمى لدعم العملاء من الشركات الصغيرة ومتوسطة الحجم](https://www.coursera.org/learn/customer-support-digital-transformation) `beginner`
+ - [تطوير خطة توفير على دخل ثابت باستخدام جداول بيانات جوجل](https://www.coursera.org/learn/develop-a-savings-plan-on-a-fixed-income-with-google-sheets-ar) `beginner`
 ### DeepLearning.AI
  - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar) `beginner`
 ### University of Virginia
@@ -69,11 +70,13 @@
  - [ممارسات التدريب](https://www.coursera.org/learn/coaching-practices-ar)
 ### University of California, Irvine
  - [إدارة مخاطر المشروعات والتغييرات التي تطرأ عليها](https://www.coursera.org/learn/project-risk-management-ar)
+ - [بدء المشاريع والتخطيط لها](https://www.coursera.org/learn/project-planning-ar)
 ### University of Colorado Boulder
  - [مهارات العمل الجماعي: التواصل الفعّال في مجموعات](https://www.coursera.org/learn/teamwork-skills-effective-communication-ar) `beginner`
 ### University of London, London Business School
  - [إدارة شركات المستقبل](https://www.coursera.org/learn/company-future-management-ar)
 ### University of Michigan
+ - [إدارة المواهب](https://www.coursera.org/learn/managing-talent-ar)
  - [إلهام الأفراد وتحفيزهم](https://www.coursera.org/learn/motivate-people-teams-ar)
  - [علم النجاح: ما يجب أن تعرفه من الباحثين](https://www.coursera.org/learn/success-ar) `beginner`
  - [قيادة الفرق](https://www.coursera.org/learn/leading-teams-ar)
@@ -87,6 +90,7 @@
  - [إنشاء صفحة أعمال مجانية باستخدام Blogger](https://www.coursera.org/learn/creating-a-free-business-page-with-blogger-ar) `beginner`
  - [إنشاء صفحة لنكدين إحترافية](https://www.coursera.org/learn/create-a-professional-linkedin-account-ar) `beginner`
  - [استخدام كانفا لتصاميم التسويق على وسائل التواصل](https://www.coursera.org/learn/canva-platform-arabic) `beginner`
+ - [استخدام كانفة لتصميم وإنشاء منتجات رقمية](https://www.coursera.org/learn/use-canva-to-design-and-create-digital-product-ar) `intermediate`
  - [التسويق للشركات  والمشاريع الصغيرة عبر موقع يوتيوب](https://www.coursera.org/learn/youtube-for-small-businesses-ar) `beginner`
  - [التسويق للمشاريع الصغيرة عبر موقع التواصل الإجتماعي فيسبوك](https://www.coursera.org/learn/facebook-marketing-for-small-businesses-ar) `beginner`
 ### University of Illinois at Urbana-Champaign
@@ -160,9 +164,12 @@
  - [تحليل البيانات باستخدام بايثون](https://www.coursera.org/learn/data-analysis-with-python-ar) `beginner`
  - [قواعد البيانات وSQL (لغة الاستعلام البنيوية) لعلم البيانات](https://www.coursera.org/learn/sql-data-science-ar) `beginner`
  - [كابستون علوم البيانات التطبيقية](https://www.coursera.org/learn/applied-data-science-capstone-ar) `intermediate`
+ - [مؤثرات عرض البيانات باستخدام لغة بايثون](https://www.coursera.org/learn/python-for-data-visualization-ar) `intermediate`
  - [ما علم البيانات؟](https://www.coursera.org/learn/what-is-datascience-ar) `beginner`
  - [منهجية علم البيانات](https://www.coursera.org/learn/data-science-methodology-ar) `beginner`
 ### Johns Hopkins University
+ - [R البرمجة باستخدام لغة](https://www.coursera.org/learn/r-programming-ar) `intermediate`
+ - [الحصول على البيانات وتنظيفها](https://www.coursera.org/learn/data-cleaning-ar)
  - [مجموعة أدوات عالم البيانات](https://www.coursera.org/learn/data-scientists-tools-ar)
 ### University of California San Diego
  - [مقدمة عن البيانات الضخمة](https://www.coursera.org/learn/big-data-introduction-ar)
@@ -170,7 +177,10 @@
  - [‏SQL لعلوم البيانات](https://www.coursera.org/learn/sql-for-data-science-ar) `beginner`
 ## Machine Learning
 ### DeepLearning.AI
+ - [الشبكات العصبونية الالتفافية](https://www.coursera.org/learn/convolutional-neural-networks-ar) `intermediate`
  - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar) `intermediate`
+ - [النماذج المتعاقبة](https://www.coursera.org/learn/nlp-sequence-models-ar) `intermediate`
+ - [تعزيز الشبكات العصبية : ضبط وتحسين مقياس فرط المعلمات](https://www.coursera.org/learn/deep-neural-network-ar) `beginner`
 ### IBM
  - [التعلّم الآلي باستخدام لغة بايثون](https://www.coursera.org/learn/machine-learning-with-python-ar) `intermediate`
 # Information Technology
@@ -194,6 +204,8 @@
 ## Personal Development
 ### McMaster University, University of California San Diego
  - [تعّلم كيف تتعلم: أدوات ذهنية قوية لمساعدتك على إتقان موضوعات صعبة](https://www.coursera.org/learn/learning-how-to-learn-ar)
+### The State University of New York
+ - [كيفية كتابة سيرة ذاتية (دورة تدريبية قائمة على مشروع)](https://www.coursera.org/learn/how-to-write-a-resume-ar)
 ### University of Washington
  - [الخطابة الإقناعية: تحفيز الجماهير بالحجج المُقنِعة واللغة المؤثِّرة](https://www.coursera.org/learn/persuade-speech-ar) `beginner`
 # Physical Science and Engineering
@@ -201,7 +213,6 @@
 ## Chemistry
 ### Technion - Israel Institute of Technology
  - [التقانة والمستشعرات النانوية - الجزء الاول](https://www.coursera.org/learn/taknulujia-alnnanu1)
- - [التقانة والمستشعرات النانوية - الجزء الثاني](https://www.coursera.org/learn/taknulujia-alnnanu2)
 # Social Sciences
 > - [Governance and Society](#governance-and-society)
 ## Governance and Society

@@ -132,12 +132,18 @@
  - [Технологическое предпринимательство](https://www.coursera.org/learn/tekhnologicheskoe-predprinimatelstvo) `beginner`
 ### Moscow Institute of Physics and Technology, Фонд развития интернет-инициатив (ФРИИ)
  - [Интернет-предпринимательство](https://www.coursera.org/learn/internet-predprinimatelstvo) `beginner`
+### National Research Tomsk State University, Российский экономический университет им. Г.В. Плеханова
+ - [Организация предпринимательской деятельности](https://www.coursera.org/learn/predprinimatelstvo) `intermediate`
 ### Saint Petersburg State University
  - [Правовое регулирование налога на прибыль в Российской Федерации](https://www.coursera.org/learn/pravovoe-regulirovanie-naloga-na-pribyl) `beginner`
 1. [«Стартап: как вырасти в успешный бизнес»](https://www.coursera.org/learn/startup-spbu)
 ## Finance
 ### Coursera Project Network
+ - [Введение в оценку компаний с WACC](https://www.coursera.org/learn/introduction-valuation-wacc-ru) `intermediate`
+ - [Диверсификация портфеля с помощью корреляционной матрицы](https://www.coursera.org/learn/portfolio-diversification-correlation-matrix-ru) `intermediate`
  - [Используем функции Google Finance в Google Sheets](https://www.coursera.org/learn/google-finance-functions-google-sheets-ru) `intermediate`
+ - [Нахождение инвестиционной альфы](https://www.coursera.org/learn/seeking-investment-alpha-ru) `intermediate`
+ - [Оптимизация портфеля с помощью модели Марковица](https://www.coursera.org/learn/portfolio-optimization-markowitz-model-ru) `intermediate`
  - [Оценка облигаций](https://www.coursera.org/learn/bonds-fixed-income-mathematics-ru) `intermediate`
  - [Сравниваем доходность акций с Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets-ru) `intermediate`
  - [Управление инвестиционными рисками](https://www.coursera.org/learn/investment-risk-management-ru) `intermediate`
@@ -353,6 +359,8 @@
 > - [Machine Learning](#machine-learning)
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
+### DeepLearning.AI
+ - [Структурирование проектов по машинному обучению](https://www.coursera.org/learn/machine-learning-projects-ru) `beginner`
 ### HSE University
  - [Инструментальная фонетика: компьютерные методы сбора и анализа данных](https://www.coursera.org/learn/instrumental-phonetics)
 #### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
@@ -360,6 +368,7 @@
 ### IBM
  - [Python: обработка и анализ данных и ИИ](https://www.coursera.org/learn/python-for-applied-data-science-ai-ru) `beginner`
  - [Анализ данных с использованием Python](https://www.coursera.org/learn/data-analysis-with-python-ru) `beginner`
+ - [Базы данных и SQL в обработке и анализе данных](https://www.coursera.org/learn/sql-data-science-ru) `beginner`
  - [Заключительный курс по теме «Прикладная наука о данных»](https://www.coursera.org/learn/applied-data-science-capstone-ru) `intermediate`
  - [Методология обработки и анализа данных](https://www.coursera.org/learn/data-science-methodology-ru) `beginner`
  - [Что такое обработка и анализ данных?](https://www.coursera.org/learn/what-is-datascience-ru) `beginner`
@@ -388,6 +397,8 @@
 ## Machine Learning
 ### DeepLearning.AI
  - [Нейронные сети и глубокое обучение](https://www.coursera.org/learn/neural-networks-deep-learning-ru) `intermediate`
+ - [Повышение эффективности глубоких нейросетей](https://www.coursera.org/learn/deep-neural-network-ru) `beginner`
+ - [Сверточные нейронные сети](https://www.coursera.org/learn/convolutional-neural-networks-ru) `intermediate`
 ### E-Learning Development Fund
  - [Машинное обучение для руководителей](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley) `beginner`
 ### HSE University
@@ -686,6 +697,7 @@
  - [Макроэкономика (Macroeconomics)](https://www.coursera.org/learn/makrojekonomika) `beginner`
  - [Неформальная экономика: социальный анализ](https://www.coursera.org/learn/informal-economy-social-analysis) `beginner`
  - [Основы микроэкономики (Microeconomics Principles)](https://www.coursera.org/learn/mikroekonomika) `beginner`
+ - [Теории внешней торговли и торговой политики](https://www.coursera.org/learn/international-trade-theory) `intermediate`
  - [Теория отраслевых рынков (Industrial Organization)](https://www.coursera.org/learn/otraslevye-rynki) `intermediate`
  - [Финансовые рынки и институты (Financial Markets and Institutions)](https://www.coursera.org/learn/finansovye-rynki)
  - [Эконометрика (Econometrics)](https://www.coursera.org/learn/ekonometrika)

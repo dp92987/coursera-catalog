@@ -27,6 +27,8 @@
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
  - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`
 ## Finance
+### Rice University
+ - [Finanzen für Nicht-Finanzfachleute](https://www.coursera.org/learn/finance-for-non-finance-de) `beginner`
 ### University of Zurich
  - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
 ## Leadership and Management
@@ -35,8 +37,6 @@
 ### University of California, Irvine
  - [Budget- und Terminplanung von Projekten](https://www.coursera.org/learn/schedule-projects-de)
  - [Projektrisiken und -änderungen managen](https://www.coursera.org/learn/project-risk-management-de)
-### University of Toronto
- - [Kommunikationsstrategien für ein virtuelles Zeitalter](https://www.coursera.org/learn/communication-strategies-virtual-age-de) `beginner`
 # Computer Science
 > - [Design and Product](#design-and-product)
 ## Design and Product

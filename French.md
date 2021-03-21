@@ -62,11 +62,9 @@
  - [Effectuation : l'entrepreneuriat pour tous](https://www.coursera.org/learn/effectuation) `beginner`
 ### ESSEC Business School
  - [L'entrepreneuriat social : changer d'échelle](https://www.coursera.org/learn/entrepreneuriat-social-changer-d-echelle) `beginner`
- - [L'entrepreneuriat social : de l'envie au projet](https://www.coursera.org/learn/entrepreneuriatquichangelemonde) `beginner`
  - [Les partenariats qui changent le monde : alliances innovantes entre entreprises et associations](https://www.coursera.org/learn/partenariats-qui-changent-le-monde)
  - [Évaluation & Mesure d'Impact Social](https://www.coursera.org/learn/evaluation-mesure-impact-social) `beginner`
 #### [L'impact investing, la finance qui change le monde Specialization](https://www.coursera.org/specializations/impact-investing)
-1. [L'impact investing : comprendre les fondamentaux](https://www.coursera.org/learn/investing-fondamentaux)
 2. [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
 3. [L'impact investing : innover](https://www.coursera.org/learn/impactinvestinginnover)
 4. [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
@@ -85,6 +83,7 @@
 ## Leadership and Management
 ### ESSEC Business School
  - [Animer une séance collaborative](https://www.coursera.org/learn/animer-seance-collaborative) `beginner`
+ - [Belles histoires d'entreprises à impact](https://www.coursera.org/learn/belles-histoires-d-entreprises-a-impact) `beginner`
  - [Entreprise et changement climatique](https://www.coursera.org/learn/entreprise-changement-climatique) `beginner`
  - [L'avenir de la décision : connaître et agir en complexité](https://www.coursera.org/learn/lavenir-de-la-decision)
  - [L'excellence opérationnelle en pratique](https://www.coursera.org/learn/excellence-operationnelle) `beginner`
@@ -113,8 +112,12 @@
 ### University of Virginia
  - [L'analyse marketing](https://www.coursera.org/learn/uva-darden-market-analytics-fr) `beginner`
 # Computer Science
+> - [Computer Security and Networks](#computer-security-and-networks)
 > - [Design and Product](#design-and-product)
 > - [Software Development](#software-development)
+## Computer Security and Networks
+### Coursera Project Network
+ - [Configurer et sécuriser un serveur de fichiers sous Linux](https://www.coursera.org/learn/installer-configurer-securiser-serveur-fichiers-sftp-sshfs-linux-ubuntu) `intermediate`
 ## Design and Product
 ### University of Virginia
  - [Approche agile et design thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile-fr) `beginner`
@@ -142,6 +145,7 @@
  - [Initiation à la programmation (en Java)](https://www.coursera.org/learn/initiation-programmation-java) `beginner`
  - [Introduction à la programmation orientée objet (en C++)](https://www.coursera.org/learn/programmation-orientee-objet-cpp) `intermediate`
  - [Introduction à la programmation orientée objet (en Java)](https://www.coursera.org/learn/programmation-orientee-objet-java) `intermediate`
+ - [Projet de programmation (en Java)](https://www.coursera.org/learn/projet-programmation-java) `intermediate`
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
@@ -149,7 +153,6 @@
 ### Coursera Project Network
  - [Analyser vos données avec Python](https://www.coursera.org/learn/analyser-donnees-python) `beginner`
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
- - [DataViz - Grammaire des Graphiques avec Python](https://www.coursera.org/learn/dataviz-grammaire-des-graphiques-avec-python) `intermediate`
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
  - [Les Statistiques Descriptives et Inférentielles en R](https://www.coursera.org/learn/statistiques-descriptives-et-inferentielles-en-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
@@ -167,6 +170,9 @@
  - [Styles HTML - CSS](https://www.coursera.org/learn/styles-html-css) `beginner`
  - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
 ### DeepLearning.AI
+ - [Améliorez les réseaux neuronaux profonds](https://www.coursera.org/learn/deep-neural-network-fr) `beginner`
+ - [Modèles de séquence](https://www.coursera.org/learn/nlp-sequence-models-fr) `intermediate`
+ - [Réseaux neuronaux convolutifs](https://www.coursera.org/learn/convolutional-neural-networks-fr) `intermediate`
  - [Réseaux neuronaux et Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning-fr) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Français](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-fr) `intermediate`
@@ -242,6 +248,8 @@
 ## Personal Development
 ### McMaster University, University of California San Diego
  - [Apprendre comment apprendre (ACA) : Des outils mentaux puissants qui vous aideront à maîtriser des sujets difficiles](https://www.coursera.org/learn/apprendre-comment-apprendre) `beginner`
+### École Polytechnique
+ - [La recherche documentaire](https://www.coursera.org/learn/recherche-documentaire) `beginner`
 # Physical Science and Engineering
 > - [Electrical Engineering](#electrical-engineering)
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
