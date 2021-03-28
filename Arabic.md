@@ -22,6 +22,8 @@
  - [إنشاء رسوم بيانية على جداول بيانات غوغل](https://www.coursera.org/learn/google-sheets-plots-arabic) `beginner`
  - [انشاء عرضً تقديميً باستخدام مشروع العروض التقديمية من جوجل](https://www.coursera.org/learn/create-a-presentation-using-google-slides-project-ar) `beginner`
  - [تحسين أداء العمل باستخدام نماذج غوغل](https://www.coursera.org/learn/improve-business-performance-with-google-forms-ar) `beginner`
+ - [تحليل أداء الشركة باستخدام النسب](https://www.coursera.org/learn/improve-business-performance-using-ratios-arabic) `beginner`
+ - [تصميم مواد مطبوعة للدورات التدريبية بإستعمال  موقع كانفا](https://www.coursera.org/learn/design-online-course-printables-using-canva-ar) `intermediate`
  - [خدمات عروض غوغل التقديمية](https://www.coursera.org/learn/google-slides-arabic) `beginner`
  - [خدمات غوغل المتقدمة](https://www.coursera.org/learn/advanced-google-services-arabic) `beginner`
  - [خدمة مدونة غوغل](https://www.coursera.org/learn/google-blogger-ar) `beginner`
@@ -32,6 +34,7 @@
  - [منصة إعلانات جوجل للمبتدئين](https://www.coursera.org/learn/google-ads-arabic) `beginner`
 ### Macquarie University
  - [مهارات Excel للأعمال: المستوى "المتوسط I"](https://www.coursera.org/learn/excel-intermediate-1-ar) `intermediate`
+ - [مهارات الإكسل الخاصة بالأعمال التجارية: المستوى المتقدم](https://www.coursera.org/learn/excel-advanced-ar) `intermediate`
  - [مهارات برنامج Excel للعمل: المبادئ الأساسية](https://www.coursera.org/learn/excel-essentials-ar) `beginner`
 ### University of Colorado Boulder
  - [(Business Writing) الكتابة في مجال الأعمال](https://www.coursera.org/learn/writing-for-business-ar) `beginner`
@@ -89,7 +92,9 @@
  - [إنشاء تصاميم تسويقية مذهلة باستخدام كانفا](https://www.coursera.org/learn/create-amazing-designs-using-canva-ar) `beginner`
  - [إنشاء صفحة أعمال مجانية باستخدام Blogger](https://www.coursera.org/learn/creating-a-free-business-page-with-blogger-ar) `beginner`
  - [إنشاء صفحة لنكدين إحترافية](https://www.coursera.org/learn/create-a-professional-linkedin-account-ar) `beginner`
+ - [إنشاء واستخدام قالب بريد إلكتروني ذي علامة تجارية في ميلشيمب](https://www.coursera.org/learn/creating-and-utilizing-a-branded-email-template-in-mailchimp-ar) `beginner`
  - [استخدام كانفا لتصاميم التسويق على وسائل التواصل](https://www.coursera.org/learn/canva-platform-arabic) `beginner`
+ - [استخدام كانفا لتصميم مجموعة العلامة التجارية](https://www.coursera.org/learn/canva-pro-for-brandkit-arabic) `beginner`
  - [استخدام كانفة لتصميم وإنشاء منتجات رقمية](https://www.coursera.org/learn/use-canva-to-design-and-create-digital-product-ar) `intermediate`
  - [التسويق للشركات  والمشاريع الصغيرة عبر موقع يوتيوب](https://www.coursera.org/learn/youtube-for-small-businesses-ar) `beginner`
  - [التسويق للمشاريع الصغيرة عبر موقع التواصل الإجتماعي فيسبوك](https://www.coursera.org/learn/facebook-marketing-for-small-businesses-ar) `beginner`
@@ -117,6 +122,8 @@
  - [صمم موقعك الشخصي وتعلم برمجة المواقع من خلال التطبيق العملي](https://www.coursera.org/learn/build-your-website-html-css-arabic) `beginner`
 ### University of London, Goldsmiths, University of London
  - [أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript](https://www.coursera.org/learn/website-coding-ar)
+### University of Michigan
+ - [تنميط متقدم بتصميم سريع الاستجابة](https://www.coursera.org/learn/responsivedesign-ar)
 ## Software Development
 ### Coursera Project Network
  - [Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python-in-arabic) `intermediate`
@@ -153,10 +160,13 @@
  - [MYSQL Workbench إنشاء و تصميم قواعد البيانات باستخدام](https://www.coursera.org/learn/database-creation-and-modeling-using-mysqlworkbench) `beginner`
  - [Power BI  الحصول على البيانات وشكلها ودمجها باستخدام](https://www.coursera.org/learn/manipulate-data-using-power-bi-desktop) `beginner`
  - [Python معالجة مسبقة للبيانات و تحليلها بواسطة](https://www.coursera.org/learn/data-wrangling-using-python) `beginner`
+ - [أساسيات تحليل البيانات باستخدام جداول بيانات جوجل](https://www.coursera.org/learn/data-analysis-google-sheets-ar) `beginner`
  - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
  - [نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد](https://www.coursera.org/learn/genome-analysis-z-curve-arabic) `intermediate`
  - [و تحميل البيانات و إخراجهاPandas شرح أساسيات استخدام](https://www.coursera.org/learn/explain-pandas-load-and-export-data) `beginner`
+### DeepLearning.AI
+ - [هيكلة مشاريع التعلم الآلي](https://www.coursera.org/learn/machine-learning-projects-ar) `beginner`
 ### Duke University
  - [مقاييس الأعمال للشركات التي تعتمد على البيانات](https://www.coursera.org/learn/analytics-business-metrics-ar)
 ### IBM
@@ -204,6 +214,8 @@
 ## Personal Development
 ### McMaster University, University of California San Diego
  - [تعّلم كيف تتعلم: أدوات ذهنية قوية لمساعدتك على إتقان موضوعات صعبة](https://www.coursera.org/learn/learning-how-to-learn-ar)
+### National Research Tomsk State University
+ - [التخطيط المهني: السيرة الذاتية/الخطاب التعريفي ومقابلة العمل](https://www.coursera.org/learn/career-planning-tsu-ar) `beginner`
 ### The State University of New York
  - [كيفية كتابة سيرة ذاتية (دورة تدريبية قائمة على مشروع)](https://www.coursera.org/learn/how-to-write-a-resume-ar)
 ### University of Washington
@@ -213,6 +225,7 @@
 ## Chemistry
 ### Technion - Israel Institute of Technology
  - [التقانة والمستشعرات النانوية - الجزء الاول](https://www.coursera.org/learn/taknulujia-alnnanu1)
+ - [التقانة والمستشعرات النانوية - الجزء الثاني](https://www.coursera.org/learn/taknulujia-alnnanu2)
 # Social Sciences
 > - [Governance and Society](#governance-and-society)
 ## Governance and Society

@@ -207,6 +207,7 @@
 ## Other Languages
 ### Peking University
  - [Chinese Characters for beginner (2)    汉字(2)](https://www.coursera.org/learn/hanzi-2) `intermediate`
+ - [Chinese Characters for beginner 汉字](https://www.coursera.org/learn/hanzi) `beginner`
  - [Chinese for HSK 4](https://www.coursera.org/learn/hsk-4) `intermediate`
  - [Chinese for HSK 5](https://www.coursera.org/learn/chinese-for-hsk5) `advanced`
  - [Chinese for HSK 6](https://www.coursera.org/learn/chinese-for-hsk-6) `advanced`

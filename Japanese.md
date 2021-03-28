@@ -6,6 +6,7 @@
 # Business
 > - [Business Essentials](#business-essentials)
 > - [Business Strategy](#business-strategy)
+> - [Entrepreneurship](#entrepreneurship)
 ## Business Essentials
 ### University of California, Irvine
  - [業務効率や生産性向上につながる時間管理](https://www.coursera.org/learn/work-smarter-not-harder-ja)
@@ -15,6 +16,9 @@
 ### Google Cloud
  - [Business Transformation with Google Cloud 日本語版](https://www.coursera.org/learn/business-transformation-google-cloud-jp) `beginner`
  - [Google Cloud Product Fundamentals 日本語版](https://www.coursera.org/learn/google-cloud-product-fundamentals-jp) `beginner`
+## Entrepreneurship
+### The University of Tokyo
+ - [FoundX Startup School Course](https://www.coursera.org/learn/foundx-course) `beginner`
 # Computer Science
 > - [Computer Security and Networks](#computer-security-and-networks)
 > - [Software Development](#software-development)
@@ -79,5 +83,6 @@
 ### Google Cloud
 #### [From Data to Insights with Google Cloud Platform 日本語版 Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform-jp)
 1. [Exploring ​and ​Preparing ​your ​Data with BigQuery 日本語版](https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery-jp) `beginner`
+2. [Creating New BigQuery Datasets and Visualizing Insights 日本語版](https://www.coursera.org/learn/gcp-creating-bigquery-datasets-visualizing-insights-jp) `beginner`
 3. [Achieving Advanced Insights with BigQuery 日本語版](https://www.coursera.org/learn/gcp-advanced-insights-bigquery-jp) `beginner`
 4. [Applying Machine Learning to your Data with GCP 日本語版](https://www.coursera.org/learn/data-insights-gcp-apply-ml-jp) `intermediate`

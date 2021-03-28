@@ -62,9 +62,11 @@
  - [Effectuation : l'entrepreneuriat pour tous](https://www.coursera.org/learn/effectuation) `beginner`
 ### ESSEC Business School
  - [L'entrepreneuriat social : changer d'échelle](https://www.coursera.org/learn/entrepreneuriat-social-changer-d-echelle) `beginner`
+ - [L'entrepreneuriat social : de l'envie au projet](https://www.coursera.org/learn/entrepreneuriatquichangelemonde) `beginner`
  - [Les partenariats qui changent le monde : alliances innovantes entre entreprises et associations](https://www.coursera.org/learn/partenariats-qui-changent-le-monde)
  - [Évaluation & Mesure d'Impact Social](https://www.coursera.org/learn/evaluation-mesure-impact-social) `beginner`
 #### [L'impact investing, la finance qui change le monde Specialization](https://www.coursera.org/specializations/impact-investing)
+1. [L'impact investing : comprendre les fondamentaux](https://www.coursera.org/learn/investing-fondamentaux)
 2. [L'impact investing : être acteur](https://www.coursera.org/learn/impact-investing-etre-acteur)
 3. [L'impact investing : innover](https://www.coursera.org/learn/impactinvestinginnover)
 4. [Financer un projet à impact social](https://www.coursera.org/learn/financer-un-projet) `intermediate`
@@ -81,6 +83,8 @@
 ### Yale University
  - [Marchés financiers](https://www.coursera.org/learn/financial-markets-global-fr) `beginner`
 ## Leadership and Management
+### BCG, University of Virginia
+ - [La transformation numérique](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-fr) `beginner`
 ### ESSEC Business School
  - [Animer une séance collaborative](https://www.coursera.org/learn/animer-seance-collaborative) `beginner`
  - [Belles histoires d'entreprises à impact](https://www.coursera.org/learn/belles-histoires-d-entreprises-a-impact) `beginner`
@@ -142,7 +146,6 @@
  - [Programmation pour tous (mise en route de Python)](https://www.coursera.org/learn/python-fr)
 ### École Polytechnique Fédérale de Lausanne
  - [Initiation à la programmation (en C++)](https://www.coursera.org/learn/initiation-programmation-cpp) `beginner`
- - [Initiation à la programmation (en Java)](https://www.coursera.org/learn/initiation-programmation-java) `beginner`
  - [Introduction à la programmation orientée objet (en C++)](https://www.coursera.org/learn/programmation-orientee-objet-cpp) `intermediate`
  - [Introduction à la programmation orientée objet (en Java)](https://www.coursera.org/learn/programmation-orientee-objet-java) `intermediate`
  - [Projet de programmation (en Java)](https://www.coursera.org/learn/projet-programmation-java) `intermediate`
@@ -153,18 +156,19 @@
 ### Coursera Project Network
  - [Analyser vos données avec Python](https://www.coursera.org/learn/analyser-donnees-python) `beginner`
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
+ - [DataViz - Grammaire des Graphiques avec Python](https://www.coursera.org/learn/dataviz-grammaire-des-graphiques-avec-python) `intermediate`
  - [Importer des Données dans R](https://www.coursera.org/learn/importer-donnees-dans-r) `intermediate`
  - [Les Statistiques Descriptives et Inférentielles en R](https://www.coursera.org/learn/statistiques-descriptives-et-inferentielles-en-r) `intermediate`
  - [Nettoyer vos données avec Python](https://www.coursera.org/learn/nettoyer-donnees-python) `beginner`
  - [Tout Pour Démarrer avec RStudio](https://www.coursera.org/learn/demarrer-avec-rstudio) `beginner`
  - [Transformer les Données avec R](https://www.coursera.org/learn/transformer-donnees-avec-r) `intermediate`
+### DeepLearning.AI
+ - [Structurer des projets d’apprentissage automatique](https://www.coursera.org/learn/machine-learning-projects-fr) `beginner`
 ## Machine Learning
 ### Coursera Project Network
  - [Affectation de variable en Python](https://www.coursera.org/learn/affectation-de-variable-en-python) `beginner`
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
- - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
  - [Création de chaînes en Python](https://www.coursera.org/learn/creation-de-chaines-en-python) `beginner`
- - [Des nombres et plus en Python](https://www.coursera.org/learn/des-nombres-et-plus-en-python) `beginner`
  - [Formulaire HTML](https://www.coursera.org/learn/formulaire-html) `beginner`
  - [Introduction A L’HTML](https://www.coursera.org/learn/introduction-a-l-html) `beginner`
  - [Styles HTML - CSS](https://www.coursera.org/learn/styles-html-css) `beginner`
@@ -194,6 +198,7 @@
 ### Universitat de Barcelona
  - [ÉCHELLE RACE: Dépistage préhospitalier de l’AVC impliquant une occlusion de gros vaisseaux cérébraux](https://www.coursera.org/learn/prestorace-fr) `intermediate`
 ### University of Geneva
+ - [Troubles du spectre de l'autisme : biologie et neurosciences](https://www.coursera.org/learn/troubles-spectre-autisme-biologie-neurosciences) `intermediate`
  - [Troubles du spectre de l'autisme : diagnostic](https://www.coursera.org/learn/troubles-spectre-autisme-diagnostic) `intermediate`
 ## Psychology
 ### University of Geneva

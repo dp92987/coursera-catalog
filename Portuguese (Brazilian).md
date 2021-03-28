@@ -69,11 +69,8 @@
  - [Fundamentos de Clientes e Concorrência com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-4)
  - [Fundamentos de Financiamento com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-9)
  - [Fundamentos de Finanças da Empresa com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-2)
- - [Fundamentos de Gerenciamento com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-8)
  - [Fundamentos de Liderança com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-3)
- - [Fundamentos de Negociação com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-10)
  - [Fundamentos de Operações com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-7)
- - [Fundamentos de Planejamento Financeiro com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-5)
  - [Fundamentos de Vendas e Marketing com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-6)
 ### Universidade de São Paulo
  - [Consolidando empresas: Estrutura jurídica e financeira](https://www.coursera.org/learn/consolidando-empresas) `beginner`
@@ -104,7 +101,6 @@
  - [Iniciando e planejando projetos](https://www.coursera.org/learn/project-planning-pt)
 ### University of Michigan
  - [Inspiração e motivação de indivíduos](https://www.coursera.org/learn/motivate-people-teams-pt)
- - [Liderar equipes](https://www.coursera.org/learn/leading-teams-pt)
 ### University of Virginia
  - [Gestão de produtos digitais: Princípios básicos modernos](https://www.coursera.org/learn/uva-darden-digital-product-management-pt) `beginner`
 ## Marketing
@@ -156,6 +152,7 @@
  - [Laboratório de Programação Orientada a Objetos - Parte 1](https://www.coursera.org/learn/lab-poo-parte-1) `intermediate`
 ### University of Michigan
  - [Estruturas de dados Python](https://www.coursera.org/learn/python-data-pt)
+ - [Programação para todos (Conceitos básicos de Python)](https://www.coursera.org/learn/python-pt)
  - [Uso de bancos de dados com Python](https://www.coursera.org/learn/python-databases-pt)
 # Data Science
 > - [Data Analysis](#data-analysis)
@@ -174,6 +171,7 @@
  - [O que é ciência de dados?](https://www.coursera.org/learn/what-is-datascience-pt) `beginner`
  - [Python para a Ciência de Dados e IA](https://www.coursera.org/learn/python-for-applied-data-science-ai-pt) `beginner`
  - [Trabalho de conclusão de Ciência de Dados Aplicada](https://www.coursera.org/learn/applied-data-science-capstone-pt) `intermediate`
+ - [Visualização de dados com o Python](https://www.coursera.org/learn/python-for-data-visualization-pt) `intermediate`
 ## Machine Learning
 ### Coursera Project Network
  - [Introdução a Machine Learning em uma Competição do Kaggle](https://www.coursera.org/learn/ml-basics-kaggle-competition-pt-br) `beginner`
@@ -222,7 +220,6 @@
  - [Elastic Cloud Infrastructure: Scaling and Automation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-br) `intermediate`
  - [Essential Cloud Infrastructure: Core Services em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-core-services-br) `intermediate`
  - [Essential Cloud Infrastructure: Foundation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-foundation-br) `intermediate`
- - [Google Cloud Platform Fundamentals: Core Infrastructure em Português Brasileiro](https://www.coursera.org/learn/gcp-fundamentals-br) `intermediate`
  - [Managing Change when Moving to Google Cloud em Português](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-br) `beginner`
  - [Migrating to Google Cloud em Português Brasileiro](https://www.coursera.org/learn/migrating-to-gcp-br) `beginner`
  - [Optimizing Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-optimization-br) `intermediate`

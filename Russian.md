@@ -65,7 +65,10 @@
 ## Business Essentials
 ### Coursera Project Network
  - [Как создать Google Презентацию](https://www.coursera.org/learn/create-presentation-google-slides-ru) `intermediate`
+ - [Наглядное представление данных с помощью Google Таблицы](https://www.coursera.org/learn/data-visualization-google-sheets-ru) `beginner`
+ - [Создание макета фирменной презентации в Google Презентации](https://www.coursera.org/learn/create-branded-presentation-layout-google-slides-ru) `beginner`
 ### Macquarie University
+ - [Навыки Excel для бизнеса. Продвинутый](https://www.coursera.org/learn/excel-advanced-ru) `intermediate`
  - [Навыки Excel для бизнеса: Основы](https://www.coursera.org/learn/excel-essentials-ru) `beginner`
  - [Умения работы с Excel для бизнеса: уровень Intermediate I](https://www.coursera.org/learn/excel-intermediate-1-ru) `intermediate`
 ### Moscow Institute of Physics and Technology
@@ -98,6 +101,8 @@
 2. [Практики управленческой аналитики в MS Excel](https://www.coursera.org/learn/praktiki-upravlencheskoy-analitiki-excel) `intermediate`
 3. [Практики работы с данными средствами Power Query и Power Pivot](https://www.coursera.org/learn/praktiki-raboty-dannymi-sredstvami-power-query-pivot) `advanced`
 4. [Практики создания аналитических панелей в среде Microsoft Power BI](https://www.coursera.org/learn/praktiki-sozdaniya-analiticheskikh-paneley-power-bi) `advanced`
+### University of Illinois at Urbana-Champaign
+ - [Исследование и генерация данных для принятия бизн.-реш.](https://www.coursera.org/learn/business-data-ru) `beginner`
 ## Business Strategy
 ### DeepLearning.AI
  - [Искусственный Интеллект (ИИ) для всехin](https://www.coursera.org/learn/ai-for-everyone-ru) `beginner`
@@ -139,8 +144,10 @@
 1. [«Стартап: как вырасти в успешный бизнес»](https://www.coursera.org/learn/startup-spbu)
 ## Finance
 ### Coursera Project Network
+ - [Анализ доходности с EVA](https://www.coursera.org/learn/profit-analysis-economic-value-added-ru) `intermediate`
  - [Введение в оценку компаний с WACC](https://www.coursera.org/learn/introduction-valuation-wacc-ru) `intermediate`
  - [Диверсификация портфеля с помощью корреляционной матрицы](https://www.coursera.org/learn/portfolio-diversification-correlation-matrix-ru) `intermediate`
+ - [Измеряем ликвидность акций](https://www.coursera.org/learn/measuring-stock-liquidity-ru) `intermediate`
  - [Используем функции Google Finance в Google Sheets](https://www.coursera.org/learn/google-finance-functions-google-sheets-ru) `intermediate`
  - [Нахождение инвестиционной альфы](https://www.coursera.org/learn/seeking-investment-alpha-ru) `intermediate`
  - [Оптимизация портфеля с помощью модели Марковица](https://www.coursera.org/learn/portfolio-optimization-markowitz-model-ru) `intermediate`
@@ -369,6 +376,7 @@
  - [Python: обработка и анализ данных и ИИ](https://www.coursera.org/learn/python-for-applied-data-science-ai-ru) `beginner`
  - [Анализ данных с использованием Python](https://www.coursera.org/learn/data-analysis-with-python-ru) `beginner`
  - [Базы данных и SQL в обработке и анализе данных](https://www.coursera.org/learn/sql-data-science-ru) `beginner`
+ - [Визуализация данных с помощью Python](https://www.coursera.org/learn/python-for-data-visualization-ru) `intermediate`
  - [Заключительный курс по теме «Прикладная наука о данных»](https://www.coursera.org/learn/applied-data-science-capstone-ru) `intermediate`
  - [Методология обработки и анализа данных](https://www.coursera.org/learn/data-science-methodology-ru) `beginner`
  - [Что такое обработка и анализ данных?](https://www.coursera.org/learn/what-is-datascience-ru) `beginner`
@@ -398,6 +406,7 @@
 ### DeepLearning.AI
  - [Нейронные сети и глубокое обучение](https://www.coursera.org/learn/neural-networks-deep-learning-ru) `intermediate`
  - [Повышение эффективности глубоких нейросетей](https://www.coursera.org/learn/deep-neural-network-ru) `beginner`
+ - [Последовательные модели](https://www.coursera.org/learn/nlp-sequence-models-ru) `intermediate`
  - [Сверточные нейронные сети](https://www.coursera.org/learn/convolutional-neural-networks-ru) `intermediate`
 ### E-Learning Development Fund
  - [Машинное обучение для руководителей](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley) `beginner`
@@ -577,6 +586,8 @@
 # Personal Development
 > - [Personal Development](#personal-development)
 ## Personal Development
+### Coursera Project Network
+ - [Расчет бюджета на покупку жилья в Google Таблице](https://www.coursera.org/learn/home-affordability-worksheet-google-sheets-ru) `beginner`
 ### E-Learning Development Fund
  - [Дизайн презентаций](https://www.coursera.org/learn/presentation-designs)
  - [Основы управления личными финансами](https://www.coursera.org/learn/osnovy-upravleniya-lichnymi-finansami) `beginner`
@@ -758,6 +769,7 @@
  - [Налоговое право (Tax law)](https://www.coursera.org/learn/nalogovoye-pravo) `intermediate`
  - [Основы конституции и конституционного права](https://www.coursera.org/learn/fundcons) `intermediate`
  - [Охрана труда и безопасность на производстве](https://www.coursera.org/learn/trud)
+ - [Право интеллектуальной собственности в цифровую эпоху](https://www.coursera.org/learn/intelpro) `beginner`
  - [Правовое регулирование отношений в Интернете. Российская перспектива](https://www.coursera.org/learn/regulirovaniye-interneta)
  - [Теория права и государства](https://www.coursera.org/learn/tgp)
  - [Уголовный процесс](https://www.coursera.org/learn/crimproc) `intermediate`

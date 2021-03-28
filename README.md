@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `6652` courses. Updated weekly.
+Complete list of `6743` courses. Updated weekly.
 
 # TOC
 
@@ -71,7 +71,7 @@ Complete list of `6652` courses. Updated weekly.
  - [Personal Development](<English.md#personal-development>)
  - [Physical Science and Engineering](<English.md#physical-science-and-engineering>)
  - [Social Sciences](<English.md#social-sciences>)
- - [Изучение языков](<English.md#изучение-языков>)
+ - [Undefined](<English.md#undefined>)
 ### French
  - [Arts and Humanities](<French.md#arts-and-humanities>)
  - [Business](<French.md#business>)
