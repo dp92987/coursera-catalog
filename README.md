@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `6743` courses. Updated weekly.
+Complete list of `6824` courses. Updated weekly.
 
 # TOC
 
@@ -138,6 +138,7 @@ Complete list of `6743` courses. Updated weekly.
 ### Spanish
  - [Arts and Humanities](<Spanish.md#arts-and-humanities>)
  - [Business](<Spanish.md#business>)
+ - [Ciencias sociales](<Spanish.md#ciencias-sociales>)
  - [Computer Science](<Spanish.md#computer-science>)
  - [Data Science](<Spanish.md#data-science>)
  - [Health](<Spanish.md#health>)

@@ -44,7 +44,6 @@
  - [Дизайн-методология: управление вдохновением (Design-methodology. Inspiration management)](https://www.coursera.org/learn/dizayn-metodologiya) `intermediate`
  - [Креативная коммуникация: методы и инструменты](https://www.coursera.org/learn/kreativnaya-kommunikatsiya) `advanced`
  - [Современная русская литература](https://www.coursera.org/learn/sovremennaya-russkaya-literatura) `beginner`
-2. [Практическое применение пастели](https://www.coursera.org/learn/pastel-practice)
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 1. [Художественное проектирование сайта](https://www.coursera.org/learn/art-site-engineering) `beginner`
 ## Philosophy
@@ -196,6 +195,8 @@
 ### Yale University
  - [Финансовые рынки](https://www.coursera.org/learn/financial-markets-global-ru) `beginner`
 ## Leadership and Management
+### BCG, University of Virginia
+ - [Цифровая трансформация](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-ru) `beginner`
 ### Coursera Project Network
  - [Введение в приложение Google Docs](https://www.coursera.org/learn/introduction-google-docs-ru) `beginner`
 ### Indian School of Business
@@ -273,6 +274,8 @@
  - [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) `beginner`
 ### National Research Tomsk State University, Samara University
  - [Спортивное программирование](https://www.coursera.org/learn/sportivnoe-programmirovanie) `beginner`
+### Princeton University
+ - [Алгоритмы, часть I](https://www.coursera.org/learn/algorithms-part1-ru) `intermediate`
 ### Saint Petersburg State University
  - [Квантовые вычисления (Quantum computing)](https://www.coursera.org/learn/kvantovyye-vychisleniya)
  - [Основы олимпиадного программирования](https://www.coursera.org/learn/competitive-programming-basics-ru) `intermediate`
@@ -359,6 +362,7 @@
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 2. [Разработка сайта на WordPress](https://www.coursera.org/learn/wordpress) `beginner`
 ### University of Michigan
+ - [Использование языка Python для доступа к веб-данным](https://www.coursera.org/learn/python-network-data-ru)
  - [Программирование для всех (начало работы с Python)](https://www.coursera.org/learn/python-ru)
  - [Работа с базами данных в Python](https://www.coursera.org/learn/python-databases-ru)
 # Data Science

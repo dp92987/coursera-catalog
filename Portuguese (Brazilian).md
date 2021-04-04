@@ -61,6 +61,8 @@
 ### Insper
  - [Capitalismo Consciente](https://www.coursera.org/learn/capitalismo-consciente)
  - [Gestão de Operações](https://www.coursera.org/learn/gestao-de-operacoes) `beginner`
+### Ludwig-Maximilians-Universität München (LMU)
+ - [Estratégia competitiva](https://www.coursera.org/learn/competitive-strategy-pt)
 ### University of Virginia
  - [Design Thinking para Inovação](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-pt) `beginner`
 ## Entrepreneurship
@@ -69,8 +71,11 @@
  - [Fundamentos de Clientes e Concorrência com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-4)
  - [Fundamentos de Financiamento com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-9)
  - [Fundamentos de Finanças da Empresa com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-2)
+ - [Fundamentos de Gerenciamento com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-8)
  - [Fundamentos de Liderança com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-3)
+ - [Fundamentos de Negociação com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-10)
  - [Fundamentos de Operações com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-7)
+ - [Fundamentos de Planejamento Financeiro com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-5)
  - [Fundamentos de Vendas e Marketing com o 10,000 Women da Goldman Sachs](https://www.coursera.org/learn/10k-women-brpt-6)
 ### Universidade de São Paulo
  - [Consolidando empresas: Estrutura jurídica e financeira](https://www.coursera.org/learn/consolidando-empresas) `beginner`
@@ -101,6 +106,7 @@
  - [Iniciando e planejando projetos](https://www.coursera.org/learn/project-planning-pt)
 ### University of Michigan
  - [Inspiração e motivação de indivíduos](https://www.coursera.org/learn/motivate-people-teams-pt)
+ - [Liderar equipes](https://www.coursera.org/learn/leading-teams-pt)
 ### University of Virginia
  - [Gestão de produtos digitais: Princípios básicos modernos](https://www.coursera.org/learn/uva-darden-digital-product-management-pt) `beginner`
 ## Marketing
@@ -159,8 +165,6 @@
 > - [Machine Learning](#machine-learning)
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
-### Fundação Instituto de Administração
- - [Introdução ao Big Data](https://www.coursera.org/learn/introducao-big-data) `beginner`
 ### Google Cloud
  - [Building Resilient Streaming Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp-br) `intermediate`
  - [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br) `intermediate`
@@ -220,6 +224,7 @@
  - [Elastic Cloud Infrastructure: Scaling and Automation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-br) `intermediate`
  - [Essential Cloud Infrastructure: Core Services em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-core-services-br) `intermediate`
  - [Essential Cloud Infrastructure: Foundation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-foundation-br) `intermediate`
+ - [Google Cloud Platform Fundamentals: Core Infrastructure em Português Brasileiro](https://www.coursera.org/learn/gcp-fundamentals-br) `intermediate`
  - [Managing Change when Moving to Google Cloud em Português](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-br) `beginner`
  - [Migrating to Google Cloud em Português Brasileiro](https://www.coursera.org/learn/migrating-to-gcp-br) `beginner`
  - [Optimizing Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-optimization-br) `intermediate`

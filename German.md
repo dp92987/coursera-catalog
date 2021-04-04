@@ -24,6 +24,7 @@
 ### DeepLearning.AI
  - [KI für alle](https://www.coursera.org/learn/ai-for-everyone-de) `beginner`
 ### Google Cloud
+ - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
  - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`
 ## Finance
 ### Rice University
@@ -31,6 +32,8 @@
 ### University of Zurich
  - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
 ## Leadership and Management
+### BCG, University of Virginia
+ - [Digitale Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-de) `beginner`
 ### Indian School of Business
  - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de) `beginner`
 ### University of California, Irvine

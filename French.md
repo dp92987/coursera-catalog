@@ -57,6 +57,8 @@
 ### Google Cloud
  - [Business Transformation with Google Cloud en Français](https://www.coursera.org/learn/business-transformation-google-cloud-fr) `beginner`
  - [Google Cloud Product Fundamentals en Français](https://www.coursera.org/learn/google-cloud-product-fundamentals-fr) `beginner`
+### University of Virginia
+ - [Les bases de la stratégie d’entreprise](https://www.coursera.org/learn/uva-darden-foundations-business-strategy-fr) `beginner`
 ## Entrepreneurship
 ### emlyon business school
  - [Effectuation : l'entrepreneuriat pour tous](https://www.coursera.org/learn/effectuation) `beginner`
@@ -129,6 +131,7 @@
 ### Coursera Project Network
  - [Créer et manipuler un cluster Kubernetes avec Minikube](https://www.coursera.org/learn/creer-manipuler-cluster-kubernetes-minikube) `intermediate`
  - [Créer un Groupe Auto Scaling Amazon EC2 avec Load Balancer](https://www.coursera.org/learn/creer-un-groupe-auto-scaling-ec2-dans-la-console-amazon-aws) `intermediate`
+ - [Créer Une App. À L’aide Des fonctionnalités OOP en Java](https://www.coursera.org/learn/java-oop-supermarket-french) `intermediate`
  - [Créer une instance Amazon EC2 dans la console AWS](https://www.coursera.org/learn/creer-une-instance-amazon-ec2-dans-la-console-aws) `beginner`
  - [Créér une plateforme d'aprentissage avec SQL, C# et ASP.net](https://www.coursera.org/learn/creer-une-plateforme-daprentissage) `intermediate`
  - [Initiation aux conteneurs avec Docker](https://www.coursera.org/learn/initiation-conteneurs-docker) `intermediate`
@@ -146,6 +149,7 @@
  - [Programmation pour tous (mise en route de Python)](https://www.coursera.org/learn/python-fr)
 ### École Polytechnique Fédérale de Lausanne
  - [Initiation à la programmation (en C++)](https://www.coursera.org/learn/initiation-programmation-cpp) `beginner`
+ - [Initiation à la programmation (en Java)](https://www.coursera.org/learn/initiation-programmation-java) `beginner`
  - [Introduction à la programmation orientée objet (en C++)](https://www.coursera.org/learn/programmation-orientee-objet-cpp) `intermediate`
  - [Introduction à la programmation orientée objet (en Java)](https://www.coursera.org/learn/programmation-orientee-objet-java) `intermediate`
  - [Projet de programmation (en Java)](https://www.coursera.org/learn/projet-programmation-java) `intermediate`
@@ -168,7 +172,9 @@
 ### Coursera Project Network
  - [Affectation de variable en Python](https://www.coursera.org/learn/affectation-de-variable-en-python) `beginner`
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
+ - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
  - [Création de chaînes en Python](https://www.coursera.org/learn/creation-de-chaines-en-python) `beginner`
+ - [Des nombres et plus en Python](https://www.coursera.org/learn/des-nombres-et-plus-en-python) `beginner`
  - [Formulaire HTML](https://www.coursera.org/learn/formulaire-html) `beginner`
  - [Introduction A L’HTML](https://www.coursera.org/learn/introduction-a-l-html) `beginner`
  - [Styles HTML - CSS](https://www.coursera.org/learn/styles-html-css) `beginner`

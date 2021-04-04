@@ -48,6 +48,7 @@
  - [مقدمة عن التفاوض: دليل استراتيجي لتصبح مُفاوضًا ذا مبادئ ومُقنعًا](https://www.coursera.org/learn/negotiation-ar)
 ## Business Strategy
 ### Coursera Project Network
+ - [استخدام جداول بيانات جوجل لإنشاء بيان مالي](https://www.coursera.org/learn/using-google-sheets-to-create-a-financial-statement-ar) `beginner`
  - [التحول الرقمى لدعم العملاء من الشركات الصغيرة ومتوسطة الحجم](https://www.coursera.org/learn/customer-support-digital-transformation) `beginner`
  - [تطوير خطة توفير على دخل ثابت باستخدام جداول بيانات جوجل](https://www.coursera.org/learn/develop-a-savings-plan-on-a-fixed-income-with-google-sheets-ar) `beginner`
 ### DeepLearning.AI
@@ -90,6 +91,7 @@
 ## Marketing
 ### Coursera Project Network
  - [إنشاء تصاميم تسويقية مذهلة باستخدام كانفا](https://www.coursera.org/learn/create-amazing-designs-using-canva-ar) `beginner`
+ - [إنشاء تصميمات مذهلة لطقم علامة تجارية تسويقية باستخدام كانفا](https://www.coursera.org/learn/create-an-amazing-brand-kit-using-canvas-ar) `intermediate`
  - [إنشاء صفحة أعمال مجانية باستخدام Blogger](https://www.coursera.org/learn/creating-a-free-business-page-with-blogger-ar) `beginner`
  - [إنشاء صفحة لنكدين إحترافية](https://www.coursera.org/learn/create-a-professional-linkedin-account-ar) `beginner`
  - [إنشاء واستخدام قالب بريد إلكتروني ذي علامة تجارية في ميلشيمب](https://www.coursera.org/learn/creating-and-utilizing-a-branded-email-template-in-mailchimp-ar) `beginner`
@@ -112,6 +114,8 @@
 ## Algorithms
 ### Coursera Project Network
  - [أساسيات python: برمج لعبة تخمين الرقم من الصفر](https://www.coursera.org/learn/python-basics-guess-the-number-arabic) `beginner`
+### University of California San Diego, HSE University
+ - [مربع الأدوات الخوارزمية](https://www.coursera.org/learn/algorithmic-toolbox-ar) `intermediate`
 ## Design and Product
 ### Coursera Project Network
  - [كيفيه انشاء شعار باستخدام GIMP](https://www.coursera.org/learn/gimp) `beginner`
@@ -124,12 +128,16 @@
  - [أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript](https://www.coursera.org/learn/website-coding-ar)
 ### University of Michigan
  - [تنميط متقدم بتصميم سريع الاستجابة](https://www.coursera.org/learn/responsivedesign-ar)
+ - [مقدمة عن CSS3](https://www.coursera.org/learn/introcss-ar)
+ - [مقدمة عن لغة HTML5](https://www.coursera.org/learn/html-ar)
 ## Software Development
 ### Coursera Project Network
+ - [HTML و CSS انشاء تطبيق متعدد الصفحات باستخدام](https://www.coursera.org/learn/creating-multi-page-app-by-html-and-css-ar) `beginner`
  - [Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python-in-arabic) `intermediate`
  - [SQL تحسين أداء وضبط أوامر](https://www.coursera.org/learn/optimization-of-sql-query-performance) `intermediate`
  - [برنامج تنبيه سطح المكتب باستخدام Python: إشعارات Covid-19](https://www.coursera.org/learn/personal-desktop-notification-python-arabic) `intermediate`
  - [بناء Neural Network مكونه من 3 طبقات  بأستخدام لغة Python](https://www.coursera.org/learn/build-neural-network) `beginner`
+ - [بناء لعبة pong  باستخدام لغة C++](https://www.coursera.org/learn/pong-game) `intermediate`
  - [تصميم قاعدة البيانات باستخدام SQL Server Management Studio](https://www.coursera.org/learn/database-design-using-sql-server-management-studio) `beginner`
  - [تعرَف على هياكل البيانات في بايثون من خلال التطبيق العملي](https://www.coursera.org/learn/python-data-structures-arabic) `beginner`
  - [تعلم C عن طريق عمل Array-based Stack](https://www.coursera.org/learn/implement-array-based-stack-in-c-ar) `beginner`
@@ -159,6 +167,7 @@
  - [MatplotLib Python باستخدام  plots إنشاء ال](https://www.coursera.org/learn/creating-plots-using-matplotlib-python-ar) `beginner`
  - [MYSQL Workbench إنشاء و تصميم قواعد البيانات باستخدام](https://www.coursera.org/learn/database-creation-and-modeling-using-mysqlworkbench) `beginner`
  - [Power BI  الحصول على البيانات وشكلها ودمجها باستخدام](https://www.coursera.org/learn/manipulate-data-using-power-bi-desktop) `beginner`
+ - [Power BI وتقارير باستخدام Visualizations   إنشاء](https://www.coursera.org/learn/creating-visualizations-and-reports-using-power-bi) `beginner`
  - [Python معالجة مسبقة للبيانات و تحليلها بواسطة](https://www.coursera.org/learn/data-wrangling-using-python) `beginner`
  - [أساسيات تحليل البيانات باستخدام جداول بيانات جوجل](https://www.coursera.org/learn/data-analysis-google-sheets-ar) `beginner`
  - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
@@ -180,6 +189,7 @@
 ### Johns Hopkins University
  - [R البرمجة باستخدام لغة](https://www.coursera.org/learn/r-programming-ar) `intermediate`
  - [الحصول على البيانات وتنظيفها](https://www.coursera.org/learn/data-cleaning-ar)
+ - [تحليل البيانات الاستكشافية](https://www.coursera.org/learn/exploratory-data-analysis-ar)
  - [مجموعة أدوات عالم البيانات](https://www.coursera.org/learn/data-scientists-tools-ar)
 ### University of California San Diego
  - [مقدمة عن البيانات الضخمة](https://www.coursera.org/learn/big-data-introduction-ar)
@@ -217,6 +227,7 @@
 ### National Research Tomsk State University
  - [التخطيط المهني: السيرة الذاتية/الخطاب التعريفي ومقابلة العمل](https://www.coursera.org/learn/career-planning-tsu-ar) `beginner`
 ### The State University of New York
+ - [تطوير تميزك المهني والتدريب الذاتي](https://www.coursera.org/learn/career-brand-development-self-coaching-ar)
  - [كيفية كتابة سيرة ذاتية (دورة تدريبية قائمة على مشروع)](https://www.coursera.org/learn/how-to-write-a-resume-ar)
 ### University of Washington
  - [الخطابة الإقناعية: تحفيز الجماهير بالحجج المُقنِعة واللغة المؤثِّرة](https://www.coursera.org/learn/persuade-speech-ar) `beginner`
