@@ -110,6 +110,14 @@
 ### University of Virginia
  - [Gestão de produtos digitais: Princípios básicos modernos](https://www.coursera.org/learn/uva-darden-digital-product-management-pt) `beginner`
 ## Marketing
+### Facebook
+#### [Marketing de Mídias Sociais do Facebook Professional Certificate](https://www.coursera.org/specializations/marketing-de-midias-sociais-do-facebook)
+1. [Introdução ao marketing de mídias sociais](https://www.coursera.org/learn/introducao-ao-marketing-de-midias-sociais) `beginner`
+2. [Gerenciamento de mídias sociais](https://www.coursera.org/learn/gerenciamento-de-midias-sociais) `beginner`
+3. [Princípios básicos da publicidade em mídias sociais](https://www.coursera.org/learn/principios-basicos-da-publicidade-em-midias-sociais) `beginner`
+4. [Veiculação de anúncios com o Facebook](https://www.coursera.org/learn/veiculacao-de-anuncios-com-o-facebook) `beginner`
+5. [Medir e otimizar campanhas de marketing de mídias sociais](https://www.coursera.org/learn/medir-e-otimizar-campanhas-de-marketing-de-midias-sociais) `beginner`
+6. [Conclusão do Marketing de Mídias Sociais do Facebook](https://www.coursera.org/learn/conclusao-do-marketing-de-midias-sociais-do-facebook) `beginner`
 ### Fundação Instituto de Administração
  - [Gestão de Marca & Crise de Imagem](https://www.coursera.org/learn/gestao-de-marca-crise-imagem) `intermediate`
 ### Insper
@@ -165,6 +173,8 @@
 > - [Machine Learning](#machine-learning)
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
+### Fundação Instituto de Administração
+ - [Introdução ao Big Data](https://www.coursera.org/learn/introducao-big-data) `beginner`
 ### Google Cloud
  - [Building Resilient Streaming Systems on GCP em Português Brasileiro](https://www.coursera.org/learn/building-resilient-streaming-systems-gcp-br) `intermediate`
  - [Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp-br) `intermediate`
@@ -176,6 +186,8 @@
  - [Python para a Ciência de Dados e IA](https://www.coursera.org/learn/python-for-applied-data-science-ai-pt) `beginner`
  - [Trabalho de conclusão de Ciência de Dados Aplicada](https://www.coursera.org/learn/applied-data-science-capstone-pt) `intermediate`
  - [Visualização de dados com o Python](https://www.coursera.org/learn/python-for-data-visualization-pt) `intermediate`
+### Universidade de São Paulo
+ - [Redes Ecológicas](https://www.coursera.org/learn/redesecologicas) `beginner`
 ## Machine Learning
 ### Coursera Project Network
  - [Introdução a Machine Learning em uma Competição do Kaggle](https://www.coursera.org/learn/ml-basics-kaggle-competition-pt-br) `beginner`

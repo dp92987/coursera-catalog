@@ -82,6 +82,8 @@
 ## Finance
 ### Rice University
  - [Finances pour les professionnels non financiers](https://www.coursera.org/learn/finance-for-non-finance-fr) `beginner`
+### Università Bocconi
+ - [Capital-investissement et capital-risque](https://www.coursera.org/learn/private-equity-fr)
 ### Yale University
  - [Marchés financiers](https://www.coursera.org/learn/financial-markets-global-fr) `beginner`
 ## Leadership and Management
@@ -102,6 +104,8 @@
  - [Réussir le Changement](https://www.coursera.org/learn/reussir-le-changement)
 ### Indian School of Business
  - [Leadership et intelligence émotionnelle](https://www.coursera.org/learn/emotional-intelligence-in-leadership-fr) `beginner`
+### Johns Hopkins University
+ - [Gestion de l’analyse des données](https://www.coursera.org/learn/managing-data-analysis-fr)
 ### Macquarie University
  - [Storytelling et influence : Communiquer pour convaincre](https://www.coursera.org/learn/communicate-with-impact-fr)
 ### University of California, Irvine
@@ -168,6 +172,8 @@
  - [Transformer les Données avec R](https://www.coursera.org/learn/transformer-donnees-avec-r) `intermediate`
 ### DeepLearning.AI
  - [Structurer des projets d’apprentissage automatique](https://www.coursera.org/learn/machine-learning-projects-fr) `beginner`
+### Johns Hopkins University
+ - [Cours intensif sur la science des données](https://www.coursera.org/learn/data-science-course-fr)
 ## Machine Learning
 ### Coursera Project Network
  - [Affectation de variable en Python](https://www.coursera.org/learn/affectation-de-variable-en-python) `beginner`

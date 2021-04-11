@@ -1,7 +1,6 @@
 # Spanish Courses
  - [Arts and Humanities](#arts-and-humanities)
  - [Business](#business)
- - [Ciencias sociales](#ciencias-sociales)
  - [Computer Science](#computer-science)
  - [Data Science](#data-science)
  - [Health](#health)
@@ -55,6 +54,8 @@
 5. [Aplicaciones musicales con Arduino](https://www.coursera.org/learn/aplicaciones-musicales-arduino)
 6. [Perspectivas de música colaborativa](https://www.coursera.org/learn/perspectivas-musica-colaborativa) `intermediate`
 7. [Tecnología musical con software libre: Proyecto final](https://www.coursera.org/learn/tecnologia-musical-proyecto) `intermediate`
+### Universitat de Barcelona
+ - [Introducción al Arte Sonoro](https://www.coursera.org/learn/introduccion-arte-sonoro) `beginner`
 ## Philosophy
 ### Universidad Nacional Autónoma de México
  - [Pensamiento científico](https://www.coursera.org/learn/ciencia)
@@ -79,7 +80,9 @@
  - [Crea presentaciones en pocos minutos con Google Slides](https://www.coursera.org/learn/crea-presentaciones-google-slides) `beginner`
  - [Documentos colaborativos con Google Docs](https://www.coursera.org/learn/documentos-colaborativos-google-docs) `beginner`
  - [Google Ads para principiantes](https://www.coursera.org/learn/google-ads-basico-para-principiantes) `beginner`
+ - [Google Ads, branding y creatividad en la estrategia](https://www.coursera.org/learn/google-ads-branding-creatividad-estrategia) `intermediate`
  - [Hojas de cálculo para principiantes con Google Sheets](https://www.coursera.org/learn/hojas-calculo-principiantes-sheets) `beginner`
+ - [Introducción a Google Analytics](https://www.coursera.org/learn/introduccion-a-google-analytics) `beginner`
  - [Utilice los formularios de Google para encuestas de mercadeo](https://www.coursera.org/learn/utilice-formularios-google-encuestas-mercadeo) `beginner`
  - [YouTube como un canal estrategico](https://www.coursera.org/learn/youtube-como-canal-estrategico) `beginner`
 ### Macquarie University
@@ -101,6 +104,7 @@
 #### [Estrategias de Negociación Specialization](https://www.coursera.org/specializations/negociacion)
 1. [Introducción al mundo de las negociaciones](https://www.coursera.org/learn/estrategias-de-negociacion)
 2. [Habilidades humanas y de negocios para negociar](https://www.coursera.org/learn/habilidades-negociacion)
+3. [Los obstáculos y la conducción en las negociaciones](https://www.coursera.org/learn/negociacion-proceso)
 4. [Las estrategias y habilidades para las negociaciones](https://www.coursera.org/learn/estrategias-negociacion)
 5. [Proyecto final sobre negociación para un mejor clima laboral](https://www.coursera.org/learn/proyecto-negociacion)
 #### [Fundamentos Estratégicos Empresariales Specialization](https://www.coursera.org/specializations/fundamentos-empresariales)
@@ -117,6 +121,8 @@
 ### University of Pennsylvania
 #### [Fundamentos Empresariales  Specialization](https://www.coursera.org/specializations/wharton-fundamentos-empresariales)
 5. [Proyecto de Fundamentos Empresariales de Wharton](https://www.coursera.org/learn/wharton-proyecto-final-empresariales)
+### University of Virginia
+ - [Estrategia de IT centrada en el cliente](https://www.coursera.org/learn/uva-darden-customer-centric-it-strategy-es) `beginner`
 ## Business Strategy
 ### Coursera Project Network
  - [Análisis de Variación con Google Sheets](https://www.coursera.org/learn/analisis-variacion-google-sheets) `beginner`
@@ -125,10 +131,12 @@
  - [Crea una infografía en Canva](https://www.coursera.org/learn/crea-infografia-canva) `intermediate`
  - [Crear encuestas de mercadeo con Formularios Google](https://www.coursera.org/learn/crear-encuestas-mercadeo-formularios-google) `beginner`
  - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
+ - [Crear un informe de lecciones aprendidas con Docs Google](https://www.coursera.org/learn/crear-informe-lecciones-aprendidas-documentos-google) `beginner`
  - [Crear una carta de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-carta-proyecto-hojas-calculo-google) `beginner`
  - [Crear una cronología de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-cronologia-proyecto-hojas-calculo-google) `beginner`
  - [Crear una matriz RACI con Hojas de cálculo Google](https://www.coursera.org/learn/crear-matriz-raci-hojas-calculo-google) `beginner`
  - [Diseñar mejores presentaciones en Google Slides](https://www.coursera.org/learn/disenar-mejores-presentaciones-google-slides) `beginner`
+ - [Encuentre su Nuevo Trabajo con LinkedIn](https://www.coursera.org/learn/encuentre-nuevo-trabajo-linkedin) `intermediate`
  - [Expanda su desarrollo profesional con Google Classroom](https://www.coursera.org/learn/expanda-desarrollo-profesional-google-classroom) `beginner`
  - [Mejora del Rendimiento Empresarial con Google Forms](https://www.coursera.org/learn/mejora-rendimiento-empresarial-google-forms) `beginner`
  - [Optimice procesos de comunicación con Gmail](https://www.coursera.org/learn/optimice-procesos-comunicacion-gmail) `beginner`
@@ -232,6 +240,8 @@
 ### Universidad de los Andes
  - [Fundamentos de Finanzas Empresariales](https://www.coursera.org/learn/finanzas-empresariales) `beginner`
  - [¿Cómo tomar decisiones financieras que agreguen valor?](https://www.coursera.org/learn/tomar-decisiones-financieras-que-agregan-valor) `intermediate`
+### Universidad de Palermo
+ - [Contabilidad como Herramienta Gerencial](https://www.coursera.org/learn/contabilidad-como-herramienta-gerencial) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Contabilidad para no contadores](https://www.coursera.org/learn/contabilidad) `beginner`
  - [Crédito y cobranza](https://www.coursera.org/learn/credito) `beginner`
@@ -250,6 +260,8 @@
  - [Transformación digital](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-es) `beginner`
 ### Case Western Reserve University
  - [Inspirar el liderazgo a través de la inteligencia emocional](https://www.coursera.org/learn/emotional-intelligence-leadership-es) `beginner`
+### Coursera Project Network
+ - [Crear un documento con LibreOffice Writer](https://www.coursera.org/learn/crear-documento-libreoffice-writer) `intermediate`
 ### ESADE Business and Law School
 #### [Empresa familiar: gestión, dirección y sucesión Specialization](https://www.coursera.org/specializations/empresa-familiar-gestion)
 1. [La gestión en la empresa familiar](https://www.coursera.org/learn/gestion-empresa-familiar) `beginner`
@@ -316,10 +328,21 @@
  - [Crea folletos con Canva](https://www.coursera.org/learn/crea-folletos-canva) `beginner`
  - [Crea imprimibles digitales de enseñanza con Canva](https://www.coursera.org/learn/crea-imprimibles-digitales-ensenanza-canva) `intermediate`
  - [Crea piezas para redes sociales usando Canva](https://www.coursera.org/learn/crea-piezas-redes-sociales-usando-canva) `beginner`
+ - [Crea un Storyboard con Canva](https://www.coursera.org/learn/crea-storyboard-canva) `intermediate`
+ - [Crear Análisis Causa Raíz de los 5 Porqués en Google Sheets](https://www.coursera.org/learn/crear-analisis-causa-raiz-5-porques-google-sheets) `intermediate`
  - [Cree una presentación de mercadeo con Google Slides](https://www.coursera.org/learn/cree-presentacion-mercadeo-google-slides) `intermediate`
+ - [Diseñe su Aula Virtual con Canva](https://www.coursera.org/learn/disene-aula-virtual-canva) `intermediate`
  - [Edita fotos para redes sociales con PicsArt](https://www.coursera.org/learn/edita-fotos-redes-sociales-picsart) `intermediate`
  - [Introducción a PicsArt para Redes Sociales](https://www.coursera.org/learn/introduccion-picsart-redes-sociales) `beginner`
  - [Introducción de Contenido de Marketing en Google Docs](https://www.coursera.org/learn/introduccion-contenido-marketing-google-docs) `beginner`
+### Facebook
+#### [Marketing en redes sociales de Facebook Professional Certificate](https://www.coursera.org/specializations/marketing-en-redes-sociales-de-facebook)
+1. [Introducción al marketing en redes sociales](https://www.coursera.org/learn/introduccion-al-marketing-en-redes-sociales) `beginner`
+2. [Gestión de redes sociales](https://www.coursera.org/learn/gestion-de-redes-sociales) `beginner`
+3. [Fundamentos de la publicidad en redes sociales](https://www.coursera.org/learn/fundamentos-de-la-publicidad-en-redes-sociales) `beginner`
+4. [Publicidad con Facebook](https://www.coursera.org/learn/publicidad-con-facebook) `beginner`
+5. [Medir y optimizar campañas de marketing en redes sociales](https://www.coursera.org/learn/medir-y-optimizar-campanas-de-marketing-en-redes-sociales) `beginner`
+6. [Fase final de Marketing en redes sociales de Facebook](https://www.coursera.org/learn/fase-final-de-marketing-en-redes-sociales-de-facebook) `beginner`
 ### IE Business School
 #### [Estrategia de marketing Specialization](https://www.coursera.org/specializations/estrategia-de-marketing)
 1. [Investigación de mercados y comportamiento del consumidor](https://www.coursera.org/learn/investigacion-de-mercados) `beginner`
@@ -365,11 +388,6 @@
  - [Mercadeo analítico](https://www.coursera.org/learn/uva-darden-market-analytics-es) `beginner`
 ### Yonsei University
  - [Marketing Internacional en Asia](https://www.coursera.org/learn/marketing-internacional-asia) `beginner`
-# Ciencias sociales
-> - [Educación](#educación)
-## Educación
-### Universidad Nacional Autónoma de México
- - [Cursos en línea: modelo para armar](https://www.coursera.org/learn/enlinea) `beginner`
 # Computer Science
 > - [Algorithms](#algorithms)
 > - [Computer Security and Networks](#computer-security-and-networks)
@@ -430,9 +448,11 @@
  - [Aprendiendo Solidity para hacer Smart Contracts](https://www.coursera.org/learn/solidity-smartcontracts) `beginner`
  - [Construye un sitio web con Wordpress](https://www.coursera.org/learn/construye-sitio-web-wordpress) `beginner`
  - [Crea tu primera página web en HTML](https://www.coursera.org/learn/crea-primera-pagina-web-html) `beginner`
+ - [Crea una aplicación web con Vue.js](https://www.coursera.org/learn/crea-una-aplicacion-web-con-vue-js) `intermediate`
  - [Crea una página web interactiva con JavaScript](https://www.coursera.org/learn/crea-pagina-web-interactiva-javascript) `beginner`
  - [Creando tu primera app con ReactJS](https://www.coursera.org/learn/creando-primera-app-reactjs) `beginner`
  - [Fundamentos de React Hooks](https://www.coursera.org/learn/fundamentos-react-hooks) `intermediate`
+ - [REACT: Carrito de compras con Context](https://www.coursera.org/learn/react-checkout-context) `intermediate`
  - [React: Operaciones Básicas CRUD](https://www.coursera.org/learn/react-crud) `intermediate`
  - [React: Router dinámico con API](https://www.coursera.org/learn/react-router-api) `intermediate`
 ### Universidad Austral
@@ -448,6 +468,8 @@
 3. [Desarrollo de aplicaciones con Android](https://www.coursera.org/learn/desarrollo-de-aplicaciones) `intermediate`
 4. [Desarrollo de aplicaciones avanzadas con Android](https://www.coursera.org/learn/aplicaciones-android)
 5. [Proyecto final - Construyendo una aplicación profesional con Android](https://www.coursera.org/learn/construyendo-android-proyecto)
+### University of Michigan
+ - [Introducción al HTML5](https://www.coursera.org/learn/html-es)
 ### University of New Mexico
  - [Desarrollo de Aplicaciones Web: Conceptos Básicos](https://www.coursera.org/learn/aplicaciones-web)
 ## Software Development
@@ -510,6 +532,7 @@
 ## Data Analysis
 ### Coursera Project Network
  - [Análisis exploratorio de datos con Python y Pandas](https://www.coursera.org/learn/analisis-exploratorio-de-datos-con-python-y-pandas) `beginner`
+ - [Aprendizaje automático con Python y Azure Notebooks](https://www.coursera.org/learn/aprendizaje-automatico-python-azure-notebooks) `beginner`
  - [Aprendizaje automático sin código: Azure ML Designer](https://www.coursera.org/learn/aprendizaje-automatico-sin-codigo-azureml-designer) `intermediate`
  - [Automated Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/automated-machine-learning-powerbi) `intermediate`
  - [Automated Machine Learning en Power BI Clasificación](https://www.coursera.org/learn/automated-machine-learning-powerbi-clasificacion) `intermediate`
@@ -522,6 +545,7 @@
  - [Curso Completo de Spark con Databricks (Big Data)](https://www.coursera.org/learn/curso-completo-spark-databricks) `advanced`
  - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
  - [Desarrollar una aplicación web de ML con PyCaret y Streamlit](https://www.coursera.org/learn/web-app-ml-pycaret-streamlit) `intermediate`
+ - [Desplegando modelos de Machine Learning con Pycaret en Azure](https://www.coursera.org/learn/desplegando-modelos-ml-pycaret-azure) `beginner`
  - [Explorar precios de acciones con Spark SQL](https://www.coursera.org/learn/explorar-data-con-spark-sql) `intermediate`
  - [Imbalanced-learn: modelos de ML con datos desequilibrados](https://www.coursera.org/learn/imbalanced-learn-ml-datosdesequilibrados) `beginner`
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
@@ -615,6 +639,7 @@
 > - [Patient Care](#patient-care)
 > - [Psychology](#psychology)
 > - [Public Health](#public-health)
+> - [Research](#research)
 ## Basic Science
 ### Universidad Nacional Autónoma de México
  - [Charles Darwin: El origen del evolucionismo moderno](https://www.coursera.org/learn/darwin-origen-evolucionismo-moderno) `intermediate`
@@ -682,6 +707,9 @@
  - [Seguimiento de casos y contactos COVID-19](https://www.coursera.org/learn/seguimiento-de-casos-y-contactos-covid-19) `beginner`
 ### Universidad Nacional Autónoma de México
  - [La solución del conflicto ético](https://www.coursera.org/learn/etica)
+## Research
+### Universidad Nacional Autónoma de México
+ - [El rol docente del médico residente](https://www.coursera.org/learn/residente) `beginner`
 # Information Technology
 > - [Cloud Computing](#cloud-computing)
 > - [Data Management](#data-management)
@@ -699,6 +727,7 @@
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Diseñando aplicaciones de IoT con Azure](https://www.coursera.org/learn/iot-azure) `intermediate`
+ - [Diseñando bots con Azure Health Bot](https://www.coursera.org/learn/microsoft-healthcare-bot) `beginner`
  - [Diseñando modelos de ML con Amazon Sagemaker](https://www.coursera.org/learn/modelos-sagemaker) `beginner`
  - [Implementando balanceadores de carga con AWS](https://www.coursera.org/learn/balanceador-carga-aws) `beginner`
  - [Introducción a computación serverless con AWS Lambda](https://www.coursera.org/learn/serverless-aws) `intermediate`
@@ -709,6 +738,7 @@
 ### Google Cloud
  - [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`
  - [Building Resilient Streaming Analytics Systems on GCP en Español](https://www.coursera.org/learn/streaming-analytics-systems-gcp-es) `intermediate`
+ - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
  - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
  - [Essential Cloud Infrastructure: Foundation en Español](https://www.coursera.org/learn/gcp-infrastructure-foundation-es) `intermediate`
  - [Getting Started with Google Kubernetes Engine en Español](https://www.coursera.org/learn/google-kubernetes-engine-es) `intermediate`
@@ -733,6 +763,7 @@
 ### Amazon Web Services
  - [Aspectos básicos de AWS: Migración a la nube](https://www.coursera.org/learn/aws-fundamentals-cloud-migration-es) `intermediate`
 ### Coursera Project Network
+ - [Análisis serverless de data en Amazon S3 usando Athena](https://www.coursera.org/learn/amazon-athena) `beginner`
  - [Introducción a bases de datos NoSQL con MongoDB](https://www.coursera.org/learn/base-datos-nosql) `beginner`
  - [Introducción a la aplicación Google Docs](https://www.coursera.org/learn/introduccion-google-docs) `beginner`
  - [Introducción a las bases de datos relacionales y SQL](https://www.coursera.org/learn/base-datos-sql) `beginner`
@@ -753,6 +784,7 @@
 ### Coursera Project Network
  - [Trabajando de inicio a fin con GIT](https://www.coursera.org/learn/git-inicio-fin) `beginner`
 ### Crece con Google
+1. [Aspectos básicos de la asistencia técnica](https://www.coursera.org/learn/asistencia-tecnica) `beginner`
 3. [Sistemas operativos y tú: Convertirse en un usuario avanzado](https://www.coursera.org/learn/sistemas-operativos) `beginner`
 4. [Administración de sistemas y servicios de infraestructura de TI](https://www.coursera.org/learn/administracion-de-sistema-y-servicios-de-infraestructura) `beginner`
 ### Universidad de Palermo
@@ -922,7 +954,6 @@
 2. [Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado](https://www.coursera.org/learn/comercio-inmigracion-tipos-de-cambio) `beginner`
 3. [Riesgos y oportunidades empresariales en una economía globalizada](https://www.coursera.org/learn/riesgos-oportunidades-empresariales) `intermediate`
 ### Universidad de Chile
- - [Criterios para la Gestión y el Aseguramiento de la Calidad en la Educación Superior](https://www.coursera.org/learn/calidadeducacionsuperior) `beginner`
  - [Sustentabilidad y Economías Sociales](https://www.coursera.org/learn/sustentabilidad-economias-sociales) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios) `beginner`
@@ -973,12 +1004,14 @@
 ### Universidad Nacional Autónoma de México
  - [Aprender](https://www.coursera.org/learn/aprendo)
  - [Atrévete a innovar tu enseñanza con pensamiento de diseño](https://www.coursera.org/learn/innovacioneducativa) `beginner`
+ - [Cursos en línea: modelo para armar](https://www.coursera.org/learn/enlinea) `beginner`
  - [Cómo hacer una tesis](https://www.coursera.org/learn/como-hacer-una-tesis) `beginner`
  - [Introducción a la producción audiovisual](https://www.coursera.org/learn/intro-produccion-audiovisual) `beginner`
  - [Usos didácticos del cine: Introducción al análisis](https://www.coursera.org/learn/usos-didacticos-del-cine) `intermediate`
 #### [Evaluación educativa Specialization](https://www.coursera.org/specializations/evaluacion-educativa)
 1. [Evaluación educativa del y para el aprendizaje en educación superior](https://www.coursera.org/learn/evaluacion-educativa) `beginner`
 2. [Evaluación para el aprendizaje: Enfoque cuantitativo](https://www.coursera.org/learn/evaluacion-aprendizaje-enfoque-cuantitativo) `intermediate`
+3. [Evaluación para el aprendizaje: Enfoque cualitativo](https://www.coursera.org/learn/evaluacion-cualitativa) `intermediate`
 4. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 ### Universitat Autònoma de Barcelona
  - [Educación Social: Ámbitos de acción y reflexión](https://www.coursera.org/learn/educacion-social) `beginner`

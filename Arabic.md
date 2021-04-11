@@ -36,6 +36,8 @@
  - [مهارات Excel للأعمال: المستوى "المتوسط I"](https://www.coursera.org/learn/excel-intermediate-1-ar) `intermediate`
  - [مهارات الإكسل الخاصة بالأعمال التجارية: المستوى المتقدم](https://www.coursera.org/learn/excel-advanced-ar) `intermediate`
  - [مهارات برنامج Excel للعمل: المبادئ الأساسية](https://www.coursera.org/learn/excel-essentials-ar) `beginner`
+### University of California, Irvine
+ - [اعمل بذكاء أكبر لا بجهد أكثر: إدارة الوقت الشخصي والمهني](https://www.coursera.org/learn/work-smarter-not-harder-ar)
 ### University of Colorado Boulder
  - [(Business Writing) الكتابة في مجال الأعمال](https://www.coursera.org/learn/writing-for-business-ar) `beginner`
  - [(Giving Helpful Feedback) إعطاء الملاحظات المفيدة](https://www.coursera.org/learn/feedback-ar)
@@ -100,6 +102,16 @@
  - [استخدام كانفة لتصميم وإنشاء منتجات رقمية](https://www.coursera.org/learn/use-canva-to-design-and-create-digital-product-ar) `intermediate`
  - [التسويق للشركات  والمشاريع الصغيرة عبر موقع يوتيوب](https://www.coursera.org/learn/youtube-for-small-businesses-ar) `beginner`
  - [التسويق للمشاريع الصغيرة عبر موقع التواصل الإجتماعي فيسبوك](https://www.coursera.org/learn/facebook-marketing-for-small-businesses-ar) `beginner`
+### Facebook
+#### [التسويق عبر وسائل التواصل الاجتماعي على فيسبوك Professional Certificate](https://www.coursera.org/specializations/al-tasweeq-aabr-wasael-al-tawasol-al-ijtimai)
+1. [مقدمة في التسويق عبر وسائل التواصل الاجتماعي](https://www.coursera.org/learn/moqaddima-fi-al-tasweeq-aabr-wasael-al-tawasol-al-ijtimai) `beginner`
+2. [إدارة وسائل التواصل الاجتماعي](https://www.coursera.org/learn/idarat-wasael-al-tawasol-al-ijtimai) `beginner`
+3. [أساسيات الإعلان على وسائل التواصل الاجتماعي](https://www.coursera.org/learn/asasiyyat-al-ilan-ala-wasael-al-tawasol-al-ijtimai) `beginner`
+4. [الإعلان من خلال فيسبوك](https://www.coursera.org/learn/al-ilan-min-khilal-facebook) `beginner`
+5. [قياس حملات التسويق عبر وسائل التواصل الاجتماعي وتعزيزها](https://www.coursera.org/learn/qiyas-himlat-al-tasweeq-aabr-wasael-al-tawasol-al-ijtimai-wa-taazeezoha) `beginner`
+6. [مشروع كابستون للتسويق عبر وسائل التواصل الاجتماعي من فيسبوك](https://www.coursera.org/learn/mashrou-capstone-lil-tasweeq-aabr-wasael-al-tawasol-al-ijtimai-min-facebook) `beginner`
+### Northwestern University
+ - [ما هي وسائل التواصل الاجتماعي؟](https://www.coursera.org/learn/what-is-social-ar)
 ### University of Illinois at Urbana-Champaign
  - [التسويق في عالم رقمي](https://www.coursera.org/learn/marketing-digital-ar) `beginner`
  - [لوسائط الرقمية واستراتيجيات التسويق](https://www.coursera.org/learn/marketing-plan-ar)
@@ -127,6 +139,7 @@
 ### University of London, Goldsmiths, University of London
  - [أساسيات مواقع الويب سريعة الاستجابة: البرمجة باستخدام HTML وCSS وJavaScript](https://www.coursera.org/learn/website-coding-ar)
 ### University of Michigan
+ - [التفاعل مع لغة البرمجة جافا سكريبت](https://www.coursera.org/learn/javascript-ar)
  - [تنميط متقدم بتصميم سريع الاستجابة](https://www.coursera.org/learn/responsivedesign-ar)
  - [مقدمة عن CSS3](https://www.coursera.org/learn/introcss-ar)
  - [مقدمة عن لغة HTML5](https://www.coursera.org/learn/html-ar)
@@ -134,7 +147,9 @@
 ### Coursera Project Network
  - [HTML و CSS انشاء تطبيق متعدد الصفحات باستخدام](https://www.coursera.org/learn/creating-multi-page-app-by-html-and-css-ar) `beginner`
  - [Python برنامج لحل لعبة السودوكو بالذكاء الاصطناعى باستخدام](https://www.coursera.org/learn/create-your-own-sudoku-solver-using-ai-and-python-in-arabic) `intermediate`
+ - [Python في Pygame تصميم و تطوير لعبة العقبات باستخدام](https://www.coursera.org/learn/design-obstacles-game-using-pygame-in-python) `intermediate`
  - [SQL تحسين أداء وضبط أوامر](https://www.coursera.org/learn/optimization-of-sql-query-performance) `intermediate`
+ - [إنشاء لعبة الأسئلة باستخدام  Vanilla JavaScript](https://www.coursera.org/learn/creating-a-quiz-game-using-vanilla-javascript-ar) `beginner`
  - [برنامج تنبيه سطح المكتب باستخدام Python: إشعارات Covid-19](https://www.coursera.org/learn/personal-desktop-notification-python-arabic) `intermediate`
  - [بناء Neural Network مكونه من 3 طبقات  بأستخدام لغة Python](https://www.coursera.org/learn/build-neural-network) `beginner`
  - [بناء لعبة pong  باستخدام لغة C++](https://www.coursera.org/learn/pong-game) `intermediate`
@@ -198,7 +213,6 @@
 ## Machine Learning
 ### DeepLearning.AI
  - [الشبكات العصبونية الالتفافية](https://www.coursera.org/learn/convolutional-neural-networks-ar) `intermediate`
- - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar) `intermediate`
  - [النماذج المتعاقبة](https://www.coursera.org/learn/nlp-sequence-models-ar) `intermediate`
  - [تعزيز الشبكات العصبية : ضبط وتحسين مقياس فرط المعلمات](https://www.coursera.org/learn/deep-neural-network-ar) `beginner`
 ### IBM
@@ -209,6 +223,7 @@
 ## Networking
 ### Coursera Project Network
  - [بناء شبكة كمبيوتر افتراضية من الصفر](https://www.coursera.org/learn/cisco-packet-tracer) `beginner`
+ - [كيف تحافظ علي امن اجهزه الشبكات باستخدام Cisco packet Tracer](https://www.coursera.org/learn/how-to-secure-your-network-devices-cisco-ar) `beginner`
 ## Support and Operations
 ### Coursera Project Network
  - [إداره مستخدمي Linux وصلاحيات الملف (Access Control List (ACL](https://www.coursera.org/learn/managing-linux-users-and-access-control-list-file-permissions-ar) `beginner`
@@ -235,10 +250,16 @@
 > - [Chemistry](#chemistry)
 ## Chemistry
 ### Technion - Israel Institute of Technology
- - [التقانة والمستشعرات النانوية - الجزء الاول](https://www.coursera.org/learn/taknulujia-alnnanu1)
  - [التقانة والمستشعرات النانوية - الجزء الثاني](https://www.coursera.org/learn/taknulujia-alnnanu2)
 # Social Sciences
+> - [Education](#education)
 > - [Governance and Society](#governance-and-society)
+## Education
+### The University of Sydney
+ - [محو الأمية المعلوماتية والرقمية لتحقيق النجاح في الجامعة](https://www.coursera.org/learn/digital-literacy-ar) `beginner`
+ - [مهارات التفكير النقدي لتحقيق النجاح في الجامعة](https://www.coursera.org/learn/critical-thinking-skills-ar) `beginner`
+ - [مهارات التواصل لتحقيق النجاح في الجامعة](https://www.coursera.org/learn/communication-skills-ar) `beginner`
+ - [مهارات حل المسائل لتحقيق النجاح في الجامعة](https://www.coursera.org/learn/problem-solving-skills-ar) `beginner`
 ## Governance and Society
 ### IE Business School
  - [فهم صنع السياسات الاقتصادية](https://www.coursera.org/learn/economic-policy-ar)

@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `6824` courses. Updated weekly.
+Complete list of `6951` courses. Updated weekly.
 
 # TOC
 
@@ -71,7 +71,6 @@ Complete list of `6824` courses. Updated weekly.
  - [Personal Development](<English.md#personal-development>)
  - [Physical Science and Engineering](<English.md#physical-science-and-engineering>)
  - [Social Sciences](<English.md#social-sciences>)
- - [Undefined](<English.md#undefined>)
 ### French
  - [Arts and Humanities](<French.md#arts-and-humanities>)
  - [Business](<French.md#business>)
@@ -107,6 +106,7 @@ Complete list of `6824` courses. Updated weekly.
  - [Computer Science](<Japanese.md#computer-science>)
  - [Data Science](<Japanese.md#data-science>)
  - [Information Technology](<Japanese.md#information-technology>)
+ - [Personal Development](<Japanese.md#personal-development>)
 ### Korean
  - [Arts and Humanities](<Korean.md#arts-and-humanities>)
  - [Data Science](<Korean.md#data-science>)
@@ -135,10 +135,10 @@ Complete list of `6824` courses. Updated weekly.
  - [Personal Development](<Russian.md#personal-development>)
  - [Physical Science and Engineering](<Russian.md#physical-science-and-engineering>)
  - [Social Sciences](<Russian.md#social-sciences>)
+ - [Undefined](<Russian.md#undefined>)
 ### Spanish
  - [Arts and Humanities](<Spanish.md#arts-and-humanities>)
  - [Business](<Spanish.md#business>)
- - [Ciencias sociales](<Spanish.md#ciencias-sociales>)
  - [Computer Science](<Spanish.md#computer-science>)
  - [Data Science](<Spanish.md#data-science>)
  - [Health](<Spanish.md#health>)

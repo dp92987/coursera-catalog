@@ -18,6 +18,8 @@
 ## Business Essentials
 ### Macquarie University
  - [Excel-Kenntnisse für Unternehmen: Grundlagen](https://www.coursera.org/learn/excel-essentials-de) `beginner`
+### University of Illinois at Urbana-Champaign
+ - [Untersuchen und Erstellen von Daten für Unternehmen](https://www.coursera.org/learn/business-data-de) `beginner`
 ### University of Michigan
  - [Erfolgreich Verhandeln: Strategien und Fähigkeiten](https://www.coursera.org/learn/negotiation-skills-de)
 ## Business Strategy
@@ -26,6 +28,8 @@
 ### Google Cloud
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
  - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`
+### University of Virginia
+ - [Grundlagen der Geschäftsstrategie](https://www.coursera.org/learn/uva-darden-foundations-business-strategy-de) `beginner`
 ## Finance
 ### Rice University
  - [Finanzen für Nicht-Finanzfachleute](https://www.coursera.org/learn/finance-for-non-finance-de) `beginner`
@@ -36,6 +40,8 @@
  - [Digitale Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-de) `beginner`
 ### Indian School of Business
  - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de) `beginner`
+### Johns Hopkins University
+ - [Datenanalyse verwalten](https://www.coursera.org/learn/managing-data-analysis-de)
 ### University of California, Irvine
  - [Budget- und Terminplanung von Projekten](https://www.coursera.org/learn/schedule-projects-de)
  - [Projektrisiken und -änderungen managen](https://www.coursera.org/learn/project-risk-management-de)
@@ -50,6 +56,8 @@
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
+### Johns Hopkins University
+ - [Ein Crashkurs in Datenwissenschaft](https://www.coursera.org/learn/data-science-course-de)
 ### University of Zurich
  - [Sprachtechnologie in den Digital Humanities](https://www.coursera.org/learn/digital-humanities) `beginner`
 ## Machine Learning

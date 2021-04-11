@@ -10,6 +10,7 @@
  - [Personal Development](#personal-development)
  - [Physical Science and Engineering](#physical-science-and-engineering)
  - [Social Sciences](#social-sciences)
+ - [Undefined](#undefined)
 # Arts and Humanities
 > - [History](#history)
 > - [Music and Art](#music-and-art)
@@ -44,6 +45,7 @@
  - [Дизайн-методология: управление вдохновением (Design-methodology. Inspiration management)](https://www.coursera.org/learn/dizayn-metodologiya) `intermediate`
  - [Креативная коммуникация: методы и инструменты](https://www.coursera.org/learn/kreativnaya-kommunikatsiya) `advanced`
  - [Современная русская литература](https://www.coursera.org/learn/sovremennaya-russkaya-literatura) `beginner`
+2. [Практическое применение пастели](https://www.coursera.org/learn/pastel-practice)
 #### [Проектирование сайта Specialization](https://www.coursera.org/specializations/proyektirovaniye-sayta)
 1. [Художественное проектирование сайта](https://www.coursera.org/learn/art-site-engineering) `beginner`
 ## Philosophy
@@ -63,6 +65,7 @@
 > - [Marketing](#marketing)
 ## Business Essentials
 ### Coursera Project Network
+ - [Введение в Google Таблицы](https://www.coursera.org/learn/introduction-google-sheets-ru) `beginner`
  - [Как создать Google Презентацию](https://www.coursera.org/learn/create-presentation-google-slides-ru) `intermediate`
  - [Наглядное представление данных с помощью Google Таблицы](https://www.coursera.org/learn/data-visualization-google-sheets-ru) `beginner`
  - [Создание макета фирменной презентации в Google Презентации](https://www.coursera.org/learn/create-branded-presentation-layout-google-slides-ru) `beginner`
@@ -128,6 +131,8 @@
 ### University of Virginia
  - [Дизайн-мышление в инновационной деятельности](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ru) `beginner`
 ## Entrepreneurship
+### E-Learning Development Fund
+ - [Развиваем предпринимательское мышление](https://www.coursera.org/learn/developing-an-entrepreneurial-mindset) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Закон стартапа: юридические основы технологического бизнеса](https://www.coursera.org/learn/zakon-startapa-tekhnologicheskogo-biznesa) `intermediate`
  - [Разработка инновационного продукта](https://www.coursera.org/learn/developing-products-new-market)
@@ -150,6 +155,7 @@
  - [Используем функции Google Finance в Google Sheets](https://www.coursera.org/learn/google-finance-functions-google-sheets-ru) `intermediate`
  - [Нахождение инвестиционной альфы](https://www.coursera.org/learn/seeking-investment-alpha-ru) `intermediate`
  - [Оптимизация портфеля с помощью модели Марковица](https://www.coursera.org/learn/portfolio-optimization-markowitz-model-ru) `intermediate`
+ - [Оценка акций через анализ сопоставимых компаний](https://www.coursera.org/learn/stock-valuation-comparable-companies-analysis-ru) `intermediate`
  - [Оценка облигаций](https://www.coursera.org/learn/bonds-fixed-income-mathematics-ru) `intermediate`
  - [Сравниваем доходность акций с Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets-ru) `intermediate`
  - [Управление инвестиционными рисками](https://www.coursera.org/learn/investment-risk-management-ru) `intermediate`
@@ -184,10 +190,11 @@
 ### Rice University
  - [Финансы для нефинансистов](https://www.coursera.org/learn/finance-for-non-finance-ru) `beginner`
 ### Saint Petersburg State University
- - [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
- - [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
- - [Финансовая грамота](https://www.coursera.org/learn/finlit1) `beginner`
- - [Финансовая грамотность. Проект](https://www.coursera.org/learn/proekt) `beginner`
+#### [Финансовая грамотность  Specialization](https://www.coursera.org/specializations/fingramota)
+1. [Основы финансовой грамотности](https://www.coursera.org/learn/finlit)
+2. [Финансовая грамота](https://www.coursera.org/learn/finlit1) `beginner`
+3. [Основы финансовой культуры](https://www.coursera.org/learn/finlit2)
+4. [Финансовая грамотность. Проект](https://www.coursera.org/learn/proekt) `beginner`
 ### SberUniversity
  - [Банковское дело и финансы](https://www.coursera.org/learn/bankovskoye-delo-finansy) `intermediate`
  - [Основы риск-менеджмента в Банке](https://www.coursera.org/learn/osnovy-risk-menedzhmenta-v-banke) `beginner`
@@ -201,6 +208,8 @@
  - [Введение в приложение Google Docs](https://www.coursera.org/learn/introduction-google-docs-ru) `beginner`
 ### Indian School of Business
  - [Лидерство и эмоциональный интеллект](https://www.coursera.org/learn/emotional-intelligence-in-leadership-ru) `beginner`
+### Johns Hopkins University
+ - [Управление анализом данных](https://www.coursera.org/learn/managing-data-analysis-ru)
 ### Macquarie University
  - [Повествование и влияние: Эффектная коммуникация](https://www.coursera.org/learn/communicate-with-impact-ru)
 ### Moscow Institute of Physics and Technology
@@ -229,6 +238,7 @@
 #### [Эффективный руководитель Specialization](https://www.coursera.org/specializations/effektivnyy-rukovoditel)
 1. [Психотехнологии работы с персоналом (Psychotechnologies of personnel management)](https://www.coursera.org/learn/psikhotekhnologii-raboty) `beginner`
 ### University of California, Irvine
+ - [Составление бюджета и графиков проектов](https://www.coursera.org/learn/schedule-projects-ru)
  - [Управление рисками проекта и изменениями](https://www.coursera.org/learn/project-risk-management-ru)
 ### University of Toronto
  - [Стратегии коммуникации в виртуальную эпоху](https://www.coursera.org/learn/communication-strategies-virtual-age-ru) `beginner`
@@ -319,6 +329,8 @@
 3. [JavaScript, часть 1: основы и функции](https://www.coursera.org/learn/javascript-osnovy-i-funktsii) `intermediate`
 4. [JavaScript, часть 2: прототипы и асинхронность](https://www.coursera.org/learn/javascript-prototipy) `intermediate`
 5. [Разработка интерфейсов: финальный проект](https://www.coursera.org/learn/razrabotka-interfeysov-proyekt) `advanced`
+### University of Michigan
+ - [Введение в HTML5](https://www.coursera.org/learn/html-ru)
 ## Software Development
 ### E-Learning Development Fund, RUDN University
  - [Fundamentals of digital management](https://www.coursera.org/learn/fundamentals-of-digital-management) `intermediate`
@@ -547,6 +559,9 @@
 ### Saint Petersburg State University
  - [Китайский язык: пять шагов к успеху. Часть 1](https://www.coursera.org/learn/kit-step1) `beginner`
  - [Китайский язык: пять шагов к успеху. Часть 2](https://www.coursera.org/learn/kit-step2) `beginner`
+ - [Китайский язык: пять шагов к успеху. Часть 3](https://www.coursera.org/learn/kit-step3) `beginner`
+ - [Китайский язык: пять шагов к успеху. Часть 4](https://www.coursera.org/learn/kit-step4) `beginner`
+ - [Китайский язык: пять шагов к успеху. Часть 5](https://www.coursera.org/learn/kit-step5) `beginner`
 #### [Русский как иностранный Specialization](https://www.coursera.org/specializations/russkiy-kak-inostrannyy)
 1. [Русский как иностранный: B1+. Russian as a foreign language: B1+](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1) `intermediate`
 2. [Русский как иностранный: B1+. Часть 2. Russian as a foreign language. B1+. Part 2.](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1-2) `intermediate`
@@ -779,3 +794,8 @@
  - [Уголовный процесс](https://www.coursera.org/learn/crimproc) `intermediate`
 ### University of Geneva
  - [Политика и управление водными ресурсами](https://www.coursera.org/learn/russian-water-management)
+# Undefined
+> - [Undefined](#undefined)
+## Undefined
+### Saint Petersburg State University
+ - [Китайский язык: пять шагов к успеху. Основы произношения](https://www.coursera.org/learn/kit-step0)
