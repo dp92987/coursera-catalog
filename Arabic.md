@@ -68,6 +68,9 @@
 ## Leadership and Management
 ### BCG, University of Virginia
  - [التحوّل الرقمي](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-ar) `beginner`
+### Coursera Project Network
+ - [استخدام جداول بيانات جوجل لإنشاء مخطط جانت](https://www.coursera.org/learn/using-google-sheets-to-create-a-gantt-chart-ar) `beginner`
+ - [حدث كايزن في شرائح جوجل](https://www.coursera.org/learn/a-kaizen-event-in-google-slides-ar) `beginner`
 ### ESSEC Business School
  - [التفاوض الدولي وبين الثقافات](https://www.coursera.org/learn/international-negotiation-ar) `intermediate`
 ### Indian School of Business
@@ -185,6 +188,7 @@
  - [Power BI وتقارير باستخدام Visualizations   إنشاء](https://www.coursera.org/learn/creating-visualizations-and-reports-using-power-bi) `beginner`
  - [Python معالجة مسبقة للبيانات و تحليلها بواسطة](https://www.coursera.org/learn/data-wrangling-using-python) `beginner`
  - [أساسيات تحليل البيانات باستخدام جداول بيانات جوجل](https://www.coursera.org/learn/data-analysis-google-sheets-ar) `beginner`
+ - [تحليل المجموعات الهرمية باستخدام المسافات الإقليدية](https://www.coursera.org/learn/genome-analysis-hierarchical-clustering-ar) `intermediate`
  - [معالجة البيانات وتحليل الأعمال باستخدام برنامج جدول البيانات](https://www.coursera.org/learn/data-manipulation-business-analysis-arabic) `intermediate`
  - [مقدمة لتحليل البيانات باستخدام جدول البيانات](https://www.coursera.org/learn/introduction-to-business-analysis-by-sheets) `beginner`
  - [نهج هندسي لتحليل الجينوم: الانحراف ومنحنى زد](https://www.coursera.org/learn/genome-analysis-z-curve-arabic) `intermediate`
@@ -213,6 +217,7 @@
 ## Machine Learning
 ### DeepLearning.AI
  - [الشبكات العصبونية الالتفافية](https://www.coursera.org/learn/convolutional-neural-networks-ar) `intermediate`
+ - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar) `intermediate`
  - [النماذج المتعاقبة](https://www.coursera.org/learn/nlp-sequence-models-ar) `intermediate`
  - [تعزيز الشبكات العصبية : ضبط وتحسين مقياس فرط المعلمات](https://www.coursera.org/learn/deep-neural-network-ar) `beginner`
 ### IBM
@@ -250,6 +255,7 @@
 > - [Chemistry](#chemistry)
 ## Chemistry
 ### Technion - Israel Institute of Technology
+ - [التقانة والمستشعرات النانوية - الجزء الاول](https://www.coursera.org/learn/taknulujia-alnnanu1)
  - [التقانة والمستشعرات النانوية - الجزء الثاني](https://www.coursera.org/learn/taknulujia-alnnanu2)
 # Social Sciences
 > - [Education](#education)

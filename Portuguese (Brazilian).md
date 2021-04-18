@@ -232,6 +232,7 @@
 ## Cloud Computing
 ### Coursera Project Network
  - [Hospedando Website Estático (HTML/CSS/Javascript) no AWS S3](https://www.coursera.org/learn/website-estatico-aws-s3) `beginner`
+ - [Hospedar site Wordpress Completo no Microsoft Azure Cloud](https://www.coursera.org/learn/hospedar-wordpress-completo-microsoft-azure-cloud) `intermediate`
 ### Google Cloud
  - [Elastic Cloud Infrastructure: Scaling and Automation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-br) `intermediate`
  - [Essential Cloud Infrastructure: Core Services em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-core-services-br) `intermediate`

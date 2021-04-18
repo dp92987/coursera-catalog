@@ -110,6 +110,8 @@
  - [Искусственный Интеллект (ИИ) для всехin](https://www.coursera.org/learn/ai-for-everyone-ru) `beginner`
 ### E-Learning Development Fund
  - [Современные практики бирюзового управления](https://www.coursera.org/learn/teal-management-practices)
+### Ludwig-Maximilians-Universität München (LMU)
+ - [Конкурентная стратегия](https://www.coursera.org/learn/competitive-strategy-ru)
 ### Moscow Institute of Physics and Technology
  - [PropTech: теория и практика](https://www.coursera.org/learn/proptech) `beginner`
  - [Инженер - менеджер настоящего, системный архитектор будущего](https://www.coursera.org/learn/systems-engineering-5) `intermediate`
@@ -132,7 +134,7 @@
  - [Дизайн-мышление в инновационной деятельности](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ru) `beginner`
 ## Entrepreneurship
 ### E-Learning Development Fund
- - [Развиваем предпринимательское мышление](https://www.coursera.org/learn/developing-an-entrepreneurial-mindset) `beginner`
+ - [Сам себе логист](https://www.coursera.org/learn/developing-an-entrepreneurial-mindset) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Закон стартапа: юридические основы технологического бизнеса](https://www.coursera.org/learn/zakon-startapa-tekhnologicheskogo-biznesa) `intermediate`
  - [Разработка инновационного продукта](https://www.coursera.org/learn/developing-products-new-market)
@@ -549,6 +551,8 @@
 ## Other Languages
 ### HSE University
  - [Преподавание иностранного языка в вузе: современные подходы и их практическая реализация](https://www.coursera.org/learn/teaching-foreign-language)
+### Moscow Institute of Physics and Technology
+ - [Японский язык для начинающих](https://www.coursera.org/learn/yaponskiy-yazyk-dlya-nachinayushchikh) `beginner`
 ### National Research Tomsk State University
  - [Активные процессы в современном русском языке](https://www.coursera.org/learn/aktivnyye-protsessy-sovremennom-russkom-yazyke) `intermediate`
  - [Взаимодействие языков и культур: сохраняем и расширяем свою идентичность (на примере изучения татарского языка как родного и иностранного)](https://www.coursera.org/learn/tatar-language-and-culture) `beginner`

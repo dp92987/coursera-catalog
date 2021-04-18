@@ -81,6 +81,7 @@
  - [Documentos colaborativos con Google Docs](https://www.coursera.org/learn/documentos-colaborativos-google-docs) `beginner`
  - [Google Ads para principiantes](https://www.coursera.org/learn/google-ads-basico-para-principiantes) `beginner`
  - [Google Ads, branding y creatividad en la estrategia](https://www.coursera.org/learn/google-ads-branding-creatividad-estrategia) `intermediate`
+ - [Herramientas para la educación con Google for Education](https://www.coursera.org/learn/herramientas-para-la-educacion-con-google-for-education) `beginner`
  - [Hojas de cálculo para principiantes con Google Sheets](https://www.coursera.org/learn/hojas-calculo-principiantes-sheets) `beginner`
  - [Introducción a Google Analytics](https://www.coursera.org/learn/introduccion-a-google-analytics) `beginner`
  - [Utilice los formularios de Google para encuestas de mercadeo](https://www.coursera.org/learn/utilice-formularios-google-encuestas-mercadeo) `beginner`
@@ -317,6 +318,8 @@
 ### University of Michigan
  - [Cómo inspirar y a motivar personas](https://www.coursera.org/learn/motivate-people-teams-es)
  - [Liderazgo de equipos](https://www.coursera.org/learn/leading-teams-es)
+### University of Virginia
+ - [Gestión de productos digitales: Fundamentos modernos](https://www.coursera.org/learn/uva-darden-digital-product-management-es) `beginner`
 ### Università Bocconi
  - [Gestión de las empresas de alimentación y bebidas](https://www.coursera.org/learn/empresas-alimentos-bebidas)
 ## Marketing
@@ -397,6 +400,7 @@
 ## Algorithms
 ### Coursera Project Network
  - [Bases y primeros pasos en latex](https://www.coursera.org/learn/bases-latex) `beginner`
+ - [Crea tu artículo científico con latex](https://www.coursera.org/learn/articulo-cientifico-latex) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Introducción a la inteligencia artificial Specialization](https://www.coursera.org/specializations/inteligencia-artificial)
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
@@ -540,6 +544,7 @@
  - [AutoML con Pycaret y TPOT](https://www.coursera.org/learn/automl-pycaret-tpot) `advanced`
  - [Azure Data Engineer con Databricks y Azure Data Factory](https://www.coursera.org/learn/azure-data-engineer-databricks-data-factory) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
+ - [Curso Completo de Data Science](https://www.coursera.org/learn/curso-completo-data-science) `intermediate`
  - [Curso Completo de Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/curso-completo-machine-learning-microsoft-powerbi) `advanced`
  - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
  - [Curso Completo de Spark con Databricks (Big Data)](https://www.coursera.org/learn/curso-completo-spark-databricks) `advanced`
@@ -604,6 +609,7 @@
  - [Diseñando tu primer modelo con Pytorch](https://www.coursera.org/learn/disenando-tu-primer-modelo-con-pytorch) `intermediate`
  - [Diseñando un bot con Azure LUIS](https://www.coursera.org/learn/bot-luis) `beginner`
  - [Generando modelos con Auto Machine Learning](https://www.coursera.org/learn/generando-modelos-automl) `intermediate`
+ - [Google Slides: Diseña tus clases dinámicas e interactivas.](https://www.coursera.org/learn/google-slides-disena-clases-dinamicas-interactivas-presentaciones-diapositivas) `beginner`
  - [Hojas de cálculo de Google para registro de calificaciones](https://www.coursera.org/learn/hojas-de-calculo-de-google-para-el-registro-de-calificaciones) `beginner`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Español](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es) `intermediate`
@@ -660,6 +666,7 @@
 ## Patient Care
 ### Pontificia Universidad Católica de Chile
  - [Atención Primaria en Salud: El desafío de las Enfermedades no Transmisibles](https://www.coursera.org/learn/enfermedades-no-transmisibles) `intermediate`
+ - [Recuperación Optimizada en Cirugía Colorrectal](https://www.coursera.org/learn/recuperacionoptimizadacirugiacolorrectal) `intermediate`
 ### Rice University
  - [Spanish for Successful Communication in Healthcare Settings](https://www.coursera.org/learn/spanish-in-healthcare-settings) `intermediate`
 ### Stanford University
@@ -954,6 +961,7 @@
 2. [Comercio, Inmigración y Tipos de Cambio en un Mundo Globalizado](https://www.coursera.org/learn/comercio-inmigracion-tipos-de-cambio) `beginner`
 3. [Riesgos y oportunidades empresariales en una economía globalizada](https://www.coursera.org/learn/riesgos-oportunidades-empresariales) `intermediate`
 ### Universidad de Chile
+ - [Criterios para la Gestión y el Aseguramiento de la Calidad en la Educación Superior](https://www.coursera.org/learn/calidadeducacionsuperior) `beginner`
  - [Sustentabilidad y Economías Sociales](https://www.coursera.org/learn/sustentabilidad-economias-sociales) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios) `beginner`
@@ -1015,6 +1023,7 @@
 4. [Proyecto final: Evaluación educativa](https://www.coursera.org/learn/evaluacion-educativa-proyecto-final) `intermediate`
 ### Universitat Autònoma de Barcelona
  - [Educación Social: Ámbitos de acción y reflexión](https://www.coursera.org/learn/educacion-social) `beginner`
+ - [La formación del pensamiento crítico en la era digital](https://www.coursera.org/learn/formacion-pensamiento-critico) `beginner`
 ### Universitat de Barcelona
  - [Claves para la innovación en la docencia universitaria](https://www.coursera.org/learn/innovacion-docencia-universitaria)
 ## Governance and Society

@@ -25,12 +25,12 @@
 > - [Software Development](#software-development)
 ## Computer Security and Networks
 ### Google Cloud
- - [Planning for your G Suite Deployment 日本語版](https://www.coursera.org/learn/deploying-g-suite-jp) `beginner`
-#### [G Suite Administration 日本語版 Specialization](https://www.coursera.org/specializations/g-suite-administration-jp)
-1. [Introduction to G Suite 日本語版](https://www.coursera.org/learn/introduction-g-suite-jp) `beginner`
-2. [Managing G Suite 日本語版](https://www.coursera.org/learn/managing-g-suite-jp) `beginner`
-3. [G Suite Security 日本語版](https://www.coursera.org/learn/g-suite-security-jp) `beginner`
-4. [G Suite Mail Management 日本語版](https://www.coursera.org/learn/g-suite-mail-management-jp) `beginner`
+ - [Planning for your Google Workspace Deployment 日本語版](https://www.coursera.org/learn/deploying-g-suite-jp) `beginner`
+#### [Google Workspace Administration 日本語版 Specialization](https://www.coursera.org/specializations/g-suite-administration-jp)
+1. [Introduction to Google Workspace 日本語版](https://www.coursera.org/learn/introduction-g-suite-jp) `beginner`
+2. [Managing Google Workspace 日本語版](https://www.coursera.org/learn/managing-g-suite-jp) `beginner`
+3. [Google Workspace Security 日本語版](https://www.coursera.org/learn/g-suite-security-jp) `beginner`
+4. [Google Workspace Mail Management 日本語版](https://www.coursera.org/learn/g-suite-mail-management-jp) `beginner`
 ## Software Development
 ### DeepLearning.AI
  - [AI、機械学習、ディープラーニングのための TensorFlow 入門](https://www.coursera.org/learn/introduction-tensorflow-ja) `intermediate`

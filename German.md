@@ -22,6 +22,8 @@
  - [Untersuchen und Erstellen von Daten für Unternehmen](https://www.coursera.org/learn/business-data-de) `beginner`
 ### University of Michigan
  - [Erfolgreich Verhandeln: Strategien und Fähigkeiten](https://www.coursera.org/learn/negotiation-skills-de)
+### University of Virginia
+ - [Grundlagen zum Thema Projektplanung und -management](https://www.coursera.org/learn/uva-darden-project-management-de) `beginner`
 ## Business Strategy
 ### DeepLearning.AI
  - [KI für alle](https://www.coursera.org/learn/ai-for-everyone-de) `beginner`
@@ -42,6 +44,8 @@
  - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de) `beginner`
 ### Johns Hopkins University
  - [Datenanalyse verwalten](https://www.coursera.org/learn/managing-data-analysis-de)
+### Macquarie University
+ - [Storytelling und Einflussnahme: effektive Kommunikation](https://www.coursera.org/learn/communicate-with-impact-de)
 ### University of California, Irvine
  - [Budget- und Terminplanung von Projekten](https://www.coursera.org/learn/schedule-projects-de)
  - [Projektrisiken und -änderungen managen](https://www.coursera.org/learn/project-risk-management-de)

@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `6951` courses. Updated weekly.
+Complete list of `7022` courses. Updated weekly.
 
 # TOC
 
@@ -100,6 +100,8 @@ Complete list of `6951` courses. Updated weekly.
 ### Italian
  - [Arts and Humanities](<Italian.md#arts-and-humanities>)
  - [Business](<Italian.md#business>)
+ - [Data Science](<Italian.md#data-science>)
+ - [Personal Development](<Italian.md#personal-development>)
  - [Physical Science and Engineering](<Italian.md#physical-science-and-engineering>)
 ### Japanese
  - [Business](<Japanese.md#business>)

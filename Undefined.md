@@ -80,6 +80,7 @@
  - [Discounted Cash Flow Modeling](https://www.coursera.org/learn/discounted-cash-flow-modeling)
  - [Evaluate Profit Margins with VLOOKUP in Google Sheets](https://www.coursera.org/learn/evaluate-profit-margins-with-vlookup-in-google-sheets)
  - [Income Features in ProfitBooks](https://www.coursera.org/learn/income-features-profitbooks)
+ - [Inflation Analysis for Investment Appraisal](https://www.coursera.org/learn/inflation-investment-appraisal)
  - [Introduction to Valuation with WACC](https://www.coursera.org/learn/introduction-valuation-wacc)
  - [Investment Risk Management](https://www.coursera.org/learn/investment-risk-management)
  - [Portfolio Diversification using Correlation Matrix](https://www.coursera.org/learn/portfolio-diversification-correlation-matrix)
@@ -98,6 +99,8 @@
  - [Create an Employee Feedback Survey with TypeForm](https://www.coursera.org/learn/create-an-employee-feedback-survey-with-typeform)
  - [Create Customer Support Data with Google Sheets](https://www.coursera.org/learn/create-customer-support-data-with-google-sheets)
  - [Create Customizable Proposals in Qwilr](https://www.coursera.org/learn/create-customizable-proposals-qwilr)
+ - [Create Training Videos with Powtoon](https://www.coursera.org/learn/create-training-videos-powtoon)
+ - [Creating a Customer Service Survey Using Google Forms](https://www.coursera.org/learn/create-customer-service-survey-google-forms)
  - [Critical Path Analysis Using Lucidchart](https://www.coursera.org/learn/critical-path-analysis-using-lucidchart)
  - [Data Visualization Using Google Sheets](https://www.coursera.org/learn/data-visualization-using-google-sheets)
  - [Hiring and Onboarding Employees with ClickUp](https://www.coursera.org/learn/hiring-onboarding-employees-with-clickup)
@@ -282,28 +285,18 @@
 > - [Undefined](#undefined)
 ## Undefined
 ### Coursera Project Network
- - [Create a SIPOC Diagram in Google Sheets](https://www.coursera.org/learn/create-sipoc-diagram-google-sheets)
- - [Create Student Books with Book Creator](https://www.coursera.org/learn/student-books)
- - [Create Swag Bag Inserts to Market your Business using Canva](https://www.coursera.org/learn/create-swag-bag-inserts-to-market-your-business-using-canva)
- - [Create Training Videos with Powtoon](https://www.coursera.org/learn/create-training-videos-powtoon)
- - [Creating a Choice Board with Google Slides](https://www.coursera.org/learn/choice-board-google-slides)
- - [Creating a Customer Service Survey Using Google Forms](https://www.coursera.org/learn/create-customer-service-survey-google-forms)
- - [Inflation Analysis for Investment Appraisal](https://www.coursera.org/learn/inflation-investment-appraisal)
-### DeepLearning.AI
- - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar)
-### Erasmus University Rotterdam
- - [Cross-border road transport in EU law context](https://www.coursera.org/learn/transport-eu-law)
-### Georgia Institute of Technology
- - [Speak English Professionally: In Person, Online & On the Phone](https://www.coursera.org/learn/speak-english-professionally)
+ - [Build a Working Chatbot in Python](https://www.coursera.org/learn/build-working-chatbot-python)
+ - [Create a Communication Plan in Google Docs](https://www.coursera.org/learn/create-communication-plan-google-docs)
+ - [Create a Connect Four Game in Python using Pygame](https://www.coursera.org/learn/connect-four-game-in-python-using-pygame)
+ - [Create a Dashboard with Query Formula using Google Sheets.](https://www.coursera.org/learn/dashboard-query-formula)
+ - [Create a Resume or Curriculum Vitae with Libre Office](https://www.coursera.org/learn/create-resume-cv-libreoffice)
+### EIT Digital 
+ - [Quantitative Model Checking](https://www.coursera.org/learn/quantitative-model-checking)
 ### Google Cloud
  - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
-### Technion - Israel Institute of Technology
- - [التقانة والمستشعرات النانوية - الجزء الاول](https://www.coursera.org/learn/taknulujia-alnnanu1)
-### Universidad de Chile
- - [Criterios para la Gestión y el Aseguramiento de la Calidad en la Educación Superior](https://www.coursera.org/learn/calidadeducacionsuperior)
-### University of Colorado System
- - [Data Structures and Design Patterns for Game Developers](https://www.coursera.org/learn/data-structures-design-patterns)
-### University of Michigan
- - [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
-### Utrecht University
- - [Inequality and Democracy](https://www.coursera.org/learn/inequality-and-democracy)
+### HEC Paris
+ - [Anticipating Your Next Battle, in Business and Beyond](https://www.coursera.org/learn/anticipate)
+### University of London
+ - [Quantitative Foundations for International Business](https://www.coursera.org/learn/quantitative-foundations-international-business)
+### University of Minnesota
+ - [Evaluating User Interfaces](https://www.coursera.org/learn/ui-testing)

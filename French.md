@@ -49,6 +49,8 @@
  - [Donner un feedback utile](https://www.coursera.org/learn/feedback-fr)
 ### University of Michigan
  - [Réussir une négociation : Stratégies et compétences clés](https://www.coursera.org/learn/negotiation-skills-fr)
+### University of Virginia
+ - [Bases de la planification et de la gestion de projet](https://www.coursera.org/learn/uva-darden-project-management-fr) `beginner`
 ## Business Strategy
 ### DeepLearning.AI
  - [L’IA pour tous](https://www.coursera.org/learn/ai-for-everyone-fr) `beginner`
@@ -141,6 +143,7 @@
  - [Initiation aux conteneurs avec Docker](https://www.coursera.org/learn/initiation-conteneurs-docker) `intermediate`
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
+ - [Initiation à l'orchestration de conteneurs avec Kubernetes](https://www.coursera.org/learn/initiation-kubernetes-orchestration-conteneurs) `beginner`
  - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
  - [Scripting Bash - Découverte du Langage de Programmation](https://www.coursera.org/learn/programmation-bash) `intermediate`
  - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`
