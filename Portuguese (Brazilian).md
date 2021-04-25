@@ -110,6 +110,8 @@
 ### University of Virginia
  - [Gestão de produtos digitais: Princípios básicos modernos](https://www.coursera.org/learn/uva-darden-digital-product-management-pt) `beginner`
 ## Marketing
+### Coursera Project Network
+ - [Crie artes para redes sociais usando Canva](https://www.coursera.org/learn/crie-artes-para-redes-sociais-usando-canva) `beginner`
 ### Facebook
 #### [Marketing de Mídias Sociais do Facebook Professional Certificate](https://www.coursera.org/specializations/marketing-de-midias-sociais-do-facebook)
 1. [Introdução ao marketing de mídias sociais](https://www.coursera.org/learn/introducao-ao-marketing-de-midias-sociais) `beginner`
@@ -147,6 +149,8 @@
 ### Universidade Estadual de Campinas
  - [Introdução ao Desenvolvimento de Aplicativos Android](https://www.coursera.org/learn/introducao-aplicativos-android) `intermediate`
 ## Software Development
+### Coursera Project Network
+ - [Introdução à base de dados relacionais e SQL](https://www.coursera.org/learn/introducao-a-base-de-dados-relacionais-sql) `beginner`
 ### Google Cloud
  - [Serverless Data Analysis with Google BigQuery and Cloud Dataflow em Português Brasileiro](https://www.coursera.org/learn/serverless-data-analysis-bigquery-cloud-dataflow-gcp-br) `intermediate`
 #### [Architecting with Google Kubernetes Engine en Portuguese  Specialization](https://www.coursera.org/specializations/architecting-google-kubernetes-engine-br)

@@ -20,7 +20,6 @@
  - [Build Better Visual Presentations with Google Slides](https://www.coursera.org/learn/build-visual-presentations-google-slides)
  - [Build Customizable Sales Presentation Graphics using Canva](https://www.coursera.org/learn/build-customizable-sales-presentation-graphics-canva)
  - [Create a Resume and Cover Letter with Google Docs](https://www.coursera.org/learn/create-resume-cover-letter-google-docs)
- - [Create Charts and Dashboard using Google Sheets](https://www.coursera.org/learn/charts-dashboard-google-sheets)
  - [Exploratory Data Analysis (EDA) in Google Sheets](https://www.coursera.org/learn/exploratory-data-analysis-eda-in-google-sheets)
  - [Grab Data Fast with Vertical and Horizontal LOOKUP](https://www.coursera.org/learn/grab-data-fast-with-vertical-and-horizontal-lookup-in-google-sheets)
  - [How to Create a Program Evaluation for Your Non-Profit](https://www.coursera.org/learn/program-evaluation-non-profit)
@@ -118,7 +117,6 @@
  - [Analyze Survey Data using Principal Component Analysis](https://www.coursera.org/learn/analyze-survey-data-pca)
  - [Boost Accuracy by Weighting Variables in Google Sheets](https://www.coursera.org/learn/boost-accuracy-by-weighting-variables-in-google-sheets)
  - [Brand Marketing and SEO Tools using Wix](https://www.coursera.org/learn/brand-marketing-seo-tools-using-wix)
- - [Building a Business Presence With Facebook Marketing](https://www.coursera.org/learn/facebook-marketing)
  - [Calculate Basic Descriptive Statistics in Google Sheets](https://www.coursera.org/learn/calculate-basic-descriptive-statistics-in-google-sheets)
  - [Collect Data with Google Forms](https://www.coursera.org/learn/collect-data-google-forms)
  - [Crear un Kit de Bienvenida para el Cliente con Canva](https://www.coursera.org/learn/kit-bienvenida-canva)
@@ -138,7 +136,6 @@
  - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides)
  - [Create an Invitation to your Open House using Google Forms](https://www.coursera.org/learn/create-invitation-open-house-google-forms)
  - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva)
- - [Create Cross Tabulation Reports in Google Sheets](https://www.coursera.org/learn/cross-tabulation-reports-google-sheets)
  - [Design a Client Welcome Kit using Canva](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva)
  - [Design a Factor Analysis Using Survey Data in Google Sheets](https://www.coursera.org/learn/design-a-factor-analysis-using-survey-data-in-google-sheets)
  - [Design an eBook Cover that stands out using Canva](https://www.coursera.org/learn/design-an-ebook-cover-that-stands-out-using-canva)
@@ -284,19 +281,40 @@
 # Undefined
 > - [Undefined](#undefined)
 ## Undefined
+### Automation Anywhere
+ - [Cognitive Solutions and RPA Analytics](https://www.coursera.org/learn/cognitive-solutions-rpa-analytics)
 ### Coursera Project Network
- - [Build a Working Chatbot in Python](https://www.coursera.org/learn/build-working-chatbot-python)
- - [Create a Communication Plan in Google Docs](https://www.coursera.org/learn/create-communication-plan-google-docs)
- - [Create a Connect Four Game in Python using Pygame](https://www.coursera.org/learn/connect-four-game-in-python-using-pygame)
- - [Create a Dashboard with Query Formula using Google Sheets.](https://www.coursera.org/learn/dashboard-query-formula)
- - [Create a Resume or Curriculum Vitae with Libre Office](https://www.coursera.org/learn/create-resume-cv-libreoffice)
-### EIT Digital 
- - [Quantitative Model Checking](https://www.coursera.org/learn/quantitative-model-checking)
+ - [Build a Guessing Game in C# on Linux](https://www.coursera.org/learn/build-guessing-game-csharp-linux)
+ - [Building a Business Presence With Facebook Marketing](https://www.coursera.org/learn/facebook-marketing)
+ - [Building Test Automation Framework - Selenium, C# & NUnit](https://www.coursera.org/learn/building-test-automation-framework-using-selenium-csharph-nunit)
+ - [Create a Customer Satisfaction Survey in Qualtrics](https://www.coursera.org/learn/create-customer-satisfaction-survey-qualtrics)
+ - [Create a Dynamic-Link Library with DevC++ for Python](https://www.coursera.org/learn/create-dynamic-link-library-devcpp-python)
+ - [Create a Facebook ads report dashboard with Google sheets](https://www.coursera.org/learn/facebook-ads-report-dashboard-google-sheets)
+ - [Create a Google Ads Search Campaign](https://www.coursera.org/learn/create-a-google-ads-search-campaign)
+ - [Create Charts and Dashboard using Google Sheets](https://www.coursera.org/learn/charts-dashboard-google-sheets)
+ - [Create Cross Tabulation Reports in Google Sheets](https://www.coursera.org/learn/cross-tabulation-reports-google-sheets)
+ - [Create online classes with Google Classroom](https://www.coursera.org/learn/create-online-classes-with-google-classroom)
+ - [Des nombres et plus en Python](https://www.coursera.org/learn/des-nombres-et-plus-en-python)
+ - [Using Google Forms for Student Success](https://www.coursera.org/learn/google-forms-student-success)
 ### Google Cloud
  - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
-### HEC Paris
- - [Anticipating Your Next Battle, in Business and Beyond](https://www.coursera.org/learn/anticipate)
+### IBM
+ - [IBM Data Privacy for Information Architecture](https://www.coursera.org/learn/ibm-data-privacy)
+ - [IBM Data Topology](https://www.coursera.org/learn/ibm-data-topology)
+ - [IBM IT Assessment: Identifying the Right Career for You!](https://www.coursera.org/learn/ibm-it-assessment)
+### Novosibirsk State University 
+ - [Dermatology: Trip to skin](https://www.coursera.org/learn/dermatology)
+### Rice University
+ - [Relationship Management](https://www.coursera.org/learn/relationship-management)
+### The Linux Foundation
+ - [Using Git for Distributed Development](https://www.coursera.org/learn/git-distributed-development)
+### University at Buffalo, The State University of New York
+ - [Data-Driven Process Improvement](https://www.coursera.org/learn/data-driven-process-improvement)
+### University of Alberta
+ - [Arctic Development](https://www.coursera.org/learn/arctic-development)
+### University of Colorado Boulder
+ - [Animals, Self, and Society](https://www.coursera.org/learn/animals-self-society)
 ### University of London
- - [Quantitative Foundations for International Business](https://www.coursera.org/learn/quantitative-foundations-international-business)
-### University of Minnesota
- - [Evaluating User Interfaces](https://www.coursera.org/learn/ui-testing)
+ - [ICT in Primary Education: Transforming children's learning across the curriculum](https://www.coursera.org/learn/ict-primary-education)
+### University of Virginia
+ - [Coding for Designers, Managers, & Entrepreneurs II](https://www.coursera.org/learn/uva-coding-for-design-managers-2)

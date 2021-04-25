@@ -67,7 +67,9 @@
 ### Coursera Project Network
  - [Введение в Google Таблицы](https://www.coursera.org/learn/introduction-google-sheets-ru) `beginner`
  - [Как создать Google Презентацию](https://www.coursera.org/learn/create-presentation-google-slides-ru) `intermediate`
+ - [Как создать график реализации проекта в Google Таблице](https://www.coursera.org/learn/create-project-timeline-google-sheets-ru) `beginner`
  - [Наглядное представление данных с помощью Google Таблицы](https://www.coursera.org/learn/data-visualization-google-sheets-ru) `beginner`
+ - [Создание бюджета в Google Таблице](https://www.coursera.org/learn/create-budget-google-sheets-ru) `intermediate`
  - [Создание макета фирменной презентации в Google Презентации](https://www.coursera.org/learn/create-branded-presentation-layout-google-slides-ru) `beginner`
 ### Macquarie University
  - [Навыки Excel для бизнеса. Продвинутый](https://www.coursera.org/learn/excel-advanced-ru) `intermediate`
@@ -119,6 +121,7 @@
  - [Государственно-частное партнерство в инфраструктурном развитии России](https://www.coursera.org/learn/gosudarstvenno-chastnoye-partnerstvo) `beginner`
  - [Микроэкономика  (вводный курс)](https://www.coursera.org/learn/mikroekonomika-vvodnyy-kurs) `beginner`
  - [Технология ведения международных переговоров](https://www.coursera.org/learn/tekhnologiya-vedeniya-mezhdunarodnykh-peregovorov) `beginner`
+ - [Экологическая ответственность бизнеса](https://www.coursera.org/learn/e-o-b) `beginner`
 #### [Мировая экономика Specialization](https://www.coursera.org/specializations/mirovaya-ekonomika)
 1. [Мировая экономика. Основы](https://www.coursera.org/learn/mirovaya-ekonomika-osnovy) `beginner`
 2. [Мировая экономика. Субъекты и ресурсы.](https://www.coursera.org/learn/mirovaya-ekonomika-subyekty-resursy) `beginner`
@@ -157,6 +160,7 @@
  - [Используем функции Google Finance в Google Sheets](https://www.coursera.org/learn/google-finance-functions-google-sheets-ru) `intermediate`
  - [Нахождение инвестиционной альфы](https://www.coursera.org/learn/seeking-investment-alpha-ru) `intermediate`
  - [Оптимизация портфеля с помощью модели Марковица](https://www.coursera.org/learn/portfolio-optimization-markowitz-model-ru) `intermediate`
+ - [Отбор акций для инвестиций](https://www.coursera.org/learn/screening-stocks-investment-ru) `intermediate`
  - [Оценка акций через анализ сопоставимых компаний](https://www.coursera.org/learn/stock-valuation-comparable-companies-analysis-ru) `intermediate`
  - [Оценка облигаций](https://www.coursera.org/learn/bonds-fixed-income-mathematics-ru) `intermediate`
  - [Сравниваем доходность акций с Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets-ru) `intermediate`
@@ -483,6 +487,8 @@
  - [Расстройства аутистического спектра](https://www.coursera.org/learn/rasstrojstva-autisticheskogo-spektra) `beginner`
  - [Транскрипция и мир РНК](https://www.coursera.org/learn/rna)
  - [Физиология сердца и его дисфункции](https://www.coursera.org/learn/phyheart)
+### Technische Universität München (TUM)
+ - [Основы травматологии](https://www.coursera.org/learn/osnovy-travmatologii) `intermediate`
 ## Health Informatics
 ### Saint Petersburg State University
  - [Введение в биоинформатику (Introduction to Bioinformatics)](https://www.coursera.org/learn/bioinformatika) `beginner`
@@ -523,6 +529,7 @@
  - [Здоровое сердце, здоровые сосуды](https://www.coursera.org/learn/zdorovoe-serdce) `beginner`
 ### Novosibirsk State University 
  - [COVID-19. Отслеживание контактов](https://www.coursera.org/learn/covid19-contact-tracing) `beginner`
+ - [Коронавирусы и COVID-19: первые итоги и новые вызовы](https://www.coursera.org/learn/coronaviruses) `beginner`
 ### Saint Petersburg State University
  - [Коронавирусы SARS-CoV-2 и возбудители ОРВИ](https://www.coursera.org/learn/-sars-cov-2)
 ## Research

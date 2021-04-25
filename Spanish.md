@@ -277,6 +277,15 @@
  - [Buenas Prácticas en Libre Competencia](https://www.coursera.org/learn/libre-competencia)
  - [Camino a la Excelencia en Gestión de Proyectos](https://www.coursera.org/learn/camino-excelencia-gestion-proyectos) `beginner`
  - [Gestión de organizaciones efectivas](https://www.coursera.org/learn/gestion-organizaciones-efectivas)
+### Tecnológico de Monterrey
+#### [Liderazgo y habilidades de negociación Specialization](https://www.coursera.org/specializations/liderazgo-habilidades-negociacion)
+1. [Comunicación efectiva para el líder actual](https://www.coursera.org/learn/comunicacin-efectiva-para-el-lder-actual) `intermediate`
+2. [Habilidades de negociación y comunicación efectiva](https://www.coursera.org/learn/habilidades-de-negociacin-y-comunicacin-efectiva) `intermediate`
+3. [Estrategias y estilos de negociación](https://www.coursera.org/learn/estrategias-y-estilos-de-negociacin) `intermediate`
+#### [Liderazgo y Pensamiento Crítico Specialization](https://www.coursera.org/specializations/liderazgo-pensamiento-critico)
+1. [Liderazgo y comportamiento organizacional](https://www.coursera.org/learn/liderazgo-y-comportamiento-organizacional) `intermediate`
+2. [Pensamiento crítico: toma de decisiones razonadas](https://www.coursera.org/learn/pensamiento-crtico-toma-de-decisiones-razonadas) `intermediate`
+3. [Liderazgo orientado al florecimiento humano](https://www.coursera.org/learn/liderazgo-orientado-al-florecimiento-humano) `intermediate`
 ### Tecnológico de Monterrey, University of California, Irvine
 #### [Administración de Proyectos: Principios Básicos Specialization](https://www.coursera.org/specializations/administracion-proyectos)
 1. [Iniciación y Planificación de Proyectos](https://www.coursera.org/learn/planificacion-proyectos)
@@ -401,6 +410,7 @@
 ### Coursera Project Network
  - [Bases y primeros pasos en latex](https://www.coursera.org/learn/bases-latex) `beginner`
  - [Crea tu artículo científico con latex](https://www.coursera.org/learn/articulo-cientifico-latex) `beginner`
+ - [Crea tu curriculum profesional con latex](https://www.coursera.org/learn/curriculum-profesional-latex) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Introducción a la inteligencia artificial Specialization](https://www.coursera.org/specializations/inteligencia-artificial)
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
@@ -535,6 +545,7 @@
 > - [Probability and Statistics](#probability-and-statistics)
 ## Data Analysis
 ### Coursera Project Network
+ - [Analítica de ventas para la toma de decisiones con PowerBI](https://www.coursera.org/learn/analitica-ventas-toma-decisiones-powerbi) `beginner`
  - [Análisis exploratorio de datos con Python y Pandas](https://www.coursera.org/learn/analisis-exploratorio-de-datos-con-python-y-pandas) `beginner`
  - [Aprendizaje automático con Python y Azure Notebooks](https://www.coursera.org/learn/aprendizaje-automatico-python-azure-notebooks) `beginner`
  - [Aprendizaje automático sin código: Azure ML Designer](https://www.coursera.org/learn/aprendizaje-automatico-sin-codigo-azureml-designer) `intermediate`
@@ -604,6 +615,7 @@
 ### Coursera Project Network
  - [Analizando sentimientos y entidades en textos con Azure](https://www.coursera.org/learn/analisis-sentimientos-azure) `beginner`
  - [Clasificación de imágenes con Tensorflow](https://www.coursera.org/learn/clasificacion-tensorflow) `intermediate`
+ - [Creando un modelo de lenguaje natural con Spacy](https://www.coursera.org/learn/lenguage-natural-spacy) `intermediate`
  - [Desarrollando modelos con Azure Custom Vision](https://www.coursera.org/learn/modelos-azurecustomvision) `intermediate`
  - [Diseñando modelos con Azure Machine Learning Studio](https://www.coursera.org/learn/modelos-azure-ml-studio) `beginner`
  - [Diseñando tu primer modelo con Pytorch](https://www.coursera.org/learn/disenando-tu-primer-modelo-con-pytorch) `intermediate`
@@ -732,6 +744,7 @@
  - [Crea un app de Machine Learning con Spark, Synapse Analytics](https://www.coursera.org/learn/app-machine-learning-spark-synapse-analytics) `advanced`
  - [Creación de un Chatbot con Azure](https://www.coursera.org/learn/creacion-chatbot-azure) `beginner`
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
+ - [Creando servidores con Amazon Lightsail](https://www.coursera.org/learn/amazon-lightsail) `beginner`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Diseñando aplicaciones de IoT con Azure](https://www.coursera.org/learn/iot-azure) `intermediate`
  - [Diseñando bots con Azure Health Bot](https://www.coursera.org/learn/microsoft-healthcare-bot) `beginner`
@@ -841,6 +854,9 @@
 # Personal Development
 > - [Personal Development](#personal-development)
 ## Personal Development
+### Coursera Project Network
+ - [Crea tu Curriculum con canva](https://www.coursera.org/learn/curriculum-canva) `beginner`
+ - [Crea tu tarjeta de presentación con canva](https://www.coursera.org/learn/tarjeta-presentacion-canva) `beginner`
 ### Laureate Education
  - [Voces de cambio social](https://www.coursera.org/learn/vocesdecambiosocial) `beginner`
 ### McMaster University
@@ -963,6 +979,8 @@
 ### Universidad de Chile
  - [Criterios para la Gestión y el Aseguramiento de la Calidad en la Educación Superior](https://www.coursera.org/learn/calidadeducacionsuperior) `beginner`
  - [Sustentabilidad y Economías Sociales](https://www.coursera.org/learn/sustentabilidad-economias-sociales) `beginner`
+### Universidad de Palermo
+ - [Economía y Finanzas de Empresas](https://www.coursera.org/learn/economia-y-finanzas-de-empresas) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Nuevos modelos de negocios en el siglo XXI](https://www.coursera.org/learn/modelos-negocios) `beginner`
  - [¿Cómo llegamos aquí? Una historia del poder en México](https://www.coursera.org/learn/historia-de-mexico) `beginner`

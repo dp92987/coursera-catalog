@@ -144,6 +144,7 @@
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
  - [Initiation à l'orchestration de conteneurs avec Kubernetes](https://www.coursera.org/learn/initiation-kubernetes-orchestration-conteneurs) `beginner`
+ - [Manipuler des conteneurs Docker graphiquement avec Portainer](https://www.coursera.org/learn/manipuler-conteneurs-docker-graphiquement-avec-portainer) `intermediate`
  - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
  - [Scripting Bash - Découverte du Langage de Programmation](https://www.coursera.org/learn/programmation-bash) `intermediate`
  - [Travailler en ligne de commande sous Linux](https://www.coursera.org/learn/commandes-linux) `beginner`
@@ -165,6 +166,7 @@
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
 ### Coursera Project Network
+ - [Analyse Exploratoire des Données (AED) dans R](https://www.coursera.org/learn/analyse-exploratoire-des-donnees-dans-r) `intermediate`
  - [Analyser vos données avec Python](https://www.coursera.org/learn/analyser-donnees-python) `beginner`
  - [COVID-19 : Les séries temporelles avec Python et Pandas](https://www.coursera.org/learn/covid-19-series-temporelles-python) `intermediate`
  - [DataViz - Grammaire des Graphiques avec Python](https://www.coursera.org/learn/dataviz-grammaire-des-graphiques-avec-python) `intermediate`
@@ -183,7 +185,6 @@
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
  - [Création de chaînes en Python](https://www.coursera.org/learn/creation-de-chaines-en-python) `beginner`
- - [Des nombres et plus en Python](https://www.coursera.org/learn/des-nombres-et-plus-en-python) `beginner`
  - [Formulaire HTML](https://www.coursera.org/learn/formulaire-html) `beginner`
  - [Introduction A L’HTML](https://www.coursera.org/learn/introduction-a-l-html) `beginner`
  - [Styles HTML - CSS](https://www.coursera.org/learn/styles-html-css) `beginner`
