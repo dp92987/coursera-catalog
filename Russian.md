@@ -66,8 +66,10 @@
 ## Business Essentials
 ### Coursera Project Network
  - [Введение в Google Таблицы](https://www.coursera.org/learn/introduction-google-sheets-ru) `beginner`
+ - [Как визуально улучшить Google Презентацию](https://www.coursera.org/learn/build-better-visual-presentation-google-slides-ru) `intermediate`
  - [Как создать Google Презентацию](https://www.coursera.org/learn/create-presentation-google-slides-ru) `intermediate`
  - [Как создать график реализации проекта в Google Таблице](https://www.coursera.org/learn/create-project-timeline-google-sheets-ru) `beginner`
+ - [Как создать приглашение в Google Форме](https://www.coursera.org/learn/create-invitation-google-forms-ru) `intermediate`
  - [Наглядное представление данных с помощью Google Таблицы](https://www.coursera.org/learn/data-visualization-google-sheets-ru) `beginner`
  - [Создание бюджета в Google Таблице](https://www.coursera.org/learn/create-budget-google-sheets-ru) `intermediate`
  - [Создание макета фирменной презентации в Google Презентации](https://www.coursera.org/learn/create-branded-presentation-layout-google-slides-ru) `beginner`
@@ -136,7 +138,7 @@
 ### University of Virginia
  - [Дизайн-мышление в инновационной деятельности](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ru) `beginner`
 ## Entrepreneurship
-### E-Learning Development Fund
+### E-Learning Development Fund, Tomsk Polytechnic University
  - [Сам себе логист](https://www.coursera.org/learn/developing-an-entrepreneurial-mindset) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Закон стартапа: юридические основы технологического бизнеса](https://www.coursera.org/learn/zakon-startapa-tekhnologicheskogo-biznesa) `intermediate`
@@ -162,6 +164,7 @@
  - [Оптимизация портфеля с помощью модели Марковица](https://www.coursera.org/learn/portfolio-optimization-markowitz-model-ru) `intermediate`
  - [Отбор акций для инвестиций](https://www.coursera.org/learn/screening-stocks-investment-ru) `intermediate`
  - [Оценка акций через анализ сопоставимых компаний](https://www.coursera.org/learn/stock-valuation-comparable-companies-analysis-ru) `intermediate`
+ - [Оценка компании по модели DCF](https://www.coursera.org/learn/discounted-cash-flow-modeling-ru) `intermediate`
  - [Оценка облигаций](https://www.coursera.org/learn/bonds-fixed-income-mathematics-ru) `intermediate`
  - [Сравниваем доходность акций с Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets-ru) `intermediate`
  - [Управление инвестиционными рисками](https://www.coursera.org/learn/investment-risk-management-ru) `intermediate`
@@ -249,6 +252,8 @@
 ### University of Toronto
  - [Стратегии коммуникации в виртуальную эпоху](https://www.coursera.org/learn/communication-strategies-virtual-age-ru) `beginner`
 ## Marketing
+### E-Learning Development Fund
+ - [Коммуникации и продвижение бренда](https://www.coursera.org/learn/communication-and-brand-promotion) `beginner`
 ### HSE University
 #### [Основы Digital Маркетинга Specialization](https://www.coursera.org/specializations/fundamentals-digital-marketing)
 1. [Маркетинговая стратегия в digital среде (Digital marketing strategy)](https://www.coursera.org/learn/digital-marketing-strategy) `intermediate`
@@ -308,6 +313,8 @@
 ## Design and Product
 ### HSE University
  - [Документы и презентации в LaTeX (Introduction to LaTeX)](https://www.coursera.org/learn/latex)
+### IMBA)
+ - [Веб-аналитика и медиапланирование (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/web-analytics-and-media-planning) `beginner`
 ### National Research Tomsk State University
  - [3D-печать для всех и каждого](https://www.coursera.org/learn/3d-printing)
 ### Peter the Great St. Petersburg Polytechnic University
@@ -539,6 +546,8 @@
 # Information Technology
 > - [Data Management](#data-management)
 > - [Networking](#networking)
+> - [Security](#security)
+> - [Support and Operations](#support-and-operations)
 ## Data Management
 ### Moscow Institute of Physics and Technology, Mail.Ru Group
  - [Введение в информационный поиск](https://www.coursera.org/learn/vvedeniye-informatsionnyy-poisk) `intermediate`
@@ -550,9 +559,20 @@
 #### [Стартап versus Цифровая трансформация Specialization](https://www.coursera.org/specializations/startup-vs-digtrans)
 5. [Практики цифровой трансформации](https://www.coursera.org/learn/pracdig)
 ## Networking
+### Google
+#### [IT-поддержка Google Professional Certificate](https://www.coursera.org/specializations/google-it-ru)
+2. [Основы компьютерных сетей](https://www.coursera.org/learn/computer-networking-ru) `beginner`
 ### Saint Petersburg State University
  - [Основы и практическое применение блокчейна](https://www.coursera.org/learn/blokcheyna) `beginner`
  - [Цифровизация в международных отношениях](https://www.coursera.org/learn/digitalint)
+## Security
+### Google
+5. [Безопасность в IT: искусство борьбы с темными силами](https://www.coursera.org/learn/it-security-ru) `beginner`
+## Support and Operations
+### Google
+1. [Основы технической поддержки](https://www.coursera.org/learn/technical-support-fundamentals-ru) `beginner`
+3. [Операционные системы и вы: как стать опытным пользователем](https://www.coursera.org/learn/os-power-user-ru) `beginner`
+4. [Системное администрирование и службы IT-инфраструктуры](https://www.coursera.org/learn/system-administration-it-infrastructure-services-ru4) `beginner`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages

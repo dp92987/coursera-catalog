@@ -52,9 +52,12 @@
 ### Coursera Project Network
  - [استخدام جداول بيانات جوجل لإنشاء بيان مالي](https://www.coursera.org/learn/using-google-sheets-to-create-a-financial-statement-ar) `beginner`
  - [التحول الرقمى لدعم العملاء من الشركات الصغيرة ومتوسطة الحجم](https://www.coursera.org/learn/customer-support-digital-transformation) `beginner`
+ - [تصميم مواد تكميلية وموثقة للدورة التدريبية الرقمية على كانفا](https://www.coursera.org/learn/design-digital-course-collateral-using-canva-ar) `intermediate`
  - [تطوير خطة توفير على دخل ثابت باستخدام جداول بيانات جوجل](https://www.coursera.org/learn/develop-a-savings-plan-on-a-fixed-income-with-google-sheets-ar) `beginner`
 ### DeepLearning.AI
  - [الذكاء الاصطناعي للجميع](https://www.coursera.org/learn/ai-for-everyone-ar) `beginner`
+### Ludwig-Maximilians-Universität München (LMU)
+ - [الاستراتيجية التنافسية](https://www.coursera.org/learn/competitive-strategy-ar)
 ### University of Virginia
  - [إستراتيجية الأعمال المتقدمة](https://www.coursera.org/learn/uva-darden-advanced-business-strategy-ar) `beginner`
  - [صياغة الأفكار المحفِّزة على الابتكار](https://www.coursera.org/learn/uva-darden-design-thinking-innovation-ar) `beginner`
@@ -63,12 +66,15 @@
  - [Business Model Canvas للشركات الناشئه](https://www.coursera.org/learn/bmc-arabic) `beginner`
  - [مقدمة الى تطوير المنتجات الجديدة للشركات الصغيرة والمتوسطة](https://www.coursera.org/learn/new-product-dev-sme-arabic) `beginner`
 ## Finance
+### Coursera Project Network
+ - [إنشاء لوحة تحكم للبورصة باستخدام أوراق جوجل](https://www.coursera.org/learn/creating-a-dashboard-for-stock-exchange-using-google-sheets-ar) `intermediate`
 ### Yale University
  - [الأسواق المالية](https://www.coursera.org/learn/financial-markets-global-ar) `beginner`
 ## Leadership and Management
 ### BCG, University of Virginia
  - [التحوّل الرقمي](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-ar) `beginner`
 ### Coursera Project Network
+ - [إنشاء عقد مشروع باستخدام محرر مستندات جوجل](https://www.coursera.org/learn/create-a-project-charter-with-google-docs-ar) `beginner`
  - [استخدام جداول بيانات جوجل لإنشاء مخطط جانت](https://www.coursera.org/learn/using-google-sheets-to-create-a-gantt-chart-ar) `beginner`
  - [حدث كايزن في شرائح جوجل](https://www.coursera.org/learn/a-kaizen-event-in-google-slides-ar) `beginner`
 ### ESSEC Business School
@@ -104,6 +110,7 @@
  - [استخدام كانفا لتصاميم التسويق على وسائل التواصل](https://www.coursera.org/learn/canva-platform-arabic) `beginner`
  - [استخدام كانفا لتصميم مجموعة العلامة التجارية](https://www.coursera.org/learn/canva-pro-for-brandkit-arabic) `beginner`
  - [استخدام كانفة لتصميم وإنشاء منتجات رقمية](https://www.coursera.org/learn/use-canva-to-design-and-create-digital-product-ar) `intermediate`
+ - [التسويق العضوي: مجموعات الفيسبوك للشركات الصغيرة](https://www.coursera.org/learn/organic-marketing-leveraging-facebook-groups-for-small-businesses-ar) `intermediate`
  - [التسويق للشركات  والمشاريع الصغيرة عبر موقع يوتيوب](https://www.coursera.org/learn/youtube-for-small-businesses-ar) `beginner`
  - [التسويق للمشاريع الصغيرة عبر موقع التواصل الإجتماعي فيسبوك](https://www.coursera.org/learn/facebook-marketing-for-small-businesses-ar) `beginner`
  - [تصميم مجموعة ترحيب العميل باستخدام كانفا](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva-ar) `intermediate`

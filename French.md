@@ -47,6 +47,8 @@
  - [Compétences Excel pour l’entreprise : les notions clés](https://www.coursera.org/learn/excel-essentials-fr) `beginner`
 ### University of Colorado Boulder
  - [Donner un feedback utile](https://www.coursera.org/learn/feedback-fr)
+### University of Illinois at Urbana-Champaign
+ - [Exploration et production de données pour les entreprises](https://www.coursera.org/learn/business-data-fr) `beginner`
 ### University of Michigan
  - [Réussir une négociation : Stratégies et compétences clés](https://www.coursera.org/learn/negotiation-skills-fr)
 ### University of Virginia
@@ -119,6 +121,7 @@
 ### Coursera Project Network
  - [Création D'Identité Visuelle En Utilisant Canva](https://www.coursera.org/learn/creation-identite-visuelle-impressionnant-utilisant-canva) `intermediate`
  - [Création de Designs Marketing avec Canva](https://www.coursera.org/learn/creation-designs-marketing-avec-canva) `beginner`
+ - [Créer une présentation animée avec Powtoon](https://www.coursera.org/learn/creer-presentation-animee-powtoon) `beginner`
  - [Introduction au CRM avec HubSpot](https://www.coursera.org/learn/introduction-crm-hubspot) `beginner`
  - [L'utilisation optimal de LinkedIn](https://www.coursera.org/learn/utilisation-optimal-linkedin) `beginner`
 ### University of Virginia
@@ -140,6 +143,7 @@
  - [Créer Une App. À L’aide Des fonctionnalités OOP en Java](https://www.coursera.org/learn/java-oop-supermarket-french) `intermediate`
  - [Créer une instance Amazon EC2 dans la console AWS](https://www.coursera.org/learn/creer-une-instance-amazon-ec2-dans-la-console-aws) `beginner`
  - [Créér une plateforme d'aprentissage avec SQL, C# et ASP.net](https://www.coursera.org/learn/creer-une-plateforme-daprentissage) `intermediate`
+ - [Déployer des stacks Docker avec Docker Compose](https://www.coursera.org/learn/deployer-stack-docker-initiation-docker-compose) `beginner`
  - [Initiation aux conteneurs avec Docker](https://www.coursera.org/learn/initiation-conteneurs-docker) `intermediate`
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
@@ -185,8 +189,11 @@
  - [Apprendre à une IA des jeux de stratégie avec easyAI](https://www.coursera.org/learn/intelligence-artificielle-pour-gamers) `advanced`
  - [AutoML avec AutoKeras - Classification d'images](https://www.coursera.org/learn/automl-autokeras-classification) `beginner`
  - [Création de chaînes en Python](https://www.coursera.org/learn/creation-de-chaines-en-python) `beginner`
+ - [Des nombres et plus en Python](https://www.coursera.org/learn/des-nombres-et-plus-en-python) `beginner`
  - [Formulaire HTML](https://www.coursera.org/learn/formulaire-html) `beginner`
  - [Introduction A L’HTML](https://www.coursera.org/learn/introduction-a-l-html) `beginner`
+ - [Les bases du langage PHP](https://www.coursera.org/learn/les-bases-du-langage-php) `beginner`
+ - [Quelques instructions en PHP](https://www.coursera.org/learn/quelques-instructions-en-php) `beginner`
  - [Styles HTML - CSS](https://www.coursera.org/learn/styles-html-css) `beginner`
  - [Tensorflow : Analyse de Sentiments avec Word Embedding](https://www.coursera.org/learn/tensorflow-analyse-sentiments-cinema) `intermediate`
 ### DeepLearning.AI
@@ -247,6 +254,7 @@
 ## Data Management
 ### Coursera Project Network
  - [Introduction Pratique à YAML](https://www.coursera.org/learn/instroduction-pratique-a-yaml) `intermediate`
+ - [La Création De Tables Avec SQL](https://www.coursera.org/learn/creation-tables-avec-sql) `intermediate`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages

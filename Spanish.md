@@ -28,8 +28,6 @@
 ### Yad Vashem 
  - [Antisemitismo: Desde sus orígenes hasta el presente](https://www.coursera.org/learn/antisemitismo) `beginner`
 ## Music and Art
-### Berklee College of Music
- - [Improvisación de jazz](https://www.coursera.org/learn/improvisacion-de-jazz) `intermediate`
 ### Berklee College of Music, Banco Interamericano de Desarrollo
  - [Introducción a la guitarra](https://www.coursera.org/learn/guitarra)
  - [Producción Musical y su Efecto en la Composición](https://www.coursera.org/learn/produccionycomposicion)
@@ -77,6 +75,7 @@
 3. [Entender el diseño](https://www.coursera.org/learn/entender-diseno)
 ### Coursera Project Network
  - [5 Metodos para Optimizar su Perfil de LinkedIn](https://www.coursera.org/learn/5-metodos-optimizar-perfil-linkedin) `intermediate`
+ - [Construya estrategicamente su red en LinkedIn](https://www.coursera.org/learn/contruya-estrategicamente-red-linkedin) `intermediate`
  - [Crea presentaciones en pocos minutos con Google Slides](https://www.coursera.org/learn/crea-presentaciones-google-slides) `beginner`
  - [Documentos colaborativos con Google Docs](https://www.coursera.org/learn/documentos-colaborativos-google-docs) `beginner`
  - [Google Ads para principiantes](https://www.coursera.org/learn/google-ads-basico-para-principiantes) `beginner`
@@ -133,10 +132,12 @@
  - [Crear encuestas de mercadeo con Formularios Google](https://www.coursera.org/learn/crear-encuestas-mercadeo-formularios-google) `beginner`
  - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
  - [Crear un informe de lecciones aprendidas con Docs Google](https://www.coursera.org/learn/crear-informe-lecciones-aprendidas-documentos-google) `beginner`
+ - [Crear un plan de gestion de comunicaciones con Docs Google](https://www.coursera.org/learn/crear-plan-gestion-comunicaciones-documentos-google) `beginner`
  - [Crear una carta de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-carta-proyecto-hojas-calculo-google) `beginner`
  - [Crear una cronología de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-cronologia-proyecto-hojas-calculo-google) `beginner`
  - [Crear una matriz RACI con Hojas de cálculo Google](https://www.coursera.org/learn/crear-matriz-raci-hojas-calculo-google) `beginner`
  - [Diseñar mejores presentaciones en Google Slides](https://www.coursera.org/learn/disenar-mejores-presentaciones-google-slides) `beginner`
+ - [Diseñe una invitación para un evento con Google Forms](https://www.coursera.org/learn/disene-invitacion-evento-google-forms) `beginner`
  - [Encuentre su Nuevo Trabajo con LinkedIn](https://www.coursera.org/learn/encuentre-nuevo-trabajo-linkedin) `intermediate`
  - [Expanda su desarrollo profesional con Google Classroom](https://www.coursera.org/learn/expanda-desarrollo-profesional-google-classroom) `beginner`
  - [Mejora del Rendimiento Empresarial con Google Forms](https://www.coursera.org/learn/mejora-rendimiento-empresarial-google-forms) `beginner`
@@ -202,6 +203,7 @@
  - [Gestión Empresarial Exitosa para Pymes](https://www.coursera.org/learn/gestionempresarialpyme)
 ### Tecnológico de Monterrey
  - [Desarrollo rápido de productos innovadores para mercados emergentes](https://www.coursera.org/learn/innovacion)
+ - [Estrategias de Emprendimiento](https://www.coursera.org/learn/estrategias-de-emprendimiento) `beginner`
  - [Mentalidad Emprendedora](https://www.coursera.org/learn/mentalidad-emprendedora) `advanced`
 #### [Empresas Familiares Specialization](https://www.coursera.org/specializations/empresas-familiares)
 2. [Liderazgo en la empresa familiar](https://www.coursera.org/learn/liderazgo-en-la-empresa-familiar) `advanced`
@@ -227,6 +229,8 @@
 ## Finance
 ### Coursera Project Network
  - [Crear un Informe Financiero con Google Sheets](https://www.coursera.org/learn/crear-informe-financiero-google-sheets) `intermediate`
+ - [Crear un plan de ahorro en renta fija con Google Sheets](https://www.coursera.org/learn/crear-plan-ahorro-renta-fija-google-sheets) `beginner`
+ - [Crear una calculadora de pago de hipoteca en Google Sheets](https://www.coursera.org/learn/crear-calculadora-pago-hipoteca-google-sheets) `beginner`
 ### IESE Business School
  - [¿Qué hacen los buenos directivos? Prioridades de la Alta Dirección](https://www.coursera.org/learn/alta-direccion) `beginner`
 #### [Claves de la Dirección de Empresas Specialization](https://www.coursera.org/specializations/direccion-empresas)
@@ -340,9 +344,15 @@
  - [Crea folletos con Canva](https://www.coursera.org/learn/crea-folletos-canva) `beginner`
  - [Crea imprimibles digitales de enseñanza con Canva](https://www.coursera.org/learn/crea-imprimibles-digitales-ensenanza-canva) `intermediate`
  - [Crea piezas para redes sociales usando Canva](https://www.coursera.org/learn/crea-piezas-redes-sociales-usando-canva) `beginner`
+ - [Crea Posts Animados para Redes Sociales con Canva](https://www.coursera.org/learn/crea-posts-animados-redes-sociales-canva) `intermediate`
+ - [Crea un Mood Board con Canva](https://www.coursera.org/learn/crea-mood-board-canva) `intermediate`
  - [Crea un Storyboard con Canva](https://www.coursera.org/learn/crea-storyboard-canva) `intermediate`
+ - [Crea Videos para Redes Sociales con Canva](https://www.coursera.org/learn/crea-videos-redes-sociales-canva) `intermediate`
  - [Crear Análisis Causa Raíz de los 5 Porqués en Google Sheets](https://www.coursera.org/learn/crear-analisis-causa-raiz-5-porques-google-sheets) `intermediate`
+ - [Crear un Calendario de Contenido Editorial en Google Sheets](https://www.coursera.org/learn/crear-calendario-contenido-editorial-google-sheets) `beginner`
+ - [Crear una Matriz RACI en Hoja de Cálculo de Office Libre](https://www.coursera.org/learn/crear-matriz-raci-hoja-calculo-office-libre) `intermediate`
  - [Cree una presentación de mercadeo con Google Slides](https://www.coursera.org/learn/cree-presentacion-mercadeo-google-slides) `intermediate`
+ - [Diseña Productos Digitales con Visme](https://www.coursera.org/learn/disena-productos-digitales-visme) `intermediate`
  - [Diseñe su Aula Virtual con Canva](https://www.coursera.org/learn/disene-aula-virtual-canva) `intermediate`
  - [Edita fotos para redes sociales con PicsArt](https://www.coursera.org/learn/edita-fotos-redes-sociales-picsart) `intermediate`
  - [Introducción a PicsArt para Redes Sociales](https://www.coursera.org/learn/introduccion-picsart-redes-sociales) `beginner`
@@ -432,6 +442,8 @@
 ### Arizona State University, Universidad Nacional Autónoma de México
 #### [Creatividad, diseño e innovación: Técnicas y herramientas Specialization](https://www.coursera.org/specializations/creatividad-diseno-innovacion)
 4. [Creatividad, diseño e innovación: Técnicas y herramientas - Proyecto Final](https://www.coursera.org/learn/creatividad-proyecto-final) `intermediate`
+### Coursera Project Network
+ - [Lucidchart: Mapas conceptuales y mentales dinámicos.](https://www.coursera.org/learn/diagramas-dinamicos-mentales-conceptuales-lucidchart-organigramas-sinoptico) `beginner`
 ### IBM
  - [Creando Chatbots con Tecnología de IA Sin experiencia en Programación](https://www.coursera.org/learn/creando-chatbots-con-tecnologia-de-ia-sin-experiencia-en-programacion) `beginner`
 ### Universidad Autónoma Metropolitana
@@ -505,6 +517,7 @@
  - [Primeros pasos en Python](https://www.coursera.org/learn/primeros-pasos-python) `beginner`
  - [Primeros pasos en SQL](https://www.coursera.org/learn/primeros-pasos-sql) `beginner`
  - [Programando un blockchain básico con Javascript](https://www.coursera.org/learn/blockchain-javascript) `beginner`
+ - [React: Desarrolla un Blog con Props](https://www.coursera.org/learn/react-blog) `intermediate`
  - [Regresión logística con NumPy y Python](https://www.coursera.org/learn/regresion-logistica-con-numpy-python) `beginner`
 ### Google Cloud
  - [Architecting with Google Kubernetes Engine: Foundations en Español](https://www.coursera.org/learn/foundations-google-kubernetes-engine-gke-es) `intermediate`
@@ -577,6 +590,7 @@
  - [Machine Learning y Regresión con PySpark. Guía paso a paso](https://www.coursera.org/learn/machine-learning-regresion-pyspark) `beginner`
  - [ML y Big Data con PySpark para la retención de clientes](https://www.coursera.org/learn/ml-bigdata-pyspark-retencion-clientes) `advanced`
  - [ML y Power BI para incrementar las ventas en Retail](https://www.coursera.org/learn/ml-powerbi-ventas-retail) `advanced`
+ - [Power BI para Business Intelligence](https://www.coursera.org/learn/power-bi-business-intelligence) `beginner`
  - [Predicción del fraude bancario con autoML y Pycaret](https://www.coursera.org/learn/prediccion-fraude-automl-pycaret) `advanced`
  - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
@@ -602,6 +616,8 @@
  - [Fundamentos de Excel para Negocios](https://www.coursera.org/learn/excel-para-negocios) `beginner`
  - [Fundamentos de la visualización de datos con Tableau](https://www.coursera.org/learn/fundamentos-de-la-visualizacion-de-datos-con-tableau) `beginner`
  - [Introducción al Aprendizaje Profundo](https://www.coursera.org/learn/introduccion-al-aprendizaje-profundo) `beginner`
+### Universidad de los Andes
+ - [Analytics en las organizaciones](https://www.coursera.org/learn/analytics-analisis-datos) `beginner`
 ### Universidad Nacional Autónoma de México
  - [Introducción a Data Science: Programación Estadística con R](https://www.coursera.org/learn/intro-data-science-programacion-estadistica-r) `beginner`
 ### Universitat Autònoma de Barcelona
@@ -622,6 +638,7 @@
  - [Diseñando un bot con Azure LUIS](https://www.coursera.org/learn/bot-luis) `beginner`
  - [Generando modelos con Auto Machine Learning](https://www.coursera.org/learn/generando-modelos-automl) `intermediate`
  - [Google Slides: Diseña tus clases dinámicas e interactivas.](https://www.coursera.org/learn/google-slides-disena-clases-dinamicas-interactivas-presentaciones-diapositivas) `beginner`
+ - [Haciendo modelos con ML.NET](https://www.coursera.org/learn/modelos-ml-net) `intermediate`
  - [Hojas de cálculo de Google para registro de calificaciones](https://www.coursera.org/learn/hojas-de-calculo-de-google-para-el-registro-de-calificaciones) `beginner`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals en Español](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-es) `intermediate`
@@ -746,6 +763,7 @@
  - [Creando máquinas virtuales en Azure](https://www.coursera.org/learn/maquinas-virtuales-azure) `intermediate`
  - [Creando servidores con Amazon Lightsail](https://www.coursera.org/learn/amazon-lightsail) `beginner`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
+ - [Descubriendo anomalías con Azure Anomaly Detector](https://www.coursera.org/learn/azure-anomaly-detector) `intermediate`
  - [Diseñando aplicaciones de IoT con Azure](https://www.coursera.org/learn/iot-azure) `intermediate`
  - [Diseñando bots con Azure Health Bot](https://www.coursera.org/learn/microsoft-healthcare-bot) `beginner`
  - [Diseñando modelos de ML con Amazon Sagemaker](https://www.coursera.org/learn/modelos-sagemaker) `beginner`
@@ -756,7 +774,6 @@
  - [Manejando bases de datos con AWS Aurora](https://www.coursera.org/learn/amazon-aurora) `beginner`
  - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
 ### Google Cloud
- - [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`
  - [Building Resilient Streaming Analytics Systems on GCP en Español](https://www.coursera.org/learn/streaming-analytics-systems-gcp-es) `intermediate`
  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
  - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`

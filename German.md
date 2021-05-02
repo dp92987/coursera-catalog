@@ -4,6 +4,7 @@
  - [Computer Science](#computer-science)
  - [Data Science](#data-science)
  - [Health](#health)
+ - [Information Technology](#information-technology)
  - [Physical Science and Engineering](#physical-science-and-engineering)
 # Arts and Humanities
 > - [Music and Art](#music-and-art)
@@ -75,6 +76,22 @@
 ## Patient Care
 ### Technische Universität München (TUM)
  - [Grundlagen der Unfallchirurgie](https://www.coursera.org/learn/unfallchirurgie) `intermediate`
+# Information Technology
+> - [Networking](#networking)
+> - [Security](#security)
+> - [Support and Operations](#support-and-operations)
+## Networking
+### Google
+#### [Google IT Support (Deutsch)  Professional Certificate](https://www.coursera.org/specializations/google-it-de)
+2. [Die Bits und Bytes von Computernetzwerken](https://www.coursera.org/learn/computer-networking-de) `beginner`
+## Security
+### Google
+5. [IT-Sicherheit: Grundlagen für eine solide](https://www.coursera.org/learn/it-security-de) `beginner`
+## Support and Operations
+### Google
+1. [Grundlagen des technischen Supports](https://www.coursera.org/learn/technical-support-fundamentals-de) `beginner`
+3. [Betriebssysteme und Sie: Power User werden](https://www.coursera.org/learn/os-power-user-de) `beginner`
+4. [Systemverwaltung und IT-Infrastrukturdienste](https://www.coursera.org/learn/system-administration-it-infrastructure-services-de) `beginner`
 # Physical Science and Engineering
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
 ## Environmental Science and Sustainability

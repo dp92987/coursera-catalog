@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `7091` courses. Updated weekly.
+Complete list of `7210` courses. Updated weekly.
 
 # TOC
 
@@ -21,6 +21,7 @@ Complete list of `7091` courses. Updated weekly.
  - [Japanese](#japanese)
  - [Korean](#korean)
  - [Portuguese (Brazilian)](#portuguese-brazilian)
+ - [Portuguese (European)](#portuguese-european)
  - [Russian](#russian)
  - [Spanish](#spanish)
  - [Swedish](#swedish)
@@ -89,6 +90,7 @@ Complete list of `7091` courses. Updated weekly.
  - [Computer Science](<German.md#computer-science>)
  - [Data Science](<German.md#data-science>)
  - [Health](<German.md#health>)
+ - [Information Technology](<German.md#information-technology>)
  - [Physical Science and Engineering](<German.md#physical-science-and-engineering>)
 ### Hebrew
  - [Arts and Humanities](<Hebrew.md#arts-and-humanities>)
@@ -125,6 +127,8 @@ Complete list of `7091` courses. Updated weekly.
  - [Personal Development](<Portuguese (Brazilian).md#personal-development>)
  - [Physical Science and Engineering](<Portuguese (Brazilian).md#physical-science-and-engineering>)
  - [Social Sciences](<Portuguese (Brazilian).md#social-sciences>)
+### Portuguese (European)
+ - [Information Technology](<Portuguese (European).md#information-technology>)
 ### Russian
  - [Arts and Humanities](<Russian.md#arts-and-humanities>)
  - [Business](<Russian.md#business>)
