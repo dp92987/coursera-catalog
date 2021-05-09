@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `7210` courses. Updated weekly.
+Complete list of `7258` courses. Updated weekly.
 
 # TOC
 
@@ -110,7 +110,7 @@ Complete list of `7210` courses. Updated weekly.
  - [Computer Science](<Japanese.md#computer-science>)
  - [Data Science](<Japanese.md#data-science>)
  - [Information Technology](<Japanese.md#information-technology>)
- - [Personal Development](<Japanese.md#personal-development>)
+ - [Social Sciences](<Japanese.md#social-sciences>)
 ### Korean
  - [Arts and Humanities](<Korean.md#arts-and-humanities>)
  - [Data Science](<Korean.md#data-science>)

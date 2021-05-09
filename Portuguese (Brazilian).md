@@ -137,14 +137,13 @@
 ### Fundação Lemann, Fundação Telefônica
  - [Aprenda a ensinar programação com o Programaê!](https://www.coursera.org/learn/programae)
 ## Design and Product
-### Universidade de São Paulo
- - [UX / UI: Fundamentos para o design de interface](https://www.coursera.org/learn/ux-ui-design-de-interface) `beginner`
 ### Universidade Estadual de Campinas
  - [Processamento Digital de Sinais - Amostragem](https://www.coursera.org/learn/pds)
 ### University of Alberta
  - [Introdução ao Gerenciamento de produtos de software](https://www.coursera.org/learn/introduction-to-software-product-management-pt)
 ## Mobile and Web Development
 ### Coursera Project Network
+ - [Crie sua primeira página web em HTML](https://www.coursera.org/learn/crie-sua-primeira-pagina-web-em-html) `beginner`
  - [Crie sua página pessoal usando React e Github Pages](https://www.coursera.org/learn/build-your-personal-webpage-pt-br) `beginner`
 ### Universidade Estadual de Campinas
  - [Introdução ao Desenvolvimento de Aplicativos Android](https://www.coursera.org/learn/introducao-aplicativos-android) `intermediate`
@@ -302,6 +301,7 @@
 ## Research Methods
 ### Coursera Project Network
  - [Análises de Rede com Kumu](https://www.coursera.org/learn/analises-rede) `intermediate`
+ - [Modelando atitudes humanas com NetLogo](https://www.coursera.org/learn/atitudes-netlogo) `intermediate`
  - [Modelo de Disseminação de Vírus com NetLogo](https://www.coursera.org/learn/introducao-netlogo) `beginner`
 # Social Sciences
 > - [Economics](#economics)

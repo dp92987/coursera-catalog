@@ -253,7 +253,8 @@
  - [Стратегии коммуникации в виртуальную эпоху](https://www.coursera.org/learn/communication-strategies-virtual-age-ru) `beginner`
 ## Marketing
 ### E-Learning Development Fund
- - [Коммуникации и продвижение бренда](https://www.coursera.org/learn/communication-and-brand-promotion) `beginner`
+#### [Интернет-маркетолог Specialization](https://www.coursera.org/specializations/internet-marketing)
+3. [Коммуникации и продвижение бренда](https://www.coursera.org/learn/communication-and-brand-promotion) `beginner`
 ### HSE University
 #### [Основы Digital Маркетинга Specialization](https://www.coursera.org/specializations/fundamentals-digital-marketing)
 1. [Маркетинговая стратегия в digital среде (Digital marketing strategy)](https://www.coursera.org/learn/digital-marketing-strategy) `intermediate`
@@ -261,7 +262,8 @@
 3. [Работа с клиентской базой и входящий маркетинг](https://www.coursera.org/learn/klientskaya-basa-vkhodyaschii-marketing) `intermediate`
 4. [Итоговый проект специализации "Основы Digital Маркетинга"](https://www.coursera.org/learn/capstone-project) `intermediate`
 ### IMBA)
- - [Интернет-маркетинг. Лидогенерация (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/imba-internet-marketing-lead-generation) `beginner`
+#### [Интернет-маркетолог Specialization](https://www.coursera.org/specializations/internet-marketing)
+1. [Интернет-маркетинг. Лидогенерация (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/imba-internet-marketing-lead-generation) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Брендинг в инновациях - новая коммуникационная реальность](https://www.coursera.org/learn/brending-v-innovaciyah)
  - [Маркетинг инновационных продуктов](https://www.coursera.org/learn/marketing-innov-produktov) `beginner`
@@ -314,7 +316,8 @@
 ### HSE University
  - [Документы и презентации в LaTeX (Introduction to LaTeX)](https://www.coursera.org/learn/latex)
 ### IMBA)
- - [Веб-аналитика и медиапланирование (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/web-analytics-and-media-planning) `beginner`
+#### [Интернет-маркетолог Specialization](https://www.coursera.org/specializations/internet-marketing)
+4. [Веб-аналитика и медиапланирование (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/web-analytics-and-media-planning) `beginner`
 ### National Research Tomsk State University
  - [3D-печать для всех и каждого](https://www.coursera.org/learn/3d-printing)
 ### Peter the Great St. Petersburg Polytechnic University
@@ -352,7 +355,8 @@
 #### [Промышленное машинное обучение Specialization](https://www.coursera.org/specializations/industrial-machine-learning)
 3. [Проектирование и реализация систем машинного обучения](https://www.coursera.org/learn/machine-learning-design) `intermediate`
 ### IMBA)
- - [Продвижение в поиске (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/search-promotion) `beginner`
+#### [Интернет-маркетолог Specialization](https://www.coursera.org/specializations/internet-marketing)
+2. [Продвижение в поиске (E-Learning Development Fund, Ingate Management and Business Academy](https://www.coursera.org/learn/search-promotion) `beginner`
 ### Moscow Institute of Physics and Technology
  - [Основы проектирования приложений интернета вещей](https://www.coursera.org/learn/proektirovaniya-prilozhenij-interneta-veshchej) `intermediate`
 ### Moscow Institute of Physics and Technology, Mail.Ru Group, ФРОО

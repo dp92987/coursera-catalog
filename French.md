@@ -122,6 +122,7 @@
  - [Création D'Identité Visuelle En Utilisant Canva](https://www.coursera.org/learn/creation-identite-visuelle-impressionnant-utilisant-canva) `intermediate`
  - [Création de Designs Marketing avec Canva](https://www.coursera.org/learn/creation-designs-marketing-avec-canva) `beginner`
  - [Créer une présentation animée avec Powtoon](https://www.coursera.org/learn/creer-presentation-animee-powtoon) `beginner`
+ - [Créer une présentation de marché cible avec Canva](https://www.coursera.org/learn/creer-presentation-marche-cible-canva) `beginner`
  - [Introduction au CRM avec HubSpot](https://www.coursera.org/learn/introduction-crm-hubspot) `beginner`
  - [L'utilisation optimal de LinkedIn](https://www.coursera.org/learn/utilisation-optimal-linkedin) `beginner`
 ### University of Virginia

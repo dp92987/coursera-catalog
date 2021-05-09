@@ -28,6 +28,8 @@
 ### Yad Vashem 
  - [Antisemitismo: Desde sus orígenes hasta el presente](https://www.coursera.org/learn/antisemitismo) `beginner`
 ## Music and Art
+### Berklee College of Music
+ - [Improvisación de jazz](https://www.coursera.org/learn/improvisacion-de-jazz) `intermediate`
 ### Berklee College of Music, Banco Interamericano de Desarrollo
  - [Introducción a la guitarra](https://www.coursera.org/learn/guitarra)
  - [Producción Musical y su Efecto en la Composición](https://www.coursera.org/learn/produccionycomposicion)
@@ -127,10 +129,10 @@
 ### Coursera Project Network
  - [Análisis de Variación con Google Sheets](https://www.coursera.org/learn/analisis-variacion-google-sheets) `beginner`
  - [Aumente participación de reuniones con Google Slides](https://www.coursera.org/learn/aumente-participacion-reuniones-virtuales-google-slides) `beginner`
+ - [Crea Diagramas de Negocio con Canva](https://www.coursera.org/learn/crea-diagramas-negocio-canva) `intermediate`
  - [Crea un mapa de proceso con Canva](https://www.coursera.org/learn/crea-mapa-proceso-canva) `intermediate`
  - [Crea una infografía en Canva](https://www.coursera.org/learn/crea-infografia-canva) `intermediate`
  - [Crear encuestas de mercadeo con Formularios Google](https://www.coursera.org/learn/crear-encuestas-mercadeo-formularios-google) `beginner`
- - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
  - [Crear un informe de lecciones aprendidas con Docs Google](https://www.coursera.org/learn/crear-informe-lecciones-aprendidas-documentos-google) `beginner`
  - [Crear un plan de gestion de comunicaciones con Docs Google](https://www.coursera.org/learn/crear-plan-gestion-comunicaciones-documentos-google) `beginner`
  - [Crear una carta de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-carta-proyecto-hojas-calculo-google) `beginner`
@@ -150,6 +152,7 @@
  - [Business Transformation with Google Cloud en Español](https://www.coursera.org/learn/business-transformation-google-cloud-es) `beginner`
  - [Google Cloud Product Fundamentals en Español](https://www.coursera.org/learn/google-cloud-product-fundamentals-es) `beginner`
 ### Pontificia Universidad Católica de Chile
+ - [Escalamiento exitoso e Innovación en los Negocios](https://www.coursera.org/learn/escalamiento-exitoso-e-innovacion-en-los-negocios)
  - [Planificación y gestión estratégica para Pymes](https://www.coursera.org/learn/planificacion-gestion-pymes) `beginner`
 ### Tecnológico de Monterrey
  - [Gestión de Proyectos](https://www.coursera.org/learn/gestin-de-proyectos) `beginner`
@@ -348,6 +351,7 @@
  - [Crea un Mood Board con Canva](https://www.coursera.org/learn/crea-mood-board-canva) `intermediate`
  - [Crea un Storyboard con Canva](https://www.coursera.org/learn/crea-storyboard-canva) `intermediate`
  - [Crea Videos para Redes Sociales con Canva](https://www.coursera.org/learn/crea-videos-redes-sociales-canva) `intermediate`
+ - [Crea Videos para Redes Sociales con PicsArt](https://www.coursera.org/learn/crea-videos-redes-sociales-picsart) `intermediate`
  - [Crear Análisis Causa Raíz de los 5 Porqués en Google Sheets](https://www.coursera.org/learn/crear-analisis-causa-raiz-5-porques-google-sheets) `intermediate`
  - [Crear un Calendario de Contenido Editorial en Google Sheets](https://www.coursera.org/learn/crear-calendario-contenido-editorial-google-sheets) `beginner`
  - [Crear una Matriz RACI en Hoja de Cálculo de Office Libre](https://www.coursera.org/learn/crear-matriz-raci-hoja-calculo-office-libre) `intermediate`
@@ -426,7 +430,7 @@
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
 2. [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial) `intermediate`
 3. [Resolución de problemas por búsqueda](https://www.coursera.org/learn/resolucion-busqueda) `beginner`
-4. [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas)
+4. [Aprendizaje de máquinas [sandbox]](https://www.coursera.org/learn/aprendizaje-maquinas-test)
 5. [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo) `intermediate`
 6. [Comportamiento adaptativo](https://www.coursera.org/learn/comportamiento-adapta) `intermediate`
 7. [Creatividad computacional](https://www.coursera.org/learn/creatividad-computacional) `intermediate`
@@ -452,7 +456,6 @@
  - [¿Cómo (nos) cambia la Tecnología?](https://www.coursera.org/learn/comonoscambialatecnologia) `beginner`
 ### Universidad de los Andes
 #### [Desarrollo y Diseño de Videojuegos Specialization](https://www.coursera.org/specializations/desarrollo-videojuegos)
-1. [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity) `beginner`
 2. [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro) `beginner`
 3. [Emprendimiento y métodos ágiles de desarrollo en videojuegos](https://www.coursera.org/learn/videojuegos-emprendimiento) `beginner`
 4. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
@@ -506,6 +509,7 @@
  - [Aprendiendo Python con estadística descriptiva](https://www.coursera.org/learn/aprendiendo-python-con-estadistica-descriptiva) `beginner`
  - [Aprendiendo Python con textos, números y ecuaciones](https://www.coursera.org/learn/aprendiendo-python-con-textos-numeros-ecuaciones) `beginner`
  - [Aprendiendo Python con álgebra lineal](https://www.coursera.org/learn/aprendiendo-python-con-algebra-lineal) `beginner`
+ - [Bases y primeros pasos en R](https://www.coursera.org/learn/bases-r) `beginner`
  - [Comandos prácticos del editor de texto Vim](https://www.coursera.org/learn/comandos-practicos-del-editor-de-texto-vim) `beginner`
  - [Crea tu primer juego de adivinanza con Python](https://www.coursera.org/learn/crea-tu-primer-juego-de-adivinanza-con-python) `beginner`
  - [Crea tu primera aplicación web con Python y Flask](https://www.coursera.org/learn/crea-tu-primera-aplicacion-web-con-python-y-flask) `intermediate`
@@ -649,11 +653,9 @@
 4. [Feature Engineering en Español](https://www.coursera.org/learn/feature-engineering-es) `intermediate`
 5. [Art and Science of Machine Learning en Español](https://www.coursera.org/learn/art-science-ml-es) `intermediate`
 ### IBM
+ - [Creación de aplicaciones de IA con las API de Watson](https://www.coursera.org/learn/creacion-de-aplicaciones-de-ia-con-las-api-de-watson) `intermediate`
  - [Iniciación A La IA con IBM Watson](https://www.coursera.org/learn/aprenda-ia-con-ibm-watson) `beginner`
  - [Introducción a La Inteligencia Artificial (IA)](https://www.coursera.org/learn/introduccion-a-la-inteligencia-artificial) `beginner`
-#### [Bases de Inteligencia Artificial para Todos Professional Certificate](https://www.coursera.org/specializations/bases-de-inteligencia-artificial-para-todos)
-5. [Creación de aplicaciones de IA con las API de Watson](https://www.coursera.org/learn/creacion-de-aplicaciones-de-ia-con-las-api-de-watson) `intermediate`
-6. [Introducción a la Visión Artificial con Watson y OpenCV](https://www.coursera.org/learn/introduccion-a-la-vision-artificial-con-watson-y-opencv) `beginner`
 #### [Ciencia de Datos de IBM Professional Certificate](https://www.coursera.org/specializations/certificado-profesional-de-ciencia-de-datos-de-ibm)
 8. [Aprendizaje Automático con Python](https://www.coursera.org/learn/aprendizaje-automatico-con-python) `intermediate`
 ### Universidad Austral
@@ -764,6 +766,7 @@
  - [Creando servidores con Amazon Lightsail](https://www.coursera.org/learn/amazon-lightsail) `beginner`
  - [Crear y gestionar archivos con AWS S3](https://www.coursera.org/learn/amazon-s3) `beginner`
  - [Descubriendo anomalías con Azure Anomaly Detector](https://www.coursera.org/learn/azure-anomaly-detector) `intermediate`
+ - [Detectando fraudes con Amazon Fraud Detector](https://www.coursera.org/learn/amazon-fraud-detector) `intermediate`
  - [Diseñando aplicaciones de IoT con Azure](https://www.coursera.org/learn/iot-azure) `intermediate`
  - [Diseñando bots con Azure Health Bot](https://www.coursera.org/learn/microsoft-healthcare-bot) `beginner`
  - [Diseñando modelos de ML con Amazon Sagemaker](https://www.coursera.org/learn/modelos-sagemaker) `beginner`
@@ -774,6 +777,7 @@
  - [Manejando bases de datos con AWS Aurora](https://www.coursera.org/learn/amazon-aurora) `beginner`
  - [Traduciendo texto con Amazon Translate](https://www.coursera.org/learn/amazon-translate) `beginner`
 ### Google Cloud
+ - [Building Batch Data Pipelines on GCP en Español](https://www.coursera.org/learn/batch-data-pipelines-gcp-es) `intermediate`
  - [Building Resilient Streaming Analytics Systems on GCP en Español](https://www.coursera.org/learn/streaming-analytics-systems-gcp-es) `intermediate`
  - [Elastic Cloud Infrastructure: Scaling and Automation en Español](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation-es) `intermediate`
  - [Essential Cloud Infrastructure: Core Services en Español](https://www.coursera.org/learn/gcp-infrastructure-core-services-es) `intermediate`
@@ -874,6 +878,7 @@
 ### Coursera Project Network
  - [Crea tu Curriculum con canva](https://www.coursera.org/learn/curriculum-canva) `beginner`
  - [Crea tu tarjeta de presentación con canva](https://www.coursera.org/learn/tarjeta-presentacion-canva) `beginner`
+ - [Crea tus publicaciones para RRSS con Canva](https://www.coursera.org/learn/publicacion-rrss-canva) `beginner`
 ### Laureate Education
  - [Voces de cambio social](https://www.coursera.org/learn/vocesdecambiosocial) `beginner`
 ### McMaster University
@@ -929,6 +934,7 @@
  - [Iniciándome en la Química](https://www.coursera.org/learn/iniciandome-en-la-qumica) `beginner`
  - [La Química de las Reacciones](https://www.coursera.org/learn/la-qumica-de-las-reacciones) `beginner`
 ### Universidad Nacional Autónoma de México
+ - [La química en la producción de alimentos y medicamentos](https://www.coursera.org/learn/quimica-alimentos) `beginner`
  - [Una aproximación a la química del carbono](https://www.coursera.org/learn/qimica-carbono) `beginner`
  - [¡¿Cómo?! ¿Química en mi casa?](https://www.coursera.org/learn/quimica-en-mi-casa)
 ## Electrical Engineering
