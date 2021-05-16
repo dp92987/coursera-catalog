@@ -10,7 +10,6 @@
  - [Personal Development](#personal-development)
  - [Physical Science and Engineering](#physical-science-and-engineering)
  - [Social Sciences](#social-sciences)
- - [Undefined](#undefined)
 # Arts and Humanities
 > - [History](#history)
 > - [Music and Art](#music-and-art)
@@ -164,6 +163,7 @@
  - [Оптимизация портфеля с помощью модели Марковица](https://www.coursera.org/learn/portfolio-optimization-markowitz-model-ru) `intermediate`
  - [Отбор акций для инвестиций](https://www.coursera.org/learn/screening-stocks-investment-ru) `intermediate`
  - [Оценка акций через анализ сопоставимых компаний](https://www.coursera.org/learn/stock-valuation-comparable-companies-analysis-ru) `intermediate`
+ - [Оценка акций через модель дисконтирования дивидендов](https://www.coursera.org/learn/stock-valuation-dividend-discount-model-ru) `intermediate`
  - [Оценка компании по модели DCF](https://www.coursera.org/learn/discounted-cash-flow-modeling-ru) `intermediate`
  - [Оценка облигаций](https://www.coursera.org/learn/bonds-fixed-income-mathematics-ru) `intermediate`
  - [Сравниваем доходность акций с Google Sheets](https://www.coursera.org/learn/compare-stock-returns-google-sheets-ru) `intermediate`
@@ -592,6 +592,7 @@
  - [Читаем русскую классику вместе.  М. Булгаков «Мастер и Маргарита»](https://www.coursera.org/learn/bulgakov-master-i-margarita)
  - [Я говорю по-русски/ I speak Russian](https://www.coursera.org/learn/ya-govoryu-po-russki) `intermediate`
 ### Saint Petersburg State University
+ - [Китайский язык: пять шагов к успеху. Основы произношения](https://www.coursera.org/learn/kit-step0)
  - [Китайский язык: пять шагов к успеху. Часть 1](https://www.coursera.org/learn/kit-step1) `beginner`
  - [Китайский язык: пять шагов к успеху. Часть 2](https://www.coursera.org/learn/kit-step2) `beginner`
  - [Китайский язык: пять шагов к успеху. Часть 3](https://www.coursera.org/learn/kit-step3) `beginner`
@@ -829,8 +830,3 @@
  - [Уголовный процесс](https://www.coursera.org/learn/crimproc) `intermediate`
 ### University of Geneva
  - [Политика и управление водными ресурсами](https://www.coursera.org/learn/russian-water-management)
-# Undefined
-> - [Undefined](#undefined)
-## Undefined
-### Saint Petersburg State University
- - [Китайский язык: пять шагов к успеху. Основы произношения](https://www.coursera.org/learn/kit-step0)

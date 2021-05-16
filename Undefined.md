@@ -22,7 +22,6 @@
  - [Exploratory Data Analysis (EDA) in Google Sheets](https://www.coursera.org/learn/exploratory-data-analysis-eda-in-google-sheets)
  - [Grab Data Fast with Vertical and Horizontal LOOKUP](https://www.coursera.org/learn/grab-data-fast-with-vertical-and-horizontal-lookup-in-google-sheets)
  - [How to Create a Program Evaluation for Your Non-Profit](https://www.coursera.org/learn/program-evaluation-non-profit)
- - [Improve Business Performance with Google Forms](https://www.coursera.org/learn/improve-business-performance-with-google-forms)
  - [Initiation à Google Drive](https://www.coursera.org/learn/initiation-a-google-drive)
  - [Onboarding New Employees with Typeform](https://www.coursera.org/learn/onboarding-new-employees-typeform)
  - [Uncover the Survey Data Story with Charts in Google Sheets](https://www.coursera.org/learn/survey-data-story-bar-charts-in-google-sheets)
@@ -41,9 +40,10 @@
  - [Crear encuestas con Formularios Google](https://www.coursera.org/learn/crear-encuestas-formularios-google)
  - [Crear una hoja para la Gestión de Proyectos en Google Sheets](https://www.coursera.org/learn/crear-hoja-gestion-proyectos-google-sheets)
  - [Create a Branded Presentation Template Using Google Slides](https://www.coursera.org/learn/create-branded-presentation-template-google-slides)
+ - [Create a Debt-Reduced Worksheet in Google Sheets](https://www.coursera.org/learn/create-a-debt-reduced-worksheet-in-google-sheets)
  - [Create a Home Affordability Worksheet in Google Sheets](https://www.coursera.org/learn/create-a-home-affordability-worksheet-in-google-sheets)
  - [Create a Kanban Board in Google Sheets](https://www.coursera.org/learn/create-a-kanban-board-in-google-sheets)
- - [Create a Profile and Network on LinkedIn](https://www.coursera.org/learn/create-a-profile-and-network-on-linkedin)
+ - [Create a Mortgage Payment Calculator in Google Sheets](https://www.coursera.org/learn/create-mortgage-payment-calculator-in-google-sheets)
  - [Create a Project Charter in Google Sheets](https://www.coursera.org/learn/create-project-charter-google-sheets)
  - [Create a RACI Matrix in Google Sheets](https://www.coursera.org/learn/create-a-raci-matrix-in-google-sheets)
  - [Create a SWOT Analysis in Google Docs](https://www.coursera.org/learn/create-swot-analysis-google-docs)
@@ -54,10 +54,8 @@
  - [Google Suite for Project Communications](https://www.coursera.org/learn/google-suite-for-project-communications)
  - [LinkedIn para Principiantes](https://www.coursera.org/learn/linkedin-principiantes)
  - [Scheduling Made Easy with Google and Calendly](https://www.coursera.org/learn/scheduling-made-easy-google-calendly)
- - [Trello for Beginners](https://www.coursera.org/learn/trello-for-beginners)
  - [Use vídeos en sus posts de redes sociales con Canva](https://www.coursera.org/learn/use-videos-posts-redes-sociales-canva)
  - [Using Video in Social Media Posts with Canva](https://www.coursera.org/learn/using-video-social-media-canva)
- - [Utilize LinkedIn for Career Search](https://www.coursera.org/learn/utilize-linkedin-for-career-search)
  - [Utilizing Google Classroom for Corporate Training](https://www.coursera.org/learn/google-classroom-for-corporate-training-and-professional-development)
  - [مقدمة لجداول بيانات جوجل](https://www.coursera.org/learn/introduction-google-sheets-ar)
 ## Finance
@@ -65,7 +63,6 @@
  - [Build a Budget and Analyze Variance using Google Sheets](https://www.coursera.org/learn/budget-analyze-variance-google-sheets)
  - [Creando un Presupuesto en Google Sheets](https://www.coursera.org/learn/creando-presupuesto-google-sheets)
  - [Crear una hoja de asequilibilidad del hogar en Google Sheets](https://www.coursera.org/learn/crear-hoja-asequibilidad-hogar-google-sheets)
- - [Create a Budget with Google Sheets](https://www.coursera.org/learn/create-a-budget-with-google-sheets)
  - [Create a Simple Gantt Chart using Google Sheets](https://www.coursera.org/learn/create-gantt-chart-google-sheets)
  - [Create a Simple Project Timeline in Google Sheets](https://www.coursera.org/learn/create-a-simple-project-timeline)
  - [Develop a Savings Plan on Fixed Income with Google Sheets](https://www.coursera.org/learn/fixed-income-savings-plan-with-google-sheets)
@@ -73,21 +70,18 @@
  - [Income Features in ProfitBooks](https://www.coursera.org/learn/income-features-profitbooks)
  - [Inflation Analysis for Investment Appraisal](https://www.coursera.org/learn/inflation-investment-appraisal)
  - [Introduction to Valuation with WACC](https://www.coursera.org/learn/introduction-valuation-wacc)
+ - [Portfolio Diversification using Correlation Matrix](https://www.coursera.org/learn/portfolio-diversification-correlation-matrix)
  - [Portfolio Optimization using Markowitz Model](https://www.coursera.org/learn/portfolio-optimization-markowitz-model)
  - [Predict Performance Using MA Forecasting in Google Sheets](https://www.coursera.org/learn/predict-performance-using-ma-forecasting-in-google-sheets)
 ## Leadership and Management
 ### Coursera Project Network
- - [Build a Product Management Plan Framework in Trello](https://www.coursera.org/learn/build-product-management-plan-framework-trello)
- - [Build a Product Roadmap with Aha!](https://www.coursera.org/learn/build-product-roadmap-aha)
  - [Business Operations Support in Google Sheets](https://www.coursera.org/learn/business-operations-support-in-google-sheets)
  - [Collect and Share Employee Feedback with Officevibe](https://www.coursera.org/learn/collect-and-share-employee-feedback-officevibe)
  - [Create a Project Charter with Google Docs](https://www.coursera.org/learn/create-a-project-charter-with-google-docs)
  - [Create a Stakeholder Management Plan in Google Docs](https://www.coursera.org/learn/create-stakeholder-management-plan-google-docs)
- - [Create a Stock Dashboard Using Google Sheets](https://www.coursera.org/learn/create-a-stock-dashboard-using-google-sheets)
  - [Create an Employee Feedback Survey with TypeForm](https://www.coursera.org/learn/create-an-employee-feedback-survey-with-typeform)
  - [Create Customizable Proposals in Qwilr](https://www.coursera.org/learn/create-customizable-proposals-qwilr)
  - [Creating a Customer Service Survey Using Google Forms](https://www.coursera.org/learn/create-customer-service-survey-google-forms)
- - [Critical Path Analysis Using Lucidchart](https://www.coursera.org/learn/critical-path-analysis-using-lucidchart)
  - [Data Visualization Using Google Sheets](https://www.coursera.org/learn/data-visualization-using-google-sheets)
  - [Hiring and Onboarding Employees with ClickUp](https://www.coursera.org/learn/hiring-onboarding-employees-with-clickup)
  - [Improving Team Collaboration and Work Management in Asana](https://www.coursera.org/learn/improving-team-collaboration-work-management-asana)
@@ -109,29 +103,28 @@
  - [Create a Landing Page using Mailchimp](https://www.coursera.org/learn/create-landing-page-using-mailchimp)
  - [Create a Process Map using a Canva Template](https://www.coursera.org/learn/create-process-map-using-canva)
  - [Create a Project Management Dashboard using Bitrix24](https://www.coursera.org/learn/create-project-management-dashboard-using-bitrix24)
- - [Create a Project Management Tracker using Google Sheets](https://www.coursera.org/learn/create-a-project-management-tracker-using-google-sheets)
- - [Create a Storyboard using Canva](https://www.coursera.org/learn/create-storyboard-canva)
+ - [Create a Promotional Video using Canva](https://www.coursera.org/learn/create-a-promotional-video-using-canva)
  - [Create a Target Market Presentation using Canva](https://www.coursera.org/learn/create-target-market-presentation)
  - [Create an A/B web page marketing test with Google Optimize](https://www.coursera.org/learn/create-an-a-b-web-page-and-marketing-test-with-google-optimize)
  - [Create an Editorial Content Calendar in Google Sheets](https://www.coursera.org/learn/create-editorial-content-calendar)
  - [Create an Email Autoresponder Using Mailchimp](https://www.coursera.org/learn/create-email-autoresponder-mailchimp)
  - [Create an Engaging Marketing Pitch using Google Slides](https://www.coursera.org/learn/create-an-engaging-marketing-pitch-using-google-slides)
- - [Create an Invitation to your Open House using Google Forms](https://www.coursera.org/learn/create-invitation-open-house-google-forms)
+ - [Create and Design Digital Products using Canva](https://www.coursera.org/learn/create-design-digital-products-canva)
  - [Create Cross Tabulation Reports in Google Sheets](https://www.coursera.org/learn/cross-tabulation-reports-google-sheets)
  - [Design a Client Welcome Kit using Canva](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva)
  - [Design a Factor Analysis Using Survey Data in Google Sheets](https://www.coursera.org/learn/design-a-factor-analysis-using-survey-data-in-google-sheets)
- - [Design an eBook Cover that stands out using Canva](https://www.coursera.org/learn/design-an-ebook-cover-that-stands-out-using-canva)
  - [Design an Email Newsletter Using Mailchimp](https://www.coursera.org/learn/design-email-newsletter-with-mailchimp)
  - [Design Online Course Printables using Canva](https://www.coursera.org/learn/design-online-course-printables-using-canva)
  - [Edit Your Photos for Social Media Marketing using PicsArt](https://www.coursera.org/learn/edit-your-photos-for-social-media-marketing-using-picsart)
  - [Get Creative with Google Drawings for Education](https://www.coursera.org/learn/get-creative-with-google-drawings-for-education)
+ - [Getting Started with Adobe Spark](https://www.coursera.org/learn/getting-started-with-adobe-spark)
  - [How to Effectively Use Tweetdeck](https://www.coursera.org/learn/how-to-use-tweetdeck)
  - [Interpret Population and Sample Variances in Google Sheets](https://www.coursera.org/learn/interpret-population-and-sample-variances-in-google-sheets)
  - [Introducción a CRM con HubSpot](https://www.coursera.org/learn/introduccion-crm-con-hubspot)
  - [Introducción al diseño de Mercadeo con Canva](https://www.coursera.org/learn/introduccion-diseno-mercadeo-canva)
  - [Introduction to Google Docs for Marketing Content](https://www.coursera.org/learn/introduction-google-docs-marketing-content)
  - [Introduction to PicsArt for Social Media Marketing](https://www.coursera.org/learn/introduction-to-picsart-for-social-media-marketing)
- - [Optimizing Your Website's Keywords & Pages using Ubersuggest](https://www.coursera.org/learn/ubersuggest)
+ - [Manage Content Marketing using Google Docs](https://www.coursera.org/learn/manage-contet-marketing-google-docs)
  - [Predict Sales with CRM Data in Google Sheets](https://www.coursera.org/learn/predict-sales-crm-data-google-sheets)
  - [Predict Web Traffic with Trend Forecasting in Google Sheets](https://www.coursera.org/learn/predict-web-traffic-trend-forecasting-google-sheets)
  - [Search Engine Optimization (SEO) with Squarespace](https://www.coursera.org/learn/search-engine-optimization-with-squarespace)
@@ -147,12 +140,11 @@
 > - [Software Development](#software-development)
 ## Algorithms
 ### Coursera Project Network
- - [Compose and Program Music in Python using Earsketch](https://www.coursera.org/learn/compose-program-music-in-python-using-earsketch)
+ - [Basic Game Development with Levels using Scratch](https://www.coursera.org/learn/basic-game-development-with-levels-using-scratch)
 ## Design and Product
 ### Coursera Project Network
  - [Car Transport App in Figma](https://www.coursera.org/learn/car-transport-app-figma)
  - [Flush Out a Feature on Coursera in Miro](https://www.coursera.org/learn/coursera-feature-miro)
- - [Product Design: Designing a modern table lamp using SketchUp](https://www.coursera.org/learn/product-design-designing-a-modern-table-lamp-using-sketchup)
 ## Mobile and Web Development
 ### Coursera Project Network
  - [Build Restaurant Business Website using Google Sites](https://www.coursera.org/learn/build-restaurant-business-website-using-google-sites)
@@ -176,6 +168,7 @@
  - [Google Data Studio - Création de Tableaux de Bords Interactifs](https://www.coursera.org/learn/google-data-studio-rapport)
  - [Handle Missing Survey Data Values in Google Sheets](https://www.coursera.org/learn/handle-missing-survey-data-values-in-google-sheets)
  - [Introducción a los Data Lakes con Azure](https://www.coursera.org/learn/data-lakes-azure)
+ - [Introduction to Data Analysis Using Google Spreadsheet](https://www.coursera.org/learn/introduction-to-data-analysis-using-google-spreadsheet)
  - [Manage web spam in Google Analytics](https://www.coursera.org/learn/manage-web-spam-in-google-analytics)
  - [Optimize Supply Chains with Analysis in Google Sheets](https://www.coursera.org/learn/optimize-supply-chains-analysis-google-sheets)
  - [Run a Sparkline Trend Analysis in Google Sheets](https://www.coursera.org/learn/run-a-sparkline-trend-analysis-in-google-sheets)
@@ -187,11 +180,16 @@
  - [Creating Multi Task Models With Keras](https://www.coursera.org/learn/multi-task-models-keras)
  - [Hyperparameter Tuning with Keras Tuner](https://www.coursera.org/learn/keras-tuner)
  - [Impute Data to Forecast Demand in Google Sheets](https://www.coursera.org/learn/impute-data-to-forecast-demand-in-google-sheets)
+ - [Object Localization with TensorFlow](https://www.coursera.org/learn/object-localization-tensorflow)
  - [Optimize TensorFlow Models For Deployment with TensorRT](https://www.coursera.org/learn/tensorflow-tensorrt)
  - [Predicción de Ventas Pronosticando Tendencias](https://www.coursera.org/learn/prediccion-de-ventas-pronosticando-tendencias-en-google-sheets)
+ - [PyCaret: Anatomy of Regression](https://www.coursera.org/learn/pycaret-regression)
+ - [Semantic Segmentation with Amazon Sagemaker](https://www.coursera.org/learn/semantic-segmentation-sagemaker)
+ - [Tweet Emotion Recognition with TensorFlow](https://www.coursera.org/learn/tweet-emotion-tensorflow)
  - [Visualizing Filters of a CNN using TensorFlow](https://www.coursera.org/learn/visualizing-filters-cnn-tensorflow)
 ## Probability and Statistics
 ### Coursera Project Network
+ - [Chi-Squared Test in Google Sheets](https://www.coursera.org/learn/chi-squared-test-google-sheets)
  - [Type 1 and Type 2 Error Analysis in Google Sheets](https://www.coursera.org/learn/type-1-type-2-error-analysis-google-sheets)
 # Information Technology
 > - [Cloud Computing](#cloud-computing)
@@ -201,7 +199,6 @@
  - [Access an EC2 instance shell from the AWS console](https://www.coursera.org/learn/accessing-ec2-instance-aws-console)
  - [AWS Cloudfront: Serve content from multiple S3 buckets](https://www.coursera.org/learn/aws-cloudfront-s3)
  - [AWS S3 Basics](https://www.coursera.org/learn/aws-s3-basics)
- - [Build a Business Architecture using AWS Organization](https://www.coursera.org/learn/build-a-business-architecture-using-aws-organization)
  - [Creating Routing Policies to Handle Traffic with AWS Route53](https://www.coursera.org/learn/creating-routing-policies-handle-traffic-aws-route53)
  - [Launch an auto-scaling AWS EC2 virtual machine](https://www.coursera.org/learn/auto-scaling-aws-ec2-vm)
 ## Networking
@@ -216,7 +213,6 @@
 > - [Personal Development](#personal-development)
 ## Personal Development
 ### Coursera Project Network
- - [Build a Professional Resume using Canva](https://www.coursera.org/learn/build-a-professional-resume-using-canva)
  - [Create a Departure and Personal Statement for Interviews](https://www.coursera.org/learn/departure-personal-statement-interviews)
  - [Facilitate Online Discussions with Eduflow](https://www.coursera.org/learn/facilitate-online-discussions-with-eduflow)
  - [Gmail para Principiantes: bases a las aplicaciones de Google](https://www.coursera.org/learn/gmail-principiantes-bases-aplicaciones-google)
@@ -239,41 +235,24 @@
 # Undefined
 > - [Undefined](#undefined)
 ## Undefined
-### Aruba, a Hewlett Packard Enterprise company
- - [Cloud-Based Network Design & Management Techniques](https://www.coursera.org/learn/cloud-based-network-design-and-management)
+### CertNexus
+ - [Build Regression, Classification, and Clustering Models](https://www.coursera.org/learn/build-regression-classification-clustering-models)
 ### Coursera Project Network
- - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets)
- - [Create a branding search campaign with Google Ads](https://www.coursera.org/learn/create-a-branding-search-campaign-with-google-ads)
- - [Create a Presentation with LibreOffice](https://www.coursera.org/learn/create-presentation-libreoffice)
- - [Create Informative Presentations with Google Slides](https://www.coursera.org/learn/create-informative-presentations-google-slides)
- - [Create Keyboard Movement Mechanics with C# in Unity](https://www.coursera.org/learn/create-keyboard-movement-mechanics-c-sharp-unity)
- - [Create No-Bullet Presentations with Google Slides](https://www.coursera.org/learn/create-no-bullet-presentations-google-slides)
- - [Getting Started with Adobe Spark](https://www.coursera.org/learn/getting-started-with-adobe-spark)
- - [Getting Started with Azure DevOps Boards](https://www.coursera.org/learn/getting-started-azure-devops-boards)
- - [Introduction to inkscape](https://www.coursera.org/learn/introduction-to-inkscape)
-### DeepLearning.AI
- - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar)
- - [النماذج المتعاقبة](https://www.coursera.org/learn/nlp-sequence-models-ar)
+ - [Build a Machine Learning Image Classifier with Python](https://www.coursera.org/learn/build-machine-learning-image-classifier-with-python)
+ - [Build a RESTful API(Node.js) using AWS Lambda & API Gateway](https://www.coursera.org/learn/aws-lambda-api-gateway-nodejs)
+ - [Build a Scoring Mechanic with C# in Unity - Shooting Targets](https://www.coursera.org/learn/build-scoring-mechanic-c-sharp-unity-shooting-targets)
+ - [Build Space Invaders Game using Java](https://www.coursera.org/learn/space-invaders-using-java)
+ - [Create a Google Ads Search Campaign](https://www.coursera.org/learn/create-a-google-ads-search-campaign)
+ - [Create a Google Ads Video Campaign](https://www.coursera.org/learn/create-a-google-ads-video-campaign)
+ - [Create a Storyboard using Canva](https://www.coursera.org/learn/create-storyboard-canva)
+ - [Create a Supermarket app using OOP Features in Java](https://www.coursera.org/learn/oop-java-supermarket)
+ - [Create an Invitation to your Open House using Google Forms](https://www.coursera.org/learn/create-invitation-open-house-google-forms)
+ - [Create Animated Social Media Posts using Canva](https://www.coursera.org/learn/create-animated-social-media-posts-canva)
+ - [Create Docker Container with Flask Seaborn Regression Plot App](https://www.coursera.org/learn/create-docker-container-seaborn-regression-plot-app)
 ### Google Cloud
  - [Building Conversational Experiences with Dialogflow](https://www.coursera.org/learn/conversational-experiences-dialogflow)
-### IBM
- - [Building AI Powered Chatbots Without Programming](https://www.coursera.org/learn/building-ai-powered-chatbots)
- - [بايثون لعلوم البيانات والذكاء الصناعي](https://www.coursera.org/learn/python-for-applied-data-science-ai-ar)
-### IE Business School
- - [Legal Tech & Startups](https://www.coursera.org/learn/legal-tech-startups)
-### Indian School of Business
- - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de)
-### Rutgers the State University of New Jersey
- - [Analyzing the Universe](https://www.coursera.org/learn/analyze)
-### Universidad de los Andes
- - [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity)
-### Universidade de São Paulo
- - [UX / UI: Fundamentos para o design de interface](https://www.coursera.org/learn/ux-ui-design-de-interface)
-### University of Illinois at Urbana-Champaign
- - [Cloud Computing Concepts, Part 1](https://www.coursera.org/learn/cloud-computing)
-### University of Michigan
- - [UX (User Experience) Capstone](https://www.coursera.org/learn/user-experience-capstone)
+ - [Managing Change when Moving to Google Cloud em Português](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-br)
 ### University of Pennsylvania
- - [U.S. Health Law Fundamentals](https://www.coursera.org/learn/health-law-fundamentals)
+ - [Management Fundamentals](https://www.coursera.org/learn/management-fundamentals-healthcare-administrators)
 ### Università Bocconi
- - [القيادة الدولية والسلوك التنظيمي](https://www.coursera.org/learn/organizational-behavior-ar)
+ - [Management of International Development: Towards Agenda 2030](https://www.coursera.org/learn/towards-agenda-2030)

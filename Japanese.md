@@ -13,7 +13,7 @@
  - [業務効率や生産性向上につながる時間管理](https://www.coursera.org/learn/work-smarter-not-harder-ja)
 ## Business Strategy
 ### DeepLearning.AI, Japan Deep Learning Association
- - [AI for Everyone （すべての人のためのAIリテラシー講座）](https://www.coursera.org/learn/ai-for-everyone-ja) `beginner`
+ - [AI For Everyone （すべての人のためのAIリテラシー講座）](https://www.coursera.org/learn/ai-for-everyone-ja) `beginner`
 ### Google Cloud
  - [Business Transformation with Google Cloud 日本語版](https://www.coursera.org/learn/business-transformation-google-cloud-jp) `beginner`
  - [Google Cloud Product Fundamentals 日本語版](https://www.coursera.org/learn/google-cloud-product-fundamentals-jp) `beginner`

@@ -41,6 +41,8 @@
 ## Leadership and Management
 ### BCG, University of Virginia
  - [Digitale Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-de) `beginner`
+### Indian School of Business
+ - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de) `beginner`
 ### Johns Hopkins University
  - [Datenanalyse verwalten](https://www.coursera.org/learn/managing-data-analysis-de)
 ### Macquarie University

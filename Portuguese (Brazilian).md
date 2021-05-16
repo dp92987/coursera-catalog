@@ -137,6 +137,8 @@
 ### Fundação Lemann, Fundação Telefônica
  - [Aprenda a ensinar programação com o Programaê!](https://www.coursera.org/learn/programae)
 ## Design and Product
+### Universidade de São Paulo
+ - [UX / UI: Fundamentos para o design de interface](https://www.coursera.org/learn/ux-ui-design-de-interface) `beginner`
 ### Universidade Estadual de Campinas
  - [Processamento Digital de Sinais - Amostragem](https://www.coursera.org/learn/pds)
 ### University of Alberta
@@ -194,6 +196,7 @@
 ## Machine Learning
 ### Coursera Project Network
  - [Introdução a Machine Learning em uma Competição do Kaggle](https://www.coursera.org/learn/ml-basics-kaggle-competition-pt-br) `beginner`
+ - [Reconhecimento Facial e de Objetos com o Amazon Rekognition](https://www.coursera.org/learn/reconhecimento-facial-objetos-aws-amazon-rekognition) `intermediate`
 ### Google Cloud
  - [Google Cloud Platform Big Data and Machine Learning Fundamentals em Português Brasileiro](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals-br) `intermediate`
  - [Serverless Machine Learning with Tensorflow on Google Cloud Platform em Português Brasileiro](https://www.coursera.org/learn/serverless-machine-learning-gcp-br) `intermediate`
@@ -241,7 +244,6 @@
  - [Essential Cloud Infrastructure: Core Services em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-core-services-br) `intermediate`
  - [Essential Cloud Infrastructure: Foundation em Português Brasileiro](https://www.coursera.org/learn/gcp-infrastructure-foundation-br) `intermediate`
  - [Google Cloud Platform Fundamentals: Core Infrastructure em Português Brasileiro](https://www.coursera.org/learn/gcp-fundamentals-br) `intermediate`
- - [Managing Change when Moving to Google Cloud em Português](https://www.coursera.org/learn/managing-change-when-moving-to-google-cloud-br) `beginner`
  - [Migrating to Google Cloud em Português Brasileiro](https://www.coursera.org/learn/migrating-to-gcp-br) `beginner`
  - [Optimizing Your Google Cloud Platform Costs em Português](https://www.coursera.org/learn/gcp-cost-optimization-br) `intermediate`
  - [Preparing for the Google Cloud Professional Cloud Architect Exam em Português Brasileiro](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam-br) `advanced`

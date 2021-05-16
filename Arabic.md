@@ -97,6 +97,8 @@
  - [قيادة الفرق](https://www.coursera.org/learn/leading-teams-ar)
 ### University of Minnesota
  - [التحضير لإدارة الموارد البشرية](https://www.coursera.org/learn/managing-human-resources-ar)
+### Università Bocconi
+ - [القيادة الدولية والسلوك التنظيمي](https://www.coursera.org/learn/organizational-behavior-ar)
 ## Marketing
 ### Coursera Project Network
  - [إنشاء تصاميم تسويقية مذهلة باستخدام كانفا](https://www.coursera.org/learn/create-amazing-designs-using-canva-ar) `beginner`
@@ -194,6 +196,7 @@
  - [Power BI  الحصول على البيانات وشكلها ودمجها باستخدام](https://www.coursera.org/learn/manipulate-data-using-power-bi-desktop) `beginner`
  - [Power BI وتقارير باستخدام Visualizations   إنشاء](https://www.coursera.org/learn/creating-visualizations-and-reports-using-power-bi) `beginner`
  - [Python معالجة مسبقة للبيانات و تحليلها بواسطة](https://www.coursera.org/learn/data-wrangling-using-python) `beginner`
+ - [أساسيات تحليل البيانات باستخدام بايثون وباندا](https://www.coursera.org/learn/data-analysis-python-pandas-ar) `beginner`
  - [أساسيات تحليل البيانات باستخدام جداول بيانات جوجل](https://www.coursera.org/learn/data-analysis-google-sheets-ar) `beginner`
  - [تحليل المجموعات الهرمية باستخدام المسافات الإقليدية](https://www.coursera.org/learn/genome-analysis-hierarchical-clustering-ar) `intermediate`
  - [عكس وتكامل تسلسل الحمض النووي (DNA ، RNA) باستخدام R](https://www.coursera.org/learn/reverse-and-complement-nucleic-acid-sequences-using-r-ar) `beginner`
@@ -206,6 +209,7 @@
 ### Duke University
  - [مقاييس الأعمال للشركات التي تعتمد على البيانات](https://www.coursera.org/learn/analytics-business-metrics-ar)
 ### IBM
+ - [بايثون لعلوم البيانات والذكاء الصناعي](https://www.coursera.org/learn/python-for-applied-data-science-ai-ar) `beginner`
  - [تحليل البيانات باستخدام بايثون](https://www.coursera.org/learn/data-analysis-with-python-ar) `beginner`
  - [قواعد البيانات وSQL (لغة الاستعلام البنيوية) لعلم البيانات](https://www.coursera.org/learn/sql-data-science-ar) `beginner`
  - [كابستون علوم البيانات التطبيقية](https://www.coursera.org/learn/applied-data-science-capstone-ar) `intermediate`
@@ -224,6 +228,8 @@
 ## Machine Learning
 ### DeepLearning.AI
  - [الشبكات العصبونية الالتفافية](https://www.coursera.org/learn/convolutional-neural-networks-ar) `intermediate`
+ - [الشبكات العصبية والتعلم العميق](https://www.coursera.org/learn/neural-networks-deep-learning-ar) `intermediate`
+ - [النماذج المتعاقبة](https://www.coursera.org/learn/nlp-sequence-models-ar) `intermediate`
  - [تعزيز الشبكات العصبية : ضبط وتحسين مقياس فرط المعلمات](https://www.coursera.org/learn/deep-neural-network-ar) `beginner`
 ### IBM
  - [التعلّم الآلي باستخدام لغة بايثون](https://www.coursera.org/learn/machine-learning-with-python-ar) `intermediate`

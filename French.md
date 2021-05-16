@@ -148,6 +148,7 @@
  - [Initiation aux conteneurs avec Docker](https://www.coursera.org/learn/initiation-conteneurs-docker) `intermediate`
  - [Initiation Pratique à Python](https://www.coursera.org/learn/initation-pratique-a-python) `beginner`
  - [Initiation Pratique à VIM](https://www.coursera.org/learn/initiation-a-vim) `beginner`
+ - [Initiation à Docker Swarm pour l'orchestration de conteneurs](https://www.coursera.org/learn/initiation-docker-swarm-orchestration-conteneurs) `beginner`
  - [Initiation à l'orchestration de conteneurs avec Kubernetes](https://www.coursera.org/learn/initiation-kubernetes-orchestration-conteneurs) `beginner`
  - [Manipuler des conteneurs Docker graphiquement avec Portainer](https://www.coursera.org/learn/manipuler-conteneurs-docker-graphiquement-avec-portainer) `intermediate`
  - [Regex Python - Découvrir les Expressions Régulières](https://www.coursera.org/learn/regex-python-expressions-regulieres) `beginner`
@@ -315,6 +316,11 @@
  - [Mécanique quantique](https://www.coursera.org/learn/mecanique-quantique) `intermediate`
  - [Vers l'infiniment grand - Voyages de l'infiniment grand à l'infiniment petit](https://www.coursera.org/learn/physique-2-infinis-infiniment-grand) `beginner`
  - [Vers l'infiniment petit - Voyages de l'infiniment grand à l'infiniment petit](https://www.coursera.org/learn/physique-infiniment-petit) `beginner`
+#### [Voyages de l'infiniment grand à l'infiniment petit Specialization](https://www.coursera.org/specializations/physique-2infinis)
+1. [Vers l'infiniment grand](https://www.coursera.org/learn/physique-deux-infinis-infiniment-grand) `beginner`
+2. [Vers l'infiniment petit](https://www.coursera.org/learn/infiniment-petit) `beginner`
+3. [D'un infini à l'autre](https://www.coursera.org/learn/physique-deux-infinis-liens) `beginner`
+4. [Les deux infinis et nous](https://www.coursera.org/learn/physique-deux-infinis-et-nous) `beginner`
 ### École Polytechnique Fédérale de Lausanne
  - [Mécanique : Solide Indéformable](https://www.coursera.org/learn/mecanique-solide)
  - [Mécanique de Newton](https://www.coursera.org/learn/mecanique-newton)

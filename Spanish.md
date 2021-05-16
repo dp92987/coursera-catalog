@@ -133,6 +133,7 @@
  - [Crea un mapa de proceso con Canva](https://www.coursera.org/learn/crea-mapa-proceso-canva) `intermediate`
  - [Crea una infografía en Canva](https://www.coursera.org/learn/crea-infografia-canva) `intermediate`
  - [Crear encuestas de mercadeo con Formularios Google](https://www.coursera.org/learn/crear-encuestas-mercadeo-formularios-google) `beginner`
+ - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
  - [Crear un informe de lecciones aprendidas con Docs Google](https://www.coursera.org/learn/crear-informe-lecciones-aprendidas-documentos-google) `beginner`
  - [Crear un plan de gestion de comunicaciones con Docs Google](https://www.coursera.org/learn/crear-plan-gestion-comunicaciones-documentos-google) `beginner`
  - [Crear una carta de proyecto con Hojas de cálculo Google](https://www.coursera.org/learn/crear-carta-proyecto-hojas-calculo-google) `beginner`
@@ -285,6 +286,7 @@
  - [Camino a la Excelencia en Gestión de Proyectos](https://www.coursera.org/learn/camino-excelencia-gestion-proyectos) `beginner`
  - [Gestión de organizaciones efectivas](https://www.coursera.org/learn/gestion-organizaciones-efectivas)
 ### Tecnológico de Monterrey
+ - [El liderazgo del director de proyectos](https://www.coursera.org/learn/el-liderazgo-del-director-de-proyectos) `beginner`
 #### [Liderazgo y habilidades de negociación Specialization](https://www.coursera.org/specializations/liderazgo-habilidades-negociacion)
 1. [Comunicación efectiva para el líder actual](https://www.coursera.org/learn/comunicacin-efectiva-para-el-lder-actual) `intermediate`
 2. [Habilidades de negociación y comunicación efectiva](https://www.coursera.org/learn/habilidades-de-negociacin-y-comunicacin-efectiva) `intermediate`
@@ -360,6 +362,7 @@
  - [Diseñe su Aula Virtual con Canva](https://www.coursera.org/learn/disene-aula-virtual-canva) `intermediate`
  - [Edita fotos para redes sociales con PicsArt](https://www.coursera.org/learn/edita-fotos-redes-sociales-picsart) `intermediate`
  - [Introducción a PicsArt para Redes Sociales](https://www.coursera.org/learn/introduccion-picsart-redes-sociales) `beginner`
+ - [Introducción al Marketing de Redes Sociales con Visme](https://www.coursera.org/learn/introduccion-marketing-redes-sociales-visme) `beginner`
  - [Introducción de Contenido de Marketing en Google Docs](https://www.coursera.org/learn/introduccion-contenido-marketing-google-docs) `beginner`
 ### Facebook
 #### [Marketing en redes sociales de Facebook Professional Certificate](https://www.coursera.org/specializations/marketing-en-redes-sociales-de-facebook)
@@ -425,6 +428,8 @@
  - [Bases y primeros pasos en latex](https://www.coursera.org/learn/bases-latex) `beginner`
  - [Crea tu artículo científico con latex](https://www.coursera.org/learn/articulo-cientifico-latex) `beginner`
  - [Crea tu curriculum profesional con latex](https://www.coursera.org/learn/curriculum-profesional-latex) `beginner`
+### Tecnológico de Monterrey
+ - [Inteligencia Artificial centrada en el ser humano](https://www.coursera.org/learn/inteligencia-artificial-centrada-en-el-ser-humano) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Introducción a la inteligencia artificial Specialization](https://www.coursera.org/specializations/inteligencia-artificial)
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
@@ -456,6 +461,7 @@
  - [¿Cómo (nos) cambia la Tecnología?](https://www.coursera.org/learn/comonoscambialatecnologia) `beginner`
 ### Universidad de los Andes
 #### [Desarrollo y Diseño de Videojuegos Specialization](https://www.coursera.org/specializations/desarrollo-videojuegos)
+1. [Desarrollo de Videojuegos en Unity: Una Introducción](https://www.coursera.org/learn/desarrollo-videojuegos-unity) `beginner`
 2. [Diseño de Videojuegos: Una introducción](https://www.coursera.org/learn/diseno-videojuegos-intro) `beginner`
 3. [Emprendimiento y métodos ágiles de desarrollo en videojuegos](https://www.coursera.org/learn/videojuegos-emprendimiento) `beginner`
 4. [Desarrollo de Videojuegos 3D en Unity: Una Introducción](https://www.coursera.org/learn/juegos-3d) `beginner`
@@ -516,6 +522,7 @@
  - [Creando simulaciones con python](https://www.coursera.org/learn/simulaciones-python) `intermediate`
  - [Graficando con Python](https://www.coursera.org/learn/graficando-con-python) `intermediate`
  - [Implementando un motor con Alibaba Cloud y ElasticSearch](https://www.coursera.org/learn/alibabacloud-elastic) `beginner`
+ - [Introducción a la Programación con C#](https://www.coursera.org/learn/introduccion-programacion-csharp) `beginner`
  - [Introducción a las bases relacionales SQL](https://www.coursera.org/learn/introduccion-a-las-bases-relacionales-sql) `beginner`
  - [Introducción a Pandas para Data Science](https://www.coursera.org/learn/introduccion-a-pandas-para-data-science) `beginner`
  - [Primeros pasos en Python](https://www.coursera.org/learn/primeros-pasos-python) `beginner`
@@ -573,8 +580,10 @@
  - [Azure Data Engineer con Databricks y Azure Data Factory](https://www.coursera.org/learn/azure-data-engineer-databricks-data-factory) `advanced`
  - [Clasificación de datos de Satélites con autoML y Pycaret](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) `advanced`
  - [Curso Completo de Data Science](https://www.coursera.org/learn/curso-completo-data-science) `intermediate`
+ - [Curso Completo de Deep Learning](https://www.coursera.org/learn/curso-completo-deep-learning) `intermediate`
  - [Curso Completo de Machine Learning en Microsoft Power BI](https://www.coursera.org/learn/curso-completo-machine-learning-microsoft-powerbi) `advanced`
  - [Curso Completo de Power BI Desktop](https://www.coursera.org/learn/curso-completo-power-bi) `beginner`
+ - [Curso Completo de Power BI Service](https://www.coursera.org/learn/curso-completo-power-bi-service) `beginner`
  - [Curso Completo de Spark con Databricks (Big Data)](https://www.coursera.org/learn/curso-completo-spark-databricks) `advanced`
  - [Data Analytics en Power BI](https://www.coursera.org/learn/data-analytics-power-bi) `intermediate`
  - [Desarrollar una aplicación web de ML con PyCaret y Streamlit](https://www.coursera.org/learn/web-app-ml-pycaret-streamlit) `intermediate`
@@ -584,6 +593,7 @@
  - [Inteligencia Artificial en Power BI](https://www.coursera.org/learn/inteligencia-artificial-powerbi) `intermediate`
  - [Introducción a Azure Data Factory para Big Data](https://www.coursera.org/learn/introduccion-azure-data-factory-big-data) `advanced`
  - [Introducción a los algoritmos de regresión](https://www.coursera.org/learn/introduccion-algoritmos-regresion) `intermediate`
+ - [Introducción al Deep Learning](https://www.coursera.org/learn/introduccion-deep-learning) `beginner`
  - [Machine Learning con Azure Machine Learning Studio](https://www.coursera.org/learn/ml-azure-machine-learning-studio) `beginner`
  - [Machine Learning con Pyspark aplicado al campo sanitario](https://www.coursera.org/learn/machine-learning-pyspark-aplicado-campo-sanitario) `advanced`
  - [Machine Learning con Python. Nivel Avanzado](https://www.coursera.org/learn/machine-learning-python-nivel-avanzado) `intermediate`
@@ -879,6 +889,7 @@
  - [Crea tu Curriculum con canva](https://www.coursera.org/learn/curriculum-canva) `beginner`
  - [Crea tu tarjeta de presentación con canva](https://www.coursera.org/learn/tarjeta-presentacion-canva) `beginner`
  - [Crea tus publicaciones para RRSS con Canva](https://www.coursera.org/learn/publicacion-rrss-canva) `beginner`
+ - [Project Management: Gestiona tu proyecto y equipo con Canva](https://www.coursera.org/learn/gestion-proyectos) `beginner`
 ### Laureate Education
  - [Voces de cambio social](https://www.coursera.org/learn/vocesdecambiosocial) `beginner`
 ### McMaster University
