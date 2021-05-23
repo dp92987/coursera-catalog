@@ -591,13 +591,16 @@
  - [Русский язык как инструмент успешной коммуникации](https://www.coursera.org/learn/russian)
  - [Читаем русскую классику вместе.  М. Булгаков «Мастер и Маргарита»](https://www.coursera.org/learn/bulgakov-master-i-margarita)
  - [Я говорю по-русски/ I speak Russian](https://www.coursera.org/learn/ya-govoryu-po-russki) `intermediate`
+### Peter the Great St. Petersburg Polytechnic University
+ - [Лингвометодические ресурсы НКРЯ в практике РКИ](https://www.coursera.org/learn/national-corpus-of-the-russian-language) `beginner`
 ### Saint Petersburg State University
- - [Китайский язык: пять шагов к успеху. Основы произношения](https://www.coursera.org/learn/kit-step0)
- - [Китайский язык: пять шагов к успеху. Часть 1](https://www.coursera.org/learn/kit-step1) `beginner`
- - [Китайский язык: пять шагов к успеху. Часть 2](https://www.coursera.org/learn/kit-step2) `beginner`
- - [Китайский язык: пять шагов к успеху. Часть 3](https://www.coursera.org/learn/kit-step3) `beginner`
- - [Китайский язык: пять шагов к успеху. Часть 4](https://www.coursera.org/learn/kit-step4) `beginner`
- - [Китайский язык: пять шагов к успеху. Часть 5](https://www.coursera.org/learn/kit-step5) `beginner`
+#### [Китайский язык: пять шагов к успеху Specialization](https://www.coursera.org/specializations/kitayskiy-dlya-nachinayushchikh)
+1. [Китайский язык: пять шагов к успеху. Основы произношения](https://www.coursera.org/learn/kitayskiy-dlya-nachinayushchikh-0)
+2. [Китайский язык: пять шагов к успеху. Часть 1](https://www.coursera.org/learn/kitayskiy-dlya-nachinayushchikh-1) `beginner`
+3. [Китайский язык: пять шагов к успеху. Часть 2](https://www.coursera.org/learn/kitayskiy-dlya-nachinayushchikh-2) `beginner`
+4. [Китайский язык: пять шагов к успеху. Часть 3](https://www.coursera.org/learn/kit-step3) `beginner`
+5. [Китайский язык: пять шагов к успеху. Часть 4](https://www.coursera.org/learn/kit-step4) `beginner`
+6. [Китайский язык: пять шагов к успеху. Часть 5](https://www.coursera.org/learn/kit-step5) `beginner`
 #### [Русский как иностранный Specialization](https://www.coursera.org/specializations/russkiy-kak-inostrannyy)
 1. [Русский как иностранный: B1+. Russian as a foreign language: B1+](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1) `intermediate`
 2. [Русский как иностранный: B1+. Часть 2. Russian as a foreign language. B1+. Part 2.](https://www.coursera.org/learn/russkiy-kak-inostrannyy-b1-2) `intermediate`
@@ -777,7 +780,7 @@
  - [Математические методы и модели в экономике](https://www.coursera.org/learn/mathematical-methods-models-in-economics) `beginner`
 ### National Research Tomsk State University
  - [«Ловцы человеков» или социальные сети в медиа, бизнесе, рекрутинге и образовании](https://www.coursera.org/learn/sotsialnaya-set)
-### National Research Tomsk State University, Financial University
+### National Research Tomsk State University, Финансовый университет при Правительстве Российской Федерации
  - [Гендерная социология](https://www.coursera.org/learn/gendernaya-sociologia) `beginner`
 ### Saint Petersburg State University
  - [Международное трудовое право](https://www.coursera.org/learn/int-lab-law-ru)

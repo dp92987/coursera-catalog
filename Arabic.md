@@ -103,6 +103,7 @@
 ### Coursera Project Network
  - [إنشاء تصاميم تسويقية مذهلة باستخدام كانفا](https://www.coursera.org/learn/create-amazing-designs-using-canva-ar) `beginner`
  - [إنشاء تصميمات مذهلة لطقم علامة تجارية تسويقية باستخدام كانفا](https://www.coursera.org/learn/create-an-amazing-brand-kit-using-canvas-ar) `intermediate`
+ - [إنشاء حساب بينترست واستغلاله في مشروعك التجاري](https://www.coursera.org/learn/creating-a-pinterest-account-for-small-businesses-ar) `beginner`
  - [إنشاء حقيبة الهدايا لتسويق أعمالك باستخدام كانفا](https://www.coursera.org/learn/create-swag-bag-inserts-to-market-your-business-using-canva-ar) `intermediate`
  - [إنشاء صفحة أعمال مجانية باستخدام Blogger](https://www.coursera.org/learn/creating-a-free-business-page-with-blogger-ar) `beginner`
  - [إنشاء صفحة لنكدين إحترافية](https://www.coursera.org/learn/create-a-professional-linkedin-account-ar) `beginner`
@@ -114,6 +115,7 @@
  - [التسويق للشركات  والمشاريع الصغيرة عبر موقع يوتيوب](https://www.coursera.org/learn/youtube-for-small-businesses-ar) `beginner`
  - [التسويق للمشاريع الصغيرة عبر موقع التواصل الإجتماعي فيسبوك](https://www.coursera.org/learn/facebook-marketing-for-small-businesses-ar) `beginner`
  - [تصميم مجموعة ترحيب العميل باستخدام كانفا](https://www.coursera.org/learn/design-a-client-welcome-kit-using-canva-ar) `intermediate`
+ - [دليل استخدام كانفا للمبتدئين](https://www.coursera.org/learn/canva-user-guide-for-beginners-ar) `beginner`
 ### Facebook
 #### [التسويق عبر وسائل التواصل الاجتماعي على فيسبوك Professional Certificate](https://www.coursera.org/specializations/al-tasweeq-aabr-wasael-al-tawasol-al-ijtimai)
 1. [مقدمة في التسويق عبر وسائل التواصل الاجتماعي](https://www.coursera.org/learn/moqaddima-fi-al-tasweeq-aabr-wasael-al-tawasol-al-ijtimai) `beginner`

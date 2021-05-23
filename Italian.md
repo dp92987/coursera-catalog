@@ -25,14 +25,17 @@
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
 ### Università di Napoli Federico II
- - [Python per la Data Science](https://www.coursera.org/learn/python-per-la-data-science) `intermediate`
+#### [Data Science con Python e R Specialization](https://www.coursera.org/specializations/data-science-con-python-e-r)
+2. [Machine Learning e Data Mining in R](https://www.coursera.org/learn/machine-learning-data-mining-con-r) `intermediate`
+3. [Python per la Data Science](https://www.coursera.org/learn/python-per-la-data-science) `intermediate`
 #### [Data Visualization: Analisi dei dati con Tableau Specialization](https://www.coursera.org/specializations/data-visualization-con-tableau)
 1. [Introduzione alla Data Visualization con Tableau](https://www.coursera.org/learn/introduzione-data-visualization-tableau) `beginner`
 2. [Data Visualization e manipolazione dei dati con Tableau](https://www.coursera.org/learn/data-visualization-manipolazione-tableau) `intermediate`
 3. [Business Intelligence con la Product Suite di Tableau](https://www.coursera.org/learn/business-intelligence-con-tableau) `advanced`
 ## Machine Learning
 ### Università di Napoli Federico II
- - [Python: Istruzioni per l’uso](https://www.coursera.org/learn/python-istruzioni-per-uso) `beginner`
+#### [Data Science con Python e R Specialization](https://www.coursera.org/specializations/data-science-con-python-e-r)
+1. [Python: Istruzioni per l’uso](https://www.coursera.org/learn/python-istruzioni-per-uso) `beginner`
 # Personal Development
 > - [Personal Development](#personal-development)
 ## Personal Development

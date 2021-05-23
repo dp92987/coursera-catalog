@@ -131,6 +131,7 @@
  - [Aumente participación de reuniones con Google Slides](https://www.coursera.org/learn/aumente-participacion-reuniones-virtuales-google-slides) `beginner`
  - [Crea Diagramas de Negocio con Canva](https://www.coursera.org/learn/crea-diagramas-negocio-canva) `intermediate`
  - [Crea un mapa de proceso con Canva](https://www.coursera.org/learn/crea-mapa-proceso-canva) `intermediate`
+ - [Crea un organigrama con Canva](https://www.coursera.org/learn/crea-organigrama-canva) `intermediate`
  - [Crea una infografía en Canva](https://www.coursera.org/learn/crea-infografia-canva) `intermediate`
  - [Crear encuestas de mercadeo con Formularios Google](https://www.coursera.org/learn/crear-encuestas-mercadeo-formularios-google) `beginner`
  - [Crear un Diagrama de Gantt simple con Google Sheets](https://www.coursera.org/learn/crear-diagrama-gantt-google-sheets) `beginner`
@@ -313,6 +314,7 @@
 4. [Recuperación de proyectos en crisis](https://www.coursera.org/learn/recuperacion-de-proyectos-en-crisis) `intermediate`
 ### Universidad de Palermo
  - [Administración de Recursos Humanos](https://www.coursera.org/learn/administracion-de-recursos-humanos) `beginner`
+ - [Fundamentos del Management](https://www.coursera.org/learn/fundamentos-del-management) `beginner`
 ### Universidad Nacional Autónoma de México
 #### [Habilidades Gerenciales  Specialization](https://www.coursera.org/specializations/habilidades)
 1. [Autoridad, dirección y liderazgo](https://www.coursera.org/learn/autoridad) `beginner`
@@ -435,7 +437,7 @@
 1. [Sesenta años de inteligencia artificial](https://www.coursera.org/learn/sesenta-anos-inteligencia-artificial) `beginner`
 2. [Razonamiento artificial](https://www.coursera.org/learn/razonamiento-artificial) `intermediate`
 3. [Resolución de problemas por búsqueda](https://www.coursera.org/learn/resolucion-busqueda) `beginner`
-4. [Aprendizaje de máquinas [sandbox]](https://www.coursera.org/learn/aprendizaje-maquinas-test)
+4. [Aprendizaje de máquinas](https://www.coursera.org/learn/aprendizaje-maquinas-test)
 5. [Cómputo evolutivo](https://www.coursera.org/learn/computo-evolutivo) `intermediate`
 6. [Comportamiento adaptativo](https://www.coursera.org/learn/comportamiento-adapta) `intermediate`
 7. [Creatividad computacional](https://www.coursera.org/learn/creatividad-computacional) `intermediate`
@@ -486,6 +488,7 @@
  - [Crea una aplicación web con Vue.js](https://www.coursera.org/learn/crea-una-aplicacion-web-con-vue-js) `intermediate`
  - [Crea una página web interactiva con JavaScript](https://www.coursera.org/learn/crea-pagina-web-interactiva-javascript) `beginner`
  - [Creando tu primera app con ReactJS](https://www.coursera.org/learn/creando-primera-app-reactjs) `beginner`
+ - [Empezando a trabajar con VueJS](https://www.coursera.org/learn/empezando-con-vuejs) `beginner`
  - [Fundamentos de React Hooks](https://www.coursera.org/learn/fundamentos-react-hooks) `intermediate`
  - [REACT: Carrito de compras con Context](https://www.coursera.org/learn/react-checkout-context) `intermediate`
  - [React: Operaciones Básicas CRUD](https://www.coursera.org/learn/react-crud) `intermediate`
@@ -608,6 +611,7 @@
  - [Predicción del fraude bancario con autoML y Pycaret](https://www.coursera.org/learn/prediccion-fraude-automl-pycaret) `advanced`
  - [Procesamiento del lenguaje natural con Python y Power BI](https://www.coursera.org/learn/nlp-python-powerbi) `intermediate`
  - [Python para Data Science](https://www.coursera.org/learn/python-para-data-science) `beginner`
+ - [Redes neuronales convolucionales con Keras](https://www.coursera.org/learn/redes-neuronales-convolucionales-keras) `intermediate`
  - [Regresión (ML) en la vida real con PyCaret](https://www.coursera.org/learn/regresion-vida-real-pycaret) `advanced`
  - [Visualización Avanzada de datos con Python](https://www.coursera.org/learn/visualizacion-avanzada-datos-python) `intermediate`
  - [Visualización de datos con Seaborn](https://www.coursera.org/learn/visualizacion-datos-seaborn) `beginner`
