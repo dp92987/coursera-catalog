@@ -9,5 +9,4 @@
 2. [Os vários elementos das redes informáticas](https://www.coursera.org/learn/computer-networking-pt-pt) `beginner`
 ## Support and Operations
 ### Google
-1. [Princípios básicos de apoio técnico](https://www.coursera.org/learn/technical-support-fundamentals-pt-pt) `beginner`
 3. [Interagir com sistemas operativos](https://www.coursera.org/learn/os-power-user-pt) `beginner`

@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `7360` courses. Updated weekly.
+Complete list of `4165` courses. Updated weekly.
 
 # TOC
 
@@ -24,7 +24,6 @@ Complete list of `7360` courses. Updated weekly.
  - [Portuguese (European)](#portuguese-european)
  - [Russian](#russian)
  - [Spanish](#spanish)
- - [Swedish](#swedish)
  - [Turkish](#turkish)
  - [Ukrainian](#ukrainian)
  - [Undefined](#undefined)
@@ -36,9 +35,7 @@ Complete list of `7360` courses. Updated weekly.
  - [Computer Science](<Arabic.md#computer-science>)
  - [Data Science](<Arabic.md#data-science>)
  - [Information Technology](<Arabic.md#information-technology>)
- - [Language Learning](<Arabic.md#language-learning>)
  - [Personal Development](<Arabic.md#personal-development>)
- - [Physical Science and Engineering](<Arabic.md#physical-science-and-engineering>)
  - [Social Sciences](<Arabic.md#social-sciences>)
 ### Chinese (Simplified)
  - [Arts and Humanities](<Chinese (Simplified).md#arts-and-humanities>)
@@ -57,7 +54,6 @@ Complete list of `7360` courses. Updated weekly.
  - [Data Science](<Chinese (Traditional).md#data-science>)
  - [Health](<Chinese (Traditional).md#health>)
  - [Language Learning](<Chinese (Traditional).md#language-learning>)
- - [Math and Logic](<Chinese (Traditional).md#math-and-logic>)
  - [Physical Science and Engineering](<Chinese (Traditional).md#physical-science-and-engineering>)
  - [Social Sciences](<Chinese (Traditional).md#social-sciences>)
 ### English
@@ -79,22 +75,17 @@ Complete list of `7360` courses. Updated weekly.
  - [Data Science](<French.md#data-science>)
  - [Health](<French.md#health>)
  - [Information Technology](<French.md#information-technology>)
- - [Language Learning](<French.md#language-learning>)
- - [Math and Logic](<French.md#math-and-logic>)
  - [Personal Development](<French.md#personal-development>)
  - [Physical Science and Engineering](<French.md#physical-science-and-engineering>)
  - [Social Sciences](<French.md#social-sciences>)
 ### German
  - [Arts and Humanities](<German.md#arts-and-humanities>)
  - [Business](<German.md#business>)
- - [Computer Science](<German.md#computer-science>)
  - [Data Science](<German.md#data-science>)
  - [Health](<German.md#health>)
  - [Information Technology](<German.md#information-technology>)
- - [Physical Science and Engineering](<German.md#physical-science-and-engineering>)
 ### Hebrew
  - [Arts and Humanities](<Hebrew.md#arts-and-humanities>)
- - [Math and Logic](<Hebrew.md#math-and-logic>)
 ### Hungarian
  - [Personal Development](<Hungarian.md#personal-development>)
 ### Indonesian
@@ -104,7 +95,6 @@ Complete list of `7360` courses. Updated weekly.
  - [Business](<Italian.md#business>)
  - [Data Science](<Italian.md#data-science>)
  - [Personal Development](<Italian.md#personal-development>)
- - [Physical Science and Engineering](<Italian.md#physical-science-and-engineering>)
 ### Japanese
  - [Business](<Japanese.md#business>)
  - [Computer Science](<Japanese.md#computer-science>)
@@ -112,7 +102,6 @@ Complete list of `7360` courses. Updated weekly.
  - [Information Technology](<Japanese.md#information-technology>)
  - [Social Sciences](<Japanese.md#social-sciences>)
 ### Korean
- - [Arts and Humanities](<Korean.md#arts-and-humanities>)
  - [Data Science](<Korean.md#data-science>)
  - [Language Learning](<Korean.md#language-learning>)
 ### Portuguese (Brazilian)
@@ -123,7 +112,6 @@ Complete list of `7360` courses. Updated weekly.
  - [Health](<Portuguese (Brazilian).md#health>)
  - [Information Technology](<Portuguese (Brazilian).md#information-technology>)
  - [Language Learning](<Portuguese (Brazilian).md#language-learning>)
- - [Math and Logic](<Portuguese (Brazilian).md#math-and-logic>)
  - [Personal Development](<Portuguese (Brazilian).md#personal-development>)
  - [Physical Science and Engineering](<Portuguese (Brazilian).md#physical-science-and-engineering>)
  - [Social Sciences](<Portuguese (Brazilian).md#social-sciences>)
@@ -153,17 +141,13 @@ Complete list of `7360` courses. Updated weekly.
  - [Personal Development](<Spanish.md#personal-development>)
  - [Physical Science and Engineering](<Spanish.md#physical-science-and-engineering>)
  - [Social Sciences](<Spanish.md#social-sciences>)
-### Swedish
- - [Language Learning](<Swedish.md#language-learning>)
 ### Turkish
  - [Health](<Turkish.md#health>)
  - [Math and Logic](<Turkish.md#math-and-logic>)
  - [Personal Development](<Turkish.md#personal-development>)
 ### Ukrainian
  - [Business](<Ukrainian.md#business>)
- - [Social Sciences](<Ukrainian.md#social-sciences>)
 ### Undefined
- - [Business](<Undefined.md#business>)
  - [Computer Science](<Undefined.md#computer-science>)
  - [Data Science](<Undefined.md#data-science>)
  - [Information Technology](<Undefined.md#information-technology>)
