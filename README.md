@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `3990` courses. Updated weekly.
+Complete list of `3807` courses. Updated weekly.
 
 # TOC
 
@@ -24,6 +24,7 @@ Complete list of `3990` courses. Updated weekly.
  - [Portuguese (European)](#portuguese-european)
  - [Russian](#russian)
  - [Spanish](#spanish)
+ - [Swedish](#swedish)
  - [Turkish](#turkish)
  - [Ukrainian](#ukrainian)
  - [Undefined](#undefined)
@@ -35,13 +36,12 @@ Complete list of `3990` courses. Updated weekly.
  - [Computer Science](<Arabic.md#computer-science>)
  - [Data Science](<Arabic.md#data-science>)
  - [Information Technology](<Arabic.md#information-technology>)
- - [Language Learning](<Arabic.md#language-learning>)
- - [Personal Development](<Arabic.md#personal-development>)
  - [Social Sciences](<Arabic.md#social-sciences>)
 ### Chinese (Simplified)
  - [Arts and Humanities](<Chinese (Simplified).md#arts-and-humanities>)
  - [Business](<Chinese (Simplified).md#business>)
  - [Computer Science](<Chinese (Simplified).md#computer-science>)
+ - [Data Science](<Chinese (Simplified).md#data-science>)
  - [Health](<Chinese (Simplified).md#health>)
  - [Language Learning](<Chinese (Simplified).md#language-learning>)
  - [Personal Development](<Chinese (Simplified).md#personal-development>)
@@ -54,12 +54,12 @@ Complete list of `3990` courses. Updated weekly.
  - [Data Science](<Chinese (Traditional).md#data-science>)
  - [Health](<Chinese (Traditional).md#health>)
  - [Language Learning](<Chinese (Traditional).md#language-learning>)
+ - [Math and Logic](<Chinese (Traditional).md#math-and-logic>)
  - [Physical Science and Engineering](<Chinese (Traditional).md#physical-science-and-engineering>)
  - [Social Sciences](<Chinese (Traditional).md#social-sciences>)
 ### English
  - [Arts and Humanities](<English.md#arts-and-humanities>)
  - [Business](<English.md#business>)
- - [Ciencias de la Computación](<English.md#ciencias-de-la-computación>)
  - [Computer Science](<English.md#computer-science>)
  - [Data Science](<English.md#data-science>)
  - [Health](<English.md#health>)
@@ -68,11 +68,7 @@ Complete list of `3990` courses. Updated weekly.
  - [Math and Logic](<English.md#math-and-logic>)
  - [Personal Development](<English.md#personal-development>)
  - [Physical Science and Engineering](<English.md#physical-science-and-engineering>)
- - [Science des données](<English.md#science-des-données>)
  - [Social Sciences](<English.md#social-sciences>)
- - [Technologies de l'information](<English.md#technologies-de-l'information>)
- - [艺术与人文](<English.md#艺术与人文>)
- - [사회 과학](<English.md#사회-과학>)
 ### French
  - [Arts and Humanities](<French.md#arts-and-humanities>)
  - [Business](<French.md#business>)
@@ -86,8 +82,11 @@ Complete list of `3990` courses. Updated weekly.
  - [Physical Science and Engineering](<French.md#physical-science-and-engineering>)
  - [Social Sciences](<French.md#social-sciences>)
 ### German
+ - [Arts and Humanities](<German.md#arts-and-humanities>)
  - [Business](<German.md#business>)
+ - [Computer Science](<German.md#computer-science>)
  - [Data Science](<German.md#data-science>)
+ - [Health](<German.md#health>)
  - [Information Technology](<German.md#information-technology>)
 ### Hebrew
  - [Arts and Humanities](<Hebrew.md#arts-and-humanities>)
@@ -97,16 +96,14 @@ Complete list of `3990` courses. Updated weekly.
  - [Information Technology](<Indonesian.md#information-technology>)
 ### Italian
  - [Arts and Humanities](<Italian.md#arts-and-humanities>)
- - [Business](<Italian.md#business>)
  - [Data Science](<Italian.md#data-science>)
- - [Physical Science and Engineering](<Italian.md#physical-science-and-engineering>)
 ### Japanese
  - [Business](<Japanese.md#business>)
  - [Computer Science](<Japanese.md#computer-science>)
  - [Data Science](<Japanese.md#data-science>)
  - [Information Technology](<Japanese.md#information-technology>)
 ### Korean
- - [Data Science](<Korean.md#data-science>)
+ - [Arts and Humanities](<Korean.md#arts-and-humanities>)
  - [Language Learning](<Korean.md#language-learning>)
 ### Portuguese (Brazilian)
  - [Arts and Humanities](<Portuguese (Brazilian).md#arts-and-humanities>)
@@ -115,6 +112,7 @@ Complete list of `3990` courses. Updated weekly.
  - [Data Science](<Portuguese (Brazilian).md#data-science>)
  - [Health](<Portuguese (Brazilian).md#health>)
  - [Information Technology](<Portuguese (Brazilian).md#information-technology>)
+ - [Language Learning](<Portuguese (Brazilian).md#language-learning>)
  - [Personal Development](<Portuguese (Brazilian).md#personal-development>)
  - [Physical Science and Engineering](<Portuguese (Brazilian).md#physical-science-and-engineering>)
  - [Social Sciences](<Portuguese (Brazilian).md#social-sciences>)
@@ -144,6 +142,8 @@ Complete list of `3990` courses. Updated weekly.
  - [Personal Development](<Spanish.md#personal-development>)
  - [Physical Science and Engineering](<Spanish.md#physical-science-and-engineering>)
  - [Social Sciences](<Spanish.md#social-sciences>)
+### Swedish
+ - [Language Learning](<Swedish.md#language-learning>)
 ### Turkish
  - [Health](<Turkish.md#health>)
  - [Math and Logic](<Turkish.md#math-and-logic>)
