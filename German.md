@@ -5,6 +5,7 @@
  - [Data Science](#data-science)
  - [Health](#health)
  - [Information Technology](#information-technology)
+ - [Physical Science and Engineering](#physical-science-and-engineering)
 # Arts and Humanities
 > - [Music and Art](#music-and-art)
 ## Music and Art
@@ -16,8 +17,12 @@
 > - [Finance](#finance)
 > - [Leadership and Management](#leadership-and-management)
 ## Business Essentials
+### Macquarie University
+ - [Excel-Kenntnisse für Unternehmen: Grundlagen](https://www.coursera.org/learn/excel-essentials-de) `beginner`
 ### University of Illinois at Urbana-Champaign
  - [Untersuchen und Erstellen von Daten für Unternehmen](https://www.coursera.org/learn/business-data-de) `beginner`
+### University of Michigan
+ - [Erfolgreich Verhandeln: Strategien und Fähigkeiten](https://www.coursera.org/learn/negotiation-skills-de)
 ### University of Virginia
  - [Grundlagen zum Thema Projektplanung und -management](https://www.coursera.org/learn/uva-darden-project-management-de) `beginner`
 ## Business Strategy
@@ -31,8 +36,6 @@
 ### Rice University
  - [Finanzen für Nicht-Finanzfachleute](https://www.coursera.org/learn/finance-for-non-finance-de) `beginner`
 ## Leadership and Management
-### Indian School of Business
- - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de) `beginner`
 ### Macquarie University
  - [Storytelling und Einflussnahme: effektive Kommunikation](https://www.coursera.org/learn/communicate-with-impact-de)
 ### University of California, Irvine
@@ -63,16 +66,18 @@
  - [Grundlagen der Unfallchirurgie](https://www.coursera.org/learn/unfallchirurgie) `intermediate`
 # Information Technology
 > - [Networking](#networking)
-> - [Security](#security)
 > - [Support and Operations](#support-and-operations)
 ## Networking
 ### Google
 #### [Google IT Support (Deutsch)  Professional Certificate](https://www.coursera.org/specializations/google-it-de)
 2. [Die Bits und Bytes von Computernetzwerken](https://www.coursera.org/learn/computer-networking-de) `beginner`
-## Security
-### Google
-5. [IT-Sicherheit: Grundlagen für Sicherheitsarchitektur](https://www.coursera.org/learn/it-security-de) `beginner`
 ## Support and Operations
 ### Google
 1. [Grundlagen des technischen Supports](https://www.coursera.org/learn/technical-support-fundamentals-de) `beginner`
+3. [Betriebssysteme und Sie: Power User werden](https://www.coursera.org/learn/os-power-user-de) `beginner`
 4. [Systemverwaltung und IT-Infrastrukturdienste](https://www.coursera.org/learn/system-administration-it-infrastructure-services-de) `beginner`
+# Physical Science and Engineering
+> - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
+## Environmental Science and Sustainability
+### University of Zurich
+ - [Wasser in der Schweiz](https://www.coursera.org/learn/wasser-schweiz) `beginner`
