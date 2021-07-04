@@ -1,7 +1,7 @@
 # Hebrew Courses
- - [Arts and Humanities](#arts-and-humanities)
-# Arts and Humanities
-> - [History](#history)
-## History
+ - [Math and Logic](#math-and-logic)
+# Math and Logic
+> - [Math and Logic](#math-and-logic)
+## Math and Logic
 ### Hebrew University of Jerusalem
- - [Moses' Face: Moses' images as reflected in Jewish literature](https://www.coursera.org/learn/moses)
+ - [Invitation to Mathematics     הזמנה למתמטיקה](https://www.coursera.org/learn/introduction-to-math)

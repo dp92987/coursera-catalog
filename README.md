@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `3990` courses. Updated weekly.
+Complete list of `4060` courses. Updated weekly.
 
 # TOC
 
@@ -24,6 +24,7 @@ Complete list of `3990` courses. Updated weekly.
  - [Russian](#russian)
  - [Spanish](#spanish)
  - [Swedish](#swedish)
+ - [Turkish](#turkish)
  - [Ukrainian](#ukrainian)
  - [Undefined](#undefined)
 
@@ -33,10 +34,6 @@ Complete list of `3990` courses. Updated weekly.
  - [Business](<Arabic.md#business>)
  - [Computer Science](<Arabic.md#computer-science>)
  - [Data Science](<Arabic.md#data-science>)
- - [Information Technology](<Arabic.md#information-technology>)
- - [Personal Development](<Arabic.md#personal-development>)
- - [Physical Science and Engineering](<Arabic.md#physical-science-and-engineering>)
- - [Social Sciences](<Arabic.md#social-sciences>)
 ### Chinese (Simplified)
  - [Arts and Humanities](<Chinese (Simplified).md#arts-and-humanities>)
  - [Business](<Chinese (Simplified).md#business>)
@@ -53,6 +50,7 @@ Complete list of `3990` courses. Updated weekly.
  - [Computer Science](<Chinese (Traditional).md#computer-science>)
  - [Data Science](<Chinese (Traditional).md#data-science>)
  - [Health](<Chinese (Traditional).md#health>)
+ - [Language Learning](<Chinese (Traditional).md#language-learning>)
  - [Physical Science and Engineering](<Chinese (Traditional).md#physical-science-and-engineering>)
  - [Social Sciences](<Chinese (Traditional).md#social-sciences>)
 ### English
@@ -74,6 +72,7 @@ Complete list of `3990` courses. Updated weekly.
  - [Data Science](<French.md#data-science>)
  - [Health](<French.md#health>)
  - [Information Technology](<French.md#information-technology>)
+ - [Language Learning](<French.md#language-learning>)
  - [Math and Logic](<French.md#math-and-logic>)
  - [Personal Development](<French.md#personal-development>)
  - [Physical Science and Engineering](<French.md#physical-science-and-engineering>)
@@ -87,14 +86,13 @@ Complete list of `3990` courses. Updated weekly.
  - [Information Technology](<German.md#information-technology>)
  - [Physical Science and Engineering](<German.md#physical-science-and-engineering>)
 ### Hebrew
- - [Arts and Humanities](<Hebrew.md#arts-and-humanities>)
+ - [Math and Logic](<Hebrew.md#math-and-logic>)
 ### Indonesian
  - [Information Technology](<Indonesian.md#information-technology>)
 ### Italian
  - [Arts and Humanities](<Italian.md#arts-and-humanities>)
  - [Business](<Italian.md#business>)
  - [Data Science](<Italian.md#data-science>)
- - [Personal Development](<Italian.md#personal-development>)
  - [Physical Science and Engineering](<Italian.md#physical-science-and-engineering>)
 ### Japanese
  - [Business](<Japanese.md#business>)
@@ -103,7 +101,6 @@ Complete list of `3990` courses. Updated weekly.
  - [Information Technology](<Japanese.md#information-technology>)
  - [Social Sciences](<Japanese.md#social-sciences>)
 ### Korean
- - [Arts and Humanities](<Korean.md#arts-and-humanities>)
  - [Data Science](<Korean.md#data-science>)
 ### Portuguese (Brazilian)
  - [Arts and Humanities](<Portuguese (Brazilian).md#arts-and-humanities>)
@@ -112,7 +109,6 @@ Complete list of `3990` courses. Updated weekly.
  - [Data Science](<Portuguese (Brazilian).md#data-science>)
  - [Health](<Portuguese (Brazilian).md#health>)
  - [Information Technology](<Portuguese (Brazilian).md#information-technology>)
- - [Language Learning](<Portuguese (Brazilian).md#language-learning>)
  - [Personal Development](<Portuguese (Brazilian).md#personal-development>)
  - [Physical Science and Engineering](<Portuguese (Brazilian).md#physical-science-and-engineering>)
  - [Social Sciences](<Portuguese (Brazilian).md#social-sciences>)
@@ -144,12 +140,17 @@ Complete list of `3990` courses. Updated weekly.
  - [Social Sciences](<Spanish.md#social-sciences>)
 ### Swedish
  - [Language Learning](<Swedish.md#language-learning>)
+### Turkish
+ - [Health](<Turkish.md#health>)
+ - [Math and Logic](<Turkish.md#math-and-logic>)
+ - [Personal Development](<Turkish.md#personal-development>)
 ### Ukrainian
  - [Business](<Ukrainian.md#business>)
 ### Undefined
  - [Computer Science](<Undefined.md#computer-science>)
  - [Data Science](<Undefined.md#data-science>)
  - [Information Technology](<Undefined.md#information-technology>)
+ - [Math and Logic](<Undefined.md#math-and-logic>)
  - [Personal Development](<Undefined.md#personal-development>)
  - [Physical Science and Engineering](<Undefined.md#physical-science-and-engineering>)
  - [Social Sciences](<Undefined.md#social-sciences>)

@@ -17,12 +17,6 @@
 > - [Finance](#finance)
 > - [Leadership and Management](#leadership-and-management)
 ## Business Essentials
-### Macquarie University
- - [Excel-Kenntnisse für Unternehmen: Grundlagen](https://www.coursera.org/learn/excel-essentials-de) `beginner`
-### University of Illinois at Urbana-Champaign
- - [Untersuchen und Erstellen von Daten für Unternehmen](https://www.coursera.org/learn/business-data-de) `beginner`
-### University of Michigan
- - [Erfolgreich Verhandeln: Strategien und Fähigkeiten](https://www.coursera.org/learn/negotiation-skills-de)
 ### University of Virginia
  - [Grundlagen zum Thema Projektplanung und -management](https://www.coursera.org/learn/uva-darden-project-management-de) `beginner`
 ## Business Strategy
@@ -30,12 +24,19 @@
  - [KI für alle](https://www.coursera.org/learn/ai-for-everyone-de) `beginner`
 ### Google Cloud
  - [Business Transformation with Google Cloud auf Deutsch](https://www.coursera.org/learn/business-transformation-google-cloud-de) `beginner`
+ - [Google Cloud Product Fundamentals auf Deutsch](https://www.coursera.org/learn/google-cloud-product-fundamentals-de) `beginner`
 ### University of Virginia
  - [Grundlagen der Geschäftsstrategie](https://www.coursera.org/learn/uva-darden-foundations-business-strategy-de) `beginner`
 ## Finance
 ### Rice University
  - [Finanzen für Nicht-Finanzfachleute](https://www.coursera.org/learn/finance-for-non-finance-de) `beginner`
+### University of Zurich
+ - [Das liebe Geld - Finance im Alltag](https://www.coursera.org/learn/finanzen) `beginner`
 ## Leadership and Management
+### BCG, University of Virginia
+ - [Digitale Transformation](https://www.coursera.org/learn/bcg-uva-darden-digital-transformation-de) `beginner`
+### Indian School of Business
+ - [Leitung und emotionale Intelligenz](https://www.coursera.org/learn/emotional-intelligence-in-leadership-de) `beginner`
 ### Macquarie University
  - [Storytelling und Einflussnahme: effektive Kommunikation](https://www.coursera.org/learn/communicate-with-impact-de)
 ### University of California, Irvine
@@ -50,31 +51,20 @@
  - [Agiles Arbeiten trifft auf Design Thinking](https://www.coursera.org/learn/uva-darden-getting-started-agile-de) `beginner`
 # Data Science
 > - [Data Analysis](#data-analysis)
-> - [Machine Learning](#machine-learning)
 ## Data Analysis
-### Johns Hopkins University
- - [Ein Crashkurs in Datenwissenschaft](https://www.coursera.org/learn/data-science-course-de)
 ### University of Zurich
  - [Sprachtechnologie in den Digital Humanities](https://www.coursera.org/learn/digital-humanities) `beginner`
-## Machine Learning
-### DeepLearning.AI
- - [Neuronale Netze und Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning-de) `intermediate`
 # Health
 > - [Patient Care](#patient-care)
 ## Patient Care
 ### Technische Universität München (TUM)
  - [Grundlagen der Unfallchirurgie](https://www.coursera.org/learn/unfallchirurgie) `intermediate`
 # Information Technology
-> - [Networking](#networking)
 > - [Support and Operations](#support-and-operations)
-## Networking
-### Google
-#### [Google IT Support (Deutsch)  Professional Certificate](https://www.coursera.org/specializations/google-it-de)
-2. [Die Bits und Bytes von Computernetzwerken](https://www.coursera.org/learn/computer-networking-de) `beginner`
 ## Support and Operations
 ### Google
+#### [Google IT Support (Deutsch)  Professional Certificate](https://www.coursera.org/specializations/google-it-de)
 1. [Grundlagen des technischen Supports](https://www.coursera.org/learn/technical-support-fundamentals-de) `beginner`
-3. [Betriebssysteme und Sie: Power User werden](https://www.coursera.org/learn/os-power-user-de) `beginner`
 4. [Systemverwaltung und IT-Infrastrukturdienste](https://www.coursera.org/learn/system-administration-it-infrastructure-services-de) `beginner`
 # Physical Science and Engineering
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
