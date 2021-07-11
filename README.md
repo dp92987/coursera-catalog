@@ -2,7 +2,7 @@
 
 # Coursera Catalog
 
-Complete list of `4060` courses. Updated weekly.
+Complete list of `3220` courses. Updated weekly.
 
 # TOC
 
@@ -15,15 +15,13 @@ Complete list of `4060` courses. Updated weekly.
  - [French](#french)
  - [German](#german)
  - [Hebrew](#hebrew)
+ - [Hindi](#hindi)
  - [Indonesian](#indonesian)
  - [Italian](#italian)
  - [Japanese](#japanese)
- - [Korean](#korean)
  - [Portuguese (Brazilian)](#portuguese-brazilian)
- - [Portuguese (European)](#portuguese-european)
  - [Russian](#russian)
  - [Spanish](#spanish)
- - [Swedish](#swedish)
  - [Turkish](#turkish)
  - [Ukrainian](#ukrainian)
  - [Undefined](#undefined)
@@ -34,11 +32,14 @@ Complete list of `4060` courses. Updated weekly.
  - [Business](<Arabic.md#business>)
  - [Computer Science](<Arabic.md#computer-science>)
  - [Data Science](<Arabic.md#data-science>)
+ - [Information Technology](<Arabic.md#information-technology>)
+ - [Language Learning](<Arabic.md#language-learning>)
+ - [Personal Development](<Arabic.md#personal-development>)
+ - [Social Sciences](<Arabic.md#social-sciences>)
 ### Chinese (Simplified)
  - [Arts and Humanities](<Chinese (Simplified).md#arts-and-humanities>)
  - [Business](<Chinese (Simplified).md#business>)
  - [Computer Science](<Chinese (Simplified).md#computer-science>)
- - [Data Science](<Chinese (Simplified).md#data-science>)
  - [Health](<Chinese (Simplified).md#health>)
  - [Language Learning](<Chinese (Simplified).md#language-learning>)
  - [Personal Development](<Chinese (Simplified).md#personal-development>)
@@ -47,7 +48,6 @@ Complete list of `4060` courses. Updated weekly.
 ### Chinese (Traditional)
  - [Arts and Humanities](<Chinese (Traditional).md#arts-and-humanities>)
  - [Business](<Chinese (Traditional).md#business>)
- - [Computer Science](<Chinese (Traditional).md#computer-science>)
  - [Data Science](<Chinese (Traditional).md#data-science>)
  - [Health](<Chinese (Traditional).md#health>)
  - [Language Learning](<Chinese (Traditional).md#language-learning>)
@@ -78,20 +78,18 @@ Complete list of `4060` courses. Updated weekly.
  - [Physical Science and Engineering](<French.md#physical-science-and-engineering>)
  - [Social Sciences](<French.md#social-sciences>)
 ### German
- - [Arts and Humanities](<German.md#arts-and-humanities>)
  - [Business](<German.md#business>)
- - [Computer Science](<German.md#computer-science>)
  - [Data Science](<German.md#data-science>)
- - [Health](<German.md#health>)
- - [Information Technology](<German.md#information-technology>)
  - [Physical Science and Engineering](<German.md#physical-science-and-engineering>)
 ### Hebrew
+ - [Arts and Humanities](<Hebrew.md#arts-and-humanities>)
  - [Math and Logic](<Hebrew.md#math-and-logic>)
+### Hindi
+ - [Health](<Hindi.md#health>)
 ### Indonesian
  - [Information Technology](<Indonesian.md#information-technology>)
 ### Italian
  - [Arts and Humanities](<Italian.md#arts-and-humanities>)
- - [Business](<Italian.md#business>)
  - [Data Science](<Italian.md#data-science>)
  - [Physical Science and Engineering](<Italian.md#physical-science-and-engineering>)
 ### Japanese
@@ -99,9 +97,6 @@ Complete list of `4060` courses. Updated weekly.
  - [Computer Science](<Japanese.md#computer-science>)
  - [Data Science](<Japanese.md#data-science>)
  - [Information Technology](<Japanese.md#information-technology>)
- - [Social Sciences](<Japanese.md#social-sciences>)
-### Korean
- - [Data Science](<Korean.md#data-science>)
 ### Portuguese (Brazilian)
  - [Arts and Humanities](<Portuguese (Brazilian).md#arts-and-humanities>)
  - [Business](<Portuguese (Brazilian).md#business>)
@@ -109,11 +104,11 @@ Complete list of `4060` courses. Updated weekly.
  - [Data Science](<Portuguese (Brazilian).md#data-science>)
  - [Health](<Portuguese (Brazilian).md#health>)
  - [Information Technology](<Portuguese (Brazilian).md#information-technology>)
+ - [Language Learning](<Portuguese (Brazilian).md#language-learning>)
+ - [Math and Logic](<Portuguese (Brazilian).md#math-and-logic>)
  - [Personal Development](<Portuguese (Brazilian).md#personal-development>)
  - [Physical Science and Engineering](<Portuguese (Brazilian).md#physical-science-and-engineering>)
  - [Social Sciences](<Portuguese (Brazilian).md#social-sciences>)
-### Portuguese (European)
- - [Information Technology](<Portuguese (European).md#information-technology>)
 ### Russian
  - [Arts and Humanities](<Russian.md#arts-and-humanities>)
  - [Business](<Russian.md#business>)
@@ -138,20 +133,17 @@ Complete list of `4060` courses. Updated weekly.
  - [Personal Development](<Spanish.md#personal-development>)
  - [Physical Science and Engineering](<Spanish.md#physical-science-and-engineering>)
  - [Social Sciences](<Spanish.md#social-sciences>)
-### Swedish
- - [Language Learning](<Swedish.md#language-learning>)
 ### Turkish
  - [Health](<Turkish.md#health>)
  - [Math and Logic](<Turkish.md#math-and-logic>)
- - [Personal Development](<Turkish.md#personal-development>)
 ### Ukrainian
  - [Business](<Ukrainian.md#business>)
+ - [Social Sciences](<Ukrainian.md#social-sciences>)
 ### Undefined
+ - [Business](<Undefined.md#business>)
  - [Computer Science](<Undefined.md#computer-science>)
  - [Data Science](<Undefined.md#data-science>)
  - [Information Technology](<Undefined.md#information-technology>)
- - [Math and Logic](<Undefined.md#math-and-logic>)
  - [Personal Development](<Undefined.md#personal-development>)
- - [Physical Science and Engineering](<Undefined.md#physical-science-and-engineering>)
  - [Social Sciences](<Undefined.md#social-sciences>)
  - [Undefined](<Undefined.md#undefined>)

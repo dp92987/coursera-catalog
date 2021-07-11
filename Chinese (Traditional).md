@@ -1,7 +1,6 @@
 # Chinese (Traditional) Courses
  - [Arts and Humanities](#arts-and-humanities)
  - [Business](#business)
- - [Computer Science](#computer-science)
  - [Data Science](#data-science)
  - [Health](#health)
  - [Language Learning](#language-learning)
@@ -17,7 +16,6 @@
  - [現代文學導讀：詩、散文、小說](https://www.coursera.org/learn/poetry-prose-novel) `beginner`
 ## Music and Art
 ### National Taiwan University
- - [唐詩新思路 (Tang Poetry)](https://www.coursera.org/learn/tang-poems) `beginner`
  - [東坡詞 (Ci Poetry of Su Dong Po)](https://www.coursera.org/learn/su-dongpo) `beginner`
 ### The Chinese University of Hong Kong
  - [崑曲之美](https://www.coursera.org/learn/kunqu) `beginner`
@@ -29,44 +27,31 @@
  - [東亞儒家：人文精神二(East Asian Confucianisms: Humanism (2))](https://www.coursera.org/learn/east-asian-confucianisms-humanism2) `intermediate`
  - [活用希臘哲學 (Understanding the Greek Philosophy)](https://www.coursera.org/learn/xila-zhexue) `beginner`
  - [深扣孔孟 (An Inquiry into Confucius and Mencius)](https://www.coursera.org/learn/inquiry-into-confucius-and-mencius) `beginner`
- - [紅樓夢(The Red Chamber Dream)](https://www.coursera.org/learn/the-red-chamber-dream)
- - [紅樓夢-母神崇拜 (The Red Chamber Dream (2))](https://www.coursera.org/learn/rcd2) `beginner`
 # Business
 > - [Business Strategy](#business-strategy)
 ## Business Strategy
 ### National Taiwan University
- - [商管研究中的賽局分析（一）：通路選擇、合約制定與共享經濟 (Game Theoretic Analysis for Business Research (1))](https://www.coursera.org/learn/gabr) `beginner`
  - [服務模式的體驗、設計與創新：從痛點到賣點 (Experience, Design, and Innovation of Service Models: from Pain Points to Selling Points)](https://www.coursera.org/learn/service-models) `beginner`
-# Computer Science
-> - [Software Development](#software-development)
-## Software Development
-### National Taiwan University
- - [用 Python 做商管程式設計（一）(Programming for Business Computing in Python (1))](https://www.coursera.org/learn/pbc1) `beginner`
- - [用 Python 做商管程式設計（三）(Programming for Business Computing in Python (3))](https://www.coursera.org/learn/pbc3)
- - [用 Python 做商管程式設計（二）(Programming for Business Computing in Python (2))](https://www.coursera.org/learn/pbc2) `intermediate`
 # Data Science
 > - [Data Analysis](#data-analysis)
 > - [Machine Learning](#machine-learning)
 ## Data Analysis
 ### National Taiwan University
  - [大數據分析：商業應用與策略管理 (Big Data Analytics: Business Applications and Strategic Decisions)](https://www.coursera.org/learn/bigdataanalysis) `beginner`
-### The Chinese University of Hong Kong
- - [Structural Equation Model and its Applications | 结构方程模型及其应用 (粤语)](https://www.coursera.org/learn/structural-equation-model-cantonese)
 ## Machine Learning
 ### National Taiwan University
  - [機器學習基石上 (Machine Learning Foundations)---Mathematical Foundations](https://www.coursera.org/learn/ntumlone-mathematicalfoundations) `beginner`
  - [機器學習基石下 (Machine Learning Foundations)---Algorithmic Foundations](https://www.coursera.org/learn/ntumlone-algorithmicfoundations) `intermediate`
  - [機器學習技法 (Machine Learning Techniques)](https://www.coursera.org/learn/machine-learning-techniques) `intermediate`
 # Health
-> - [Psychology](#psychology)
-## Psychology
+> - [Patient Care](#patient-care)
+## Patient Care
 ### National Taiwan University
- - [發展心理學：哲學觀與方法論 (Developmental Psychology: Philosophical Bases and Methodology)](https://www.coursera.org/learn/developmental-psychology) `beginner`
+ - [一堂課讓你認識肺癌（Basic Concepts of Lung Cancer: Diagnosis and Treatment）](https://www.coursera.org/learn/lung-cancer) `beginner`
 # Language Learning
 > - [Other Languages](#other-languages)
 ## Other Languages
 ### National Taiwan University
- - [Learning Chinese : Start From Scratch (零到一學中文)](https://www.coursera.org/learn/learn-chinese-mandarin) `beginner`
  - [是誰在說話 -- 可愛的臺灣。（Intermediate Chinese）](https://www.coursera.org/learn/learn-intermediate-chinese-mandarin) `intermediate`
 # Physical Science and Engineering
 > - [Environmental Science and Sustainability](#environmental-science-and-sustainability)
@@ -95,9 +80,7 @@
 > - [Governance and Society](#governance-and-society)
 ## Economics
 ### National Taiwan University
- - [商管研究中的賽局分析（二）：資訊經濟學 (Game Theoretic Analysis for Business Research (2))](https://www.coursera.org/learn/infoecon) `intermediate`
  - [實驗經濟學 (Experimental Economics: Behavioral Game Theory)](https://www.coursera.org/learn/shiyan-jingji-xue)
- - [經濟學概論：誘因與市場（Introduction to Economics: Incentive and Markets）](https://www.coursera.org/learn/economics)
 ## Governance and Society
 ### National Taiwan University
  - [少年福利與權利 (Welfare and Rights of Youth)](https://www.coursera.org/learn/shaonian-fuli) `beginner`
