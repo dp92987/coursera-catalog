@@ -1,6 +1,7 @@
 # Turkish Courses
  - [Health](#health)
  - [Math and Logic](#math-and-logic)
+ - [Personal Development](#personal-development)
 # Health
 > - [Patient Care](#patient-care)
 ## Patient Care
@@ -12,3 +13,9 @@
 ### Koç University
  - [Çok değişkenli Fonksiyon I: Kavramlar / Multivariable Calculus I:  Concepts](https://www.coursera.org/learn/hesap-calculus-dersi)
  - [Çok değişkenli Fonksiyon II: Uygulamalar / Multivariable Calculus II: Applications](https://www.coursera.org/learn/calculus-diferansiyel-hesap)
+# Personal Development
+> - [Personal Development](#personal-development)
+## Personal Development
+### Koç University
+ - [Etkili Konuşma (Effective Speaking)](https://www.coursera.org/learn/etkili-konusma)
+ - [Etkili Konuşmada Retorik (Rhetoric in Effective Speaking)](https://www.coursera.org/learn/retorik)
